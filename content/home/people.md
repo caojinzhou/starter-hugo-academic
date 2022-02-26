@@ -2,9 +2,9 @@
 
 widget: people
 headless: true  # This file represents a page section.
-
+active: true
 # ... Put Your Section Options Here (title etc.) ...
-weight: 50
+weight: 100
 
 title: Academic Partners
 subtitle:
