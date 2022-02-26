@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: AboutMe
+  - name: About
     url: 'me/'
     weight: 20
   - name: People
