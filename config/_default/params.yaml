@@ -79,7 +79,7 @@ features:
   comment:
     provider: 'disqus'
     disqus:
-      shortname: 'caojinzhou-com'
+      shortname: 'caojinzhou'
       show_count: true
     commento:
       url: ''
