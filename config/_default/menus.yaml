@@ -7,24 +7,27 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: AboutMe
+    url: 'me/'
+    weight: 20
   - name: People
     url: 'landing/#people'
-    weight: 20
+    weight: 30
   - name: Projects
     url: '#projects'
-    weight: 30
+    weight: 40
   - name: Publications
     url: '#featured'
-    weight: 40
+    weight: 50
   - name: Talks
     url: '#talks'
-    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
   - name: CV
     url: uploads/曹劲舟CV-ENG.pdf
-    weight: 70
+    weight: 80
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
