@@ -15,7 +15,7 @@ interests:
   - Geographic information science and technology as well as their applications
 social:
   - icon: envelope
-    icon_pack: ai
+    icon_pack: fas
     link: /#contact
     display:
       header: true
