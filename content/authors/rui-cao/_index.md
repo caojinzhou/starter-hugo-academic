@@ -1,7 +1,7 @@
 ---
 title: Rui CAO
 role: Research Assistant Professor
-avatar_filename: ruicao_.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Urban Informatics
