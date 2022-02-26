@@ -6,7 +6,7 @@ active: true
 # ... Put Your Section Options Here (title etc.) ...
 weight: 100
 
-title: I'm waitingg for you
+title: I'm waiting for you
 subtitle:
 
 content:
