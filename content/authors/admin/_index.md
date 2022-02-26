@@ -49,4 +49,4 @@ highlight_name: true
 ---
 Jinzhou Cao is an assistant professor of artificial intelligence at the Shenzhen Technology University. His research interests include Artificial intelligence, Smart cities, and Geo-computation. He got his Ph.D. degree in GIS from State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. He was also a visiting student of THINK Lab, University of Washington, Seattle, USA. during his Ph.D. student period. He has published several articles in journals and international conferences.
 
-{{< icon name="download" pack="fas" >}} Download his {{< staticref "static/uploads/曹劲舟CV-ENG.pdf" "newtab" >}}resumé(En){{< /staticref >}} or {{< staticref "static/uploads/曹劲舟简历-中文.pdf" "newtab" >}}resumé(Ch){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/曹劲舟CV-ENG.pdf" "newtab" >}}resumé(En){{< /staticref >}} or {{< staticref "uploads/曹劲舟简历-中文.pdf" "newtab" >}}resumé(Ch){{< /staticref >}}.
