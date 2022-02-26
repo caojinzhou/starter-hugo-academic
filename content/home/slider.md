@@ -11,6 +11,7 @@ interval: false
 # Specify a height to ensure a consistent height for each slide.
 height: 300px
 
+weight: 10
 
 item:
   - title: Hello
