@@ -44,7 +44,7 @@ education:
       year: ""
     - course: BSc in Geographic Information Science
       institution: School of Remote Sensing and Information Engineering, Wuhan University
-      year: ""
+      year: 2009
 email: ""
 superuser: true
 user_groups:
