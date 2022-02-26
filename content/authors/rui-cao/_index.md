@@ -14,7 +14,8 @@ social:
     link: https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-cao-rui/
     icon_pack: fas
     icon: fa-solid fa-link
-organizations: []
+organizations:
+  - name: The Hong Kong Polytechnic University
 superuser: false
 user_groups:
   - partner
