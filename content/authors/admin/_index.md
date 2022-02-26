@@ -1,7 +1,7 @@
 ---
 title: Jinzhou Cao
 role: Assistant Professor
-avatar_filename: cao2.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Artificial intelligence, Smart cities,
   Geo-computation.
 interests:
