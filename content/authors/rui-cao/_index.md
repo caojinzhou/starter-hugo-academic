@@ -1,7 +1,5 @@
 ---
-title: 
-  - name: Rui CAO
-  - url: https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-cao-rui/
+title: Rui CAO
 role: Research Assistant Professor
 avatar_filename: avatar.jpg
 bio: ""
