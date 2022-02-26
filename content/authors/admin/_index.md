@@ -36,15 +36,15 @@ organizations:
     url: https://www.sztu.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Urban big data mining
+      institution: LIESMARS, Wuhan University
+      year: ""
+    - course: Joint Ph.D. in THINK LAB
+      institution: School of Civil and Environmental Engineering, University of Washington
+      year: ""
+    - course: BSc in Geographic Information Science
+      institution: School of Remote Sensing and Information Engineering, Wuhan University
+      year: ""
 email: ""
 superuser: true
 user_groups:
