@@ -34,13 +34,13 @@ education:
   courses:
     - course: PhD in Urban big data mining
       institution: LIESMARS, Wuhan University
-      year: ""
+      year: 2013
     - course: Joint Ph.D. in THINK LAB
       institution: School of Civil and Environmental Engineering, University of Washington
-      year: ""
+      year: 2017
     - course: BSc in Geographic Information Science
       institution: School of Remote Sensing and Information Engineering, Wuhan University
-      year: 2009
+      year: 2009-2013
 email: ""
 superuser: true
 user_groups:
