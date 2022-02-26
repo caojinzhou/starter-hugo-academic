@@ -15,8 +15,10 @@ interests:
   - Geographic information science and technology as well as their applications
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: ai
     link: /#contact
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
