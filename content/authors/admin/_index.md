@@ -4,9 +4,15 @@ role: Assistant Professor
 bio: My research interests include Artificial intelligence, Smart cities,
   Geo-computation.
 interests:
+  - Urban big data modelling
+  - analysis and mining
+  - Data science
+  - Data mining
   - Artificial intelligence
   - Smart cities
+  - Spatial statistics
   - Geo-computation
+  - Geographic information science and technology as well as their applications
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,4 +51,4 @@ highlight_name: true
 ---
 Jinzhou Cao is an assistant professor of artificial intelligence at the Shenzhen Technology University. His research interests include Artificial intelligence, Smart cities, and Geo-computation. He got his Ph.D. degree in GIS from State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. He was also a visiting student of THINK Lab, University of Washington, Seattle, USA. during his Ph.D. student period. He has published several articles in journals and international conferences.
 
-{{< icon name="download" pack="fas" >}} Download his{{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé(Eng){{< /staticref >}} or {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé(Chn){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé(Eng){{< /staticref >}} or {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé(Chn){{< /staticref >}}.
