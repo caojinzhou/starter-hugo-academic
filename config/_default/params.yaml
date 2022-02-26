@@ -34,14 +34,14 @@ header:
     enable: true
     align: l
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} JinzhouCao. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -64,7 +64,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
     enable: false
   privacy_pack:
@@ -77,9 +77,9 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'disqus'
     disqus:
-      shortname: ''
+      shortname: 'caojinzhou-com'
       show_count: true
     commento:
       url: ''
@@ -90,6 +90,9 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
+    wowchemy:
+      min_length: 1  # Only the matches whose length exceeds this value will be returned.
+      threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
   map:
     provider: ''
     api_key: ''
