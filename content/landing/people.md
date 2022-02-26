@@ -6,14 +6,14 @@ active: true
 # ... Put Your Section Options Here (title etc.) ...
 weight: 100
 
-title: Academic Partners
+title: I'm waitingg for you
 subtitle:
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-     - partner
+     - unkown
   #  - Principal Investigators
   #  - Researchers
   #  - Grad Students
@@ -28,5 +28,5 @@ design:
   # Show user's role?
   show_role: true
   # Show user's organizations/affiliations?
-  show_organizations: true
+  show_organizations: false
 ---
