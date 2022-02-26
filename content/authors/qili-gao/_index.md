@@ -1,7 +1,7 @@
 ---
 title: Qili GAO
 role: Postdoctoral Researcher
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
