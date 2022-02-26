@@ -3,6 +3,7 @@ widget: slider
 headless: true  # This file represents a page section.
 active: true
 # ... Put Your Section Options Here (section position etc.) ...
+weight: 130
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -12,7 +13,7 @@ interval: false
 # Specify a height to ensure a consistent height for each slide.
 height: 300px
 
-weight: 10
+
 
 item:
   - title: Hello
@@ -32,15 +33,15 @@ item:
     cta_icon_pack: fas
     cta_icon: graduation-cap
   - title: Left
-    content: 'I am left aligned 😄'
-    align: left
-    overlay_color: '#555'
-    overlay_img: ''
-    overlay_filter: 0.5
+  -  content: 'I am left aligned 😄'
+  -  align: left
+   - overlay_color: '#555'
+  -  overlay_img: ''
+  -  overlay_filter: 0.5
   - title: Right
-    content: 'I am right aligned 😄'
-    align: right
-    overlay_color: '#333'
-    overlay_img: ''
-    overlay_filter: 0.5
+  -  content: 'I am right aligned 😄'
+  -  align: right
+ -   overlay_color: '#333'
+  -  overlay_img: ''
+  -  overlay_filter: 0.5
 ---
