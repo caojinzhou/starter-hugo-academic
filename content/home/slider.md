@@ -23,7 +23,7 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: bubbles.jpg  # Image path relative to your `assets/media/` folder
+    overlay_img: ''  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
@@ -33,15 +33,15 @@ item:
     cta_icon_pack: fas
     cta_icon: graduation-cap
   - title: Left
-  -  content: 'I am left aligned 😄'
-  -  align: left
-   - overlay_color: '#555'
-  -  overlay_img: ''
-  -  overlay_filter: 0.5
+    content: 'I am left aligned 😄'
+    align: left
+    overlay_color: '#555'
+    overlay_img: ''
+    overlay_filter: 0.5
   - title: Right
-  -  content: 'I am right aligned 😄'
-  -  align: right
- -   overlay_color: '#333'
-  -  overlay_img: ''
-  -  overlay_filter: 0.5
+    content: 'I am right aligned 😄'
+    align: right
+    overlay_color: '#333'
+    overlay_img: ''
+    overlay_filter: 0.5
 ---
