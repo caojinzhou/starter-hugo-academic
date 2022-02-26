@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: People
-    url: 'landing/people.md'
+    url: 'landing/#people'
     weight: 20
   - name: Projects
     url: '#projects'
