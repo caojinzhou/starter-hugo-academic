@@ -1,12 +1,12 @@
 ---
 title: Jinzhou Cao
-role: Assitant Professor
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Assistant Professor
+bio: My research interests include Artificial intelligence, Smart cities,
+  Geo-computation.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial intelligence
+  - Smart cities
+  - Geo-computation
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,7 +24,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Shenzhen Technolody University
+  - name: Shenzhen Technology University
     url: https://www.sztu.edu.cn/
 education:
   courses:
@@ -43,12 +43,6 @@ user_groups:
   - admin
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jinzhou Cao is an assistant professor of artificial intelligence at the Shenzhen Technology University. His research interests include Artificial intelligence, Smart cities, and Geo-computation. He got his Ph.D. degree in GIS from State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. He was also a visiting student of THINK Lab, University of Washington, Seattle, USA. during his Ph.D. student period. He has published several articles in journals and international conferences.
 
-Jinzhou CAO got his Ph.D. degree in GIS from State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. He was also a visiting student of Shenzhen Key Laboratory of Spatial Smart Sensing and Services and THINK Lab, University of Washington, Seattle, USA. during his Ph.D. student period. His major is Geographic Information Science and Urban Big Data Analysis, particularly interested in understanding human mobility and urban dynamics through big geo-social data. He has published several articles in journals and international conferences. He has been granted national scholarship for graduate students twice. You can find his CV here.
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download his{{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé(Eng){{< /staticref >}} or {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé(Chn){{< /staticref >}}.
