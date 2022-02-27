@@ -86,7 +86,7 @@ features:
   docs_section_pager: true
   share: true
   avatar:
-    gravatar: true
+    gravatar: false
     shape: circle
   comment:
     provider: 'disqus'
