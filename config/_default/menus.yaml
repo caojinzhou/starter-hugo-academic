@@ -24,10 +24,10 @@ main:
     weight: 50
   - name: Partnership
     url: '#partnership'
-    weight: 60
+    weight: 75
   - name: Courses
     url: 'pubpage/'
-    weight: 70
+    weight: 60
   - name: Resources
     url: 'resource/'
     weight: 70
