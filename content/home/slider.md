@@ -31,7 +31,7 @@ item:
     cta_label: Know more about department
     cta_url: 'https://english.sztu.edu.cn/info/1003/1043.htm'
     cta_icon_pack: fas
-    cta_icon: building-columns
+    cta_icon: graduation-cap
   - title: Left
     content: 'I am left aligned 😄'
     align: left
