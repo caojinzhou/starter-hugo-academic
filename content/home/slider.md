@@ -30,7 +30,7 @@ item:
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
     cta_label: Know more about department
     cta_url: 'https://english.sztu.edu.cn/info/1003/1043.htm'
-    cta_icon_pack: fas
+    cta_icon_pack: fa
     cta_icon: building-columns
   - title: Left
     content: 'I am left aligned 😄'
