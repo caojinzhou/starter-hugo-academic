@@ -6,16 +6,16 @@
 # Appearance
 
 appearance:
-  theme_day: 1950s
+  theme_day: minimal
   theme_night: ocean
-  font: minimal
+  font: native
   font_size: L
 
 # SEO
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
