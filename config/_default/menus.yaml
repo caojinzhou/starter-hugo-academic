@@ -13,6 +13,9 @@ main:
   - name: People
     url: 'landing/#people'
     weight: 30
+  - name: News
+    url: 'post/'
+    weight: 35
   - name: Projects
     url: 'projpage/'
     weight: 40
@@ -24,6 +27,9 @@ main:
     weight: 60
   - name: Courses
     url: 'pubpage/'
+    weight: 70
+  - name: Resources
+    url: 'resource/'
     weight: 70
   - name: Contact
     url: '#contact'
