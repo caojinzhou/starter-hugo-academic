@@ -35,8 +35,8 @@ content:
     country: China
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '22.699277'
+    longitude: '114.400611'
   directions: Enter Building C-1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
