@@ -28,7 +28,7 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Know more about the department
+    cta_label: Know more about the Univeristy
     cta_url: 'https://english.sztu.edu.cn/info/1003/1043.htm'
     cta_icon_pack: fas
     cta_icon: graduation-cap
