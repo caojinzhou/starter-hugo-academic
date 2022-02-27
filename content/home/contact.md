@@ -45,8 +45,8 @@ content:
   contact_links:
     - icon: weixin
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+      name: Wechat Me
+      link: uploads/weixin.jpg
     - icon: video
       icon_pack: fas
       name: Zoom Me
