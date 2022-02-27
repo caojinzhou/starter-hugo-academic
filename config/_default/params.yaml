@@ -94,10 +94,11 @@ features:
       min_length: 1  # Only the matches whose length exceeds this value will be returned.
       threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
   map:
-    provider: ''
-    api_key: ''
+    provider: '3'
+    api_key: 'https://www.mapbox.com/studio/account/tokens'
     zoom: 15
-
+    latitude: "37.4275"
+    longitude: "-122.1697"
 # Extensions
 
 extensions:
