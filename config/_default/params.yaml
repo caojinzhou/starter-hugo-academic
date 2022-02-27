@@ -94,8 +94,8 @@ features:
       min_length: 1  # Only the matches whose length exceeds this value will be returned.
       threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
   map:
-    provider: '1'
-    api_key: 'AIzaSyC-bKwjmWwNM80vX2VZ4OdcfBzo3wqqbNI'
+    provider: 'OpenStreetMap'
+    api_key: 'pk.eyJ1IjoiY2FvanoiLCJhIjoiY2wwNG9ya3hlMGd4bzNpcXc2Njg3czJhYSJ9.qN-AsmiS6VZIaWv7jgepRg'
     zoom: 15
 # Extensions
 
