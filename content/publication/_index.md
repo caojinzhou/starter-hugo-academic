@@ -1,6 +1,7 @@
 ---
 title: Publications
 cms_exclude: true
+type: "widget_page"
 
 # View.
 #   1 = List
