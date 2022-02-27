@@ -63,16 +63,28 @@ features:
     extra_languages:
       - r
       - latex
+      - python
   math:
     enable: true
   diagram:
     enable: false
   privacy_pack:
     enable: false
+  show_related:
+    book: true
+    page: false
+    post: true
+    project: true
+    publication: true
+    event: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: master
+  reading_time: true
+  section_pager: false
+  docs_section_pager: true
+  sharing: true
   avatar:
     gravatar: false
     shape: circle
