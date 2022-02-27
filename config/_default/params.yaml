@@ -89,7 +89,7 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: 'commento'
+    provider: 'disqus'
     commentable:
       post: true
       book: true
