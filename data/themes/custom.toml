@@ -20,8 +20,3 @@ home_section_even = "rgb(247, 247, 247)"
 [dark]
   link = "#bbdefb"
   link_hover = "#bbdefb"
-
-module:
-  imports:
-    -path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
-    -path: custom-wowchemy-theme
