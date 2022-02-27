@@ -92,7 +92,7 @@ features:
     provider: 'disqus'
     commentable: true
     disqus:
-      shortname: 'caojz'
+      shortname: 'UBDStation'
       show_count: true
     commento:
       url: ''
