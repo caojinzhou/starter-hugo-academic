@@ -43,7 +43,7 @@ content:
     - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: wechat
+    - icon: weixin
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/Twitter'
