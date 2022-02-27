@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: caojinzhou2011@Gmail.com
+  email: caojinzhou2011@gmail.com
   phone: 888 888 88 88
   address:
     street: 3002 Lantian Road, Pingshan District
