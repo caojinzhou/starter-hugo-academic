@@ -20,7 +20,7 @@ social:
     link: https://www.researchgate.net/profile/Jinzhou-Cao
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=htwWowwAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/caojinzhou
