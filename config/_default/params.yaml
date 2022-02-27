@@ -97,8 +97,6 @@ features:
     provider: 'Google Maps'
     api_key: 'AIzaSyC-bKwjmWwNM80vX2VZ4OdcfBzo3wqqbNI'
     zoom: 15
-    latitude: "37.4275"
-    longitude: "-122.1697"
 # Extensions
 
 extensions:
