@@ -15,18 +15,18 @@ social:
     link: /#contact
     display:
       header: true
-  - icon: twitter
+  - icon: researchgate
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.researchgate.net/profile/Jinzhou-Cao
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/caojinzhou
+  - icon: orcid
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://orcid.org/0000-0001-6201-3251
 organizations:
   - name: Shenzhen Technology University
     url: https://www.sztu.edu.cn/
@@ -34,10 +34,10 @@ education:
   courses:
     - course: PhD in Urban big data mining
       institution: LIESMARS, Wuhan University
-      year: 2013
+      year: 2013-2019
     - course: Joint Ph.D. in THINK LAB
       institution: School of Civil and Environmental Engineering, University of Washington
-      year: 2017
+      year: 2017-2018
     - course: BSc in Geographic Information Science
       institution: School of Remote Sensing and Information Engineering, Wuhan University
       year: 2009-2013
