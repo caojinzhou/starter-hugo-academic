@@ -35,4 +35,5 @@ design:
   show_organizations: true
   view: card
   columns: '1'
+  shape: square
 ---
