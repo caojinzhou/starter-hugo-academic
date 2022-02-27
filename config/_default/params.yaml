@@ -91,7 +91,7 @@ features:
   comment:
     provider: 'disqus'
     disqus:
-      shortname: 'caojinzhou'
+      shortname: 'caojz'
       show_count: true
     commento:
       url: ''
