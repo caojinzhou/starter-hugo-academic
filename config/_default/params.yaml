@@ -89,10 +89,18 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: 'disqus'
+    provider: 'commento'
+    commentable:
+      post: true
+      book: true
+      project: true
+      publication: true
+      event: true
     disqus:
       shortname: 'caojz'
       show_count: true
+    commento:
+      url: ''
   search:
     provider: wowchemy
     algolia:
