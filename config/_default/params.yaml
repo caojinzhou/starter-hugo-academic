@@ -84,7 +84,7 @@ features:
   reading_time: true
   section_pager: false
   docs_section_pager: true
-  sharing: true
+  share: true
   avatar:
     gravatar: false
     shape: circle
