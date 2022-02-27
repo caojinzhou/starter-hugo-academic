@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: 1950s
+  theme_night: ocean
   font: minimal
   font_size: L
 
@@ -94,7 +94,7 @@ features:
       min_length: 1  # Only the matches whose length exceeds this value will be returned.
       threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
   map:
-    provider: 'Google Maps'
+    provider: '1'
     api_key: 'AIzaSyC-bKwjmWwNM80vX2VZ4OdcfBzo3wqqbNI'
     zoom: 15
 # Extensions
