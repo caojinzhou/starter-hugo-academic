@@ -2,8 +2,8 @@
 title: Jinzhou Cao
 role: Assistant Professor
 avatar_filename: avatar.jpg
-bio: My research interests include Artificial intelligence, Smart cities,
-  Geo-computation.
+bio: My research interests include artificial intelligence, smart cities,
+  and geo-computation.
 interests:
   - Urban big data modelling, analysis and mining
   - Data science,Data mining, Artificial intelligence
@@ -30,6 +30,8 @@ social:
 organizations:
   - name: Shenzhen Technology University
     url: https://www.sztu.edu.cn/
+  - name: College of Big Data and Internet
+    url: https://bdi.sztu.edu.cn/
 education:
   courses:
     - course: PhD in Urban big data mining
@@ -41,12 +43,14 @@ education:
     - course: BSc in Geographic Information Science
       institution: School of Remote Sensing and Information Engineering, Wuhan University
       year: 2009-2013
-email: ""
+email: "caojinzhou2011@gmail.com"
 superuser: true
 user_groups:
   - admin
 highlight_name: true
 ---
-Jinzhou Cao is an assistant professor of artificial intelligence at the Shenzhen Technology University. His research interests include Artificial intelligence, Smart cities, and Geo-computation. He got his Ph.D. degree in GIS from State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. He was also a visiting student of THINK Lab, University of Washington, Seattle, USA. during his Ph.D. student period. He has published several articles in journals and international conferences.
+Jinzhou Cao is an assistant professor of artificial intelligence at the Shenzhen Technology University. His research interests include Artificial intelligence, Smart cities, and Geo-computation. He got his Ph.D. degree in GIS from [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](https://www.sztu.edu.cn/), [Wuhan University](https://www.sztu.edu.cn/). He was also a visiting student of THINK Lab, University of Washington, Seattle, USA. during his Ph.D. student period. He has published several articles in journals and international conferences.
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/曹劲舟CV-ENG.pdf" "newtab" >}}resumé(En){{< /staticref >}} or {{< staticref "uploads/曹劲舟简历-中文.pdf" "newtab" >}}resumé(Ch){{< /staticref >}}.
+
+Feel free to *[contact](#contact)* 🗣️ me directly or to *[schedule an appointment](https://calendly.com/caojz/30min)* 🗓️.
