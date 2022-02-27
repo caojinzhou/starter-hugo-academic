@@ -17,7 +17,7 @@ main:
     url: '#projects'
     weight: 40
   - name: Publications
-    url: 'publication/'
+    url: 'pubpage/'
     weight: 50
   - name: Partnership
     url: '#partnership'
