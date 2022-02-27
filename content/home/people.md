@@ -29,5 +29,5 @@ design:
   show_role: true
   # Show user's organizations/affiliations?
   show_organizations: true
-  column: '2'
+  columns: '2'
 ---
