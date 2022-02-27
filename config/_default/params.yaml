@@ -91,10 +91,8 @@ features:
   comment:
     provider: 'disqus'
     disqus:
-      shortname: 'caojinzhou-com'
+      shortname: 'caojz'
       show_count: true
-    commento:
-      url: ''
   search:
     provider: wowchemy
     algolia:
