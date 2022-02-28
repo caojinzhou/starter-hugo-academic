@@ -1,7 +1,7 @@
 ---
-title: "Comparison of Urban Human Movements Inferring from Multi-Source Spatial-Temporal Data"
+title: "Comparison of urban human movements inferring from multi-source spatial-temporal data"
 date: 2016-01-01
-publishDate: 2022-02-28T11:01:56.657693Z
+publishDate: 2022-02-28T11:54:15.038942Z
 authors: ["Rui Cao", "Wei Tu", "Jinzhou Cao", "Qingquan Li"]
 publication_types: ["1"]
 abstract: ""
