@@ -6,7 +6,8 @@ summary: An example of using the in-built project page.
 url_video: ""
 title: Study on the multi-scaled identification of urban dynamic functions based
   on mobile phone big data
-subtitle: National Natural Science Foundation of China
+subtitle: Study on the multi-scaled identification of urban dynamic functions
+  based on mobile phone big data
 featured: true
 tags:
   - PI
@@ -22,3 +23,4 @@ image:
   focal_point: Smart
 url_code: ""
 ---
+National Natural Science Foundation of China
