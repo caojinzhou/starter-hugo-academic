@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact me
+title: Contact
 subtitle:
 
 content:
@@ -53,5 +53,5 @@ content:
       link: 'https://zoom.com'
 
 design:
-  columns: '1'
+  columns: '2'
 ---
