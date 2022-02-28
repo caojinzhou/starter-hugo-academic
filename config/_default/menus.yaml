@@ -32,7 +32,7 @@ main:
     url: 'resource/'
     weight: 70
   - name: Contact
-    url: 'content/#contact'
+    url: 'contact/'
     weight: 80
   - name: CV
     url: uploads/曹劲舟CV-ENG.pdf
