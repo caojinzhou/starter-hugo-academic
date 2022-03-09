@@ -1,11 +1,10 @@
 ---
 url_pdf: ""
 date: 2022-02-27T16:08:29.959Z
-summary: National Natural Science Foundation of China.
+summary: China Postdoctoral Science Foundation
 url_video: ""
-title: Study on the multi-scaled identification of urban dynamic functions based
-  on mobile phone big data
-subtitle: National Natural Science Foundation of China
+title: Research on multi-scalef prediction of urban functions based on big data
+subtitle: China Postdoctoral Science Foundation
 featured: true
 tags:
   - PI
