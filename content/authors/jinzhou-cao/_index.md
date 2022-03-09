@@ -2,13 +2,13 @@
 title: Jinzhou Cao
 role: Assistant Professor
 avatar_filename: avatar.jpg
-bio: My research interests include artificial intelligence, smart cities,
+bio: My research interests include urban data mining, smart cities,
   and geo-computation.
 interests:
   - Urban big data modelling, analysis and mining
-  - Data science,Data mining, Artificial intelligence
+  - Data science and Artificial intelligence
   - Smart cities, Spatial statistics, Geo-computation
-  - Geographic information science and technology as well as their applications
+  - Urban Analytics on the interaction between human mobility and urban envronments
 social:
   - icon: envelope
     icon_pack: fas

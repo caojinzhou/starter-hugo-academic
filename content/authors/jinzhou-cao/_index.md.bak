@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: /contact/
     display:
       header: true
   - icon: researchgate
@@ -53,4 +53,4 @@ Jinzhou Cao is an assistant professor of artificial intelligence at the Shenzhen
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/曹劲舟CV-ENG.pdf" "newtab" >}}resumé(En){{< /staticref >}} or {{< staticref "uploads/曹劲舟简历-中文.pdf" "newtab" >}}resumé(Ch){{< /staticref >}}.
 
-Feel free to *[contact](contact\)* 🗣️ me directly or to *[schedule an appointment](https://calendly.com/caojz/30min)* 🗓️.
+Feel free to *[contact](contact/)* 🗣️ me directly or to *[schedule an appointment](https://calendly.com/caojz/30min)* 🗓️.
