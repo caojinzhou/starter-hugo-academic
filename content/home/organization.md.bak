@@ -33,7 +33,7 @@ design:
   show_role: true
   # Show user's organizations/affiliations?
   show_organizations: true
-  view: card
+  view: Compact
   columns: '2'
   shape: square
 ---
