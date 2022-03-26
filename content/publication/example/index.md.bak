@@ -37,7 +37,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
