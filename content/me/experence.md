@@ -21,9 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-
-        
+experience:     
   - title: Assistant Professor
     company: College of Big Data and Internet, Shenzhen Technology University
     company_url: 'https://bdi.sztu.edu.cn/'
@@ -31,6 +29,7 @@ experience:
     location: Shenzhen,China
     date_start: '2021-01-01'
 	date_end: ''
+	description:
 	
   - title: Research Associate
     company: Department of Urban Informatics, Shenzhen University
@@ -39,6 +38,7 @@ experience:
     location: Shenzhen,China
     date_start: '2016-01-01'
     date_end: '2016-01-01'
+	description:
 	
   - title: Postdoctoral Fellow
     company: Department of Urban Informatics, Shenzhen University
@@ -47,7 +47,7 @@ experience:
     location: Shenzhen,China
     date_start: 'Sep 2019'
     date_end: 'Jul 2021'
-	
+	description:
 design:
   columns: '2'
 ---
