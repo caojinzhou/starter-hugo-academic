@@ -11,7 +11,7 @@ main:
     url: 'me/'
     weight: 20
   - name: People
-    url: 'landing'
+    url: 'landing/'
     weight: 30
   - name: News
     url: 'post/'
@@ -23,7 +23,7 @@ main:
     url: 'publication/'
     weight: 50
   - name: Partnership
-    url: 'partnerpage/'
+    url: '#partner'
     weight: 75
   - name: Courses
     url: 'courses/'
