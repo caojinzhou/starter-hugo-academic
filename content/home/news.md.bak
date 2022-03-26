@@ -18,6 +18,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: List
+  view: 5
   columns: '2'
 ---
