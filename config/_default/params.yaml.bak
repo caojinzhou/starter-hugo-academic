@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} JinzhouCao. This work is licensed under {license}'
+    notice: 'Copyrights © {year} | **<a href="#about">Jinzhou Cao</a>**| This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
