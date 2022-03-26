@@ -28,15 +28,15 @@ experience:
     company: College of Big Data and Internet, Shenzhen Technology University
     company_url: 'https://bdi.sztu.edu.cn/'
     company_logo: org-x
-    location: California
-    date_start: 'Apr 2022'
+    location: Shenzhen,China
+    date_start: '2022-04'
 	date_end: ''
 	
   - title: Research Associate
     company: Department of Urban Informatics, Shenzhen University
     company_url: 'https://geospatial.szu.edu.cn/'
     company_logo: org-gc
-    location: Shenzhen
+    location: Shenzhen,China
     date_start: 'Aug 2021'
     date_end: 'Mar 2022'
 	
@@ -44,7 +44,7 @@ experience:
     company: Department of Urban Informatics, Shenzhen University
     company_url: 'https://geospatial.szu.edu.cn/'
     company_logo: org-gc
-    location: Shenzhen
+    location: Shenzhen,China
     date_start: 'Sep 2019'
     date_end: 'Jul 2021'
 	
