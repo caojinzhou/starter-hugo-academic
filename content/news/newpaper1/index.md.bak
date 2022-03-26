@@ -5,7 +5,7 @@ date: 2022-03-01
 external_link: "/publication/cao-big-datadriven-research-2021"
 authors: ["jinzhou-cao"]
 
-profile: false  # Show author profile?
+
 reading_time: false  # Show estimated reading time?
 draft: false
 featured: true

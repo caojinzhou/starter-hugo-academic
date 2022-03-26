@@ -2,7 +2,7 @@
 title: Mar 2022. New paper on GDP prediction has been accepted by ISPRS Congress.
 date: 2022-03-01
 
-external_link: "/publication/cao-big-datadriven-research-2021"
+external_link: ""
 authors: ["jinzhou-cao"]
 
 
