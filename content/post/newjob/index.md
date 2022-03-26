@@ -1,8 +1,10 @@
 ---
-title: Apr 2022. [I will be a tenure-track Assistant Professor at the Shenzhen Technology University with the College of Big Data and Internet.](http://www.sztu.edu.cn/)
-date: 2022-03-01T09:00:00.310Z
+title: Apr 2022. I will be a tenure-track Assistant Professor at the Shenzhen Technology University with the College of Big Data and Internet.
+date: 2022-03-01
 summary: 
-external_link: "http://www.sztu.edu.cn/"
+
+external_link: "/publication/cao-big-datadriven-research-2021"
+
 draft: false
 featured: true
 share: true
