@@ -30,6 +30,15 @@ experience:
     date_start: '2022-04-01'
     date_end: ''
     description: 
+	
+  - title: Research Associate
+    company: Department of Urban Informatics, Shenzhen University
+    company_url: 'https://geospatial.szu.edu.cn/'
+    company_logo: org-gc
+    location: Shenzhen,China
+    date_start: '2016-01-01'
+    date_end: '2022-03-30'
+	description:
 design:
   columns: '2'
 ---
