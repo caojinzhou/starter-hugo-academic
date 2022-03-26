@@ -38,10 +38,10 @@ education:
       institution: LIESMARS, Wuhan University
       year: 2013-2019
     - course: Joint Ph.D. in THINK LAB
-      institution: [School of Civil and Environmental Engineering](https://www.ce.washington.edu/), [University of Washington](https://www.washington.edu/)
+      institution: School of Civil and Environmental Engineering, University of Washington
       year: 2017-2018
     - course: BSc in Remote Sensing Science and Technology
-      institution: [School of Remote Sensing and Information Engineering](http://rsgis.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/)
+      institution: School of Remote Sensing and Information Engineering, Wuhan University
       year: 2009-2013
 email: "caojinzhou2011@gmail.com"
 superuser: true

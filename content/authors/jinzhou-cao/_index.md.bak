@@ -35,7 +35,7 @@ organizations:
 education:
   courses:
     - course: PhD in Geographic Information Science
-      institution: [LIESMARS](http://www.lmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/)
+      institution: LIESMARS, Wuhan University
       year: 2013-2019
     - course: Joint Ph.D. in THINK LAB
       institution: [School of Civil and Environmental Engineering](https://www.ce.washington.edu/), [University of Washington](https://www.washington.edu/)
