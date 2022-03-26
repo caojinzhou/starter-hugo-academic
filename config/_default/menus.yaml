@@ -23,7 +23,7 @@ main:
     url: 'publication/'
     weight: 50
   - name: Partnership
-    url: '#partnership'
+    url: 'partnerpage/'
     weight: 75
   - name: Courses
     url: 'courses/'
