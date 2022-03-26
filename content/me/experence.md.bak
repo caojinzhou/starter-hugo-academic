@@ -31,14 +31,14 @@ experience:
     date_end: ''
     description: 
 	
-  - title: Research Associate
-    company: Department of Urban Informatics, Shenzhen University
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
-    company_logo: org-gc
-    location: Shenzhen,China
+    company_logo: org-x
+    location: California
     date_start: '2016-01-01'
-    date_end: '2022-03-30'
-	description:
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 design:
   columns: '2'
 ---
