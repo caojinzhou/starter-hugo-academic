@@ -1,7 +1,7 @@
 ---
 title: Shenzhen University
 role: Department of Urban Informatics
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 social:
   - display:
       header: false
