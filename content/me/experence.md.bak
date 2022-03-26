@@ -29,7 +29,7 @@ experience:
     company_url: 'https://bdi.sztu.edu.cn/'
     company_logo: org-x
     location: Shenzhen,China
-    date_start: '2022-04'
+    date_start: '2021-01-01'
 	date_end: ''
 	
   - title: Research Associate
