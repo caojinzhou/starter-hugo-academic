@@ -1,14 +1,14 @@
 ---
-title: Jinzhou Cao
+title: Jinzhou Cao(曹劲舟)
 role: Assistant Professor
 avatar_filename: avatar.jpg
-bio: My research interests include urban data mining, smart cities,
-  and geo-computation.
+bio: My research interests Urban big data mining, Geo-AI and Urban Analytics.
 interests:
-  - Urban big data modelling, analysis and mining
-  - Data science and Artificial intelligence
-  - Smart cities, Spatial statistics, Geo-computation
-  - Urban Analytics on the interaction between human mobility and urban envronments
+  - Urban Data Mining and Urban Analytics
+  - Geo-computation and Smart cities
+  - Human Mobility and Urban Informatics
+  - Human-Urban-Social Interaction
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,22 +34,22 @@ organizations:
     url: https://bdi.sztu.edu.cn/
 education:
   courses:
-    - course: PhD in Urban big data mining
-      institution: LIESMARS, Wuhan University
+    - course: PhD in Geographic Information Science
+      institution: [LIESMARS](http://www.lmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/)
       year: 2013-2019
     - course: Joint Ph.D. in THINK LAB
-      institution: School of Civil and Environmental Engineering, University of Washington
+      institution: [School of Civil and Environmental Engineering](https://www.ce.washington.edu/), [University of Washington](https://www.washington.edu/)
       year: 2017-2018
-    - course: BSc in Geographic Information Science
-      institution: School of Remote Sensing and Information Engineering, Wuhan University
+    - course: BSc in Remote Sensing Science and Technology
+      institution: [School of Remote Sensing and Information Engineering](http://rsgis.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/)
       year: 2009-2013
 email: "caojinzhou2011@gmail.com"
 superuser: true
 user_groups:
-  - admin
+  - admin	
 highlight_name: true
 ---
-Jinzhou Cao is an assistant professor of artificial intelligence at the Shenzhen Technology University. His research interests include Artificial intelligence, Smart cities, and Geo-computation. He got his Ph.D. degree in GIS from [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](https://www.sztu.edu.cn/), [Wuhan University](https://www.sztu.edu.cn/). He was also a visiting student of THINK Lab, University of Washington, Seattle, USA. during his Ph.D. student period. He has published several articles in journals and international conferences.
+Jinzhou Cao is an Assistant Professor of [College of Big Data and Internet](https://bdi.sztu.edu.cn/) at the [Shenzhen Technology University](https://www.sztu.edu.cn/). His research interests include Urban big data mining, Geo-AI and Urban Analytics on the interaction between human mobility and urban envronments. He got his Ph.D. degree in GIS from [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](http://www.lmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). He was also a visiting student of [University of Washington](https://www.washington.edu/), Seattle, USA. during his Ph.D. student period. He has published several journal and conference articles in activity-based urban functions, individual mobility patterns, urban mobility networks and urban mobility scalings. She was also awarded the National Natural Science Foundation of China for Youth and the Postdoctoral Science Foundation of China.
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/曹劲舟CV-ENG.pdf" "newtab" >}}resumé(En){{< /staticref >}} or {{< staticref "uploads/曹劲舟简历-中文.pdf" "newtab" >}}resumé(Ch){{< /staticref >}}.
 
