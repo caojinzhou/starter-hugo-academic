@@ -14,7 +14,7 @@ main:
     url: 'landing/'
     weight: 30
   - name: News
-    url: 'post/'
+    url: 'news/'
     weight: 35
   - name: Projects
     url: 'projpage/'

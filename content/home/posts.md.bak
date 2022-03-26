@@ -33,6 +33,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: list
+  view: List
   columns: '2'
 ---
