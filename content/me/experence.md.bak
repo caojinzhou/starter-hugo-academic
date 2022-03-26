@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 title: Experience
 subtitle:
@@ -22,29 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Assistant Professor of College of Big Data and Internet
+    company: Shenzhen Technology University
+    company_url: 'https://bdi.sztu.edu.cn/'
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    date_start: 'Apr 2022'
+    description: 
+	
+  - title: Research Associate
+    company: Department of Urban Informatics, Shenzhen University
+    company_url: 'https://geospatial.szu.edu.cn/'
+    company_logo: org-gc
+    location: Shenzhen
+    date_start: 'Aug 2021'
+    date_end: 'Mar 2022'
+    description:
+	
+  - title: Postdoctoral Fellow
+    company: Department of Urban Informatics, Shenzhen University
+    company_url: 'https://geospatial.szu.edu.cn/'
+    company_logo: org-gc
+    location: Shenzhen
+    date_start: 'Sep 2019'
+    date_end: 'Jul 2021'
+    description:
+	
 design:
   columns: '2'
 ---
