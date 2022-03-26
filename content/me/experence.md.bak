@@ -30,7 +30,7 @@ experience:
     company_logo: org-x
     location: California
     date_start: 'Apr 2022'
-    description: 
+    description: ''
 	
   - title: Research Associate
     company: Department of Urban Informatics, Shenzhen University
@@ -48,7 +48,7 @@ experience:
     location: Shenzhen
     date_start: 'Sep 2019'
     date_end: 'Jul 2021'
-    description:
+    description:''
 	
 design:
   columns: '2'
