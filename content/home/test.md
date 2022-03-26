@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 200
 
-title: Recent News
+title: News
 subtitle:
 
 content:
@@ -33,6 +33,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: compact
-  columns: '1'
+  view: Showcase
+  columns: '2'
 ---
