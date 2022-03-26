@@ -19,5 +19,5 @@ organizations:
     url: 
 superuser: false
 user_groups:
-  - organization
+  - Organizations
 ---

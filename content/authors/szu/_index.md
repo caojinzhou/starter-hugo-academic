@@ -7,7 +7,7 @@ social:
       header: false
     icon_pack: fas
     icon: fa-solid fa-link
-    link: https://geospatial.szu.edu.cn/info/1008/3436.htm
+    link: https://geospatial.szu.edu.cn/
 organizations:
   - name: 
 superuser: false
