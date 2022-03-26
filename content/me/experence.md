@@ -26,9 +26,9 @@ experience:
     company: College of Big Data and Internet, Shenzhen Technology University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Shenzhen,China
+    date_start: '2022-04-01'
+    date_end: ''
     description: 
 design:
   columns: '2'
