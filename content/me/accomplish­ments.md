@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: Accomplishments
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
