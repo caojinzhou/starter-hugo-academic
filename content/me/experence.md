@@ -24,12 +24,13 @@ date_format: Jan 2006
 experience:
 
         
-  - title: Assistant Professor of College of Big Data and Internet
-    company: Shenzhen Technology University
+  - title: Assistant Professor
+    company: College of Big Data and Internet, Shenzhen Technology University
     company_url: 'https://bdi.sztu.edu.cn/'
     company_logo: org-x
     location: California
     date_start: 'Apr 2022'
+	date_end: ''
 	
   - title: Research Associate
     company: Department of Urban Informatics, Shenzhen University
