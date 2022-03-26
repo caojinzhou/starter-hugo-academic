@@ -24,30 +24,30 @@ date_format: Jan 2006
 experience:     
   - title: Assistant Professor
     company: College of Big Data and Internet, Shenzhen Technology University
-    company_url: ''
+    company_url: 'https://bdi.sztu.edu.cn/'
     company_logo: org-gc
     location: Shenzhen,China
-    date_start: '2021-01-01'
+    date_start: '2022-04-01'
     date_end: ''
     description: 
         
   - title: Research Associate
     company: Department of Urban Informatics, Shenzhen University
-    company_url: ''
+    company_url: 'https://geospatial.szu.edu.cn/'
     company_logo: org-x
     location: Shenzhen,China
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2021-08-01'
+    date_end: '2022-03-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: Research Associate
+  - title: Postdoctoral Fellow
     company: Department of Urban Informatics, Shenzhen University
-    company_url: ''
+    company_url: 'https://geospatial.szu.edu.cn/'
     company_logo: org-x
     location: Shenzhen,China
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2019-07-01'
+    date_end: '2021-07-31'
     description: Taught electronic engineering and researched semiconductor physics.
 design:
-  columns: '3'
+  columns: '2'
 ---
