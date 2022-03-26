@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor
     company: College of Big Data and Internet, Shenzhen Technology University
     company_url: 'https://bdi.sztu.edu.cn/'
-    company_logo: org-gc
+    company_logo: sztu
     location: Shenzhen,China
     date_start: '2022-04-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Research Associate
     company: Department of Urban Informatics, Shenzhen University
     company_url: 'https://geospatial.szu.edu.cn/'
-    company_logo: org-x
+    company_logo: szu
     location: Shenzhen,China
     date_start: '2021-08-01'
     date_end: '2022-03-31'
@@ -43,7 +43,7 @@ experience:
   - title: Postdoctoral Fellow
     company: Department of Urban Informatics, Shenzhen University
     company_url: 'https://geospatial.szu.edu.cn/'
-    company_logo: szu.png
+    company_logo: szu
     location: Shenzhen,China
     date_start: '2019-07-01'
     date_end: '2021-07-31'
