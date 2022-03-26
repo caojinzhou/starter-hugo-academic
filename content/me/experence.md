@@ -43,7 +43,7 @@ experience:
   - title: Postdoctoral Fellow
     company: Department of Urban Informatics, Shenzhen University
     company_url: 'https://geospatial.szu.edu.cn/'
-    company_logo: szu
+    company_logo: szu.png
     location: Shenzhen,China
     date_start: '2019-07-01'
     date_end: '2021-07-31'
