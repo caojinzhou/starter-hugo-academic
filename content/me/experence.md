@@ -38,16 +38,16 @@ experience:
     location: Shenzhen,China
     date_start: '2021-08-01'
     date_end: '2022-03-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 
 
   - title: Postdoctoral Fellow
     company: Department of Urban Informatics, Shenzhen University
     company_url: 'https://geospatial.szu.edu.cn/'
-    company_logo: org-x
+    company_logo: szu
     location: Shenzhen,China
     date_start: '2019-07-01'
     date_end: '2021-07-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 
 design:
   columns: '2'
 ---
