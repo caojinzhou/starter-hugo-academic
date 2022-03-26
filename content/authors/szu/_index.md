@@ -12,5 +12,5 @@ organizations:
   - name: 
 superuser: false
 user_groups:
-  - organization
+  - Organizations
 ---

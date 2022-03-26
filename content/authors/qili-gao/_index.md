@@ -12,5 +12,5 @@ organizations:
   - name: Shenzhen University
 superuser: false
 user_groups:
-  - partner
+  - Partners
 ---
