@@ -21,8 +21,8 @@ design:
   columns: '2'
 ---
 
-**Apr 2022:** I will be a tenure-track Assistant Professor at the *Shenzhen Technology University* with the *College of Big Data and Internet*.
+-{{< icon name="terminal" pack="fas" >}}**Apr 2022:** I will be a tenure-track Assistant Professor at the *Shenzhen Technology University* with the *College of Big Data and Internet*.
 
-**Mar 2022:** New [paper](https://www.sciencedirect.com/science/article/pii/S0198971522000205?via%3Dihub) on GDP prediction has been accepted by *ISPRS Congress*.
+-{{< icon name="terminal" pack="fas" >}}**Mar 2022:** New [paper](https://www.sciencedirect.com/science/article/pii/S0198971522000205?via%3Dihub) on GDP prediction has been accepted by *ISPRS Congress*.
 
-**Feb 2022:** New [paper](https://www.sciencedirect.com/science/article/pii/S0198971522000205?via%3Dihub) on GDP prediction has been accepted by *CEUS*.
+-:mega:**Feb 2022:** New [paper](https://www.sciencedirect.com/science/article/pii/S0198971522000205?via%3Dihub) on GDP prediction has been accepted by *CEUS*.
