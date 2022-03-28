@@ -25,10 +25,9 @@ date_format: Jan 2006
 item:
 - date_end: "2023-12-31"
   date_start: "2021-01-01"
-  description: ""
+  description: "RMB 240,000, PI"
   organization: National Natural Science Foundation of China(NSFC),RMB 240,000, PI 
-  organization_url: https://www.nsfc.gov.cn/english/site_1/index.html
-  organization_logo: sztu
+  organization_url: https://www.coursera.org
   title: Multi-scaled identification of urban dynamic functions based on mobile phone big data
   url: "project/NSF/"
 - date_end: ""
