@@ -16,16 +16,27 @@ title: Recent News
 subtitle: 
 
 content:
-
+  # Filter content to display
+  filters:
+    folders:
+      - news
+	  - courses
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 5
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: list
   columns: '2'
 ---
 
