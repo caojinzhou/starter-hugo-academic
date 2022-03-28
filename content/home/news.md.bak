@@ -67,3 +67,10 @@ design:
 <li>2021/09: I finished all my curriculums and got an Academic Scholarship.</li>
 <li>2020/05: I have accepted the Master's Degree admission from Beijing University of Technology.</li>
 </ul>
+
+
+ Apr 2022. I will be a tenure-track Assistant Professor at the Shenzhen Technology University with the College of Big Data and Internet.
+ Mar 2022. New paper on GDP prediction has been accepted by ISPRS Congress.
+ Feb 2022. New paper on GDP prediction has been accepted by CEUS.
+ Community Leadership Prize
+ Welcome to Wowchemy, the website builder for Hugo
