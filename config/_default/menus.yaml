@@ -13,8 +13,8 @@ main:
   - name: People
     url: 'landing/'
     weight: 30
-  - name: News
-    url: 'news/'
+  - name: Posts
+    url: 'post/'
     weight: 35
   - name: Projects
     url: 'projpage/'
