@@ -20,7 +20,7 @@ content:
   filters:
     folders:
       - news
-	  - courses
+      - courses
     tag: ''
     category: ''
     publication_type: ''
