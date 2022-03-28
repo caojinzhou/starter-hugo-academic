@@ -18,11 +18,22 @@ image:
 url_code: ""
 ---
 
+<style type="text/css">
+  /* Whole document: */
+  body{
+    font-size: 14.5pt;
+  }
+  /* Headers */
+  h1,h2,h3,h4,h5,h6{
+    font-size: 20pt;
+    }
+</style>
+
 -----
 **Instructor**:       China Youth Science Fund Projects                 <br>
 **PI**:              {{% mention "Jinzhou-Cao" %}}                 <br>
-**Grant number**:  T & TH from 1 p.m. to 4 p.m.             <br>
-**Year**:             Online Synchronous Sessions via Zoom  <br>
+**Grant number**:  xxx             <br>
+**Year**:             2021.01-2023.12  <br>
 **Time**:               RMB 240,000                        
 -----
 

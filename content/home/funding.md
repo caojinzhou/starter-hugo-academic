@@ -26,7 +26,7 @@ item:
 - date_end: "2023-12-31"
   date_start: "2021-01-01"
   description: ""
-  organization: National Natural Science Foundation of China(NSFC),RMB 240,000, PI 
+  organization: NSFC
   organization_url: https://www.nsfc.gov.cn/english/site_1/index.html
   organization_logo: sztu
   title: Multi-scaled identification of urban dynamic functions based on mobile phone big data
