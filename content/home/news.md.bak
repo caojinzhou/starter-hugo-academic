@@ -32,9 +32,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 60
 
-title: News
+title: Recent News
 subtitle: ''
 
 content:
@@ -60,17 +60,12 @@ design:
   view: 1
   columns: '2'
 ---
-<ul>
-<li>2022/03/15: Our recent work "基于多尺度超像素融合网络的脑CT图像分类方法(Multi-scale Superpixel based Fusion Network for Brain CT Classification)" was submitted to China MM 2022.</li>
-<li>2022/03/15: Our recent work "Multi-scale Superpixel based Hierarchical Attention Model  for  Brain  CT  Classiﬁcation" was submitted to China MM 2022.</li>
-<li>2022/02/05: Our recent work "Cross-modal Contrastive Attention Model for Medical Report Generation" was submitted to JBHI. </li>
-<li>2021/09: I finished all my curriculums and got an Academic Scholarship.</li>
-<li>2020/05: I have accepted the Master's Degree admission from Beijing University of Technology.</li>
-</ul>
 
-
- Apr 2022. I will be a tenure-track Assistant Professor at the Shenzhen Technology University with the College of Big Data and Internet.
- Mar 2022. New paper on GDP prediction has been accepted by ISPRS Congress.
- Feb 2022. New paper on GDP prediction has been accepted by CEUS.
- Community Leadership Prize
- Welcome to Wowchemy, the website builder for Hugo
+2022/03/15: Our recent work "基于多尺度超像素融合网络的脑CT图像分类方法(Multi-scale Superpixel based Fusion Network for Brain CT Classification)" was submitted to China MM 2022.
+2022/03/15: Our recent work "Multi-scale Superpixel based Hierarchical Attention Model  for  Brain  CT  Classiﬁcation" was submitted to China MM 2022.
+2022/02/05: Our recent work "Cross-modal Contrastive Attention Model for Medical Report Generation" was submitted to JBHI. 
+2021/09: I finished all my curriculums and got an Academic Scholarship.
+2020/05: I have accepted the Master's Degree admission from Beijing University of Technology.
+Apr 2022. I will be a tenure-track Assistant Professor at the Shenzhen Technology University with the College of Big Data and Internet.
+Mar 2022. New paper on GDP prediction has been accepted by ISPRS Congress.
+Feb 2022. New paper on GDP prediction has been accepted by CEUS.
