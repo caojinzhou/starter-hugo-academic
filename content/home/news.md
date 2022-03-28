@@ -17,6 +17,7 @@ subtitle:
 
 design:
 columns: "1"
+view: 1
 ---
 
 **Apr 2022:** I will be a tenure-track Assistant Professor at the *Shenzhen Technology University* with the *College of Big Data and Internet*.
