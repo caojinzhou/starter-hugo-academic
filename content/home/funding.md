@@ -28,23 +28,22 @@ item:
   description: ""
   organization: NSFC
   organization_url: https://www.nsfc.gov.cn/english/site_1/index.html
-  organization_logo: sztu
-  title: Multi-scaled identification of urban dynamic functions based on mobile phone big data
+  title: Multi-scaled identification of urban dynamic functions based on mobile phone big data,PI,*¥300K*
   url: "project/NSF/"
-- date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- date_end: "2021-07-31"
+  date_start: "2020-06-01"
+  description: 
+  organization: CPSF
+  organization_url: http://jj.chinapostdoctor.org.cn/website/index.html
+  title: Multi-scale prediction of urban functions based on big data,PI,*¥80K*
+  url: "project/POSTDOC/"
 - date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
-  url: ""
+  url: "project/NSF/"
 
 design:
   columns: '2' 
