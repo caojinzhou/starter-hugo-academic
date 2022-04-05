@@ -47,7 +47,7 @@ type: page
 
 ## Textbooks
 
-冈萨雷斯（阮秋琦 译）. *数字图像处理*(MATLAB版，第二版). 电子工业出版社，2020年6月
+冈萨雷斯（阮秋琦 译）. *数字图像处理* (MATLAB版，第二版). 电子工业出版社，2020年6月
 
 <!-- ## Courses in this program
 
