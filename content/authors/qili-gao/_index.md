@@ -7,9 +7,9 @@ social:
       header: false
     icon_pack: fas
     icon: fa-solid fa-link
-    link: https://geospatial.szu.edu.cn/info/1008/3436.htm
+    link: https://gaoqili.cn/
 organizations:
-  - name: Shenzhen University
+  - name: University College London (UCL)
 superuser: false
 user_groups:
   - Partners
