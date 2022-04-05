@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 66
 
-title: Gallery
+title: My Son
 subtitle:
 
 design:
   columns: '2'
-  view: 3
+  view: 4
 ---
 
-{{< gallery album="themes" >}}
+{{< gallery album="sons" >}}

@@ -7,14 +7,14 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 66
+weight: 50
 
-title: Son
+title: My Son
 subtitle:
 
 design:
   columns: '2'
-  view: 3
+  view: 4
 ---
 
 {{< gallery album="sons" >}}
