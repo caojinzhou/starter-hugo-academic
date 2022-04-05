@@ -1,6 +1,5 @@
 ---
 title: 📊 IB00078 Digital Image Processing
-linkTitle: Data Science
 summary: This undergraduate-level course introduces students to major themes, questions, issues, and hypotheses in Digital Image Processing(DIP).
 date: '2021-04-06'
 type: page
@@ -69,21 +68,20 @@ Continuously, at your own pace.
 
 ## Class Schedule
 
-|Weeks |  Dates       | Topics                         | Lecture slides	          | Assignments                          |
-|----- |:------------:|:-------------------------------|-------------------------------------|
-|  7   | 04/06/22     | 图像复原与重建[1]              | [{{% staticref "376SLA/SL/LG376-7.pdf" "newtab" %}}Class 7{{% /staticref %}}]| |
-|  8   | 04/13/22     | 图像复原与重建[1]              |                        |
-|  9   | 04/20/22     | 图像分割                |                                      |       |
-|  10  | 04/27/22     | 图像压缩 [1]   |            | **Quiz 3** at start of class         |
-|  11  | 05/11/22     | 图像压缩 [3]  |        |                     |
-|  12  | 05/18/22     | 彩色图像处理 [1]                   |     |                 |
-|  13  | 05/25/22     | 彩色图像处理 [2]                 |                     | Turn in **PsychoPy Experiment**|
-|  14  | 06/01/22     | 表示与描述 [1]                |                   |                                      |
-|  15  | 06/08/22     | 表示与描述 [2]                               |             | **Synopsis 2**: Thompson & Vasquez (2015)  |
-|  16  | 06/15/22     | 基于嵌入式硬件系统的图像处理 [1]                       |             | Turn in **draft submission of final paper**         |
-|  17  | 06/22/22     | 基于嵌入式硬件系统的图像处理 [2]                       |             | Turn in **final paper** on 05/15     |
-|  18  | 06/22/22     | 复习与答疑                      |             | Turn in **final paper** on 05/15     |
-
+|Weeks |  Dates       | Topics                          | Lecture slides	                                                           | Assignments                                |
+|----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
+|  7   | 04/06/22     | 图像复原与重建[1]               | [{{% staticref "376SLA/SL/LG376-7.pdf" "newtab" %}}Class 7{{% /staticref %}}]|                                            |
+|  8   | 04/13/22     | 图像复原与重建[1]               |                                                                              |                                            |
+|  9   | 04/20/22     | 图像分割                        |                                                                              |                                            |
+|  10  | 04/27/22     | 图像压缩 [1]                    |                                                                              | **Quiz 3** at start of class               |
+|  11  | 05/11/22     | 图像压缩 [3]                    |                                                                              |                                            |
+|  12  | 05/18/22     | 彩色图像处理 [1]                |                                                                              |                                            |
+|  13  | 05/25/22     | 彩色图像处理 [2]                |                                                                              | Turn in **PsychoPy Experiment**            |
+|  14  | 06/01/22     | 表示与描述 [1]                  |                                                                              |                                            |
+|  15  | 06/08/22     | 表示与描述 [2]                  |                                                                              | **Synopsis 2**: Thompson & Vasquez (2015)  |
+|  16  | 06/15/22     | 基于嵌入式硬件系统的图像处理 [1]|                                                                              | Turn in **draft submission of final paper**|
+|  17  | 06/22/22     | 基于嵌入式硬件系统的图像处理 [2]|                                                                              | Turn in **final paper** on 05/15           |
+|  18  | 06/22/22     | 复习与答疑                      |                                                                              | Turn in **final paper** on 05/15           |
 
 ## Project
 
