@@ -30,7 +30,3 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: false
 ---
-{{% callout note %}}
-
-I invites outstanding students and researchers to join, please contact Dr. Cao for *[inquiry](contact/)*.
-{{% /callout %}}

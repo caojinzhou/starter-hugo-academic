@@ -43,7 +43,7 @@ header:
 
 
 ## Course Description
-ทฤษฎีและแนวคิดในการรับภาษาที่สอง กระบวนการรับภาษาที่สอง ปัจจัยต่างๆ ที่มีอิทธิพลต่อผลสัมฤทธิ์ของผู้เรียนที่แตกต่างกัน
+
 
 Multilingualism, the knowledge and use of more than one language by individuals and groups, is as old as humanity itself. Second language acquisition (SLA) is the scholarly field that investigates the human capacity to learn languages other than the first in late childhood, adolescence, and adulthood. This course will examine various sources of influences on the learning of additional languages later in life. These include--among other things--age, crosslinguistic influence, the linguistic environment, cognition, the development of learner language, and motivation and affect. We will situate SLA within a larger context of bilingualism and multilingualism. Successful completion of LG 211 Introduction to Linguistics (with C or above) is required in order to enroll in this course.
 
