@@ -26,7 +26,7 @@ experience:
     company: Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University
     company_url: 'http://www.lmars.whu.edu.cn/'
     company_logo: whu
-    location: Wuhan,China
+    location: Wuhan, China
     date_start: '2013-09-01'
     date_end: '2019-06-30'
     description: 
@@ -35,7 +35,7 @@ experience:
     company: THINK LAB, School of Civil and Environmental Engineering, University of Washington
     company_url: 'https://geospatial.szu.edu.cn/'
     company_logo: uw
-    location: Seattle,U.S.A
+    location: Seattle, U.S.A
     date_start: '2017-09-01'
     date_end: '2018-09-30'
     description: 
@@ -44,7 +44,7 @@ experience:
     company: School of Remote Sensing and Information Engineering, Wuhan University
     company_url: 'http://rsgis.whu.edu.cn/'
     company_logo: whu
-    location: Wuhan,China
+    location: Wuhan, China
     date_start: '2009-09-01'
     date_end: '2013-06-30'
     description: 

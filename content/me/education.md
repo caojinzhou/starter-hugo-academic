@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:     
   - title: Ph.D.
-    company: Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University
+    company: Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University
     company_url: 'http://www.lmars.whu.edu.cn/'
     company_logo: whu
     location: Wuhan, China
