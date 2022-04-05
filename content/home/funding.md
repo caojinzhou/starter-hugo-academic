@@ -28,14 +28,14 @@ item:
   description: ""
   organization: NSFC
   organization_url: https://www.nsfc.gov.cn/english/site_1/index.html
-  title: Multi-scaled identification of urban dynamic functions based on mobile phone big data,PI,*¥300K*
+  title: Multi-scaled identification of urban dynamic functions based on mobile phone big data, PI, ¥300K
   url: "project/NSF/"
 - date_end: "2021-07-31"
   date_start: "2020-06-01"
   description: 
   organization: CPSF
   organization_url: http://jj.chinapostdoctor.org.cn/website/index.html
-  title: Multi-scale prediction of urban functions based on big data,PI,*¥80K*
+  title: Multi-scale prediction of urban functions based on big data, PI, ¥80K
   url: "project/POSTDOC/"
 - date_end: "2020-12-21"
   date_start: "2020-07-01"
