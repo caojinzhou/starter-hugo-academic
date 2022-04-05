@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 25
 
-title: PROFESSIONAL APPOINTMENT
+title: Education
 subtitle:
 
 # Date format for experience
@@ -22,31 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:     
-  - title: Assistant Professor
-    company: College of Big Data and Internet, Shenzhen Technology University
-    company_url: 'https://bdi.sztu.edu.cn/'
-    company_logo: sztu
-    location: Shenzhen,China
-    date_start: '2022-04-01'
-    date_end: ''
+  - title: Ph.D.
+    company: Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University
+    company_url: 'http://www.lmars.whu.edu.cn/'
+    company_logo: whu
+    location: Wuhan,China
+    date_start: '2013-09-01'
+    date_end: '2019-06-30'
     description: 
         
-  - title: Research Associate
-    company: Department of Urban Informatics, Shenzhen University
+  - title: Joint Ph.D.
+    company: THINK LAB, School of Civil and Environmental Engineering, University of Washington
     company_url: 'https://geospatial.szu.edu.cn/'
-    company_logo: szu
-    location: Shenzhen,China
-    date_start: '2021-08-01'
-    date_end: '2022-03-31'
+    company_logo: uw
+    location: Seattle,U.S.A
+    date_start: '2017-09-01'
+    date_end: '2018-09-30'
     description: 
 
-  - title: Postdoctoral Fellow
-    company: Department of Urban Informatics, Shenzhen University
-    company_url: 'https://geospatial.szu.edu.cn/'
-    company_logo: szu
-    location: Shenzhen,China
-    date_start: '2019-07-01'
-    date_end: '2021-07-31'
+  - title: B.S.
+    company: School of Remote Sensing and Information Engineering, Wuhan University
+    company_url: 'http://rsgis.whu.edu.cn/'
+    company_logo: whu
+    location: Wuhan,China
+    date_start: '2009-09-01'
+    date_end: '2013-06-30'
     description: 
 design:
   columns: '2'
