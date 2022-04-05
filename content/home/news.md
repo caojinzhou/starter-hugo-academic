@@ -20,6 +20,7 @@ design:
   view: list
   columns: '2'
 ---
+- :school:**Apr 2022:** The courses **Digital Image Processing** taught by me will be started from 6 Apr 2022 *[(course page)]({{< relref "/courses/DIP" >}})*.
 
 - :mega:**Apr 2022:** I will be a tenure-track Assistant Professor at the *Shenzhen Technology University* with the *College of Big Data and Internet*.
 
