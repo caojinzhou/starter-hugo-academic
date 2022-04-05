@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Hugo Academic Theme Demo
+title: Welcome To My Personal Page
 subtitle:
 
 design:
