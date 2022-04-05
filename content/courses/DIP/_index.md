@@ -17,7 +17,7 @@ type: page
 {{< toc hide_on="xl" >}}
 
 ## Course Description
-Multilingualism, the knowledge and use of more than one language by individuals and groups, is as old as humanity itself. Second language acquisition (SLA) is the scholarly field that investigates the human capacity to learn languages other than the first in late childhood, adolescence, and adulthood. This course will examine various sources of influences on the learning of additional languages later in life. These include--among other things--age, crosslinguistic influence, the linguistic environment, cognition, the development of learner language, and motivation and affect. We will situate SLA within a larger context of bilingualism and multilingualism. Successful completion of LG 211 Introduction to Linguistics (with C or above) is required in order to enroll in this course.
+数字图像处理是指将图像信号转换成数字信号并利用计算机对其进行处理的过程。本课程将全面、系统地介绍数字图像处理的基础理论及基本技术。包括绪论，图像、图像系统与视觉系统，图像处理中的正交变换，图像增强，图像复原，图像分析，数学形态学原理，模式识别的理论和方法。
 
 
 
@@ -37,9 +37,11 @@ Multilingualism, the knowledge and use of more than one language by individuals 
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- 了解数字图像处理的发展历程、灰度变换、空间处理及频域处理的基本方法及理论、数字图像彩色空间极其转换、数学形态学的基本概念及理论。
+
+- 理解图像压缩概念及其常用方法原理，图像平滑概念及常用方法原理，图像分割的原理及常用方法原理，图像复原与重建的概念及常用方法的原理。
+
+- 掌握使用Matlab进行图像处理编程、直方图均衡化的方法、离散傅立叶变换的方法、空间噪声滤波及频域噪声滤波的方法、腐蚀/膨胀运算及开/闭运算的方法、常用边缘检测方法、通过全局阈值进行灰度图像二值化的方法。
 
 &nbsp;
 
