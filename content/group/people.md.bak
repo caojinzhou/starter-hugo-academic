@@ -32,5 +32,5 @@ design:
 ---
 {{% callout note %}}
 
-I invites outstanding students and researchers to join, please contact Dr. Cao for *[inquiry](content/contact/)*.
+I invites outstanding students and researchers to join, please contact Dr. Cao for *[inquiry]({{< relref "/contact" >}})*.
 {{% /callout %}}
