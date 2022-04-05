@@ -28,6 +28,6 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the my personal page. I have a cute son with 6 six month old. Go to see his cute photos.
+## Welcome to the my personal page. I have a cute son with 6 six month old. Go to see his cute photos.
 
 
