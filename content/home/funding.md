@@ -25,26 +25,67 @@ date_format: Jan 2006
 item:
 - date_end: "2023-12-31"
   date_start: "2021-01-01"
-  description: ""
+  description: "Multi-scaled identification of urban dynamic functions based on mobile phone big data"
   organization: NSFC
   organization_url: https://www.nsfc.gov.cn/english/site_1/index.html
-  title: Multi-scaled identification of urban dynamic functions based on mobile phone big data, PI, ¥300K
+  title: National Natural Science Foundation of China, PI, ¥300K
   url: "project/NSF/"
 - date_end: "2021-07-31"
   date_start: "2020-06-01"
-  description: 
+  description: "Multi-scale prediction of urban functions based on big data" 
   organization: CPSF
   organization_url: http://jj.chinapostdoctor.org.cn/website/index.html
-  title: Multi-scale prediction of urban functions based on big data, PI, ¥80K
+  title: China Postdoctoral Science Foundation, PI, ¥80K
   url: "project/POSTDOC/"
-- date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- date_end: "2023-10-01"
+  date_start: "2021-10-01"
   description: ""
+  organization: SPRSP
+  organization_url: https://www.datacamp.com
+  title: 'Shenzhen Postdoctoral Research Subsidy Project, PI, ¥300K'
+  url: "project/SPRSP/"
+- date_end: "2020-01-21"
+  date_start: "2021-12-31"
+  description: "Suitability assessment of urban travel patterns and spatial structures based on multi-sourced spatial-temporal trajectories"
+  organization: ULRMS
+  organization_url: https://www.datacamp.com
+  title: 'Open Fund of Key Laboratory of Urban Land Resources Monitoring and Simulation, Ministry of Natural Resources,PI, ¥155K'
+  url: "project/ULRMS/"
+- date_end: "2020-11-01"
+  date_start: "2022-10-01"
+  description: "Research on dynamic monitoring method of urban functions based on deep learning"
+  organization: NGCM
+  organization_url: https://www.datacamp.com
+  title: 'Research on dynamic monitoring method of urban functions based on deep learning, Ministry of Natural Resources , PI, ¥100K'
+  url: "project/NGCM/"
+- date_end: "2022-12-31"
+  date_start: "2021-01-01"
+  description: "Research and demonstration of comprehensive decision-making and collaborative services in mega-city region of the Greater Bay Area (Subtopic 4):Megalopolis cooperative management service and intelligent decision optimization technology"
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: "project/NSF/"
-
+  title: 'National Key R&D Program, Core members, ¥2740K'
+  url: "project/KRD/"
+- date_end: "2020-12-21"
+  date_start: "2020-07-01"
+  description: "SIMETRI: Sustainable Mobility and Equality in Megacity Regions - Patterns, Mechanisms and Governance"
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'China-EU Cooperation Project of National Natural Science Foundation of China, Core members, ¥2000K'
+  url: "project/CEU/"
+- date_end: "2018-12-31"
+  date_start: "2016-01-01"
+  description: "Collective spatiotemporal movement law mining and dynamic modeling based on multi-source spatio-temporal big data"
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'National Major Research Plan Cultivation Project, Core members, ¥430K'
+  url: "project/KRD/"
+- date_end: "2020-12-21"
+  date_start: "2020-07-01"
+  description: "Research on collective activity recognition and urban spatial structure evolution based on multi-source spatio-temporal data"
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Shenzhen Science and Technology Innovation Committee Strategic Emerging Industry Development Special Fund Project,Core members, ¥4000K'
+  url: "project/SSTIC/"  
 design:
   columns: '2' 
 ---
