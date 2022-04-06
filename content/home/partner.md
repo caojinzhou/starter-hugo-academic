@@ -19,12 +19,6 @@ content:
   user_groups:
      - Partners
 
-<!--   #  - Principal Investigators
-  #  - Researchers
-  #  - Grad Students
-  #  - Administration
-  #  - Visitors
-  #  - Alumni -->
 design:
   # Show user's social networking links? (true/false)
   show_social: true
