@@ -6,7 +6,7 @@ widget: blank
 widget_id: header
 headless: true
 weight: 15
-title: Integrating Geospatials and xxx to Understand cities
+title: Integrating Big Data and Intelligence to Understand Cities
 subtitle: ""
 active: true
 design:

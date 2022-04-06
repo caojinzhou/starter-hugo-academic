@@ -6,7 +6,7 @@ widget: blank
 widget_id: header
 headless: true
 weight: 15
-title: Integrating Big Data and Intelligence to Understand Cities
+title: <u>H</u>uman-Urban Spatial-temporal Knowledge discooverY
 subtitle: ""
 active: true
 design:
