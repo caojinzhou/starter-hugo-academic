@@ -40,8 +40,8 @@ item:
 - date_end: "2023-10-01"
   date_start: "2021-10-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
+  organization: 
+  organization_url: http://hrss.sz.gov.cn/ztfw/bsh/tzgsd/content/post_9226389.html
   title: 'Shenzhen Postdoctoral Research Subsidy Project, PI, ¥300K'
   url: "project/SPRSP/"
 - date_end: "2020-01-21"
@@ -68,15 +68,15 @@ item:
 - date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
+  organization: NSFC
+  organization_url: https://www.nsfc.gov.cn/english/site_1/index.html
   title: 'China-EU Cooperation Project of National Natural Science Foundation of China, Core members, ¥2000K'
   url: "project/CEU/"
 - date_end: "2018-12-31"
   date_start: "2016-01-01"
   description: ""
   organization: NSFC
-  organization_url: https://www.datacamp.com
+  organization_url: https://www.nsfc.gov.cn/english/site_1/index.html
   title: 'National Major Research Plan Cultivation Project, Core members, ¥430K'
   url: "project/NMRPCP/"
 - date_end: "2020-12-21"
