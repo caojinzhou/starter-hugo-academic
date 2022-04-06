@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: true
-    link: https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-cao-rui/
+    link: http://caorui.space
     icon_pack: fas
     icon: fa-solid fa-link
 organizations:

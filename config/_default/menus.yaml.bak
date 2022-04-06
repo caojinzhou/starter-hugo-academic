@@ -10,8 +10,8 @@ main:
   - name: About
     url: 'me/'
     weight: 20
-  - name: People
-    url: 'landing/'
+  - name: Group
+    url: 'group/'
     weight: 30
   - name: Posts
     url: 'post/'
