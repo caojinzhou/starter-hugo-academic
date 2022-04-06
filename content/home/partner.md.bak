@@ -19,7 +19,6 @@ content:
   user_groups:
      - Partners
 	 - Groups
-	 - Organizations
 
 <!--   #  - Principal Investigators
   #  - Researchers
