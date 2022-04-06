@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: true
-    link: www.chenguanzhou.com
+    link: https://www.chenguanzhou.com/
     icon_pack: fas
     icon: fa-solid fa-link
 organizations:
