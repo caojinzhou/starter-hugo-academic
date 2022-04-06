@@ -6,7 +6,7 @@ widget: blank
 widget_id: header
 headless: true
 weight: 15
-title: <u>H</u>uman-Urban Spatial-temporal Knowledge discooverY
+title: **<u>H</u>uman-<u>U</u>rban <u>S</u>patial-temporal <u>K</u>nowledge discoover<u>Y</u>**
 subtitle: ""
 active: true
 design:
