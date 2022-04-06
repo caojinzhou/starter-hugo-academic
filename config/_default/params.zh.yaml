@@ -1,0 +1,132 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+#  theme_day: custom
+#  theme_night: custom
+#  font: custom
+#  font_size: L
+  theme_day: minimal
+  theme_night: minimal
+  font: lora
+  font_size: L
+# SEO
+
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: ''
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: true
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+footer:
+  copyright:
+    notice: 'Copyrights © {year} | **<a href="#about">Jinzhou Cao</a>**| This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+      - python
+  math:
+    enable: true
+  diagram:
+    enable: false
+  privacy_pack:
+    enable: false
+  show_related:
+    book: true
+    page: false
+    post: true
+    project: true
+    publication: true
+    event: true
+  repository:
+    url: 'https://github.com/<username>/<repository>'
+    content_dir: content
+    branch: master
+  reading_time: true
+  section_pager: false
+  docs_section_pager: true
+  sharing: true
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: 'disqus'
+    commentable: true
+    disqus:
+      shortname: 'UBDStation'
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+    wowchemy:
+      min_length: 1  # Only the matches whose length exceeds this value will be returned.
+      threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
+  map:
+    provider: 'Mapbox'
+    api_key: ''
+    zoom: 15
+# Extensions
+
+extensions:
+  cms:
+    branch: master
+    local_backend: false
+  isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
+  academicons:
+    enable: true
+
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa
