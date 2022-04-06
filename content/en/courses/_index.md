@@ -1,6 +1,7 @@
 ---
 title: Courses
 type: page
+commentable: true
 
 view: 2
 
