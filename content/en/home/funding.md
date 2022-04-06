@@ -47,14 +47,14 @@ item:
 - date_end: "2020-01-21"
   date_start: "2021-12-31"
   description: ""
-  organization: DataCamp
+  organization: MNR
   organization_url: https://www.datacamp.com
   title: 'Open Fund of Key Laboratory of Urban Land Resources Monitoring and Simulation, Ministry of Natural Resources,PI, ¥155K'
   url: "project/ULRMS/"
 - date_end: "2020-11-01"
   date_start: "2022-10-01"
   description: ""
-  organization: DataCamp
+  organization: MNR
   organization_url: https://www.datacamp.com
   title: 'Open Fund of Key Laboratory of National Geographic Census and Monitoring, Ministry of Natural Resources , PI, ¥100K'
   url: "project/NGCM/"
@@ -75,14 +75,14 @@ item:
 - date_end: "2018-12-31"
   date_start: "2016-01-01"
   description: ""
-  organization: DataCamp
+  organization: NSFC
   organization_url: https://www.datacamp.com
   title: 'National Major Research Plan Cultivation Project, Core members, ¥430K'
   url: "project/NMRPCP/"
 - date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
-  organization: DataCamp
+  organization: NSFC
   organization_url: https://www.datacamp.com
   title: 'Shenzhen Science and Technology Innovation Committee Strategic Emerging Industry Development Special Fund Project,Core members, ¥4000K'
   url: "project/SSTIC/"  
