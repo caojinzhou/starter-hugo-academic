@@ -67,6 +67,25 @@ Continuously, at your own pace.
 
 {{< cta cta_text="Begin the course" cta_link="python" >}} -->
 
+### Grade breakdown:
+
+|  Requirements              | Percent      | Points                       | Note                                       |
+|:---------------------------|:------------:|:-----------------------------|:-------------------------------------------|
+| Participation  出勤        | 5%           |                              |                                            |
+| Assignment     作业        | 10%          | 5 points each, 2 in total    |                                            |
+| Presentation   报告        | 10%          |                              |                                            |
+| Laboratory     实验        | 35%          | 5 points each, 7 in total    |                                            |
+| Final  exam    考试        | 40%          |                              |                                            |
+
+
+### Assignment descriptions:
+1. **作业1 (5%)**
+
+
+2. **作业2 (5%)**
+
+
+
 
 ## Class Schedule
 
@@ -87,6 +106,17 @@ Continuously, at your own pace.
 
 ## Project
 
+|Weeks |  Dates       | Topics                          | Lecture slides	                                                           | Assignments                                |
+|----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
+|  8   | 04/13/22     | 图像增强实验               |                                                                              |                                            |
+|  9   | 04/20/22     | 图像傅里叶变换实验                        |                                                                              |                                            |
+|  10  | 04/27/22     | 图像几何变换实验                    |                                                                              |                |
+|  11  | 05/04/22     | 图像复原实验                   |                                                                              |                                            |
+|  12  | 05/11/22     | 彩色分割实验              |                                                                              |                                            |
+|  13  | 05/18/22     | 数字图像压缩与解压                |                                                                              |             |
+|  14  | 05/25/22     | 数字图像压缩与解压                 |                                                                              |                                            |
+|  15  | 06/01/22     | 基于嵌入式设备的图像处理 [1]                  |                                                                              |   |
+|  16  | 06/08/22     | 基于嵌入式设备的图像处理 [2]|                                                                              | |
 ## Meet your instructor
 
 {{< mention "jinzhou-Cao" >}}
