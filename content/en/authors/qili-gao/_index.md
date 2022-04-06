@@ -1,6 +1,6 @@
 ---
 title: Qili Gao
-role: Postdoctoral Researcher
+role: Research Fellow 
 avatar_filename: avatar.jpg
 social:
   - display:
