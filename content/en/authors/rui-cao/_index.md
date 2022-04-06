@@ -17,7 +17,7 @@ social:
 organizations:
   - name: The Hong Kong Polytechnic University
     url: https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-cao-rui/
-superuser: true
+superuser: false
 user_groups:
   - Partners
 ---
