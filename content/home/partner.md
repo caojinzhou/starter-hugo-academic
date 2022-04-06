@@ -20,12 +20,12 @@ content:
      - Partners
 	 - Groups
 	 - Organizations
-  #  - Principal Investigators
+<!--   #  - Principal Investigators
   #  - Researchers
   #  - Grad Students
   #  - Administration
   #  - Visitors
-  #  - Alumni
+  #  - Alumni -->
 design:
   # Show user's social networking links? (true/false)
   show_social: true
