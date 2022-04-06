@@ -47,10 +47,10 @@ content:
       icon_pack: fab
       name: Wechat Me
       link: uploads/weixin.jpg
-    - icon: video
+<!--     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://zoom.com' -->
 
 design:
   columns: '1'
