@@ -7,7 +7,7 @@ type: page
 -----
 **Instructor**:       Jinzhou Cao(曹劲舟)                 <br>
 **Email**:              `caojinzhou2011@gmail.com`                 <br>
-**Room**:             C-5-312 or Online via TecentMeeting  <br>
+**Room**:             C-5-312 or Online via TencentMeeting  <br>
 **Time**:               Wed 15:50-17:20                       <br>
 **Credits**:           4/72 hours
 
@@ -67,7 +67,7 @@ Continuously, at your own pace.
 
 {{< cta cta_text="Begin the course" cta_link="python" >}} -->
 
-### Grade breakdown:
+## Grade breakdown:
 
 |  Requirements              | Percent      | Points                       | Note                                       |
 |:---------------------------|:------------:|:-----------------------------|:-------------------------------------------|
@@ -77,13 +77,17 @@ Continuously, at your own pace.
 | Laboratory     实验        | 35%          | 5 points each, 7 in total    |                                            |
 | Final  exam    考试        | 40%          |                              |                                            |
 
+&nbsp;
 
-### Assignment descriptions:
+## Assignment descriptions:
 1. **作业1 (5%)**
 
 
 2. **作业2 (5%)**
 
+
+
+&nbsp;
 
 
 
@@ -104,19 +108,26 @@ Continuously, at your own pace.
 |  17  | 06/15/22     | 基于嵌入式硬件系统的图像处理 [2]|                                                                              |           |
 |  18  | 06/22/22     | 复习与答疑                      |                                                                              |          |
 
+&nbsp;
+
+
 ## Project
 
-|Weeks |  Dates       | Topics                          | Lecture slides	                                                           | Assignments                                |
+|Weeks |  Dates       | Topics                          | Textbooks	                                                           | Assignments                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
 |  8   | 04/13/22     | 图像增强实验               |                                                                              |                                            |
 |  9   | 04/20/22     | 图像傅里叶变换实验                        |                                                                              |                                            |
 |  10  | 04/27/22     | 图像几何变换实验                    |                                                                              |                |
 |  11  | 05/04/22     | 图像复原实验                   |                                                                              |                                            |
 |  12  | 05/11/22     | 彩色分割实验              |                                                                              |                                            |
-|  13  | 05/18/22     | 数字图像压缩与解压                |                                                                              |             |
-|  14  | 05/25/22     | 数字图像压缩与解压                 |                                                                              |                                            |
+|  13  | 05/18/22     | 数字图像压缩与解压 [1]               |                                                                              |             |
+|  14  | 05/25/22     | 数字图像压缩与解压 [2]|                                                                              |                                            |
 |  15  | 06/01/22     | 基于嵌入式设备的图像处理 [1]                  |                                                                              |   |
 |  16  | 06/08/22     | 基于嵌入式设备的图像处理 [2]|                                                                              | |
+
+
+&nbsp;
+
 ## Meet your instructor
 
 {{< mention "jinzhou-Cao" >}}
