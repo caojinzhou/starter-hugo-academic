@@ -6,11 +6,14 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night: custom
-  font: custom
+#  theme_day: custom
+#  theme_night: custom
+#  font: custom
+#  font_size: L
+  theme_day: minimal
+  theme_night: minimal
+  font: lora
   font_size: L
-
 # SEO
 
 marketing:
