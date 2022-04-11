@@ -48,21 +48,21 @@ item:
   date_start: "2021-12-31"
   description: ""
   organization: MNR
-  organization_url: https://www.datacamp.com
+  organization_url: http://www.szgczx.org/zdsys/kfkt/201912/t20191231_490774.html
   title: 'Open Fund of Key Laboratory of Urban Land Resources Monitoring and Simulation, Ministry of Natural Resources,PI, ¥155K'
   url: "project/ULRMS/"
 - date_end: "2020-11-01"
   date_start: "2022-10-01"
   description: ""
   organization: MNR
-  organization_url: https://www.datacamp.com
+  organization_url: http://cgcc.whu.edu.cn/dlgq/html/announce_472.html
   title: 'Open Fund of Key Laboratory of National Geographic Census and Monitoring, Ministry of Natural Resources , PI, ¥100K'
   url: "project/NGCM/"
 - date_end: "2022-12-31"
   date_start: "2021-01-01"
   description: ""
   organization: DataCamp
-  organization_url: https://www.datacamp.com
+  organization_url: http://www.htrdc.com/gjszx/23/index.shtml
   title: 'National Key R&D Program, Core members, ¥2740K'
   url: "project/KRD/"
 - date_end: "2020-12-21"
@@ -83,7 +83,7 @@ item:
   date_start: "2020-07-01"
   description: ""
   organization: NSFC
-  organization_url: https://www.datacamp.com
+  organization_url: http://stic.sz.gov.cn/
   title: 'Shenzhen Science and Technology Innovation Committee Strategic Emerging Industry Development Special Fund Project,Core members, ¥4000K'
   url: "project/SSTIC/"  
 design:

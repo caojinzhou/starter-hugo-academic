@@ -43,7 +43,7 @@ education:
     - course: BSc in Remote Sensing Science and Technology
       institution: School of Remote Sensing and Information Engineering, Wuhan University
       year: 2009-2013
-email: "caojinzhou2011@gmail.com"
+email: "caojinzhou@sztu.edu.cn"
 superuser: true
 user_groups:
   - admin	
