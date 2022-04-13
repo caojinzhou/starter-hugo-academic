@@ -117,15 +117,15 @@ Continuously, at your own pace.
 
 |Weeks |  Dates       | Topics                          | Textbooks	                                                           | Assignments                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  8   | 04/13/22     | 图像增强实验               | [{{% staticref "uploads/DIP_slides/实验1.docx" "newtab" %}}实验指导书{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/Matlab数字图像处理函数.pdf" "Matlab数字图像处理函数" %}}Slides{{% /staticref %}}] |[{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image.rar" "newtab" %}}图像数据{{% /staticref %}}] |
-|  9   | 04/20/22     | 图像傅里叶变换实验                        |                                                                              |                                            |
-|  10  | 04/27/22     | 图像几何变换实验                    |                                                                              |                |
-|  11  | 05/04/22     | 图像复原实验                   |                                                                              |                                            |
-|  12  | 05/11/22     | 彩色分割实验              |                                                                              |                                            |
-|  13  | 05/18/22     | 数字图像压缩与解压 [1]               |                                                                              |             |
-|  14  | 05/25/22     | 数字图像压缩与解压 [2]|                                                                              |                                            |
-|  15  | 06/01/22     | 基于嵌入式设备的图像处理 [1]                  |                                                                              |   |
-|  16  | 06/08/22     | 基于嵌入式设备的图像处理 [2]|                                                                              | |
+|  8   | 04/14/22     | 图像增强实验               | [{{% staticref "uploads/DIP_slides/实验1.docx" "newtab" %}}实验指导书{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/Matlab数字图像处理函数.pdf" "Matlab数字图像处理函数" %}}Slides{{% /staticref %}}] |[{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image.rar" "newtab" %}}图像数据{{% /staticref %}}] |
+|  9   | 04/21/22     | 图像傅里叶变换实验                        |                                                                              |                                            |
+|  10  | 04/28/22     | 图像几何变换实验                    |                                                                              |                |
+|  11  | 05/05/22     | 图像复原实验                   |                                                                              |                                            |
+|  12  | 05/12/22     | 彩色分割实验              |                                                                              |                                            |
+|  13  | 05/19/22     | 数字图像压缩与解压 [1]               |                                                                              |             |
+|  14  | 05/26/22     | 数字图像压缩与解压 [2]|                                                                              |                                            |
+|  15  | 06/02/22     | 基于嵌入式设备的图像处理 [1]                  |                                                                              |   |
+|  16  | 06/09/22     | 基于嵌入式设备的图像处理 [2]|                                                                              | |
 
 
 &nbsp;
