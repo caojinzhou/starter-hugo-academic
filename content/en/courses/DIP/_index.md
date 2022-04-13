@@ -117,7 +117,7 @@ Continuously, at your own pace.
 
 |Weeks |  Dates       | Topics                          | Textbooks	                                                           | Assignments                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  8   | 04/13/22     | 图像增强实验               | [{{% staticref "uploads/DIP_slides/实验1.docx" "newtab" %}}Slides{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/Matlab数字图像处理函数.pdf" "newtab" %}}Slides{{% /staticref %}}] |[{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}Slides{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image.rar" "newtab" %}}Slides{{% /staticref %}}] |
+|  8   | 04/13/22     | 图像增强实验               | [{{% staticref "uploads/DIP_slides/实验1.docx" "newtab" %}}实验指导书{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/Matlab数字图像处理函数.pdf" "Matlab数字图像处理函数" %}}Slides{{% /staticref %}}] |[{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image.rar" "newtab" %}}图像数据{{% /staticref %}}] |
 |  9   | 04/20/22     | 图像傅里叶变换实验                        |                                                                              |                                            |
 |  10  | 04/27/22     | 图像几何变换实验                    |                                                                              |                |
 |  11  | 05/04/22     | 图像复原实验                   |                                                                              |                                            |
