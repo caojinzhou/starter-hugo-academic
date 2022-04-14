@@ -97,8 +97,8 @@ Continuously, at your own pace.
 
 |Weeks |  Dates       | Topics                          | Lecture slides	                                                           | Assignments                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  7   | 04/06/22     | 图像复原与重建[1]               | [{{% staticref "uploads/DIP_slides/DIP_Ch4_ALL.pdf" "newtab" %}}Slides{{% /staticref %}}]|                                            |
-|  8   | 04/13/22     | 图像复原与重建[2]               |                                                                              |                                            |
+|  7   | 04/06/22     | 图像复原与重建[1]               | [{{% staticref "uploads/DIP_slides/DIP_Ch4_1.pdf" "newtab" %}}Slides{{% /staticref %}}]|                                            |
+|  8   | 04/13/22     | 图像复原与重建[2]               | [{{% staticref "uploads/DIP_slides/DIP_Ch4_ALL.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                             |                                            |
 |  9   | 04/20/22     | 图像分割                        |                                                                              |                                            |
 |  10  | 04/27/22     | 图像压缩 [1]                    |                                                                              |                |
 |  11  | 05/04/22     | 图像压缩 [2]                    |                                                                              |                                            |

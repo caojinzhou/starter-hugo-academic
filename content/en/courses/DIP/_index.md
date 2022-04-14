@@ -8,9 +8,9 @@ commentable: true
 ---
 -----
 **Instructor**:       Jinzhou Cao(曹劲舟)                 <br>
-**Email**:              `caojinzhou2011@gmail.com`                 <br>
+**Email**:              `caojinzhou@sztu.edu.cn`                 <br>
 **Room**:             C-5-312 or Online via TencentMeeting  <br>
-**Time**:               Wed 15:50-17:20                       <br>
+**Time**:               Wed. 15:50-17:20 and Thur. 18:50-21:40      <br>
 **Credits**:           4/72 hours
 
 -----
@@ -98,7 +98,7 @@ Continuously, at your own pace.
 |Weeks |  Dates       | Topics                          | Lecture slides	                                                           | Assignments                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
 |  7   | 04/06/22     | 图像复原与重建[1]               | [{{% staticref "uploads/DIP_slides/DIP_Ch4_1.pdf" "newtab" %}}Slides{{% /staticref %}}]|                                            |
-|  8   | 04/13/22     | 图像复原与重建[2]               | [{{% staticref "uploads/DIP_slides/DIP_Ch4_ALL.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                             |                                            |
+|  8   | 04/13/22     | 图像复原与重建[2]               | [{{% staticref "uploads/DIP_slides/DIP_Ch4_ALL.pdf" "newtab" %}}Slides{{% /staticref %}}]        |                                            |
 |  9   | 04/20/22     | 图像分割                        |                                                                              |                                            |
 |  10  | 04/27/22     | 图像压缩 [1]                    |                                                                              |                |
 |  11  | 05/04/22     | 图像压缩 [2]                    |                                                                              |                                            |
