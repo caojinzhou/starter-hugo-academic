@@ -42,7 +42,7 @@ J = imadjust(I, [low_in high_in],[low_out high_out],gamma)
 
 ![screen reader text](20200315211945485.png)
 
-<pre class="matlab-code">
+```matlab
 I = imread('xxx.tiff'); %读取图片
 B = rgb2gray(I);%彩色图像转为灰度图像
 figure,imshow(B);
@@ -66,7 +66,7 @@ figure,imshow(B3);
 gam=2; %gam取不为1的值，实现各种幂次变换。
 B4 = imadjust(B,[],[],gam);
 % B4= a*(B.^gamma);
-</pre>
+```
 
 
 
