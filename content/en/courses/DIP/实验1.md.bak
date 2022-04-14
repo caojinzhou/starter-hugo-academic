@@ -1,42 +1,47 @@
+---
+title: 实验1 参考代码
+date: '2021-01-01'
+type: book
+weight: 20
+---
 
-
-一、实验目的
+## 一、实验目的
 
 > 1、熟悉并掌握[MATLAB](https://so.csdn.net/so/search?q=MATLAB&spm=1001.2101.3001.7020)工具的使用，学会软件编程应用与仿真；  2、熟悉基于基于单像素空域图像增强方法；
 > 3、理解并掌握[直方图](https://so.csdn.net/so/search?q=直方图&spm=1001.2101.3001.7020)均衡化和规定化实现图像增强。
 >
 > 熟悉MATLAB语言或OpenCV中对图像数据读取，显示等基本函数。以MATLAB为例，需要熟悉下列命令：熟悉imread()函数、imwrite()函数、size()函数、subplot()函数、figure()函数。
 
-二、实验环境
+## 二、实验环境
 
 > Matlab 2018a
 
-三、实验内容
+## 三、实验内容
 
 > 1、将文件夹中的任一图像文件读出，观察图像数据，将这个图像显示出来。读入不同的图像，请自己编程和调用Matlab或OpenCV函数用常用灰度变换函数对输入图像进行灰度变换，比较相应的处理效果，感受图像灰度变换处理在图像增强的作用。
 
 函数`imadjust`用于进行图像的灰度变换
 
 ```matlab
-g = imadjust(I, [low_in high_in],[low_out high_out],gamma)
+J = imadjust(I, [low_in high_in],[low_out high_out],gamma)
 ```
 
-[low_in high_in]中的值对应的映射成[low_out high_out]中的值。如果gamma小于1，此映射偏重更高数值输出；如果gamma大于1，此映射偏重更低数值（灰暗）输出，如果省略此参数，默认为(线性映射)。
+`[low_in high_in]`中的值对应的映射成`[low_out high_out]`中的值。如果`gamma`小于1，此映射偏重更高数值输出；如果`gamma`大于1，此映射偏重更低数值（灰暗）输出，如果省略此参数，默认为(线性映射)。
 
-该函数将输入图像I 中从low_in至high_in之间的值映射到输出图像J的low_out和high_out之间的值，low_in以下和high_in以上的值则被裁减掉。
+该函数将输入图像`I` 中从`low_in`至`high_in`之间的值映射到输出图像`J`的`low_out`和`high_out`之间的值，`low_in`以下和`high_in`以上的值则被裁减掉。
 
 参数说明：
 
-- [low_in, high_in]和[low_out, high_out]确定源灰度范围到目标灰度范围的映射，在给定[low_in, high_in]和[low_out, high_out]时，需要按照double类型给定，即取值范围在0～1之间；
-- 使[low_in, high_in]和[low_out, high_out]为空（[ ]），相当于默认值[0 1]，若high_out小于low_out，则输出图像J JJ的亮度将会反转；
-- 参数gamma指定了变换曲线的形状（类似于图3.10中的形状），其默认值为1，表示线性映射。若gamma＜1，则映射被加权至更高的输出值；若gamma＞1，则映射被加权至更低的输出值；
-- 当gamma取1时，通过设定合适的[low_in,high_in]和[low_out, high_out]的取值，imadjust函数可以实现灰度线性变换；
-- 而当[low_in, high_in]和[low_out,high_out]的取值均为[0, 1]时，以不同的gamma调用imadjust函数则可以实现图3.10中所示的各种伽玛变换。
-- I 为输入图像，可以是uint8, uint16或者double类型。
+- `[low_in, high_in]`和`[low_out, high_out]`确定源灰度范围到目标灰度范围的映射，在给定`[low_in, high_in]`和`[low_out, high_out]`时，需要按照double类型给定，即取值范围在0～1之间；
+- 使`[low_in, high_in]`和`[low_out, high_out]`为空（`[ ]`），相当于默认值[0 1]，若`high_out`小于`low_out`，则输出图像`J`的亮度将会反转；
+- 参数`gamma`指定了变换曲线的形状，其默认值为1，表示线性映射。若`gamma`＜1，则映射被加权至更高的输出值；若`gamma`＞1，则映射被加权至更低的输出值；
+- 当`gamma`取1时，通过设定合适的`[low_in,high_in]`和`[low_out, high_out]`的取值，`imadjust`函数可以实现灰度线性变换；
+- 而当`[low_in, high_in]`和`[low_out,high_out]`的取值均为`[0, 1]`时，以不同的`gamma`调用`imadjust`函数则可以实现各种伽玛变换。
+- `I` 为输入图像，可以是uint8, uint16或者double类型。
 
-![Alt text](/Users/jinzhoucao/Downloads/20200315211945485.png)
+![screen reader text](20200315211945485.png)
 
-```matlab
+<pre class="matlab-code">
 I = imread('xxx.tiff'); %读取图片
 B = rgb2gray(I);%彩色图像转为灰度图像
 figure,imshow(B);
@@ -61,7 +66,7 @@ gam=2; %gam取不为1的值，实现各种幂次变换。
 B4 = imadjust(B,[],[],gam);
 % B4= a*(B.^gamma);
 
-```
+</pre>
 
 
 
