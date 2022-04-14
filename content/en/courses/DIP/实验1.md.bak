@@ -7,10 +7,11 @@ weight: 20
 
 ## 一、实验目的
 
-> 1、熟悉并掌握[MATLAB](https://so.csdn.net/so/search?q=MATLAB&spm=1001.2101.3001.7020)工具的使用，学会软件编程应用与仿真；  2、熟悉基于基于单像素空域图像增强方法；
-> 3、理解并掌握[直方图](https://so.csdn.net/so/search?q=直方图&spm=1001.2101.3001.7020)均衡化和规定化实现图像增强。
->
-> 熟悉MATLAB语言或OpenCV中对图像数据读取，显示等基本函数。以MATLAB为例，需要熟悉下列命令：熟悉imread()函数、imwrite()函数、size()函数、subplot()函数、figure()函数。
+> 1.	掌握读、写图像的基本方法。
+> 2.	掌握MATLAB语言或OpenCV中图像数据与信息的读取方法。
+> 3.	理解图像灰度变换处理在图像增强的作用。
+> 4.	掌握绘制灰度直方图的方法，理解灰度直方图的灰度变换及均衡化的方法。
+> 5.    以MATLAB为例，需要熟悉下列命令：熟悉imread()函数、imwrite()函数、size()函数、subplot()函数、figure()函数。
 
 ## 二、实验环境
 
@@ -139,7 +140,6 @@ subplot(131),imshow(B),axis on,title('原图') ;
 subplot(133),imhist(B),title('原始图像的直方图') ; 
 subplot(132),imshow(K),axis on,title('使用函数histeq变换后的图像');
 subplot(133),imhist(K),title('变换图像的直方图') ; 
-
 ```
 
 ```matlab
@@ -245,7 +245,6 @@ end
 bar(0:L-1,Result(:,2),0.3,'r'),xlabel('灰度值'),ylabel('出现次数'),title('图像的直方图');
 colormap gray;                                          %灰度条
 c=colorbar('location','southoutside');caxis([0,255]);   %灰度条位置
-
 ```
 
 
