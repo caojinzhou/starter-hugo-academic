@@ -66,7 +66,6 @@ figure,imshow(B3);
 gam=2; %gam取不为1的值，实现各种幂次变换。
 B4 = imadjust(B,[],[],gam);
 % B4= a*(B.^gamma);
-
 </pre>
 
 
