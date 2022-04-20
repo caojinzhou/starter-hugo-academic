@@ -99,7 +99,7 @@ Continuously, at your own pace.
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
 |  7   | 04/06/22     | 图像复原与重建[1]               | [{{% staticref "uploads/DIP_slides/DIP_Ch4_1.pdf" "newtab" %}}Slides{{% /staticref %}}]|                                            |
 |  8   | 04/13/22     | 图像复原与重建[2]               | [{{% staticref "uploads/DIP_slides/DIP_Ch4_ALL.pdf" "newtab" %}}Slides{{% /staticref %}}]        |                                            |
-|  9   | 04/20/22     | 图像分割                        |                                                                              |                                            |
+|  9   | 04/20/22     | 图像分割                        | [{{% staticref "uploads/DIP_slides/DIP_Ch7_图像分割.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                             |                                            |
 |  10  | 04/27/22     | 图像压缩 [1]                    |                                                                              |                |
 |  11  | 05/04/22     | 图像压缩 [2]                    |                                                                              |                                            |
 |  12  | 05/11/22     | 彩色图像处理 [1]                |                                                                              |                                            |
@@ -114,10 +114,11 @@ Continuously, at your own pace.
 
 
 ## Project
+[{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板下载{{% /staticref %}}]
 
 |Weeks |  Dates       | Topics                          | Textbooks	                                                           | Assignments                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  8   | 04/14/22     | 图像增强实验               | [{{% staticref "uploads/DIP_slides/实验1.docx" "newtab" %}}实验指导书{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/Matlab数字图像处理函数.pdf" "newtab" %}}Matlab数字图像处理函数{{% /staticref %}}] |[{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image.rar" "newtab" %}}图像数据{{% /staticref %}}] |
+|  8   | 04/14/22     | 图像增强实验               | [{{% staticref "uploads/DIP_slides/实验1.docx" "newtab" %}}实验指导书{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/Matlab数字图像处理函数.pdf" "newtab" %}}Matlab数字图像处理函数{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image.rar" "newtab" %}}图像数据{{% /staticref %}}] |
 |  9   | 04/21/22     | 图像傅里叶变换实验                        |                                                                              |                                            |
 |  10  | 04/28/22     | 图像几何变换实验                    |                                                                              |                |
 |  11  | 05/05/22     | 图像复原实验                   |                                                                              |                                            |
