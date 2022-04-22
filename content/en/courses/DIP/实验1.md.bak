@@ -59,8 +59,10 @@ B2 = imcomplement(B); %imcomplement函数同意可获取图像的负片
 figure,imshow(B2);
 
 %%对数变换
-B3 = log(double(B)+1);
+B3 = im2uint8(mat2gray(log(double(B)+1)));
 figure,imshow(B3);
+
+
 
 %%幂次变换（伽马变换）
 gam=2; %gam取不为1的值，实现各种幂次变换。
@@ -191,7 +193,7 @@ for c = 1:x
     end
 end
 %% 将均衡化的数据图像转换为灰度图像
-OUT = im2uint8(J);
+OUT = im2uint8(rgb2gray(J));
 elseif m == 3                   %彩色图像均衡化
     OUT =I;
     R=I(:,:,1);%提取红色分量
