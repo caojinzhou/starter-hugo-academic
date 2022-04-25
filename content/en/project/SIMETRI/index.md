@@ -4,21 +4,15 @@ summary: SustaInable Mobility and Equality in mega-ciTy RegIons.
 tags:
   - Core Members
   - Ongoing
-- 
 date: "2019-02-28"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Picture from the project
+  caption: Photo by me
   focal_point: Smart
 
-# links:
-# - icon: twitter
-# icon_pack: fab
-# name: Follow
-# url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""

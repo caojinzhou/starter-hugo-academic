@@ -2,11 +2,13 @@
 title: SIMETRI
 summary: SustaInable Mobility and Equality in mega-ciTy RegIons.
 tags:
+  - Core Members
+  - Ongoing
 - 
 date: "2019-02-28"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://simetri.uk/about-the-project"
+external_link: ""
 
 image:
   caption: Picture from the project
@@ -20,7 +22,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://simetri.uk/about-the-project"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -29,6 +31,26 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+<style type="text/css">
+  /* Whole document: */
+  body{
+    font-size: 14.5pt;
+  }
+  /* Headers */
+  h1,h2,h3,h4,h5,h6{
+    font-size: 20pt;
+    }
+</style>
+
+-----
+**Instructor**:       China Youth Science Fund Projects                 <br>
+**PI**:              {{% mention "Jinzhou-Cao" %}}                 <br>
+**Grant number**:  xxx             <br>
+**Year**:             2021.01-2023.12  <br>
+**Time**:               RMB 240,000                        
+
+-----
 
 The research project SIMETRI (SustaInable Mobility and Equality in mega-ciTy RegIons: patterns, mechanisms and governance) brings together researchers from University College London, Birkbeck University of London, King’s College London, Vrije Universiteit Amsterdam, Shenzhen University, Shenzhen Institute of Research and Innovation, The University of Hong Kong, and Sun Yat-sen University.
 
