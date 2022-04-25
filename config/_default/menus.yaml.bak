@@ -31,9 +31,9 @@ main:
   - name: Resources
     url: 'resource/'
     weight: 70
-  - name: Contact
-    url: 'contact/'
-    weight: 80
+  # - name: Contact
+    # url: 'contact/'
+    # weight: 80
 #  - name: CV
 #    url: uploads/曹劲舟CV-ENG.pdf
 #    weight: 90

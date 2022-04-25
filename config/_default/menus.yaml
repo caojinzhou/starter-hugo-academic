@@ -13,9 +13,9 @@ main:
   - name: Group
     url: 'group/'
     weight: 30
-  - name: Posts
-    url: 'post/'
-    weight: 35
+  # - name: Posts
+    # url: 'post/'
+    # weight: 35
   - name: Projects
     url: 'projpage/'
     weight: 40
@@ -28,9 +28,9 @@ main:
   - name: Courses
     url: 'courses/'
     weight: 60
-  - name: Resources
-    url: 'resource/'
-    weight: 70
+  # - name: Resources
+    # url: 'resource/'
+    # weight: 70
   # - name: Contact
     # url: 'contact/'
     # weight: 80
