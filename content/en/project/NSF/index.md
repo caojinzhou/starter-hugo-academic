@@ -30,7 +30,7 @@ url_code: ""
 </style>
 
 -----
-**Instructor**:       China Youth Science Fund Projects                 <br>
+**Type**:       China Youth Science Fund Projects                 <br>
 **PI**:              {{% mention "Jinzhou-Cao" %}}                 <br>
 **Grant number**:  xxx             <br>
 **Year**:             2021.01-2023.12  <br>
