@@ -4,16 +4,15 @@ date: '2021-01-01'
 type: book
 weight: 20
 active: false
-draft: true
+draft: false
 ---
 
 ## 一、实验目的
 
 >1.	掌握线性/非线性滤波的基本原理方法。
 >2. 掌握傅里叶变换及逆变换的基本原理方法。
->2.	理解频域滤波的基本原理及方法。
->3.	掌握进行图像的频域滤波的方法。
->5. 以MATLAB为例，需要熟悉下列命令：熟悉imread()函数、imwrite()函数、size()函数、subplot()函数、figure()函数。
+>3.	理解频域滤波的基本原理及方法。
+>4.	掌握进行图像的频域滤波的方法。
 
 ## 二、实验环境
 
@@ -34,8 +33,6 @@ im_noise_salt = imnoise(im,'salt & pepper',0.1); % 加入椒盐噪声
 im_noise_gaussian = imnoise(im,'gaussian'); % 加入高斯噪声
 
 % 显示加入噪声后的图像
-% figure,imshow(im_noise_salt);title('加入椒盐噪声后的图像');
-% figure,imshow(im_noise_gaussian);title('加入高斯噪声后的图像');
 figure;
 subplot(131),imshow(im);title('原图');
 subplot(132),imshow(im_noise_salt);title('加入椒盐噪声后的图像');
@@ -45,34 +42,26 @@ subplot(133),imshow(im_noise_gaussian);title('加入高斯噪声后的图像');
 2)	对加入噪声图像选用不同的平滑（低通）模板做运算，对比不同模板所形成的效果，要求在同一窗口中显示。
 
 平滑滤波（低通滤波）：过滤掉图像中的高频部分（灰度变化较大较快部分）使得图像直方图分布均匀.
+
 线性平滑滤波：均值滤波、高斯滤波；
+
 非线性平滑滤波：中值滤波；
 
 ```matlab
-I=imread('xxx.tif');
-H = fspecial('sobel');
-Sobel = imfilter(I,H,'replicate');
-H = fspecial('laplacian',0.4);
-lap = imfilter(I,H,'replicate');
-H = fspecial('gaussian',[3 3],0.5);
-gaussian = imfilter(I,H,'replicate');
-subplot(221),imshow(I);
-subplot(222),imshow(Sobel);
-subplot(223),imshow(lap);
-subplot(224),imshow(gaussian);
+
 ```
 3)使用函数imfilter，分别采用不同的填充方法（或边界选项，如零填充、’replicate’、’symmetric’、’circular’）进行低通滤波，显示处理后的图像。
 
 ```matlab
 
-im = imread('peppers.png');
+
 h = fspecial('motion', 50, 45);  %motion blurred
-im_a0 = imfilter(im, h);
-im_a1 = imfilter(im, h, 'replicate');
-im_a2 = imfilter(im, h, 'x');
-im_a3 = imfilter(im, h, 0);
-im_a4 = imfilter(im, h, 'symmetric');
-im_a5 = imfilter(im, h, 'circular');
+im_a0 = imfilter(im_noise_salt);
+im_a1 = imfilter(im_noise_salt, h, 'replicate');
+im_a2 = imfilter(im_noise_salt, h, 'x');
+im_a3 = imfilter(im_noise_salt, h, 0);
+im_a4 = imfilter(im_noise_salt, h, 'symmetric');
+im_a5 = imfilter(im_noise_salt, h, 'circular');
 
 ```
 
