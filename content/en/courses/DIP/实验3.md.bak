@@ -46,12 +46,27 @@ end
 subplot(1,3,1);imshow(I); title("原图像");
 subplot(1,3,2);imshow(G);  title("无扩大画布平移图像");
 subplot(1,3,3);imshow(Ge); title("扩大画布平移图像");   
+
+
+I = imread('cameraman.tif');
+rows=size(I,1);
+cols=size(I,2);
+movx=50;movy=50;
+for i=1:rows
+    for j=1:cols
+        Q(i+movx,j+movy)=I(i,j);
+    end
+end
+figure(1);
+subplot(121);imshow(I);title('origine picture');
+subplot(122);imshow(Q);title('modified picture');
+
  
 ```
 > 2. 对图像进行垂直镜像变换；
 > 3. 对图像进行水平镜像变换；
 ```matlab
-I=imread('****.jpg');
+I=imread('gull.jpg');
 [m,n]=size(I);
 
 Ih=uint8(zeros(m,n));%水平镜像
@@ -89,7 +104,7 @@ figure, imshow(J2), title('Resized Image-- using the bilinear interpolation ');
 > 4. 对图像进行缩放操作。
 ```matlab
 clear all, close all
-I = imread('****.tif');
+I = imread('cameraman.tif');
 Scale = 1.35;                           % 将图像放大1.35倍
 J1 = imresize(I, Scale, 'nearest');           % using the nearest neighbor interpolation
 J2 = imresize(I, Scale, 'bilinear');           % using the bilinear interpolation
@@ -102,7 +117,7 @@ figure, imshow(J2), title('Resized Image-- using the bilinear interpolation ');
 > 5. 对图像进行旋转操作。
 ```matlab
 clear all, close all
-I = imread('****.tif');
+I = imread('cameraman.tif');
 Scale = 1.35;                           % 将图像放大1.35倍
 J1 = imresize(I, Scale, 'nearest');           % using the nearest neighbor interpolation
 J2 = imresize(I, Scale, 'bilinear');           % using the bilinear interpolation
