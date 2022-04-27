@@ -4,7 +4,7 @@ date: '2022-04-28'
 type: book
 weight: 20
 active: false
-draft: true
+draft: false
 ---
 
 ## 一、实验目的
@@ -223,7 +223,7 @@ I=imread('xxx.tif');
 T=im2double(I);
 
 K1=conv2(T,w1,'same');
-J1=imadd(T,immultiply(K1,1));
+J1=T-K1;
 K2=conv2(T,w2,'same');
 J2=T-K2;
 K3=conv2(T,w3,'same');
@@ -238,7 +238,7 @@ subplot(2,2,4),imshow(J4);title('25*25锐化增强后图像');
 ```
 
 4)	采用不同的梯度算子对图像进行锐化滤波，并比较其效果。
-？？？？
+
 ```matlab
 [I,map]=imread('xxx.tif');
 I=double(I);
@@ -285,7 +285,7 @@ subplot(2,3,6),imshow(J5,map);title('拉普拉斯滤波后图像');
 clear
 clc
 img=imread('xx.png');
-subplot(1,3,1);imshow(img);title('原图');
+subplot(2,3,1);imshow(img);title('原图');
     
 if ndims(img)==3
    f=rgb2gray(img);%对于RGB图像必须做的一步，也可以用im2double函数
@@ -294,46 +294,37 @@ F=fft2(img);          %傅里叶变换
 Fs=fftshift(F);      %将频谱图中零频率成分移动至频谱图中心
 
 margin=log(abs(Fs)+1);   %取模并进行缩放
-subplot(1,3,2);imshow(margin,[]);title('傅里叶变换频谱图');%imshow(T)只会显示[0,1]的值，而imshow(T,[]) 会根据灰度图的数值范围来显示图像，相当于将[0.09,12.23]映射到[0,1]显示。
+subplot(2,3,2);imshow(margin,[]);title('傅里叶变换频谱图');%imshow(T)只会显示[0,1]的值，而imshow(T,[]) 会根据灰度图的数值范围来显示图像，相当于将[0.09,12.23]映射到[0,1]显示。
 
 phase=log(angle(Fs)*180/pi);     %图像相位谱
-subplot(1,3,3),imshow(phase,[]),title('图像相位谱'); 
+subplot(2,3,3),imshow(phase,[]),title('图像相位谱'); 
 ```
 
 
 2)	仅对相位部分进行傅里叶逆变换后查看结果图像。
-???
+
 ```matlab
-B2=ifft2(ifftshift(angle(Fs)));
-subplot(3,2,5),imshow(B2,[]);title('相位逆变换');
+i=sqrt(-1);
+B1=ifft2(ifftshift(exp(i*angle(Fs))));
+subplot(2,3,4),imshow(B1,[]);title('相位逆变换');
 ```
 
 3)	仅对幅度部分进行傅里叶逆变换后查看结果图像。
-????
+
 ```matlab
-B1=ifft2(ifftshift(abs(Fs)));
-subplot(3,2,5),imshow(B1,[]);title('相位逆变换');
+幅度谱重构出来啥也不是。像的幅度谱代表的是图像各像素点的亮度信息，即该像素应该显示什么颜色，但是做出来的幅度谱却不知道每一点在原图像中具体是哪一点，即幅度谱虽然存储了各个像素点的幅值信息，但是原像素点的位置已经被打乱，所以仅凭幅度谱是没有办法重构原图像的
+B2=ifft2(ifftshift(abs(Fs)));
+subplot(2,3,5),imshow(B2,[]);title('幅度逆变换');
 ```
 
 4)	将图像的傅里叶变换$F$置为其共轭后进行逆变换，比较新生成图像与原始图像的差异。
-???
+
+傅立叶变换的相位谱为对称的，原变换与其共轭变换间仅频率谱互为相反。
 ```matlab
-Fs=fftshift(F);      %将频谱图中零频率成分移动至频谱图中心
-S=log(abs(Fs)+1);    %取模并进行缩放
-subplot(3,2,3);imshow(S,[]);title('频移后的频谱(幅度)图'); 
-B3=ifftshift(Fs); 
-B4=ifft2(B3);
-subplot(3,2,2);imshow(B4,[]);title('傅里叶逆变换图');
 
-
-
-F1=fft2(F);
-F2=log(1+abs(F1));       %amplitude spectrum
-F3=fftshift(F1);
-F4=angle(F1);             %phase spectrum
-F5=-F4                 
-F6= double(F3*exp(F4));  %the complex conjugate of the fourier transform  F7=ifft2(F6);              %inverse fourier transform
-imshow(real(F7),[]);
+j=sqrt(-1);
+F6 = ifft2(abs(F).*exp(j*(-angle(F))));
+subplot(2,3,6),imshow(F6,[]);title('共轭变换后逆变换图像');
 
 
 ```
