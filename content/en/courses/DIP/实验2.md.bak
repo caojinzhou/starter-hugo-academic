@@ -41,7 +41,7 @@ subplot(133),imshow(im_noise_gaussian);title('加入高斯噪声后的图像');
 
 平滑滤波（低通滤波）：过滤掉图像中的高频部分（灰度变化较大较快部分）使得图像直方图分布均匀。
 
-线性平滑滤波：均值滤波；
+线性平滑滤波：均值滤波、高斯滤波；
 
 非线性平滑滤波：中值滤波；
 
@@ -186,12 +186,19 @@ w =[1,1,1;
 K=conv2(T,w,'same');
 %C=imfilter(T,w,'same');
 subplot(1,2,1),imshow(K);title('拉普拉斯滤波后图像');
+
+
+
+
+
+
 ```
 
 
 2)	编写函数w = genlaplacian(n)，自动产生任一奇数尺寸$n$的拉普拉斯算子，如5*5 的拉普拉斯算子。
 
 ```matlab
+
 function w = genlaplacian(n)
 %Computes the Laplacian operator
 w = ones(n);
@@ -247,6 +254,7 @@ subplot(2,2,1),imshow(I);title('原始图像');
 subplot(2,2,2),imshow(imageRoberts);title('roberts算子滤波后图像');
 subplot(2,2,3),imshow(imageSobel);title('Sobel算子滤波后图像');
 subplot(2,2,4),imshow(imagePrewitt);title('Prewitt算子滤波后图像');
+
 ```
 
 
@@ -300,6 +308,8 @@ subplot(2,3,5),imshow(B2,[]);title('幅度逆变换');
 j=sqrt(-1);
 F6 = ifft2(abs(F).*exp(j*(-angle(F))));
 subplot(2,3,6),imshow(F6,[]);title('共轭变换后逆变换图像');
+
+
 ```
 
 
