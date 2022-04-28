@@ -39,7 +39,7 @@ subplot(133),imshow(im_noise_gaussian);title('加入高斯噪声后的图像');
 
 2)	对加入高斯噪声图像选用不同的平滑（低通）模板做运算，对比不同模板所形成的效果，要求在同一窗口中显示。
 
-平滑滤波（低通滤波）：过滤掉图像中的高频部分（灰度变化较大较快部分）使得图像直方图分布均匀.
+平滑滤波（低通滤波）：过滤掉图像中的高频部分（灰度变化较大较快部分）使得图像直方图分布均匀。
 
 线性平滑滤波：均值滤波、高斯滤波；
 
@@ -59,8 +59,8 @@ subplot(221),imshow(K);title('高斯噪声均值滤波3×3后的图像');
 subplot(222),imshow(L);title('高斯噪声均值滤波5×5后的图像');
 subplot(223),imshow(M);title('高斯噪声中值滤波3×3后的图像');
 subplot(224),imshow(N);title('高斯噪声中值滤波4×4后的图像');
-
 ```
+
 3)使用函数imfilter，分别采用不同的填充方法（或边界选项，如零填充、’replicate’、’symmetric’、’circular’）进行低通滤波，显示处理后的图像。
 
 ```matlab
@@ -79,7 +79,6 @@ subplot(233),imshow(im_a1);title('0-padding的图像');
 subplot(234),imshow(im_a2);title('replicate的图像');
 subplot(235),imshow(im_a3);title('symmetric的图像');
 subplot(236),imshow(im_a4);title('circular的图像');
-
 ```
 
 4)运用for循环，将加有椒盐噪声的图像进行10次、20次均值滤波，查看其特点，显示均值处理后的图像（提示:利用fspecial函数的’average’类型生成均值滤波器）。
