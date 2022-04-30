@@ -50,6 +50,7 @@ subplot(1,3,3);imshow(Ge); title("扩大画布平移图像");
 ```
 > 2. 对图像进行垂直镜像变换；
 > 3. 对图像进行水平镜像变换；
+
 ```matlab
 I=imread('****.jpg');
 [m,n]=size(I);
@@ -84,6 +85,7 @@ subplot(2,1,2), imshow(I2);
 
 
 > 4. 对图像进行缩放操作。
+
 ```matlab
 clear all, close all
 I = imread('****.tif');
@@ -97,6 +99,7 @@ figure, imshow(J2), title('Resized Image-- using the bilinear interpolation ');
 ```
 
 > 5. 对图像进行旋转操作。
+
 ```matlab
 clear all, close all
 I = imread('****.tif');
@@ -110,5 +113,4 @@ J2 = imrotate(I, Theta, 'bilinear', 'crop');  % using the bilinear interpolation
 imshow(I), title('Original Image');
 figure, imshow(J1), title('Rotated Image-- using the nearest neighbor interpolation ');
 figure, imshow(J2), title(' Rotated Image-- using the bilinear interpolation ');
-
 ```
