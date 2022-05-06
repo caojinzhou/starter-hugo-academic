@@ -4,7 +4,7 @@ date: '2022-05-01'
 type: book
 weight: 60
 active: true
-draft: false
+draft: true
 ---
 
 ## 一、实验目的
@@ -23,16 +23,98 @@ draft: false
 
 > 1.	读入选择图像库中一幅灰度图像，对图像用“motion”及“disk”类型进行模糊降质，显示模糊前后的图像。
 
+```matlab
 
-> 2.	生成大小为 的棋盘格式图像（自行查阅checkerboard函数的使用方法），对该图像进行模糊加噪，分别用点扩散函数、NSR、NCORR和ICORR为参数对降质图像进行恢复，显示并对比恢复结果。
+I=imread('xx.tif');
+subplot(2,2,1);
+imshow(I);title('Original Image');
+H1=fspecial('motion',20,45);
+MotionBlur=imfilter(I,H1,'replicate');
+subplot(2,2,2);
+imshow(MotionBlur);title('Motion Blur');
+
+H2=fspecial('disk',10);
+disk=imfilter(I,H2,'replicate');
+subplot(2,2,3);
+imshow(disk);title('Disk');
+
+H3=fspecial('unsharp');
+sharpened=imfilter(I,H3,'replicate');
+subplot(2,2,4);
+imshow(sharpened);title('sharpened');
+
+```
+
+
+> 2.	生成大小为120*120的棋盘格式图像（自行查阅checkerboard函数的使用方法），对该图像进行模糊加噪，分别用点扩散函数、NSR、NCORR和ICORR为参数对降质图像进行恢复，显示并对比恢复结果。
+
+函数pixeldup说明：像素复制，用途：用小图像来测试算法效果，为了显示方便，复制像素来放大图像，函数pixeldup
+B = pixeldup(A,m,n)函数将A的每个像素在垂直方向复制m次，在水平方向复制n次。
+
+```matlab
+
+f = checkerboard(8);
+PSF = fspecial('motion', 7, 45);
+gb = imfilter(f, PSF, 'circular');
+noise = imnoise(zeros(size(f)),'gaussian',0,0.001);
+g = gb + noise;
+subplot(2, 2, 1), imshow(f,[ ]);title('Chessboard');
+subplot(2, 2, 2), imshow(gb);title('Motion blurred image');
+subplot(2, 2, 3), imshow(noise);title('Noise');
+subplot(2, 2, 4), imshow(g);title('Noise And Motion');
+
+
+WI1=deconvwnr(g,PSF);            %不带参数的维纳滤波（逆滤波）复原
+subplot(2,3,3); imshow(WI1,[]);             %显示逆滤波复原结果
+title('逆滤波复原结果');
+
+NSR=sum(noise(:).^2)/sum(im2double(f(:)).^2);%计算噪信比
+
+WI2=deconvwnr(g,PSF,NSR);  %带噪信比参数的维纳滤波复原
+subplot(2,3,4);imshow(WI2,[]);        %显示带噪信比参数维纳滤波复原结果
+title('带噪信比参数维纳滤波复原结果');
+
+NP=abs(fftn(noise)).^2;
+NCORR=real(ifftn(NP));                %计算噪声的自相关函数
+IP=abs(fftn(im2double(f))).^2;
+ICORR=real(ifftn(IP));                %计算信号的自相关函数
+WI3=deconvwnr(g,PSF,NCORR,ICORR); %带自相关函数的维纳滤波复原
+subplot(2,3,5);imshow(WI3,[]); 
+title('带自相关函数的维纳滤波复原');
+
+```
 
 
 >  3.	对内容1中降质图像采用维纳滤波（deconvwnr）的方法复原，显示复原后的图像。
 
+```matlab
+
+WI1=deconvwnr(MotionBlur,H1);           %不带参数的维纳滤波（逆滤波）复原
+subplot(1,3,1); imshow(WI1,[]);      %显示逆滤波复原结果
+title('逆滤波复原结果'); 
+
+WI2=deconvwnr(disk,H2);           %不带参数的维纳滤波（逆滤波）复原
+subplot(1,3,2); imshow(WI2,[]);      %显示逆滤波复原结果
+title('逆滤波复原结果'); 
+
+WI3=deconvwnr(sharpened,H3);           %不带参数的维纳滤波（逆滤波）复原
+subplot(1,3,3); imshow(WI3,[]);      %显示逆滤波复原结果
+title('逆滤波复原结果'); 
+```
+
 
 > 4.	编写自适应中值滤波adpmedfilt(g, Smax)，分析自适应中值滤波的优点。
 
+```matlab
 
+
+
+
+```
 > 5. 从图像库中读取三幅灰度图像，对每幅依次添加椒盐噪声、高斯噪声、均匀分布噪声，观察图像的变化。然后依次用均值滤波，中值滤波、自适应中值滤波和基于局部区域统计特征的自适应滤波方法（wiener2）对噪声图像进行，并比较处理后的结果。通过比较总结出自适应滤波的优势和适用的滤波场合。
+```matlab
+
+
+
 
 ```
