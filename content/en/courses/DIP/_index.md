@@ -92,7 +92,23 @@ Continuously, at your own pace.
 
 &nbsp;
 
+## Course Project(10%):
 
+[{{% staticref "uploads/DIP_slides/课程设计作业.pdf" "newtab" %}}课程设计题目{{% /staticref %}}]
+
+**作业要求**
+
+1、自行分小组，4人为一个小组。小组成员指定1人为组长，其余成员须对课程设计具有明确的分工；
+
+2、要求独立完成设计项目，开发工具为MATLAB，也可为C、C++、java等，具体自选。各组长有责任督促组员完成任务；
+
+3、尽量不使用封装好的、现成的库，对于独立实现算法撰写的小组可进行加分；
+
+4、鼓励大家根据兴趣和需求，自定义开发更多功能模块；
+
+5、时间为5月7日~6月15日。6月15日下午的课上进行现场PPT展示，需对系统设计思路、功能模块等内容进行讲解。每个小组6分钟时间。
+
+&nbsp;
 
 ## Class Schedule
 
@@ -102,7 +118,7 @@ Continuously, at your own pace.
 |  8   | 04/13/22     | 图像复原与重建[2]               | [{{% staticref "uploads/DIP_slides/DIP_Ch4_ALL.pdf" "newtab" %}}Slides{{% /staticref %}}]        |                                            |
 |  9   | 04/20/22     | 图像分割                        | [{{% staticref "uploads/DIP_slides/DIP_Ch7_图像分割.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                             |                                            |
 |  10  | 04/27/22     | 图像压缩 [1]                    |                                                                              |                |
-|  11  | 05/04/22     | 图像压缩 [2]                    |                                                                              |                                            |
+|  11  | 05/04/22     | 图像压缩 [2]                    | [{{% staticref "uploads/DIP_slides/DIP_Ch6_图像压缩.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                             |                                            |
 |  12  | 05/11/22     | 彩色图像处理 [1]                |                                                                              |                                            |
 |  13  | 05/18/22     | 彩色图像处理 [2]                |                                                                              |             |
 |  14  | 05/25/22     | 表示与描述 [1]                  |                                                                              |                                            |
@@ -114,7 +130,7 @@ Continuously, at your own pace.
 &nbsp;
 
 
-## Project
+## Experimental Project
 [{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板下载{{% /staticref %}}]
 
 |Weeks |  Dates       | Topics                          | Textbooks	                                                           | Assignments                                |
