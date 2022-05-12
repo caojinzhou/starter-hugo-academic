@@ -57,23 +57,29 @@ noise = imnoise(zeros(size(f)),'gaussian',0,0.0001);%高斯噪声。均值为0�
 g = gb + noise;                         %添加噪声的退化图像
 
 %%当K=0时，相当于直接逆滤波
-fr1 = deconvwnr(g,PSF);    %%逆滤波 {维纳滤波（退化图像，点扩散函数（退化模型），噪信比为0）}
+fr1 = deconvwnr(g,PSF);   %%逆滤波 {维纳滤波（退化图像，点扩散函数（退化模型），噪信比为0）}
 
 
+%%K = sum(noise(:).^2)/sum(f(:).^2);       %计算常数比率K                 
+%也可以使用图像与噪声的方差比值来估计
 
-%%通过比率进行维纳滤波
-K = sum(noise(:).^2)/sum(f(:).^2);       %计算常数比率K                 
-fr2 = deconvwnr(g,PSF,K);                %使用常数比率的维纳滤波复原
 
-%%通过将自相关函数进行维纳滤波
 Sn = abs(fft2(noise)).^2;                %噪声功率谱                   
 nA = sum(Sn(:))/numel(noise);            %噪声平均功率                   
 Sf = abs(fft2(f)).^2;                    %图像功率谱                   
 fA = sum(Sf(:))/numel(f);                %图像平均功率   
 
+%%通过功率谱比率进行维纳滤波
+K = nA/fA;                               % 噪信功率比 %噪信比=|N(u,v)|^2/|F(u,v)|^2
+fr2 = deconvwnr(g,PSF,K);                %使用常数比率的维纳滤波复原
+
+%%通过将自相关函数比值进行维纳滤波
 NCORR = fftshift(real(ifft2(Sn)));       %噪声自相关函数
 ICORR = fftshift(real(ifft2(Sf)));       %原图像自相关函数
-fr3 = deconvwnr(g,PSF,NCORR,ICORR);      %使用自相关函数的滤波结果
+%用于替代功率谱。计算功率谱的傅里叶逆变换，得到自相关函数。
+fr3 = deconvwnr(g,PSF,NCORR,ICORR);      %使用自相关函数的维纳滤波复原
+
+%这里功率谱就是自相关函数，第一种是直接用信噪比NSR第二种是用噪声自相关和信号自相关。
 
 %%形成一个3×3得窗口
 subplot(2,3,1);imshow(f);title('原图像');

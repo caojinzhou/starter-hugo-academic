@@ -141,7 +141,7 @@ Continuously, at your own pace.
 |  11  | 05/05/22     | 图像复原实验                   |   [{{% staticref "uploads/DIP_slides/实验4.docx" "newtab" %}}实验指导书{{% /staticref %}}]|5/17晚上12点前第四次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验4|
 |  12  | 05/12/22     | 图像分割实验              |[{{% staticref "uploads/DIP_slides/实验5.docx" "newtab" %}}实验指导书{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image_e5.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |                                            |
 |  13  | 05/19/22     | 数字图像压缩与解压 [1]               |                                                                              |             |
-|  14  | 05/26/22     | 数字图像压缩与解压 [2]|                                                                              |                                            |
+|  14  | 05/26/22     | 彩色图像处理|                                                                              |                                            |
 |  15  | 06/02/22     | 基于嵌入式设备的图像处理 [1]                  |                                                                              |   |
 |  16  | 06/09/22     | 基于嵌入式设备的图像处理 [2]|                                                                              | |
 
