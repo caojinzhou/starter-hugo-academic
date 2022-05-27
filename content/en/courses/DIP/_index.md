@@ -120,7 +120,7 @@ Continuously, at your own pace.
 |  10  | 04/27/22     | 图像压缩 [1]                    |                                                                              |                |
 |  11  | 05/04/22     | 图像压缩 [2]                    | [{{% staticref "uploads/DIP_slides/DIP_Ch6_图像压缩.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                             |                                            |
 |  12  | 05/11/22     | 彩色图像处理 [1]                |                                                                              |                                            |
-|  13  | 05/18/22     | 彩色图像处理 [2]                |                                                                              |             |
+|  13  | 05/18/22     | 彩色图像处理 [2]                |[{{% staticref "uploads/DIP_slides/DIP_Ch5 彩色图像处理.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                              |             |
 |  14  | 05/25/22     | 表示与描述 [1]                  |                                                                              |                                            |
 |  15  | 06/01/22     | 表示与描述 [2]                  |                                                                              |   |
 |  16  | 06/08/22     | 汇报展示 [1]                    |                                                                              | |
@@ -140,8 +140,8 @@ Continuously, at your own pace.
 |  10  | 04/28/22     | 图像几何变换实验                    | [{{% staticref "uploads/DIP_slides/实验3.docx" "newtab" %}}实验指导书{{% /staticref %}}] |5/10晚上12点前第三次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验3|
 |  11  | 05/05/22     | 图像复原实验                   |   [{{% staticref "uploads/DIP_slides/实验4.docx" "newtab" %}}实验指导书{{% /staticref %}}]|5/17晚上12点前第四次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验4|
 |  12  | 05/12/22     | 图像分割实验              |[{{% staticref "uploads/DIP_slides/实验5.docx" "newtab" %}}实验指导书{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image_e5.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |5/24晚上12点前第五次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验5                                            |
-|  13  | 05/19/22     | 数字图像压缩与解压                | [{{% staticref "uploads/DIP_slides/实验6.docx" "newtab" %}}实验指导书{{% /staticref %}}]                                                                            |             |
-|  14  | 05/26/22     | 彩色图像处理|                                                                              |                                            |
+|  13  | 05/19/22     | 数字图像压缩与解压                | [{{% staticref "uploads/DIP_slides/实验6.docx" "newtab" %}}实验指导书{{% /staticref %}}]                                                                            |             |5/31晚上12点前第六次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验6
+|  14  | 05/26/22     | 大作业|                                                                              |                                            |
 |  15  | 06/02/22     | 基于嵌入式设备的图像处理 [1]                  |                                                                              |   |
 |  16  | 06/09/22     | 基于嵌入式设备的图像处理 [2]|                                                                              | |
 
