@@ -111,6 +111,7 @@ Continuously, at your own pace.
 &nbsp;
 
 ## Class Schedule
+[{{% staticref "uploads/DIP_slides/DIP_Ch3.zip" "newtab" %}}Slides of Weeks 1-6{{% /staticref %}}]
 
 |Weeks |  Dates       | Topics                          | Lecture slides	                                                           | Assignments                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
@@ -122,7 +123,7 @@ Continuously, at your own pace.
 |  12  | 05/11/22     | 彩色图像处理 [1]                |                                                                              |                                            |
 |  13  | 05/18/22     | 彩色图像处理 [2]                |[{{% staticref "uploads/DIP_slides/DIP_Ch5 彩色图像处理.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                              |             |
 |  14  | 05/25/22     | 表示与描述 [1]                  |                                                                              |                                            |
-|  15  | 06/01/22     | 表示与描述 [2]                  |                                                                              |   |
+|  15  | 06/01/22     | 表示与描述 [2]                  |[{{% staticref "uploads/DIP_slides/DIP_Ch8_表示与描述.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                              |   |
 |  16  | 06/08/22     | 汇报展示 [1]                    |                                                                              | |
 |  17  | 06/15/22     | 汇报展示 [2]                    |                                                                              |           |
 |  18  | 06/22/22     | 复习与答疑                      |                                                                              |          |

@@ -142,7 +142,7 @@ Continuously, at your own pace.
 |  12  | 05/12/22     | 图像分割实验              |[{{% staticref "uploads/DIP_slides/实验5.docx" "newtab" %}}实验指导书{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image_e5.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |5/24晚上12点前第五次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验5                                            |
 |  13  | 05/19/22     | 数字图像压缩与解压                | [{{% staticref "uploads/DIP_slides/实验6.docx" "newtab" %}}实验指导书{{% /staticref %}}]                                                                            |             |5/31晚上12点前第六次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验6
 |  14  | 05/26/22     | 大作业|                                                                              |                                            |
-|  15  | 06/02/22     | 基于嵌入式设备的图像处理 [1]                  |                                                                              |   |
+|  15  | 06/02/22     | 基于嵌入式设备的图像处理 [1]                  | [{{% staticref "uploads/DIP_slides/实验7.docx" "newtab" %}}实验指导书{{% /staticref %}}]                                                                             |   |
 |  16  | 06/09/22     | 基于嵌入式设备的图像处理 [2]|                                                                              | |
 
 
