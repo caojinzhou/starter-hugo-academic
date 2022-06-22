@@ -126,7 +126,7 @@ Continuously, at your own pace.
 |  15  | 06/01/22     | 表示与描述 [2]                  |[{{% staticref "uploads/DIP_slides/DIP_Ch8_表示与描述.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                              |   |
 |  16  | 06/08/22     | 汇报展示 [1]                    |                                                                              | |
 |  17  | 06/15/22     | 汇报展示 [2]                    |                                                                              |           |
-|  18  | 06/22/22     | 复习与答疑                      |                                                                              |          |
+|  18  | 06/22/22     | 复习与答疑                      |[{{% staticref "uploads/DIP_slides/期末复习.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                              |          |
 
 &nbsp;
 
