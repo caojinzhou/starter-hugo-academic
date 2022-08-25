@@ -9,8 +9,8 @@ commentable: true
 -----
 **Instructor**:       Jinzhou Cao(曹劲舟)                 <br>
 **Email**:              `caojinzhou@sztu.edu.cn`                 <br>
-**Room**:             C-5-312 or Online via TencentMeeting  <br>
-**Time**:               Wed. 15:50-17:20 and Thur. 18:50-21:40      <br>
+**Room**:             C-5-237   <br>
+**Time**:               Mon. 15:50-17:20 or Thur. 15:50-17:20      <br>
 **Credits**:           4/72 hours
 
 -----
