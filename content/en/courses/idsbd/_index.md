@@ -154,40 +154,23 @@ Continuously, at your own pace.
 
 |Weeks |   Topics                          | Lecture slides	                                                           | Assignments                                |
 |----- |:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  1   | 大数据概述
-Introduction to Big Data               | |                                            |
-|  2   |  数据科学基础 
-Data Science Fundamentals             |        |                                            |
-|  3   |  大数据处理基础
-Big Data Analytics Fundamentals                     |                                                                              |                                            |
-|  4  |  大数据与数据科学应用案例
-Big data and Data Science Applications                  |                                                                              |                |
-| 5  |  数据统计基础[1]
-Data Statistics Fundamentals                  |                                                                              |                                            |
-|  6  | 数据统计基础[2]
-Data Statistics Fundamentals                |                                                                              |                                            |
-|  7  |  大数据分析算法[1]（聚类、分类）
-Big Data Analytics Algorithms (Clustering and Classification)              |                                                                              |             |
-|  8  |  大数据分析算法[2]（回归、关联分析）
-Big Data Analytics Algorithms (Regression and Association Analysis)                 |                                                                              |                                            |
-|  9 | 大数据可视化
-Big Data Visualization                 |                                                                              |   |
-|  10  |  大数据处理平台、工具和数据存储
-Big Data Platforms and Tools and Data Storage|                                                                              | |
-|  11  | 专题1：城市大数据科学[1] 
-Urban data science                   |                                                                              |           |
-|  12  |  专题1：城市大数据科学[2]
-Urban data science                     |                                                                              |          |
-|  13  |  专题2：图数据计算[1]
-Graph data computing                     |                                                                              |          |
-|  14  |  专题2：图数据计算[2]
-Graph data computing                     |                                                                              |          |
-|  15  |  专题3：文本挖掘[1]
-Text Mining                    |                                                                              |          |
-|  16  |  专题3：文本挖掘 [2]
-Text Mining                      |                                                                              |          |
-|  17  | 专题4：人工智能与深度学习
-AI and Deep learning                     |                                                                              |          |
+|  1   | 大数据概述 Introduction to Big Data               | |                                            |
+|  2   |  数据科学基础  Data Science Fundamentals             |        |                                            |
+|  3   |  大数据处理基础 Big Data Analytics Fundamentals                     |                                                                              |                                            |
+|  4  |  大数据与数据科学应用案例 Big data and Data Science Applications                  |                                                                              |                |
+| 5  |  数据统计基础[1] Data Statistics Fundamentals                  |                                                                              |                                            |
+|  6  | 数据统计基础[2] Data Statistics Fundamentals                |                                                                              |                                            |
+|  7  |  大数据分析算法[1]（聚类、分类） Big Data Analytics Algorithms (Clustering and Classification)              |                                                                              |             |
+|  8  |  大数据分析算法[2]（回归、关联分析） Big Data Analytics Algorithms (Regression and Association Analysis)                 |                                                                              |                                            |
+|  9 | 大数据可视化 Big Data Visualization                 |                                                                              |   |
+|  10  |  大数据处理平台、工具和数据存储 Big Data Platforms and Tools and Data Storage|                                                                              | |
+|  11  | 专题1：城市大数据科学[1]  Urban data science                   |                                                                              |           |
+|  12  |  专题1：城市大数据科学[2] Urban data science                     |                                                                              |          |
+|  13  |  专题2：图数据计算[1] Graph data computing                     |                                                                              |          |
+|  14  |  专题2：图数据计算[2] Graph data computing                     |                                                                              |          |
+|  15  |  专题3：文本挖掘[1] Text Mining                    |                                                                              |          |
+|  16  |  专题3：文本挖掘 [2] Text Mining                      |                                                                              |          |
+|  17  | 专题4：人工智能与深度学习 AI and Deep learning                     |                                                                              |          |
 |  18  |  复习与答疑                      |                                                                              |          |
 &nbsp;
 
@@ -196,15 +179,15 @@ AI and Deep learning                     |                                      
 
 |Weeks |  Topics                          | Textbooks	                                                           | Assignments                                |
 |----- |:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  8   | 数据探索性分析实验               |  |  |
-|  9   | 聚类和分类算法实验                        |                                                                              |                                           |
-|  10  | 回归和关联分析算法实验                    |  ||
-|  11  | 数据可视化实验                   |   ||
-|  12  | 数据库操作实验             |                                                                             |                                            |
-|  13  | 城市大数据分析与实践[1]                |                                                                             |            |
-|  14  | 城市大数据分析与实践[2]   |                                                                              |                                            |
-|  15  | 图数据计算实验[1]                  |                                                                              |   |
-|  16  | 图数据计算实验[2]|                                                                              | |
+|  6   | 数据探索性分析实验               |  |  |
+|  7   | 聚类和分类算法实验                        |                                                                              |                                           |
+|  8  | 回归和关联分析算法实验                    |  ||
+|  9  | 数据可视化实验                   |   ||
+|  10  | 数据库操作实验             |                                                                             |                                            |
+|  11  | 城市大数据分析与实践[1]                |                                                                             |            |
+|  12  | 城市大数据分析与实践[2]   |                                                                              |                                            |
+|  13  | 图数据计算实验[1]                  |                                                                              |   |
+|  14  | 图数据计算实验[2]|                                                                              | |
 
 
 &nbsp;
