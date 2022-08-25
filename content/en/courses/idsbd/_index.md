@@ -59,19 +59,19 @@ commentable: true
 
 推荐教材(Recommended Teaching Materials)：
 
-数据科学概论(第2版). 覃雄派, 陈跃国, 杜小勇. 中国人民大学出版社, 2022.
+- 数据科学概论(第2版). 覃雄派, 陈跃国, 杜小勇. 中国人民大学出版社, 2022.
 
 参考教材(Additional Reading Materials)：
 
-张祖平. 数据科学与大数据技术导论. 中南大学出版社. 2018年12月
+- 张祖平. 数据科学与大数据技术导论. 中南大学出版社. 2018年12月
 
-Mining of Massive Datasets, by Leskovec, Rajaraman, and Ullman, Cambridge University Press, 2014, 2nd Edition, ISBN-13: 978-1107077232; ISBN-10: 1107077230
+- Mining of Massive Datasets, by Leskovec, Rajaraman, and Ullman, Cambridge University Press, 2014, 2nd Edition, ISBN-13: 978-1107077232; ISBN-10: 1107077230
 
-Foundations of Data Science, by Blum, Hopcroft, and Kannan
+- Foundations of Data Science, by Blum, Hopcroft, and Kannan
 
-Python for Data Science, by McKinney, O'Reilly Publishers, 2012.
+- Python for Data Science, by McKinney, O'Reilly Publishers, 2012.
 
-R Programming for Data Science, Roger Peng, Lean Publishing, 2014.
+- R Programming for Data Science, Roger Peng, Lean Publishing, 2014.
 
 <!-- ## Courses in this program
 
