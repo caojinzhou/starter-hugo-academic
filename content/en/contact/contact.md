@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '22.70142'
     longitude: '114.395955'
-  directions: Enter Building C-1 and take the stairs to Office 200 on Floor 2
+  directions: Enter Building C-1 and take the stairs to Office 1419 on Floor 14 (my personal office) and Office 122 on Floor 1 (group office).
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
