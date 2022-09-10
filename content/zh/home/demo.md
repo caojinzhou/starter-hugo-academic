@@ -26,4 +26,4 @@ design:
       - "0"
 ---
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<div style="text-align: right"> <span style="color:lightgray">The Library of Shenzhen Technology University, Guangdong, China </span></div>
+<div style="text-align: right"> <span style="color:lightgray">深圳技术大学图书馆 </span></div>
