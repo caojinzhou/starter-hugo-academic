@@ -11,7 +11,7 @@ main:
     url: 'me/'
     weight: 20
   - name: 团队
-    url: 'group/'
+    url: 'content/zh/group/'
     weight: 30
   - name: 贴文
     url: 'post/'

@@ -13,10 +13,3 @@ zh:
  languageCode: zh-Hans
  contentDir: content/zh
  title: 智慧城市与大数据创新实验室
- params:
-   description: 欢迎光临
- menu:
-   main:
-     - name: 传
-       url: '#about'
-       weight: 1
