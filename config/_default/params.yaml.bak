@@ -67,6 +67,7 @@ features:
       - r
       - latex
       - python
+      - matlab
   math:
     enable: true
   diagram:
