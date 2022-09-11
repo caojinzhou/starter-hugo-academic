@@ -16,7 +16,7 @@ main:
   # - name: Posts
     # url: 'post/'
     # weight: 35
-  - name: Projects
+  - name: Research
     url: 'projpage/'
     weight: 40
   - name: Publications
