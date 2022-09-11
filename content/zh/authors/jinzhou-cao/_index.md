@@ -55,6 +55,5 @@ Jinzhou Cao is an Assistant Professor at the [Shenzhen Technology University](ht
 
 {{< icon name="download" pack="fas" >}} 点击下载 {{< staticref "uploads/曹劲舟简历-中文.pdf" "newtab" >}}中文简历{{< /staticref >}}.
 
-Feel free to *[contact](contact/)* 🗣️ me directly or to *[schedule an appointment](https://calendly.com/caojz/30min)* 🗓️.
 
 
