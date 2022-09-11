@@ -11,4 +11,11 @@ en:
 # Uncomment the lines below to configure your website in a second language.
 zh:
  languageCode: zh-Hans
+ contentDir: content/zh
  title: 智慧城市与大数据创新实验室
+ 
+ #  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
