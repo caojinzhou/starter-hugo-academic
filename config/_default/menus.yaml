@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Director
+  - name: PI
     url: 'me/'
     weight: 20
   - name: Group
