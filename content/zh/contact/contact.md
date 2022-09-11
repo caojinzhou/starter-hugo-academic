@@ -5,11 +5,10 @@ widget: contact
 # This file represents a page section.
 headless: true
 
-active: false
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: Contact me
 subtitle:
 
 content:
@@ -27,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: caojinzhou@sztu.edu.cn
-  phone: 888 888 88 88
+  #phone: 888 888 88 88
   address:
     street: 3002 Lantian Road, Pingshan District
     city: Shenzhen
@@ -38,7 +37,7 @@ content:
   coordinates:
     latitude: '22.70142'
     longitude: '114.395955'
-  directions: Enter Building C-1 and take the stairs to Office 200 on Floor 2
+  directions: Enter Building C-1 and take the stairs to Office 1419 on Floor 14 (my personal office) and Office 122 on Floor 1 (group office).
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
@@ -48,11 +47,7 @@ content:
       icon_pack: fab
       name: Wechat Me
       link: uploads/weixin.jpg
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
 
 design:
-  columns: '2'
+  columns: '1'
 ---
