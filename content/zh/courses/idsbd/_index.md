@@ -91,6 +91,18 @@ Continuously, at your own pace.
 
 {{< cta cta_text="Begin the course" cta_link="python" >}} -->
 
+## Resources
+
+共享书单：
+
+{{< icon name="book" pack="fas" >}} [共享书单点击获取](https://www.jianguoyun.com/p/DUgtxusQ0eXUChid8NYEIAA) (访问密码请咨询老师获取)
+
+数据科学领域的重要资源目录：
+
+{{< icon name="book" pack="fas" >}} {{% staticref "uploads/idsbd/数据科学相关重要资源目录.docx" "newtab" %}}点击获取{{% /staticref %}}
+
+&nbsp;
+
 ## Grade breakdown:
 
 |  Requirements              | Percent      | Points                       | Note                                       |
@@ -118,14 +130,11 @@ Continuously, at your own pace.
 
 **要求**
 
-1、以小组形式，提出一个有意思的研究假设或洞见，并用数据分析与大数据方法方法进行实现，并用可视化方法进行成果展示。
+1、以小组形式，提出一个有意思的研究假设或洞见，并用数据分析与大数据方法方法进行实现，并用可视化方法进行成果展示。任选题目。
 
 2、第4周完成小组成员组队，小组成员不超过3人。
-3、任选题目，课程网页会公布一系列建议选题，供大家参考。
 
-例如：1）坪山地铁开通后房价预测；2）微博数据的社交关系研究；
-
-4、第一阶段：提交项目介绍书（DUE WEEK 7），须包含以下内容：
+3、第一阶段：提交项目介绍书（DUE WEEK 7），须包含以下内容：
 
 - 清晰的问题陈述
 
@@ -137,27 +146,33 @@ Continuously, at your own pace.
 
 - 小组成员分工
 
-5、第二阶段：进度展示
+4、第二阶段：进度展示：
 
 - 课堂PPT汇报，5页PPT，每小组5分钟
 
-6、第三阶段：期末展示
+5、第三阶段：期末展示：
 
 - 期末时段，展示方式：PPT汇报+海报展示
 
+
+建议选题，供大家参考（正在更新中）。
+
+ - 坪山地铁开通后房价预测；
+
+ - 微博数据的社交关系研究；
 
 
 &nbsp;
 
 ## Class Schedule
+[{{% staticref "uploads/idsbd/2022_intro_数据科学与大数据导论.pdf" "newtab" %}}课程导言PPT{{% /staticref %}}]
 
-
-|Weeks |   Topics                          | Lecture slides	                                                           | Assignments                                |
+|Weeks |   Topics                                     | Lecture slides	                                                           | Assignments                                |
 |----- |:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  1   | 大数据概述 Introduction to Big Data               | |                                            |
-|  2   |  数据科学基础  Data Science Fundamentals             |        |                                            |
-|  3   |  大数据处理基础 Big Data Analytics Fundamentals                     |                                                                              |                                            |
-|  4  |  大数据与数据科学应用案例 Big data and Data Science Applications                  |                                                                              |                |
+|  1   | 大数据概述 Introduction to Big Data       |[{{% staticref "uploads/idsbd/2022_Chp1_大数据导论.pdf" "newtab" %}}Slides{{% /staticref %}}] |
+|  2   |  数据科学基础  Data Science Fundamentals  |[{{% staticref "uploads/idsbd/2022_Chp2_数据科学导言.pdf" "newtab" %}}Slides{{% /staticref %}}]|                                            |
+|  3   |  大数据处理基础 Big Data Analytics Fundamentals[1]                     | [{{% staticref "uploads/idsbd/2022_Chp3_数据采集.pdf" "newtab" %}}数据采集Slides{{% /staticref %}}];[{{% staticref "uploads/idsbd/2022_Chp3_数据模型.pdf" "newtab" %}}数据模型Slides{{% /staticref %}}]   |                                            |
+|  4  |  大数据处理基础 Big Data Analytics Fundamentals[2]                  |                                                                              |                |
 | 5  |  数据统计基础[1] Data Statistics Fundamentals                  |                                                                              |                                            |
 |  6  | 数据统计基础[2] Data Statistics Fundamentals                |                                                                              |                                            |
 |  7  |  大数据分析算法[1]（聚类、分类） Big Data Analytics Algorithms (Clustering and Classification)              |                                                                              |             |
@@ -172,7 +187,6 @@ Continuously, at your own pace.
 |  16  |  专题3：文本挖掘 [2] Text Mining                      |                                                                              |          |
 |  17  | 专题4：人工智能与深度学习 AI and Deep learning                     |                                                                              |          |
 |  18  |  复习与答疑                      |                                                                              |          |
-&nbsp;
 
 
 ## Experimental Project
