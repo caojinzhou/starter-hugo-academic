@@ -101,6 +101,8 @@ Continuously, at your own pace.
 
 {{< icon name="books" pack="fas" >}} {{% staticref "uploads/idsbd/数据科学相关重要资源目录.docx" "newtab" %}}点击获取{{% /staticref %}}
 
+&nbsp;
+
 ## Grade breakdown:
 
 |  Requirements              | Percent      | Points                       | Note                                       |
@@ -128,13 +130,11 @@ Continuously, at your own pace.
 
 **要求**
 
-1、以小组形式，提出一个有意思的研究假设或洞见，并用数据分析与大数据方法方法进行实现，并用可视化方法进行成果展示。
+1、以小组形式，提出一个有意思的研究假设或洞见，并用数据分析与大数据方法方法进行实现，并用可视化方法进行成果展示。任选题目。
 
 2、第4周完成小组成员组队，小组成员不超过3人。
 
-3、任选题目。
-
-4、第一阶段：提交项目介绍书（DUE WEEK 7），须包含以下内容：
+3、第一阶段：提交项目介绍书（DUE WEEK 7），须包含以下内容：
 
 - 清晰的问题陈述
 
@@ -146,16 +146,16 @@ Continuously, at your own pace.
 
 - 小组成员分工
 
-5、第二阶段：进度展示：
+4、第二阶段：进度展示：
 
 - 课堂PPT汇报，5页PPT，每小组5分钟
 
-6、第三阶段：期末展示：
+5、第三阶段：期末展示：
 
 - 期末时段，展示方式：PPT汇报+海报展示
 
 
-建议选题，供大家参考。
+建议选题，供大家参考（正在更新中）。
 
  - 坪山地铁开通后房价预测；
 
