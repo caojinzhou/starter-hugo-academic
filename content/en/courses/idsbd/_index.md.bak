@@ -95,11 +95,11 @@ Continuously, at your own pace.
 
 共享书单：
 
-{{< icon name="books" pack="fas" >}} [共享书单点击获取](https://bdi.sztu.edu.cn/)
+{{< icon name="book" pack="fas" >}} [共享书单点击获取](https://bdi.sztu.edu.cn/)
 
 数据科学领域的重要资源目录：
 
-{{< icon name="books" pack="fas" >}} {{% staticref "uploads/idsbd/数据科学相关重要资源目录.docx" "newtab" %}}点击获取{{% /staticref %}}
+{{< icon name="book" pack="fas" >}} {{% staticref "uploads/idsbd/数据科学相关重要资源目录.docx" "newtab" %}}点击获取{{% /staticref %}}
 
 &nbsp;
 
