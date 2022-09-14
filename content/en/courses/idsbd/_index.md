@@ -76,7 +76,7 @@ commentable: true
 <!-- ## Courses in this program
 
 {{< list_children >}} -->
-{{< icon name="share" pack="fas" >}} [共享书单](https://bdi.sztu.edu.cn/)
+
 &nbsp;
 
 <!-- ## FAQs
@@ -90,6 +90,16 @@ Continuously, at your own pace.
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="python" >}} -->
+
+## Resources
+
+共享书单：
+
+{{< icon name="bomb" pack="fas" >}} [共享书单点击获取](https://bdi.sztu.edu.cn/)
+
+数据科学领域的重要资源目录：
+
+[{{% staticref "uploads/idsbd/数据科学相关重要资源目录.docx" "newtab" %}}点击获取{{% /staticref %}}]
 
 ## Grade breakdown:
 
@@ -177,7 +187,6 @@ Continuously, at your own pace.
 |  16  |  专题3：文本挖掘 [2] Text Mining                      |                                                                              |          |
 |  17  | 专题4：人工智能与深度学习 AI and Deep learning                     |                                                                              |          |
 |  18  |  复习与答疑                      |                                                                              |          |
-&nbsp;
 
 
 ## Experimental Project
