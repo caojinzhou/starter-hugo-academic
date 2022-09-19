@@ -191,6 +191,9 @@ Continuously, at your own pace.
 
 
 ## Experimental Project
+[{{% staticref "uploads/idsbd/环境配置.pdf" "newtab" %}}Python环境配置{{% /staticref %}}]
+[{{% staticref "uploads/idsbd/入门基础.pptx" "newtab" %}}Python入门基础{{% /staticref %}}]
+
 
 |Weeks |  Topics                          | Textbooks	                                                           | Assignments                                |
 |----- |:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
