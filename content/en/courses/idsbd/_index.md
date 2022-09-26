@@ -197,7 +197,7 @@ Continuously, at your own pace.
 
 |Weeks |  Topics                          | Assignments	                                                           | Submission                                |
 |----- |:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  6   | 数据探索性分析实验               |[{{% staticref "uploads/idsbd/实验一.rar" "newtab" %}}实验一{{% /staticref %}}]   |[共享书单点击获取](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 实验一报告提交链接。（请确保学校实验报告封面+代码已正确合成成一个PDF格式）。提交截止时间2022/10/01 21:00，延迟提交者该链接失效，请发送到邮箱：caojinzhou@sztu.edu.cn|
+|  6   | 数据探索性分析实验               |[{{% staticref "uploads/idsbd/实验一.rar" "newtab" %}}实验一{{% /staticref %}}]   |[上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 实验一报告提交链接。（请确保学校实验报告封面+代码已正确合成成一个PDF格式）。提交截止时间2022/10/01 21:00，延迟提交者该链接失效，请发送到邮箱：caojinzhou@sztu.edu.cn|
 |  7   | 聚类和分类算法实验                        |                                                                              |                                           |
 |  8  | 回归和关联分析算法实验                    |  ||
 |  9  | 数据可视化实验                   |   ||
