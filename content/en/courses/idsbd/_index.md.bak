@@ -95,7 +95,7 @@ Continuously, at your own pace.
 
 共享书单：
 
-{{< icon name="book" pack="fas" >}} [共享书单点击获取](https://bdi.sztu.edu.cn/)
+{{< icon name="book" pack="fas" >}} [共享书单点击获取](https://www.jianguoyun.com/p/DUgtxusQ0eXUChid8NYEIAA) (访问密码请咨询老师获取)
 
 数据科学领域的重要资源目录：
 
