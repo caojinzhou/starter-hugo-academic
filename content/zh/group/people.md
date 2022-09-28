@@ -6,7 +6,7 @@ active: true
 # ... Put Your Section Options Here (title etc.) ...
 weight: 100
 
-title: I'm waiting for you
+title: 招募成员中
 subtitle:
 
 content:
