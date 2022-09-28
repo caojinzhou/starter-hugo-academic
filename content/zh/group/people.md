@@ -33,4 +33,6 @@ design:
 {{% callout note %}}
 
 I invite outstanding students and researchers to join, please contact Dr. Cao for *[inquiry]({{< relref "/contact" >}})*.
+
+More Info, Please check the [{{% staticref "uploads/huskylab.pdf" "newtab" %}}document{{% /staticref %}}]
 {{% /callout %}}
