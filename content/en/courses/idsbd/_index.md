@@ -151,7 +151,7 @@ Continuously, at your own pace.
 - 期末时段，展示方式：PPT汇报+海报展示；实践报告1份，实践报告以论文模板标准撰写。
 
 
-建议选题，供大家参考（正在更新中）。
+**建议选题，供大家参考（正在更新中）**
 
  - 坪山地铁开通后房价预测；
  - 微博数据的社交关系研究；
@@ -188,7 +188,7 @@ Continuously, at your own pace.
 ## Class Schedule
 [{{% staticref "uploads/idsbd/2022_intro_数据科学与大数据导论.pdf" "newtab" %}}课程导言PPT{{% /staticref %}}]
 
-|Weeks |   Topics                                     | Lecture slides	                                                           | Assignments                                |
+|Weeks |   Topics                                     | Lecture slides	                                                           | Extra slides                                |
 |----- |:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
 |  1   | 大数据概述 Introduction to Big Data       |[{{% staticref "uploads/idsbd/2022_Chp1_大数据导论.pdf" "newtab" %}}Slides{{% /staticref %}}] |
 |  2   |  数据科学基础  Data Science Fundamentals  |[{{% staticref "uploads/idsbd/2022_Chp2_数据科学导言.pdf" "newtab" %}}Slides{{% /staticref %}}]|                                            |
