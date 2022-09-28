@@ -1,6 +1,6 @@
 ---
-title: Rui Cao
-role: Research Assistant Professor
+title: 曹瑞
+role: 研究助理教授
 avatar_filename: avatar.jpg
 bio: ""
 interests:
