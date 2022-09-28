@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Professional Appointment
+title: 工作经历
 subtitle:
 
 # Date format for experience

@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 论文
 cms_exclude: true
 type: "widget_page"
 
