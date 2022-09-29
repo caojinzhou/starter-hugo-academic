@@ -125,7 +125,7 @@ Continuously, at your own pace.
 
 2、第4周完成小组成员组队，小组成员不超过3人。
 
-3、第一阶段：提交项目介绍书（DUE WEEK 7），须包含以下内容：
+3、第一阶段：提交项目介绍书，篇幅至少2页，须包含以下内容：
 
 - 清晰的问题陈述/定义
 - 拟使用的数据介绍
@@ -150,17 +150,8 @@ Continuously, at your own pace.
 
 **建议选题，供大家参考（正在更新中）**
 
- - 坪山地铁开通后房价预测；
- - 微博数据的社交关系研究；
- - 【脱贫主题】基于夜光影像探测中国贫困地区；
- - 【碳排放】不同交通方式碳排放预测；
- - 【疫情】疫情前后全球航班数据集分析与可视化（可提供数据）
- - 轨迹预测
- - Covid19大规模公开病例数据的建模与可视化
- - POI
  - 深圳市便民核酸采样点位置及状态分析可视化
    - [参考数据](https://opendata.sz.gov.cn/data/dataSet/toDataDetails/29200_01503696)
- - 路径规划
  - 共享单车的时空分布不均及投放优化问题
    - [参考论文](http://www.dqxxkx.cn/CN/10.12082/dqxxkx.2022.210775)
  - 城市养老设施供需评估及规划布局研究
@@ -173,12 +164,32 @@ Continuously, at your own pace.
    - [参考论文](https://manu44.magtech.com.cn/Jwk_infotech_wk3/article/2022/2096-3467/2096-3467-6-7-56.shtml)
  - 极端天气（如台风、暴雨等）对地铁客流的影响研究
    - [参考论文](http://www.dqxxkx.cn/CN/10.12082/dqxxkx.2022.210373)
- - 虛假评论
- - 利用出租车轨迹数据识别城市中心
  - 夜间经济时空分布格局
    - [参考论文](http://www.dqxxkx.cn/CN/10.12082/dqxxkx.2022.210212)
  - 公共厕所布局合理性研究
    - [参考论文](http://www.dqxxkx.cn/CN/10.12082/dqxxkx.2022.210331)
+ - 全国大中城市路网可视化及比较研究
+   - [参考数据及案例](https://mp.weixin.qq.com/s/ilY1JVEXt4NokOa4G-w0kg)
+ - 基于百度迁徙数据分析人口移动
+   - [参考案例](https://mp.weixin.qq.com/s/J-StC_NDIy5-1HOAtDHUGw)
+ - 疫情之后大城市房价变换趋势
+   - [参考案例](https://mp.weixin.qq.com/s/pBGF_CTIxAI4eR5lX_UrPA)
+ - 疫情前后全球航班数据集分析与可视化
+  - [参考数据](https://mp.weixin.qq.com/s/Ks5N-fo59TaALuU0QzuU6Q)
+ - 基于夜光影像探测中国贫困地区
+  -[参考论文](https://mp.weixin.qq.com/s/lEvxt6ScIp5YFOXZmY7n4A)
+
+
+
+ - 坪山地铁开通后房价预测；
+ - 微博数据的社交关系研究；
+ - 【脱贫主题】
+ - 【碳排放】不同交通方式碳排放预测；
+ - 轨迹预测
+ - 虛假评论
+ - 利用出租车轨迹数据识别城市中心
+ - Covid19大规模公开病例数据的建模与可视化
+ - POI
 
 &nbsp;
 
