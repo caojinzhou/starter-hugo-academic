@@ -142,6 +142,12 @@ Continuously, at your own pace.
 - 研究计划（学期里程碑）
 - 小组成员分工
 
+请将项目介绍书word文档转成PDF格式上传至：
+
+[周一班上交截止时间：2022/10/20 21：00，点击此处](https://workspace.jianguoyun.com/inbox/collect/466cde2cac5347b1ba179acd70787c00/submitv2)；
+
+[周四班上交截止时间：2022/10/14 21：00，点击此处](https://workspace.jianguoyun.com/inbox/collect/3a4dda2fde354ebb9597209b09a63181/submitv2)
+
 4、第二阶段：进度展示：
 
 - 课堂PPT汇报，5页PPT，每小组5分钟
@@ -151,7 +157,7 @@ Continuously, at your own pace.
 - 期末时段，展示方式：PPT汇报+海报展示；实践报告1份，实践报告以论文模板标准撰写。
 
 
-建议选题，供大家参考（正在更新中）。
+**建议选题，供大家参考（正在更新中）**
 
  - 坪山地铁开通后房价预测；
  - 微博数据的社交关系研究；
@@ -188,7 +194,7 @@ Continuously, at your own pace.
 ## Class Schedule
 [{{% staticref "uploads/idsbd/2022_intro_数据科学与大数据导论.pdf" "newtab" %}}课程导言PPT{{% /staticref %}}]
 
-|Weeks |   Topics                                     | Lecture slides	                                                           | Assignments                                |
+|Weeks |   Topics                                     | Lecture slides	                                                           | Extra slides                                |
 |----- |:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
 |  1   | 大数据概述 Introduction to Big Data       |[{{% staticref "uploads/idsbd/2022_Chp1_大数据导论.pdf" "newtab" %}}Slides{{% /staticref %}}] |
 |  2   |  数据科学基础  Data Science Fundamentals  |[{{% staticref "uploads/idsbd/2022_Chp2_数据科学导言.pdf" "newtab" %}}Slides{{% /staticref %}}]|                                            |
@@ -217,7 +223,7 @@ Continuously, at your own pace.
 
 |Weeks |  Topics                          | Assignments	                                                           | Submission                                |
 |----- |:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  6   | 数据探索性分析实验               |[{{% staticref "uploads/idsbd/实验一.rar" "newtab" %}}实验一{{% /staticref %}}]   |[上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 实验一报告提交链接。（请确保学校实验报告封面+代码已正确合成成一个PDF格式）。提交截止时间2022/10/01 21:00，延迟提交者该链接失效，请发送到邮箱：caojinzhou@sztu.edu.cn|
+|  6   | 数据探索性分析实验               |[{{% staticref "uploads/idsbd/实验一.rar" "newtab" %}}实验一{{% /staticref %}}]   |[周一班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 实验一报告提交链接。（请确保学校实验报告封面+代码已正确合成成一个PDF格式）。提交截止时间2022/10/01 21:00，延迟提交者该链接失效，请发送到邮箱：caojinzhou@sztu.edu.cn|
 |  7   | 聚类和分类算法实验                        |                                                                              |                                           |
 |  8  | 回归和关联分析算法实验                    |  ||
 |  9  | 数据可视化实验                   |   ||

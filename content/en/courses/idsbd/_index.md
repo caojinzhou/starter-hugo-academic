@@ -142,7 +142,11 @@ Continuously, at your own pace.
 - 研究计划（学期里程碑）
 - 小组成员分工
 
-请将项目介绍书word文档转成PDF格式上传至：[周一班上交截止时间：2022/10/20 21：00，点击此处](https://workspace.jianguoyun.com/inbox/collect/466cde2cac5347b1ba179acd70787c00/submitv2)；[周四班上交截止时间：2022/10/14 21：00，点击此处](https://workspace.jianguoyun.com/inbox/collect/3a4dda2fde354ebb9597209b09a63181/submitv2)
+请将项目介绍书word文档转成PDF格式上传至：
+
+[周一班上交截止时间：2022/10/20 21：00，点击此处](https://workspace.jianguoyun.com/inbox/collect/466cde2cac5347b1ba179acd70787c00/submitv2)；
+
+[周四班上交截止时间：2022/10/14 21：00，点击此处](https://workspace.jianguoyun.com/inbox/collect/3a4dda2fde354ebb9597209b09a63181/submitv2)
 
 4、第二阶段：进度展示：
 
