@@ -35,7 +35,7 @@ organizations:
 education:
   courses:
     - course: 地理信息系统博士
-      institution: LIESMARS, Wuhan University
+      institution: 武汉大学测绘遥感信息工程国家重点实验室
       year: 2013-2019
     - course: Joint Ph.D. in THINK LAB
       institution: School of Civil and Environmental Engineering, University of Washington
