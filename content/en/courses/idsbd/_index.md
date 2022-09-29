@@ -177,7 +177,7 @@ Continuously, at your own pace.
  - 疫情前后全球航班数据集分析与可视化
   - [参考数据](https://mp.weixin.qq.com/s/Ks5N-fo59TaALuU0QzuU6Q)
  - 基于夜光影像探测中国贫困地区
-  -[参考论文](https://mp.weixin.qq.com/s/lEvxt6ScIp5YFOXZmY7n4A)
+  - [参考论文](https://mp.weixin.qq.com/s/lEvxt6ScIp5YFOXZmY7n4A)
 
 
 
