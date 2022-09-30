@@ -21,7 +21,7 @@ design:
   columns: '2'
 ---
 - :mega:**Sep 2022:**  *HUSKY* 智慧城市与大数据创新实验室图标发布 {{< staticref "uploads/husky logo.png" "newtab" >}}[下载]{{< /staticref >}}.
-- 
+
 - :mega:**Sep 2022:**  实验室学生成员招募中 [[详细了解]]({{< relref "/group" >}}).
 
 - :school:**Aug 2022:**  面向2021级数科专业的专业必修课 *数据科学与大数据导论* 2022年秋季学期开设中 [[课程网页]]({{< relref "/courses/idsbd" >}}).
