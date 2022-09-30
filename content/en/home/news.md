@@ -21,7 +21,7 @@ design:
   columns: '2'
 ---
 
-- :mega:**Sep 2022:**  Our *HUSKY Lab* Logo is new released {{< staticref "uploads/husky logo.png" "newtab" >}}[Download]{{< /staticref >}}.
+- :mega:**Sep 2022:**  Our *HUSKY Research Group* Logo is new released {{< staticref "uploads/husky logo.png" "newtab" >}}[Download]{{< /staticref >}}.
 
 - :mega:**Sep 2022:**  Research Student-members opportunities in the *HUSKY, SZTU* [[More]]({{< relref "/group" >}}).
 

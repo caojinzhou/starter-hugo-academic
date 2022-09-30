@@ -9,7 +9,7 @@ active: false
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: 联系方式
 subtitle:
 
 content:
@@ -30,10 +30,10 @@ content:
   phone: 888 888 88 88
   address:
     street: 3002 Lantian Road, Pingshan District
-    city: Shenzhen
-    region: Guangdong
+    city: 深圳市
+    region: 广东省
     postcode: '94305'
-    country: China
+    country: 中国
     country_code: CH
   coordinates:
     latitude: '22.70142'
@@ -46,7 +46,7 @@ content:
   contact_links:
     - icon: weixin
       icon_pack: fab
-      name: Wechat Me
+      name: 微信
       link: uploads/weixin.jpg
     - icon: video
       icon_pack: fas

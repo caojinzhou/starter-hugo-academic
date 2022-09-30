@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent News
+title: 最新新闻
 subtitle: 
 
 design:
@@ -20,11 +20,13 @@ design:
   view: list
   columns: '2'
 ---
-- :mega:**Sep 2022:**  Research Student-members opportunities in the *HUSKY, SZTU* [[More]]({{< relref "/group" >}}).
+- :mega:**Sep 2022:**  *HUSKY* 智慧城市与大数据创新实验室图标发布 {{< staticref "uploads/husky logo.png" "newtab" >}}[下载]{{< /staticref >}}.
+- 
+- :mega:**Sep 2022:**  实验室学生成员招募中 [[详细了解]]({{< relref "/group" >}}).
 
-- :school:**Aug 2022:**  The course *Introducation to Data Science and Big Data（数据科学与大数据导论）* taught by me will be started from new semester 2022 [[course page]]({{< relref "/courses/idsbd" >}}).
+- :school:**Aug 2022:**  面向2021级数科专业的专业必修课 *数据科学与大数据导论* 2022年秋季学期开设中 [[课程网页]]({{< relref "/courses/idsbd" >}}).
 
-- :school:**Apr 2022:**  The course *Digital Image Processing* taught by me will be started from 6 Apr 2022 [[course page]]({{< relref "/courses/DIP" >}}).
+- :school:**Apr 2022:**  面向2020级计科专业的专业选修课 *数字图像处理* 2022年春季学期开设中 [[课程网页]]({{< relref "/courses/DIP" >}}).
 
 - :mega:**Apr 2022:**  I will be a tenure-track Assistant Professor at the *Shenzhen Technology University* with the *College of Big Data and Internet*.
 
