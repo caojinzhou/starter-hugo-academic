@@ -15,7 +15,7 @@ design:
     gradient_start: ""
     gradient_end: ""
     text_color_light: true
-    image: dsc.jpg
+    image: dsc2.jpeg
   spacing:
     padding:
       - 1000px
@@ -26,4 +26,4 @@ design:
       - "0"
 ---
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<div style="text-align: right"> <span style="color:lightgray">The Library of Shenzhen Technology University, Guangdong, China </span></div>
+<div style="text-align: right"> <span style="color:lightgray">Shenzhen Technology University, Guangdong, China </span></div>
