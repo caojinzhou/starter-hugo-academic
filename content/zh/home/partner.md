@@ -10,7 +10,7 @@ avatar:
   gravatar: false
   shape: square
   
-title: Academic Partnership
+title: 学术合作
 subtitle:
 
 content:

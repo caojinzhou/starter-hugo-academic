@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: 最新新闻
+title: 最新进展
 subtitle: 
 
 design:
