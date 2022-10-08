@@ -189,6 +189,7 @@ Continuously, at your own pace.
  - 识别虚假评论
  - Covid19大规模公开病例数据的建模与可视化
 
+更多数据，可以微信关注公众号：皮皮数据侠，立方数据学社。
 &nbsp;
 
 ## Class Schedule
