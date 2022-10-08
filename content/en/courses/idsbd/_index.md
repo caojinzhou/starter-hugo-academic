@@ -179,8 +179,6 @@ Continuously, at your own pace.
  - 基于夜光影像探测中国贫困地区
   - [参考论文](https://mp.weixin.qq.com/s/lEvxt6ScIp5YFOXZmY7n4A)
 
-
-
  - 坪山地铁开通后房价预测；
  - 微博数据的社交关系研究；
  - 【脱贫主题】
@@ -196,26 +194,26 @@ Continuously, at your own pace.
 ## Class Schedule
 [{{% staticref "uploads/idsbd/2022_intro_数据科学与大数据导论.pdf" "newtab" %}}课程导言PPT{{% /staticref %}}]
 
-|Weeks |   Topics                                     | Lecture slides	                                                           | Extra slides                                |
-|----- |:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  1   | 大数据概述 Introduction to Big Data       |[{{% staticref "uploads/idsbd/2022_Chp1_大数据导论.pdf" "newtab" %}}Slides{{% /staticref %}}] |
-|  2   |  数据科学基础  Data Science Fundamentals  |[{{% staticref "uploads/idsbd/2022_Chp2_数据科学导言.pdf" "newtab" %}}Slides{{% /staticref %}}]|                                            |
-|  3   |  大数据处理基础 Big Data Analytics Fundamentals[1]                     | [{{% staticref "uploads/idsbd/2022_Chp3_数据采集.pdf" "newtab" %}}数据采集Slides{{% /staticref %}}];[{{% staticref "uploads/idsbd/2022_Chp3_数据模型.pdf" "newtab" %}}数据模型Slides{{% /staticref %}}]   |                                            |
-|  4  |  大数据处理基础 Big Data Analytics Fundamentals[2]                  |                                                                              |                |
-| 5  |  数据统计基础[1] Data Statistics Fundamentals                  |                                                                              |                                            |
-|  6  | 数据统计基础[2] Data Statistics Fundamentals                |                                                                              |                                            |
-|  7  |  大数据分析算法[1]（聚类、分类） Big Data Analytics Algorithms (Clustering and Classification)              |                                                                              |             |
-|  8  |  大数据分析算法[2]（回归、关联分析） Big Data Analytics Algorithms (Regression and Association Analysis)                 |                                                                              |                                            |
-|  9 | 大数据可视化 Big Data Visualization                 |                                                                              |   |
-|  10  |  大数据处理平台、工具和数据存储 Big Data Platforms and Tools and Data Storage|                                                                              | |
-|  11  | 专题1：城市大数据科学[1]  Urban data science                   |                                                                              |           |
-|  12  |  专题1：城市大数据科学[2] Urban data science                     |                                                                              |          |
-|  13  |  专题2：图数据计算[1] Graph data computing                     |                                                                              |          |
-|  14  |  专题2：图数据计算[2] Graph data computing                     |                                                                              |          |
-|  15  |  专题3：文本挖掘[1] Text Mining                    |                                                                              |          |
-|  16  |  专题3：文本挖掘 [2] Text Mining                      |                                                                              |          |
-|  17  | 专题4：人工智能与深度学习 AI and Deep learning                     |                                                                              |          |
-|  18  |  复习与答疑                      |                                                                              |          |
+|Weeks | Topics                                                                                  | Lecture slides	                                                           | Extra slides                                |
+|----- |:----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
+|  1   | 大数据概述 Introduction to Big Data                                                          |[{{% staticref "uploads/idsbd/2022_Chp1_大数据导论.pdf" "newtab" %}}Slides{{% /staticref %}}] |
+|  2   | 数据科学基础  Data Science Fundamentals                                                       |[{{% staticref "uploads/idsbd/2022_Chp2_数据科学导言.pdf" "newtab" %}}Slides{{% /staticref %}}]|                                            |
+|  3   | 大数据处理基础 Big Data Analytics Fundamentals[1] 数据采集，数据模型                                    | [{{% staticref "uploads/idsbd/2022_Chp3_数据采集.pdf" "newtab" %}}数据采集Slides{{% /staticref %}}];[{{% staticref "uploads/idsbd/2022_Chp3_数据模型.pdf" "newtab" %}}数据模型Slides{{% /staticref %}}]   |                                            |
+|  4  | 大数据处理基础 Big Data Analytics Fundamentals[2] 数据预处理                                        |                                                                              |                |
+| 5  | 大数据处理基础 Big Data Analytics Fundamentals[3] 数据探索性分析                                      |                                                                              |                                            |
+|  6  | 大数据分析算法[1]（聚类） Big Data Analytics Algorithms (Clustering)                               |                                                                              |                                            |
+|  7  | 大数据分析算法[2]（分类） Big Data Analytics Algorithms (Classification)                           |                                                                              |             |
+|  8  | 大数据分析算法[3]（回归、关联分析） Big Data Analytics Algorithms (Regression and Association Analysis) |                                                                              |                                            |
+|  9 | 大数据可视化 Big Data Visualization                                                           |                                                                              |   |
+|  10  | 大数据处理平台、工具和数据存储 Big Data Platforms and Tools and Data Storage                           |                                                                              | |
+|  11  | 专题1：城市大数据科学[1]  Urban data science                                                      |                                                                              |           |
+|  12  | 专题1：城市大数据科学[2] Urban data science                                                       |                                                                              |          |
+|  13  | 专题2：图数据计算[1] Graph data computing                                                       |                                                                              |          |
+|  14  | 专题2：图数据计算[2] Graph data computing                                                       |                                                                              |          |
+|  15  | 专题3：文本挖掘[1] Text Mining                                                                 |                                                                              |          |
+|  16  | 专题3：文本挖掘 [2] Text Mining                                                                |                                                                              |          |
+|  17  | 专题4：人工智能与深度学习 AI and Deep learning                                                      |                                                                              |          |
+|  18  | 复习与答疑                                                                                   |                                                                              |          |
 
 
 ## Experimental Project
@@ -223,17 +221,17 @@ Continuously, at your own pace.
 [{{% staticref "uploads/idsbd/入门基础.pptx" "newtab" %}}Python入门基础{{% /staticref %}}]
 
 
-|Weeks |  Topics                          | Assignments	                                                           | Submission                                |
-|----- |:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  6   | 数据探索性分析实验               |[{{% staticref "uploads/idsbd/实验一.rar" "newtab" %}}实验一{{% /staticref %}}]   |【[周一班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 】【[周四班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/4df5f0d0829849c4b4a33d4e1096f809/submitv2)】（请确保学校实验报告封面+代码已正确合成成一个PDF格式）。延迟提交者该链接失效，请发送到邮箱：caojinzhou@sztu.edu.cn|
-|  7   | 聚类和分类算法实验                        |                                                                              |                                           |
-|  8  | 回归和关联分析算法实验                    |  ||
-|  9  | 数据可视化实验                   |   ||
-|  10  | 数据库操作实验             |                                                                             |                                            |
-|  11  | 城市大数据分析与实践[1]                |                                                                             |            |
-|  12  | 城市大数据分析与实践[2]   |                                                                              |                                            |
-|  13  | 图数据计算实验[1]                  |                                                                              |   |
-|  14  | 图数据计算实验[2]|                                                                              | |
+|Weeks |  Topics                          | Assignments	                                                              | Submission                                |
+|----- |:--------------------------------|---------------------------------------------------------------------------|--------------------------------------------|
+|  6   | 数据探索性分析实验               | [{{% staticref "uploads/idsbd/实验一.rar" "newtab" %}}实验一{{% /staticref %}}] |【[周一班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 】【[周四班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/4df5f0d0829849c4b4a33d4e1096f809/submitv2)】（请确保学校实验报告封面+代码已正确合成成一个PDF格式）。延迟提交者该链接失效，请发送到邮箱：caojinzhou@sztu.edu.cn|
+|  7   | 聚类和分类算法实验                        | [{{% staticref "uploads/idsbd/实验2.zip" "newtab" %}}实验二{{% /staticref %}}] |                                           |
+|  8  | 回归和关联分析算法实验                    |                                                                           ||
+|  9  | 数据可视化实验                   |                                                                           ||
+|  10  | 数据库操作实验             |                                                                           |                                            |
+|  11  | 城市大数据分析与实践[1]                |                                                                           |            |
+|  12  | 城市大数据分析与实践[2]   |                                                                           |                                            |
+|  13  | 图数据计算实验[1]                  |                                                                           |   |
+|  14  | 图数据计算实验[2]|                                                                           | |
 
 
 &nbsp;
