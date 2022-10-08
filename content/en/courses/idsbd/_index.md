@@ -175,19 +175,41 @@ Continuously, at your own pace.
  - 疫情之后大城市房价变换趋势
    - [参考案例](https://mp.weixin.qq.com/s/pBGF_CTIxAI4eR5lX_UrPA)
  - 疫情前后全球航班数据集分析与可视化
-  - [参考数据](https://mp.weixin.qq.com/s/Ks5N-fo59TaALuU0QzuU6Q)
+   - [参考数据](https://mp.weixin.qq.com/s/Ks5N-fo59TaALuU0QzuU6Q)
  - 基于夜光影像探测中国贫困地区
-  - [参考论文](https://mp.weixin.qq.com/s/lEvxt6ScIp5YFOXZmY7n4A)
+   - [参考论文](https://mp.weixin.qq.com/s/lEvxt6ScIp5YFOXZmY7n4A)
+ - 2022年度中国流动人口动态监测调查数据分析
+   - [参考资料](https://mp.weixin.qq.com/s/kFPqf2qkjQ0Yny4yYlN5ow)
+ - 2022武汉开放数据应用创新大赛数据和题目参考
+   - [比赛信息](https://mp.weixin.qq.com/s/Rm2Uwrgak2KqVLhOxV20gQ)
+ - 2022上海开放数据创新应用大赛数据和题目参考
+   - [官方网站](http://soda.data.sh.gov.cn/)
+ - 2022浙江数据开放创新应用大赛数据和题目参考
+   - [官方网站](https://odic.zjzwfw.gov.cn/)
+  
 
- - 坪山地铁开通后房价预测；
- - 微博数据的社交关系研究；
- - 【脱贫主题】
- - 【碳排放】不同交通方式碳排放预测；
- - 轨迹预测
- - 虛假评论
- - 利用出租车轨迹数据识别城市中心
- - Covid19大规模公开病例数据的建模与可视化
- - POI
+
+
+
+
+
+
+[//]: # ()
+[//]: # ( - 坪山地铁开通后房价预测；)
+
+[//]: # ( - 微博数据的社交关系研究；)
+
+[//]: # ( - 【碳排放】不同交通方式碳排放预测；)
+
+[//]: # ( - 轨迹预测)
+
+[//]: # ( - 虛假评论)
+
+[//]: # ( - 利用出租车轨迹数据识别城市中心)
+
+[//]: # ( - Covid19大规模公开病例数据的建模与可视化)
+
+[//]: # ( - POI)
 
 &nbsp;
 
