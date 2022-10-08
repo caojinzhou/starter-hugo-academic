@@ -175,19 +175,36 @@ Continuously, at your own pace.
  - 疫情之后大城市房价变换趋势
    - [参考案例](https://mp.weixin.qq.com/s/pBGF_CTIxAI4eR5lX_UrPA)
  - 疫情前后全球航班数据集分析与可视化
-  - [参考数据](https://mp.weixin.qq.com/s/Ks5N-fo59TaALuU0QzuU6Q)
+   - [参考数据](https://mp.weixin.qq.com/s/Ks5N-fo59TaALuU0QzuU6Q)
  - 基于夜光影像探测中国贫困地区
-  - [参考论文](https://mp.weixin.qq.com/s/lEvxt6ScIp5YFOXZmY7n4A)
+   - [参考论文](https://mp.weixin.qq.com/s/lEvxt6ScIp5YFOXZmY7n4A)
+ - 2022年度中国流动人口动态监测调查数据分析
+   - [参考资料](https://mp.weixin.qq.com/s/kFPqf2qkjQ0Yny4yYlN5ow)
+ - 2022武汉开放数据应用创新大赛数据和题目参考
+   - [比赛信息](https://mp.weixin.qq.com/s/Rm2Uwrgak2KqVLhOxV20gQ)
+ - 2022上海开放数据创新应用大赛数据和题目参考
+   - [官方网站](http://soda.data.sh.gov.cn/)
+ - 2022浙江数据开放创新应用大赛数据和题目参考
+   - [官方网站](https://odic.zjzwfw.gov.cn/)
+  
+ 
 
- - 坪山地铁开通后房价预测；
- - 微博数据的社交关系研究；
- - 【脱贫主题】
- - 【碳排放】不同交通方式碳排放预测；
- - 轨迹预测
- - 虛假评论
- - 利用出租车轨迹数据识别城市中心
- - Covid19大规模公开病例数据的建模与可视化
- - POI
+[//]: # ()
+[//]: # ( - 坪山地铁开通后房价预测；)
+
+[//]: # ( - 微博数据的社交关系研究；)
+
+[//]: # ( - 【碳排放】不同交通方式碳排放预测；)
+
+[//]: # ( - 轨迹预测)
+
+[//]: # ( - 虛假评论)
+
+[//]: # ( - 利用出租车轨迹数据识别城市中心)
+
+[//]: # ( - Covid19大规模公开病例数据的建模与可视化)
+
+[//]: # ( - POI)
 
 &nbsp;
 
@@ -221,17 +238,17 @@ Continuously, at your own pace.
 [{{% staticref "uploads/idsbd/入门基础.pptx" "newtab" %}}Python入门基础{{% /staticref %}}]
 
 
-|Weeks |  Topics                          | Assignments	                                                              | Submission                                |
-|----- |:--------------------------------|---------------------------------------------------------------------------|--------------------------------------------|
-|  6   | 数据探索性分析实验               | [{{% staticref "uploads/idsbd/实验一.rar" "newtab" %}}实验一{{% /staticref %}}] |【[周一班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 】【[周四班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/4df5f0d0829849c4b4a33d4e1096f809/submitv2)】（请确保学校实验报告封面+代码已正确合成成一个PDF格式）。延迟提交者该链接失效，请发送到邮箱：caojinzhou@sztu.edu.cn|
-|  7   | 聚类和分类算法实验                        | [{{% staticref "uploads/idsbd/实验2.zip" "newtab" %}}实验二{{% /staticref %}}] |                                           |
+|Weeks |  Topics                          | Assignments	                                                              | Submission                                                                                                                                                                                                                                                                            |
+|----- |:--------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  6   | 数据探索性分析实验               | [{{% staticref "uploads/idsbd/实验一.rar" "newtab" %}}实验一{{% /staticref %}}] | 【[周一班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 】【[周四班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/4df5f0d0829849c4b4a33d4e1096f809/submitv2)】（请确保学校实验报告封面+代码已正确合成成一个PDF格式）。延迟提交者该链接失效，请发送到邮箱：caojinzhou@sztu.edu.cn |
+|  7   | 聚类和分类算法实验                        | [{{% staticref "uploads/idsbd/实验2.zip" "newtab" %}}实验二{{% /staticref %}}] | 【[周四班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/1258a2fc23dc4348ac432cc2bf836659/submitv2)】                                                                                                                                                                               |
 |  8  | 回归和关联分析算法实验                    |                                                                           ||
 |  9  | 数据可视化实验                   |                                                                           ||
-|  10  | 数据库操作实验             |                                                                           |                                            |
-|  11  | 城市大数据分析与实践[1]                |                                                                           |            |
-|  12  | 城市大数据分析与实践[2]   |                                                                           |                                            |
-|  13  | 图数据计算实验[1]                  |                                                                           |   |
-|  14  | 图数据计算实验[2]|                                                                           | |
+|  10  | 数据库操作实验             |                                                                           |                                                                                                                                                                                                                                                                                       |
+|  11  | 城市大数据分析与实践[1]                |                                                                           |                                                                                                                                                                                                                                                                                       |
+|  12  | 城市大数据分析与实践[2]   |                                                                           |                                                                                                                                                                                                                                                                                       |
+|  13  | 图数据计算实验[1]                  |                                                                           |                                                                                                                                                                                                                                                                                       |
+|  14  | 图数据计算实验[2]|                                                                           |                                                                                                                                                                                                                                                                                       |
 
 
 &nbsp;
