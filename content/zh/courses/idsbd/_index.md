@@ -196,26 +196,26 @@ Continuously, at your own pace.
 ## Class Schedule
 [{{% staticref "uploads/idsbd/2022_intro_数据科学与大数据导论.pdf" "newtab" %}}课程导言PPT{{% /staticref %}}]
 
-|Weeks |   Topics                                     | Lecture slides	                                                           | Extra slides                                |
-|----- |:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  1   | 大数据概述 Introduction to Big Data       |[{{% staticref "uploads/idsbd/2022_Chp1_大数据导论.pdf" "newtab" %}}Slides{{% /staticref %}}] |
-|  2   |  数据科学基础  Data Science Fundamentals  |[{{% staticref "uploads/idsbd/2022_Chp2_数据科学导言.pdf" "newtab" %}}Slides{{% /staticref %}}]|                                            |
-|  3   |  大数据处理基础 Big Data Analytics Fundamentals[1]                     | [{{% staticref "uploads/idsbd/2022_Chp3_数据采集.pdf" "newtab" %}}数据采集Slides{{% /staticref %}}];[{{% staticref "uploads/idsbd/2022_Chp3_数据模型.pdf" "newtab" %}}数据模型Slides{{% /staticref %}}]   |                                            |
-|  4  |  大数据处理基础 Big Data Analytics Fundamentals[2]                  |                                                                              |                |
-| 5  |  数据统计基础[1] Data Statistics Fundamentals                  |                                                                              |                                            |
-|  6  | 数据统计基础[2] Data Statistics Fundamentals                |                                                                              |                                            |
-|  7  |  大数据分析算法[1]（聚类、分类） Big Data Analytics Algorithms (Clustering and Classification)              |                                                                              |             |
-|  8  |  大数据分析算法[2]（回归、关联分析） Big Data Analytics Algorithms (Regression and Association Analysis)                 |                                                                              |                                            |
-|  9 | 大数据可视化 Big Data Visualization                 |                                                                              |   |
-|  10  |  大数据处理平台、工具和数据存储 Big Data Platforms and Tools and Data Storage|                                                                              | |
-|  11  | 专题1：城市大数据科学[1]  Urban data science                   |                                                                              |           |
-|  12  |  专题1：城市大数据科学[2] Urban data science                     |                                                                              |          |
-|  13  |  专题2：图数据计算[1] Graph data computing                     |                                                                              |          |
-|  14  |  专题2：图数据计算[2] Graph data computing                     |                                                                              |          |
-|  15  |  专题3：文本挖掘[1] Text Mining                    |                                                                              |          |
-|  16  |  专题3：文本挖掘 [2] Text Mining                      |                                                                              |          |
-|  17  | 专题4：人工智能与深度学习 AI and Deep learning                     |                                                                              |          |
-|  18  |  复习与答疑                      |                                                                              |          |
+|Weeks | Topics                                                                                  | Lecture slides	                                                           | Extra slides                                |
+|----- |:----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
+|  1   | 大数据概述 Introduction to Big Data                                                          |[{{% staticref "uploads/idsbd/2022_Chp1_大数据导论.pdf" "newtab" %}}Slides{{% /staticref %}}] |
+|  2   | 数据科学基础  Data Science Fundamentals                                                       |[{{% staticref "uploads/idsbd/2022_Chp2_数据科学导言.pdf" "newtab" %}}Slides{{% /staticref %}}]|                                            |
+|  3   | 大数据处理基础 Big Data Analytics Fundamentals[1] 数据采集，数据模型                                    | [{{% staticref "uploads/idsbd/2022_Chp3_数据采集.pdf" "newtab" %}}数据采集Slides{{% /staticref %}}];[{{% staticref "uploads/idsbd/2022_Chp3_数据模型.pdf" "newtab" %}}数据模型Slides{{% /staticref %}}]   |                                            |
+|  4  | 大数据处理基础 Big Data Analytics Fundamentals[2] 数据预处理                                        |                                                                              |                |
+| 5  | 大数据处理基础 Big Data Analytics Fundamentals[3] 数据探索性分析                                      |                                                                              |                                            |
+|  6  | 大数据分析算法[1]（聚类） Big Data Analytics Algorithms (Clustering)                               |                                                                              |                                            |
+|  7  | 大数据分析算法[2]（分类） Big Data Analytics Algorithms (Classification)                           |                                                                              |             |
+|  8  | 大数据分析算法[3]（回归、关联分析） Big Data Analytics Algorithms (Regression and Association Analysis) |                                                                              |                                            |
+|  9 | 大数据可视化 Big Data Visualization                                                           |                                                                              |   |
+|  10  | 大数据处理平台、工具和数据存储 Big Data Platforms and Tools and Data Storage                           |                                                                              | |
+|  11  | 专题1：城市大数据科学[1]  Urban data science                                                      |                                                                              |           |
+|  12  | 专题1：城市大数据科学[2] Urban data science                                                       |                                                                              |          |
+|  13  | 专题2：图数据计算[1] Graph data computing                                                       |                                                                              |          |
+|  14  | 专题2：图数据计算[2] Graph data computing                                                       |                                                                              |          |
+|  15  | 专题3：文本挖掘[1] Text Mining                                                                 |                                                                              |          |
+|  16  | 专题3：文本挖掘 [2] Text Mining                                                                |                                                                              |          |
+|  17  | 专题4：人工智能与深度学习 AI and Deep learning                                                      |                                                                              |          |
+|  18  | 复习与答疑                                                                                   |                                                                              |          |
 
 
 ## Experimental Project
