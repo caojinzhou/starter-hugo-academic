@@ -23,7 +23,7 @@ design:
 
 - :mega:**Sep 2022:**  Our *HUSKY Research Group* Logo is new released {{< staticref "uploads/husky logo.png" "newtab" >}}[Download]{{< /staticref >}}.
 
-- :mega:**Sep 2022:**  Research Student-members opportunities in the *HUSKY, SZTU* [[More]]({{< relref "/group" >}}).
+- :mega:**Sep 2022:**  Looking for self-motivated students to work with me at *HUSKY, SZTU*. Please feel free to drop me an email with your CV.  [[More]]({{< relref "/group" >}}).
 
 - :school:**Aug 2022:**  The course *Introducation to Data Science and Big Data（数据科学与大数据导论）* taught by me will be started from new semester 2022 [[course page]]({{< relref "/courses/idsbd" >}}).
 
