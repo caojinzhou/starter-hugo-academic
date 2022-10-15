@@ -28,7 +28,7 @@ design:
 
 - :school:**Apr 2022:**  面向2020级计科专业的专业选修课 *数字图像处理* 2022年春季学期开设中 [[课程网页]]({{< relref "/courses/DIP" >}}).
 
-- :mega:**Apr 2022:**  I will be a tenure-track Assistant Professor at the *Shenzhen Technology University* with the *College of Big Data and Internet*.
+- :mega:**Apr 2022:**  即将入职 *深圳技术大学大数据与互联网学院* 助理教授.
 
 - :page_with_curl:**Mar 2022:**  New [[paper]](https://www.isprs2022-nice.com/) on GDP Prediction has been accepted by *ISPRS Congress*.
 
