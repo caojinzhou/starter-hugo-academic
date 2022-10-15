@@ -197,7 +197,7 @@ Continuously, at your own pace.
 
 |Weeks | Topics                                                                                  | Lecture slides	                                                           | Extra slides |
 |----- |:----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------|
-|  1   | 大数据概述 Introduction to Big Data                                                          |[{{% staticref "uploads/idsbd/2022_Chp1_大数据导论.pdf" "newtab" %}}Slides{{% /staticref %}}] |
+|  1   | 大数据概述 Introduction to Big Data                                                          |[{{% staticref "uploads/idsbd/2022-Chp1-大数据导论.pdf" "newtab" %}}Slides{{% /staticref %}}] |
 |  2   | 数据科学基础  Data Science Fundamentals                                                       |[{{% staticref "uploads/idsbd/2022_Chp2_数据科学导言.pdf" "newtab" %}}Slides{{% /staticref %}}]|         |
 |  3   | 大数据处理基础 Big Data Analytics Fundamentals[1] 数据采集，数据模型                                    | [{{% staticref "uploads/idsbd/2022_Chp3_数据采集.pdf" "newtab" %}}数据采集Slides{{% /staticref %}}];[{{% staticref "uploads/idsbd/2022_Chp3_数据模型.pdf" "newtab" %}}数据模型Slides{{% /staticref %}}]   |         |
 |  4  | 大数据处理基础 Big Data Analytics Fundamentals[2] 数据预处理                                        |                                                                              | 扩展学习：   |
