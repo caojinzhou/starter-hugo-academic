@@ -139,6 +139,9 @@ Continuously, at your own pace.
 
 [周四班上交截止时间：2022/10/14 21：00，点击此处](https://workspace.jianguoyun.com/inbox/collect/3a4dda2fde354ebb9597209b09a63181/submitv2)
 
+[周四班计划书老师批注查看，点击此处](https://www.jianguoyun.com/p/DVc3Lj4Q9qv3BRihp98EIAA)
+
+
 4、第二阶段：进度展示：
 
 - 课堂PPT汇报，5页PPT，每小组5分钟
