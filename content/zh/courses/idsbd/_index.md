@@ -237,7 +237,6 @@ Continuously, at your own pace.
 |  13  | 图数据计算实验[1]                  |                                                                             |                                                                                                                                                                                                                                                                                      |
 |  14  | 图数据计算实验[2]|                                                                             |                                                                                                                                                                                                                                                                                      |
 
-https://workspace.jianguoyun.com/inbox/collect/6f07d31e2fdb4b2d8e5d18e01436fae5/submitv2
 &nbsp;
 
 ## Meet your instructor
