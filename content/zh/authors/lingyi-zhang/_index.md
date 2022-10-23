@@ -1,6 +1,6 @@
 ---
-title: Rui Cao
-role: Research Assistant Professor
+title: 张灵怡
+role: 智慧城市与大数据创新实验室
 avatar_filename: avatar.jpg
 bio: ""
 interests:

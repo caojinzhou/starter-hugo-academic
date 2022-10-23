@@ -1,5 +1,5 @@
 ---
-title: Rui Cao
+title: Lingyi Zhang
 role: Research Assistant Professor
 avatar_filename: avatar.jpg
 bio: ""
