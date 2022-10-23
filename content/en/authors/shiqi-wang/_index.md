@@ -18,5 +18,6 @@ organizations:
 superuser: false
 user_groups:
   - Undergraduate students
+
 ---
 Shiqi Wang is currently a Undergraduate student at Shenzhen Technology University.Her research interests lie in the study of human behavior patterns and psychology based on big data. She has won the second prize in National Competition of the "2021 RoboCom Robot Developer Competition" Robot Hound Competition, the H Prize of the American Collegiate Mathematical Modeling Competition, and the second prize of the provincial competition of the National Collegiate Mathematical Modeling Competition.
