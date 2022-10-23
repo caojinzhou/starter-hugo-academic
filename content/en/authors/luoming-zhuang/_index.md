@@ -1,6 +1,6 @@
 ---
 title: LUOMI
-role: student
+role: Undergraduate Student
 avatar_filename: avatar.jpg
 bio: ""
 interests:

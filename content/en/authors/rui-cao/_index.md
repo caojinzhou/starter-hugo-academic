@@ -1,6 +1,6 @@
 ---
 title: Rui Cao
-role: Research Assistant Professor
+role: Undergraduate Student
 avatar_filename: avatar.jpg
 bio: ""
 interests:

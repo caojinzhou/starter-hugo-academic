@@ -1,6 +1,6 @@
 ---
 title: Haochao Zhang
-role: Smart City and Big Data Innovation Lab
+role: Undergraduate Student
 avatar_filename: Haochao Zhang.jpg
 bio: ""
 interests:

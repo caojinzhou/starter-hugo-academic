@@ -1,6 +1,6 @@
 ---
 title: Shengfeng Huang
-role: HUSKY Research Group
+role: Undergraduate Student
 avatar_filename: Shengfeng Huang.jpg
 bio: ""
 interests:

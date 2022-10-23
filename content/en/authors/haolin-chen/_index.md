@@ -1,6 +1,6 @@
 ---
 title: Haolin Chen
-role: 
+role: Undergraduate Student
 avatar_filename: avatar.jpg
 bio: ""
 interests:

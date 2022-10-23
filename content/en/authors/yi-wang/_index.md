@@ -1,6 +1,6 @@
 ---
 title: Yi Wang
-role: undergraduate
+role: Undergraduate Student
 avatar_filename: YiWang.jpg
 bio: ""
 interests:
