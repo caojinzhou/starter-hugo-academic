@@ -1,6 +1,6 @@
 ---
 title: 陈浩林
-role: 
+role: 本科生
 avatar_filename: avatar.jpg
 bio: ""
 interests:

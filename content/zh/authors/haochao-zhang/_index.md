@@ -1,6 +1,6 @@
 ---
 title: 张浩朝
-role: 智慧城市与大数据创新实验室实验员
+role: 本科生
 avatar_filename: Haochao Zhang.jpg
 bio: ""
 interests:

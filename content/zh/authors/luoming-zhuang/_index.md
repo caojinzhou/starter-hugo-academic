@@ -1,6 +1,6 @@
 ---
 title: 庄洛明
-role: 学生
+role: 本科生
 avatar_filename: avatar.jpg
 bio: ""
 interests:

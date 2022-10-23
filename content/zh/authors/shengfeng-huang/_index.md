@@ -1,6 +1,6 @@
 ---
 title: 黄胜锋
-role: 智慧城市与大数据创新实验室
+role: 本科生
 avatar_filename: Shengfeng Huang.jpg
 bio: ""
 interests:
