@@ -13,8 +13,8 @@ social:
     icon_pack: fas
     icon: fa-solid fa-link
 organizations:
-  - name: Shenzhen Technology University
-    url: https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-cao-rui/
+    - name: Shenzhen Technology University
+      url: https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-cao-rui/
 superuser: false
 user_groups:
   - Undergraduate students
