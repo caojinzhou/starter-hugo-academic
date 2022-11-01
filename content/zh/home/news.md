@@ -23,9 +23,9 @@ design:
 
 - :mega:**Oct 2022:**  2022年度基础研究专项（深圳市自然科学基金）面上项目（30万）获得资助[[立项名单]](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10169351.html).
 
-- :mega:**Sep 2022:**  *HUSKY* 智慧城市与大数据创新实验室图标发布 {{< staticref "uploads/husky logo.png" "newtab" >}}[下载]{{< /staticref >}}.
+- :page_with_curl:**Oct 2022:**  关于城市交通不均等性测度的 [[论文]](https://www.sciencedirect.com/science/article/pii/S0264275122004759) 发表在城市区域研究领域顶刊 *CITIES （JCR Q1）*.
 
-- :page_with_curl:**Feb 2022:**  关于城市交通不均等性测度的 [[论文]](https://www.sciencedirect.com/science/article/pii/S0264275122004759) 发表在城市区域研究领域顶刊 *CITIES （JCR Q1）*.
+- :mega:**Sep 2022:**  *HUSKY* 智慧城市与大数据创新实验室图标发布 {{< staticref "uploads/husky logo.png" "newtab" >}}[下载]{{< /staticref >}}.
 
 - :mega:**Sep 2022:**  实验室学生成员招募中 [[详细了解]]({{< relref "/group" >}}).
 
