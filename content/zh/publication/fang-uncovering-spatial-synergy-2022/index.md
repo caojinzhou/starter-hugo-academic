@@ -1,11 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Uncovering Spatial Synergy of the Megacity Region: A Flow Perspective'
-_build:
-  render: never
-  list: never
-  publishResources: false
-date: '2022-01-01'
-publishDate: '2022-11-13T07:10:19.681319Z'
+subtitle: ''
+summary: ''
 authors:
 - Bichen Fang
 - Wei Tu
@@ -14,6 +12,37 @@ authors:
 - Wei Gao
 - Yang Yue
 - Qingquan Li
+tags:
+- Cell phones
+- Cellular telephones
+- Computer networks
+- Governance
+- Megacities
+- Mobility
+- Regional planning
+- Spatial planning
+- Urban areas
+categories: []
+date: '2022-01-01'
+lastmod: 2022-11-13T15:10:01+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-11-13T07:10:00.453118Z'
 publication_types:
 - '2'
 abstract: The Pearl River Delta (the PRD) is a strategic region for China's development.
@@ -32,19 +61,7 @@ abstract: The Pearl River Delta (the PRD) is a strategic region for China's deve
   differences do exist, the closer to the central urban areas, the higher the degrees
   of spatial integration. These results will benefit the synergic spatial planning
   and governance of the PRD.
-featured: false
 publication: '*The International Archives of Photogrammetry, Remote Sensing and Spatial
   Information Sciences*'
-tags:
-- Cell phones
-- Cellular telephones
-- Computer networks
-- Governance
-- Megacities
-- Mobility
-- Regional planning
-- Spatial planning
-- Urban areas
 doi: 10.5194/isprs-archives-XLIII-B4-2022-521-2022
 ---
-

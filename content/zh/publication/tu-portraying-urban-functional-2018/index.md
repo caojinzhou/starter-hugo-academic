@@ -1,12 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Portraying Urban Functional Zones by Coupling Remote Sensing Imagery and Human
   Sensing Data
-_build:
-  render: never
-  list: never
-  publishResources: false
-date: '2018-01-01'
-publishDate: '2022-11-13T07:10:22.343319Z'
+subtitle: ''
+summary: ''
 authors:
 - Wei Tu
 - Zhongwen Hu
@@ -15,6 +13,36 @@ authors:
 - Jincheng Jiang
 - Qiuping Li
 - Qingquan Li
+tags:
+- _+RS
+- _FUNCTION
+- data fusion
+- human activity
+- mobile phone
+- Shenzhen
+- SPOT-5
+- urban functions
+categories: []
+date: '2018-01-01'
+lastmod: 2022-11-13T15:10:04+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-11-13T07:10:03.386158Z'
 publication_types:
 - '2'
 abstract: Portraying urban functional zones provides useful insights into understanding
@@ -38,17 +66,6 @@ abstract: Portraying urban functional zones provides useful insights into unders
   bridges between the urban structure, human activity and urban planning policy, providing
   scientific support for rational urban planning and sustainable urban development
   policymaking.
-featured: false
 publication: '*Remote Sensing*'
-tags:
-- _+RS
-- _FUNCTION
-- data fusion
-- human activity
-- mobile phone
-- Shenzhen
-- SPOT-5
-- urban functions
 doi: 10.3390/rs10010141
 ---
-

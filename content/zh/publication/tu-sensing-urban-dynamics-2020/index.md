@@ -1,11 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Sensing Urban Dynamics by Fusing Multi-sourced Spatiotemporal Big Data
-_build:
-  render: never
-  list: never
-  publishResources: false
-date: '2020-12-01'
-publishDate: '2022-11-13T07:10:23.806944Z'
+subtitle: ''
+summary: ''
 authors:
 - Wei Tu
 - Jinzhou Cao
@@ -14,6 +12,28 @@ authors:
 - Zhixiang Fang
 - Yang Yue
 - Qingquan Li
+tags: []
+categories: []
+date: '2020-12-01'
+lastmod: 2022-11-13T15:10:05+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-11-13T07:10:04.652788Z'
 publication_types:
 - '2'
 abstract: City is the place aggregated massive human activities. City is the exchange
@@ -29,8 +49,6 @@ abstract: City is the place aggregated massive human activities. City is the exc
   future, the study of urban dynamics should combine with real-time Internet of things
   data to sense multi-dimensional, multi-spatiotemporal resolution urban dynamic to
   enable refined urban governance and to effectively solve urban problems.
-featured: false
 publication: '*Geomatics and Information Science of Wuhan University*'
 doi: 10.13203/j.whugis20200535
 ---
-

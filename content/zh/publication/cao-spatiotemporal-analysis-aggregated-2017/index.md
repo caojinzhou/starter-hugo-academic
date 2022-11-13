@@ -1,17 +1,37 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Spatio-Temporal Analysis of Aggregated Human Activities Based on Massive Mobile
   Phone Tracking Data
-_build:
-  render: never
-  list: never
-  publishResources: false
-date: '2017-01-01'
-publishDate: '2022-11-13T07:10:18.335026Z'
+subtitle: ''
+summary: ''
 authors:
 - Jinzhou Cao
 - Wei Tu
 - Qingquan Li
 - Rui Cao
+tags: []
+categories: []
+date: '2017-01-01'
+lastmod: 2022-11-13T15:09:59+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-11-13T07:09:58.982445Z'
 publication_types:
 - '2'
 abstract: Urban space and the behavior of human activities constantly interact with
@@ -39,8 +59,6 @@ abstract: Urban space and the behavior of human activities constantly interact w
   of spatial and temporal distribution of human aggregated activities in urban space,
   which is meaningful in analyzing human activities research and facilitating urban
   traffic optimization and urban planning.
-featured: false
 publication: '*Journal of Geo-Information Science*'
 doi: 10.3724/SP.J.1047.2017.00467
 ---
-

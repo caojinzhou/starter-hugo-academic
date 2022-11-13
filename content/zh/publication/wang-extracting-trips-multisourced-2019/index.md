@@ -1,18 +1,38 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Extracting Trips from Multi-Sourced Data for Mobility Pattern Analysis: An
   App-Based Data Example'
-_build:
-  render: never
-  list: never
-  publishResources: false
-date: '2019-08-01'
-publishDate: '2022-11-13T07:10:25.068035Z'
+subtitle: ''
+summary: ''
 authors:
 - Feilong Wang
 - Jingxing Wang
 - Jinzhou Cao
 - Cynthia Chen
 - Xuegang (Jeff) Ban
+tags: []
+categories: []
+date: '2019-08-01'
+lastmod: 2022-11-13T15:10:06+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-11-13T07:10:05.968302Z'
 publication_types:
 - '2'
 abstract: Passively-generated data, such as GPS data and cellular data, bring tremendous
@@ -32,8 +52,6 @@ abstract: Passively-generated data, such as GPS data and cellular data, bring tr
   consecutive observations). The effectiveness of the framework is illustrated by
   consistent mobility patterns obtained from the app-based data and an externally
   collected household travel survey data for the same region and the same period.
-featured: false
 publication: '*Transportation Research Part C: Emerging Technologies*'
 doi: 10.1016/j.trc.2019.05.028
 ---
-

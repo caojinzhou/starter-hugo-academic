@@ -1,12 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Machine Learning-Based Economic Development Mapping from Multi-Source Open
   Geospatial Data
-_build:
-  render: never
-  list: never
-  publishResources: false
-date: '2022-01-01'
-publishDate: '2022-11-13T07:10:16.730661Z'
+subtitle: ''
+summary: ''
 authors:
 - Rui Cao
 - Wei Tu
@@ -16,6 +14,46 @@ authors:
 - Jinzhou Cao
 - Qili Gao
 - Hanjing Su
+tags:
+- Digital mapping
+- Economic development
+- Economic models
+- Feature extraction
+- Graph representations
+- Graphical representations
+- Gross Domestic Product--GDP
+- Indicators
+- Machine learning
+- Neural networks
+- Population statistics
+- Population structure
+- Regional development
+- Remote sensing
+- Roads
+- Social factors
+- Socioeconomics
+- Spatial data
+categories: []
+date: '2022-01-01'
+lastmod: 2022-11-13T15:09:58+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-11-13T07:09:57.471601Z'
 publication_types:
 - '2'
 abstract: Timely and accurate socioeconomic indicators are the prerequisite for smart
@@ -39,28 +77,7 @@ abstract: Timely and accurate socioeconomic indicators are the prerequisite for 
   widely accessible geospatial data, which has the potential to extend to more social
   indicators and other geographic regions to support smart governance and policy-making
   in the future.
-featured: false
 publication: '*ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information
   Sciences*'
-tags:
-- Digital mapping
-- Economic development
-- Economic models
-- Feature extraction
-- Graph representations
-- Graphical representations
-- Gross Domestic Product--GDP
-- Indicators
-- Machine learning
-- Neural networks
-- Population statistics
-- Population structure
-- Regional development
-- Remote sensing
-- Roads
-- Social factors
-- Socioeconomics
-- Spatial data
 doi: 10.5194/isprs-annals-V-4-2022-259-2022
 ---
-

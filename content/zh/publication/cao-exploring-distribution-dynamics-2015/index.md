@@ -1,18 +1,39 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Exploring the Distribution and Dynamics of Functional Regions Using Mobile
   Phone Data and Social Media Data
-_build:
-  render: never
-  list: never
-  publishResources: false
-date: '2015-01-01'
-publishDate: '2022-11-13T07:10:13.362003Z'
+subtitle: ''
+summary: ''
 authors:
 - Jinzhou Cao
 - Wei Tu
 - Qingquan Li
 - Meng Zhou
 - Rui Cao
+tags:
+- _FUNCTION
+categories: []
+date: '2015-01-01'
+lastmod: 2022-11-13T15:09:52+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-11-13T07:09:52.002514Z'
 publication_types:
 - '1'
 abstract: How different functional regions in urban space are distributed and dynamically
@@ -24,10 +45,6 @@ abstract: How different functional regions in urban space are distributed and dy
   data, namely, call data and checkin data. We applied an experiment in Shenzhen,
   China, and the result is compared to Tencent Street View to demonstrate the effectiveness
   of the proposed approach to infer urban functional regions.
-featured: false
 publication: '*14th International Conference on Computers in Urban Planning and Urban
   Management*'
-tags:
-- _FUNCTION
 ---
-

@@ -1,16 +1,36 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: A Study of Users' Movements Based on Check-In Data in Location-Based Social
   Networks
-_build:
-  render: never
-  list: never
-  publishResources: false
-date: '2014-01-01'
-publishDate: '2022-11-13T07:10:19.022490Z'
+subtitle: ''
+summary: ''
 authors:
 - Jinzhou Cao
 - Qingwu Hu
 - Qingquan Li
+tags: []
+categories: []
+date: '2014-01-01'
+lastmod: 2022-11-13T15:10:00+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-11-13T07:09:59.669797Z'
 publication_types:
 - '6'
 abstract: With the development of GPS technology and the increasing popularity of
@@ -23,7 +43,5 @@ abstract: With the development of GPS technology and the increasing popularity o
   movement by clustering geographic areas through their check-in popularity. Meanwhile,
   temporal characteristics and variation of users' movements on the timeline is analyzed
   by applying statistical method.
-featured: false
 publication: '*Web and Wireless Geographical Information Systems*'
 ---
-

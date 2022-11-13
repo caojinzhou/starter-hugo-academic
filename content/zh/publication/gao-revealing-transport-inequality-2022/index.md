@@ -1,12 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Revealing Transport Inequality from an Activity Space Perspective: A Study
   Based on Human Mobility Data'
-_build:
-  render: never
-  list: never
-  publishResources: false
-date: '2022-10-01'
-publishDate: '2022-11-13T07:10:20.377265Z'
+subtitle: ''
+summary: ''
 authors:
 - Qi-Li Gao
 - Yang Yue
@@ -14,6 +12,34 @@ authors:
 - Jinzhou Cao
 - Wei Tu
 - Qing-Quan Li
+tags:
+- Activity space
+- Human mobility
+- Private car
+- Public transit
+- Social exclusion
+- Transport inequality
+categories: []
+date: '2022-10-01'
+lastmod: 2022-11-13T15:10:02+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-11-13T07:10:01.383660Z'
 publication_types:
 - '2'
 abstract: Closing mobility and accessibility gaps between public transit riders and
@@ -41,15 +67,6 @@ abstract: Closing mobility and accessibility gaps between public transit riders 
   partially contributed to the inequality in specific dimensions of the activity space.
   This people-centred approach is critical for tackling transport inequality and achieving
   SDGs while ``leaving no one behind''.
-featured: false
 publication: '*Cities*'
-tags:
-- Activity space
-- Human mobility
-- Private car
-- Public transit
-- Social exclusion
-- Transport inequality
 doi: 10.1016/j.cities.2022.104036
 ---
-

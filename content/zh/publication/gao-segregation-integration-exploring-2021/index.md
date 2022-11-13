@@ -1,18 +1,38 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Segregation or Integration? Exploring Activity Disparities between Migrants
   and Settled Urban Residents Using Human Mobility Data
-_build:
-  render: never
-  list: never
-  publishResources: false
-date: '2021-01-01'
-publishDate: '2022-11-13T07:10:20.962840Z'
+subtitle: ''
+summary: ''
 authors:
 - Qili Gao
 - Yang Yue
 - Wei Tu
 - Jinzhou Cao
 - Qingquan Li
+tags: []
+categories: []
+date: '2021-01-01'
+lastmod: 2022-11-13T15:10:02+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-11-13T07:10:02.115051Z'
 publication_types:
 - '2'
 abstract: Due to the difficulty of tracking large numbers of new migrants, how their
@@ -33,8 +53,6 @@ abstract: Due to the difficulty of tracking large numbers of new migrants, how t
   time, and diversity, the three groups generated a high level of self-segregation,
   and new migrants and transit users presented very low interaction potentials with
   the car group.
-featured: false
 publication: '*Transactions in GIS*'
 doi: 10.1111/tgis.12760
 ---
-

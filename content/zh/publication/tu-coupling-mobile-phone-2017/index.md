@@ -1,12 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Coupling Mobile Phone and Social Media Data: A New Approach to Understanding
   Urban Functions and Diurnal Patterns'
-_build:
-  render: never
-  list: never
-  publishResources: false
-date: '2017-12-01'
-publishDate: '2022-11-13T07:10:21.608964Z'
+subtitle: ''
+summary: ''
 authors:
 - Wei Tu
 - Jinzhou Cao
@@ -17,6 +15,34 @@ authors:
 - Xiaomeng Chang
 - Yang Xu
 - Qingquan Li
+tags:
+- _FUNCTION
+- data fusion
+- human activity
+- mobile phone position data
+- social media data
+- Urban function
+categories: []
+date: '2017-12-01'
+lastmod: 2022-11-13T15:10:03+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-11-13T07:10:02.724676Z'
 publication_types:
 - '2'
 abstract: Understanding urban functions and their relationships with human activities
@@ -37,15 +63,6 @@ abstract: Understanding urban functions and their relationships with human activ
   combining different data on human activities could yield an improved understanding
   of urban functions, which would benefit short-term urban decision-making and long-term
   urban policy making.
-featured: false
 publication: '*International Journal of Geographical Information Science*'
-tags:
-- _FUNCTION
-- data fusion
-- human activity
-- mobile phone position data
-- social media data
-- Urban function
 doi: 10.1080/13658816.2017.1356464
 ---
-
