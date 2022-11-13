@@ -35,7 +35,7 @@ tags:
 - Spatial data
 categories: []
 date: '2022-01-01'
-lastmod: 2022-11-13T15:07:04+08:00
+lastmod: 2022-11-13T15:09:58+08:00
 featured: false
 draft: false
 
@@ -53,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-13T07:07:04.220033Z'
+publishDate: '2022-11-13T07:09:57.471601Z'
 publication_types:
 - '2'
 abstract: Timely and accurate socioeconomic indicators are the prerequisite for smart

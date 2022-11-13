@@ -19,7 +19,7 @@ tags:
 - Urban mobility
 categories: []
 date: '2021-03-01'
-lastmod: 2022-11-13T15:07:05+08:00
+lastmod: 2022-11-13T15:09:58+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-13T07:07:04.960424Z'
+publishDate: '2022-11-13T07:09:58.235952Z'
 publication_types:
 - '2'
 abstract: Human movements and interactions with cities are characterized by urban

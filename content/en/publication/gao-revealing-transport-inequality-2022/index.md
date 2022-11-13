@@ -21,7 +21,7 @@ tags:
 - Transport inequality
 categories: []
 date: '2022-10-01'
-lastmod: 2022-11-13T15:04:17+08:00
+lastmod: 2022-11-13T15:10:02+08:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-13T07:07:07.879489Z'
+publishDate: '2022-11-13T07:10:01.383660Z'
 publication_types:
 - '2'
 abstract: Closing mobility and accessibility gaps between public transit riders and

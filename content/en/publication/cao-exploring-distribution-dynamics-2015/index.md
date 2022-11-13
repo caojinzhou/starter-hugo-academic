@@ -15,7 +15,7 @@ tags:
 - _FUNCTION
 categories: []
 date: '2015-01-01'
-lastmod: 2022-11-13T15:07:01+08:00
+lastmod: 2022-11-13T15:09:52+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-13T07:07:01.249758Z'
+publishDate: '2022-11-13T07:09:52.002514Z'
 publication_types:
 - '1'
 abstract: How different functional regions in urban space are distributed and dynamically

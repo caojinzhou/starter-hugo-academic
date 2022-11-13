@@ -10,12 +10,10 @@ authors:
 - Wei Tu
 - Qingquan Li
 - Rui Cao
-tags:
-- '#nosource'
-- ⚠️ Invalid DOI
+tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2022-11-13T15:07:06+08:00
+lastmod: 2022-11-13T15:09:59+08:00
 featured: false
 draft: false
 
@@ -33,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-13T07:07:05.739259Z'
+publishDate: '2022-11-13T07:09:58.982445Z'
 publication_types:
 - '2'
 abstract: Urban space and the behavior of human activities constantly interact with

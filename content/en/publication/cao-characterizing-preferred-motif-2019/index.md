@@ -20,7 +20,7 @@ tags:
 - Sequence motif analysis
 categories: []
 date: '2019-04-01'
-lastmod: 2022-11-13T15:07:00+08:00
+lastmod: 2022-11-13T15:09:51+08:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-13T07:07:00.073464Z'
+publishDate: '2022-11-13T07:09:50.392745Z'
 publication_types:
 - '2'
 abstract: People's daily travels are structured and can be expressed as networks.

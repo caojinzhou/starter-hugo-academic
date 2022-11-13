@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2022-11-13T15:07:07+08:00
+lastmod: 2022-11-13T15:10:00+08:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-13T07:07:06.754743Z'
+publishDate: '2022-11-13T07:09:59.669797Z'
 publication_types:
 - '6'
 abstract: With the development of GPS technology and the increasing popularity of

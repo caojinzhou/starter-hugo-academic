@@ -15,7 +15,7 @@ tags:
 - Inta urban
 categories: []
 date: '2016-01-01'
-lastmod: 2022-11-13T15:07:01+08:00
+lastmod: 2022-11-13T15:09:51+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-13T07:07:00.650643Z'
+publishDate: '2022-11-13T07:09:51.187127Z'
 publication_types:
 - '1'
 abstract: ''

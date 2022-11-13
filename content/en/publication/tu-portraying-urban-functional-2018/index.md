@@ -24,7 +24,7 @@ tags:
 - urban functions
 categories: []
 date: '2018-01-01'
-lastmod: 2022-11-13T15:07:10+08:00
+lastmod: 2022-11-13T15:10:04+08:00
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-13T07:07:09.596002Z'
+publishDate: '2022-11-13T07:10:03.386158Z'
 publication_types:
 - '2'
 abstract: Portraying urban functional zones provides useful insights into understanding
