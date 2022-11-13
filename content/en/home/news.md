@@ -20,7 +20,7 @@ design:
   view: list
   columns: '2'
 ---
-- :mega:**Oct 2022:**  2022年度基础研究专项（深圳市自然科学基金）面上项目（30万）is new granted[[立项名单]](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10169351.html).
+- :mega:**Oct 2022:**  2022 Basic Research Program of Shenzhen Science and Technology Innovation（Natural Science Foundation of Shenzhen） [grant number JCYJ20220530152817039]（30万）is new granted[[List]](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10169351.html).
 
 - :page_with_curl:**Oct 2022:**  New [[paper]](https://www.sciencedirect.com/science/article/pii/S0264275122004759) on Transport Inequality has been accepted by *Cities* (Top journals in urban and region studies).
 
