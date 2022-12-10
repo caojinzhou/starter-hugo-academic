@@ -148,15 +148,17 @@ Continuously, at your own pace.
 
 **【UPDATE】**
 
-- 展示时间：第18周上课时间，每小组5分钟展示。
+- （1）课堂展示。时间：第18周上课时间，每小组5分钟展示。
 
-请于2022年12月19日前将最终版PPT上传到链接：【[周一班]()】,【[周四班]()】。
+请于2022年12月19日前将最终版PPT上传到链接：【[周一班](https://send2me.cn/mQ5Tbp8_/S8qvgCql3swydQ==)】,【[周四班](https://send2me.cn/3mYBbZGJ/QKeFU_pY8La8pw==)】。
 
-- 实践报告模板[{{% staticref "uploads/idsbd/论文模板.doc" "newtab" %}}下载{{% /staticref %}}]，上传地址：【[周一班](xx)】；【[周四班](xx)】；
+- （2）实践报告。模板[{{% staticref "uploads/idsbd/论文模板.doc" "newtab" %}}下载{{% /staticref %}}]。
 
-上传截止时间：2022年12月31日21：00前。
+上传截止时间：2022年12月31日21：00前。上传地址：【[周一班](https://send2me.cn/sjYMRdk0/SC-X3X9Rb-sn4Q==)】；【[周四班](https://send2me.cn/i_VMHBly/TauUw6x6Li9ISw==)】。
 
-- 因考试时间调整，海报展示环节暂停。海报模板参考[{{% staticref "uploads/idsbd/海报参考.png" "newtab" %}}下载{{% /staticref %}}]，请有准备好海报的小组上传至[链接](xxx)
+- （3）因考试时间调整，海报展示环节暂停，将择机择优进行进一步展示。
+
+海报模板参考[{{% staticref "uploads/idsbd/海报参考.png" "newtab" %}}下载{{% /staticref %}}]，请有准备好海报的小组上传至[链接](https://send2me.cn/BVAJuvDg/QImkcDylgzH-Ng==)
 
 
 **建议选题，供大家参考（正在更新中）**
