@@ -148,17 +148,17 @@ Continuously, at your own pace.
 
 **【UPDATE】**
 
-- （1）课堂展示。时间：第18周上课时间，每小组5分钟展示。
+（1）课堂展示。时间：第18周上课时间，每小组5分钟展示。
 
-请于2022年12月19日前将最终版PPT上传到链接：【[周一班](https://send2me.cn/mQ5Tbp8_/S8qvgCql3swydQ==)】,【[周四班](https://send2me.cn/3mYBbZGJ/QKeFU_pY8La8pw==)】。
+- 请于2022年12月19日前将最终版PPT上传到链接：【[周一班](https://send2me.cn/mQ5Tbp8_/S8qvgCql3swydQ==)】,【[周四班](https://send2me.cn/3mYBbZGJ/QKeFU_pY8La8pw==)】。
 
-- （2）实践报告。模板[{{% staticref "uploads/idsbd/论文模板.doc" "newtab" %}}下载{{% /staticref %}}]。
+（2）实践报告。模板[{{% staticref "uploads/idsbd/论文模板.doc" "newtab" %}}下载{{% /staticref %}}]。
 
-上传截止时间：2022年12月31日21：00前。上传地址：【[周一班](https://send2me.cn/sjYMRdk0/SC-X3X9Rb-sn4Q==)】；【[周四班](https://send2me.cn/i_VMHBly/TauUw6x6Li9ISw==)】。
+- 上传截止时间：2022年12月31日21：00前。上传地址：【[周一班](https://send2me.cn/sjYMRdk0/SC-X3X9Rb-sn4Q==)】；【[周四班](https://send2me.cn/i_VMHBly/TauUw6x6Li9ISw==)】。
 
-- （3）因考试时间调整，海报展示环节暂停，将择机择优进行进一步展示。
+（3）因考试时间调整，海报展示环节暂停，将择机择优进行进一步展示。
 
-海报模板参考[{{% staticref "uploads/idsbd/海报参考.png" "newtab" %}}下载{{% /staticref %}}]，请有准备好海报的小组上传至[链接](https://send2me.cn/BVAJuvDg/QImkcDylgzH-Ng==)
+- 海报模板参考[{{% staticref "uploads/idsbd/海报参考.png" "newtab" %}}下载{{% /staticref %}}]，请有准备好海报的小组上传至[链接](https://send2me.cn/BVAJuvDg/QImkcDylgzH-Ng==)
 
 
 **建议选题，供大家参考（正在更新中）**
@@ -223,11 +223,9 @@ Continuously, at your own pace.
 |  11  | 专题1：城市大数据科学[2] Urban data science                                                       |[{{% staticref "uploads/idsbd/2022-Chp7-城市数据科学.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                                                                                                                 |                                                                                                    |
 |  12  | 专题2：图数据计算[1] Graph data computing                                                       |[{{% staticref "uploads/idsbd/2022-Chp8-图数据（1）.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                                                                                                                 |                                                                                                    |
 |  13  | 专题2：图数据计算[2] Graph data computing                                                       | [{{% staticref "uploads/idsbd/2022-Chp8-图数据（2）.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                                                                                                                |   [{{% staticref "uploads/idsbd/随堂练习参考答案.pdf" "newtab" %}}随堂作业答案{{% /staticref %}}] |
-|  14  | 专题3：文本挖掘[1] Text Mining                                                                 |                                                                                                                                                                                 |                                                                                                    |
-|  15  | 专题3：文本挖掘 [2] Text Mining                                                                |                                                                                                                                                                                 |                                                                                                    |
-|  16  | 大数据处理平台、工具和数据存储 Big Data Platforms and Tools and Data Storage                           |                                                                                                                                                                                 |                                                                                                    |
-|  17  | 专题4：人工智能与深度学习 AI and Deep learning                                                      |                                                                                                                                                                                 |                                                                                                    | 
-|  18  | 复习与答疑                                                                                   |                                                                                                                                                                                 |                                                                                                    |
+|  14  | 专题3：文本挖掘[1] Text Mining                                                                 | [{{% staticref "uploads/idsbd/2022-Chp9-文本数据分析（1）.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                                                                                                                |                                                                                                    |
+|  15  | 专题3：文本挖掘 [2] Text Mining                                                                |                                                                                                                                                                                 |                                                                                                    |                                                                                                  | 
+|  18  | 复习与答疑                                                                                   |[{{% staticref "uploads/idsbd/期末复习.pdf" "newtab" %}}期末复习{{% /staticref %}}]                                                                                                                                                                                 |                                                                                                    |
 
 
 ## Experimental Project
