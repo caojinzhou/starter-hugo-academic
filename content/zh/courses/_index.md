@@ -3,7 +3,7 @@ title: 课程
 type: page
 commentable: true
 
-view: 3
+view: 2
 
 header:
   caption: ""
