@@ -110,7 +110,7 @@ Continuously, at your own pace.
 ## Class Schedule
 [{{% staticref "uploads/DIP_slides/DIP_Ch3.zip" "newtab" %}}Slides of Weeks 1-6{{% /staticref %}}]
 
-|Weeks |  Dates       | Course Topics                          | Experiment Topics	                                                           | Assignments                                |
+|Weeks |  Dates       | Course Topics                          | Experiments	                                                           | Assignments                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
 |  1   | 02/23/23     | 绪论及图像处理软件基础 [{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]+数字图像处理基础 [{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]（3）               | Matlab安装（1）|                                            |
 |  2   | 03/02/23     |数字图像的基本运算[{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]                |实验1         |                                            |
@@ -133,7 +133,7 @@ Continuously, at your own pace.
 
 &nbsp;
 
-## Assignment descriptions:
+## Assignments:
 1. **作业1 (5%)**
 
 随堂作业，霍夫曼变换。
@@ -144,20 +144,13 @@ Continuously, at your own pace.
 
 &nbsp;
 
-## Experimental Project
+## Experimental Projects:
 [{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板下载{{% /staticref %}}]
 
-|Weeks |  Dates       | Topics                          | Textbooks	                                                           | Assignments                                |
+[{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板下载{{% /staticref %}}]
+
+|Weeks |  Due Dates       | Topics                          | Assignments	                                                           | Submission                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  8   | 04/14/22     | 图像增强实验               | [{{% staticref "uploads/DIP_slides/实验1.docx" "newtab" %}}实验指导书{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/Matlab数字图像处理函数.pdf" "newtab" %}}Matlab数字图像处理函数{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image_e1.rar" "newtab" %}}图像数据{{% /staticref %}}] |4/26晚上12点前第一次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验1 |
-|  9   | 04/21/22     | 图像傅里叶变换实验                        | [{{% staticref "uploads/DIP_slides/实验2.docx" "newtab" %}}实验指导书{{% /staticref %}}];[{{% staticref "uploads/DIP_slides/image_e2.zip" "newtab" %}}图像数据{{% /staticref %}}]                                                                             |5/3晚上12点前第二次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验2                                            |
-|  10  | 04/28/22     | 图像几何变换实验                    | [{{% staticref "uploads/DIP_slides/实验3.docx" "newtab" %}}实验指导书{{% /staticref %}}] |5/10晚上12点前第三次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验3|
-|  11  | 05/05/22     | 图像复原实验                   |   [{{% staticref "uploads/DIP_slides/实验4.docx" "newtab" %}}实验指导书{{% /staticref %}}]|5/17晚上12点前第四次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验4|
-|  12  | 05/12/22     | 图像分割实验              |[{{% staticref "uploads/DIP_slides/实验5.docx" "newtab" %}}实验指导书{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image_e5.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |5/24晚上12点前第五次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验5                                            |
-|  13  | 05/19/22     | 数字图像压缩与解压                | [{{% staticref "uploads/DIP_slides/实验6.docx" "newtab" %}}实验指导书{{% /staticref %}}]                                                                            |5/31晚上12点前第六次实验报告发到邮箱: caojinzhou@sztu.edu.cn。文档PDF格式，命名方式: 学号-姓名-实验6             |
-|  14  | 05/26/22     | 大作业|                                                                              |                                            |
-|  15  | 06/02/22     | 基于嵌入式设备的图像处理 [1]                  | [{{% staticref "uploads/DIP_slides/实验7.docx" "newtab" %}}实验指导书{{% /staticref %}}]                                                                             |   |
-|  16  | 06/09/22     | 基于嵌入式设备的图像处理 [2]|                                                                              | |
 
 
 &nbsp;
