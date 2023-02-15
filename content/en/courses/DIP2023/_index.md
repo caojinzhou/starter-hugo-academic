@@ -118,6 +118,18 @@ Continuously, at your own pace.
 |  4   | 03/16/23     | 空间域图像增强 [2] [{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]                    |  实验2                                                                            |                |
 |  5   | 05/23/23     | 频率域图像增强[{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]                    |   实验3                                                                           |                                            |
 |  6   | 03/30/23     | 图像复原与重建 [1]                |                                                                              |                                            |
+|  7   | 04/06/23     | 图像复原与重建 [2][{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]               | |                                            |
+|  8   | 04/13/23     | 图像压缩 [1]               |         |                                            |
+|  9   | 04/20/22     | 图像压缩 [2][{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]                        |                                                                              |                                            |
+|  10  | 04/27/22     | 图像分割 [1]                    |                                                                              |                |
+|  11  | 05/04/22     | 图像分割 [2][{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]                    |                                                                              |                                            |
+|  12  | 05/11/22     | 彩色图像处理 [1]                |                                                                              |                                            |
+|  13  | 05/18/22     | 彩色图像处理 [2][{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]                |                                                                              |             |
+|  14  | 05/25/22     | 图像形态学处理[{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]                  |                                                                              |                                            |
+|  15  | 06/01/22     | 图像表示与描述 [1]                  |                                                                              |   |
+|  16  | 06/08/22     | 图像表示与描述 [2][{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]                    |                                                                              | |
+|  17  | 06/15/22     | 大作业汇报展示                   |                                                                              |           |
+|  18  | 06/22/22     | 端午节假期                      |                                                                              |          |
 
 &nbsp;
 
