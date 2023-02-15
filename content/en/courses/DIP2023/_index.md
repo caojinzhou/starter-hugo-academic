@@ -147,11 +147,14 @@ Continuously, at your own pace.
 ## Experimental Projects:
 [{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板下载{{% /staticref %}}]
 
-[{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板下载{{% /staticref %}}]
-
 |Weeks |  Due Dates       | Topics                          | Assignments	                                                           | Submission                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-
+|  8   | 04/14/22     | 图像增强实验               | [{{% staticref "uploads/DIP_slides/实验1.docx" "newtab" %}}实验1{{% /staticref %}}]|【[周一班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 】【[周四班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/4df5f0d0829849c4b4a33d4e1096f809/submitv2)】 |
+|  9   | 04/21/22     | 图像傅里叶变换实验                        | [{{% staticref "uploads/DIP_slides/实验2.docx" "newtab" %}}实验2{{% /staticref %}}];[{{% staticref "uploads/DIP_slides/image_e2.zip" "newtab" %}}图像数据{{% /staticref %}}]                                                                             |【[周一班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 】【[周四班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/4df5f0d0829849c4b4a33d4e1096f809/submitv2)】|
+|  10  | 04/28/22     | 图像几何变换实验                    | [{{% staticref "uploads/DIP_slides/实验3.docx" "newtab" %}}实验3{{% /staticref %}}] |【[周一班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 】【[周四班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/4df5f0d0829849c4b4a33d4e1096f809/submitv2)】|
+|  11  | 05/05/22     | 图像复原实验                   |   [{{% staticref "uploads/DIP_slides/实验4.docx" "newtab" %}}实验4{{% /staticref %}}]|【[周一班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 】【[周四班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/4df5f0d0829849c4b4a33d4e1096f809/submitv2)】|
+|  12  | 05/12/22     | 图像分割实验              |[{{% staticref "uploads/DIP_slides/实验5.docx" "newtab" %}}实验5{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image_e5.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |【[周一班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 】【[周四班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/4df5f0d0829849c4b4a33d4e1096f809/submitv2)】|
+|  13  | 05/19/22     | 数字图像压缩与解压                | [{{% staticref "uploads/DIP_slides/实验6.docx" "newtab" %}}实验6{{% /staticref %}}]                                                                            |【[周一班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/ddad7210b0224b7c94fbe2ff26730e07/submitv2) 】【[周四班上传点击此处](https://workspace.jianguoyun.com/inbox/collect/4df5f0d0829849c4b4a33d4e1096f809/submitv2)】|
 
 &nbsp;
 
