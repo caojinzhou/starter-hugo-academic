@@ -98,12 +98,7 @@ Continuously, at your own pace.
 
 &nbsp;
 
-## Assignment descriptions:
-1. **作业1 (5%)**
 
-随堂作业，霍夫曼变换。
-
-2. **作业2 (5%)**
 
 
 
@@ -161,6 +156,12 @@ Continuously, at your own pace.
 
 &nbsp;
 
+## Assignment descriptions:
+1. **作业1 (5%)**
+
+随堂作业，霍夫曼变换。
+
+2. **作业2 (5%)**
 
 ## Experimental Project
 
