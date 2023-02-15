@@ -1,7 +1,7 @@
 ---
 title: 📊 IB00129 Digital Image Processing（数字图像处理）
 summary: This undergraduate-level course introduces students to major themes, questions, issues, and hypotheses in Digital Image Processing(DIP).
-date: '2021-04-06'
+date: '2023-02-23'
 type: book
 commentable: true
 
