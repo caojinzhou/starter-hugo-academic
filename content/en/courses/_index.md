@@ -3,7 +3,7 @@ title: Courses
 type: page
 commentable: true
 
-view: 1
+view: 2
 
 header:
   caption: ""

@@ -1,5 +1,5 @@
 ---
-title: 📊 IB00019 Digital Image Processing（数字图像处理）
+title: 📊 IB0007822222 Digital Image Processing（数字图像处理）
 summary: This undergraduate-level course introduces students to major themes, questions, issues, and hypotheses in Digital Image Processing(DIP).
 date: '2021-04-06'
 type: book
@@ -9,8 +9,8 @@ commentable: true
 -----
 **Instructor**:       Jinzhou Cao(曹劲舟)                 <br>
 **Email**:              `caojinzhou@sztu.edu.cn`                 <br>
-**Room**:             (Class 1) C-1-413; (Class 2) C-1-410  <br>
-**Time**:               Thur. （Class 1）08:30-11:50; (Class 2)18:50-21:40      <br>
+**Room**:             C-5-312 or Online via TencentMeeting  <br>
+**Time**:               Wed. 15:50-17:20 and Thur. 18:50-21:40      <br>
 **Credits**:           4/72 hours
 
 -----
@@ -19,7 +19,7 @@ commentable: true
 {{< toc hide_on="xl" >}}
 
 ## Course Description
-通过本课程的学习，要求学生掌握有关数字图像处理的基本概念、原理、方法及应用，培养和增强学生创新意识和创新思维，提高实际动手能力和创新能力，为学生进一步学习计算机视觉、图像分析理解等课程奠定基础，为学生从事图像处理、计算机视觉领域研究打下坚实的基础。
+数字图像处理是指将图像信号转换成数字信号并利用计算机对其进行处理的过程。本课程将全面、系统地介绍数字图像处理的基础理论及基本技术。包括绪论，灰度变换与空间滤波，频率域滤波，图像增强，图像复原，图像压缩，彩色图像处理，嵌入式系统硬件处理等。
 
 
 
