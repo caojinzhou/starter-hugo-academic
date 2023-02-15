@@ -1,5 +1,5 @@
 ---
-title: 课程
+title: Courses
 type: page
 commentable: true
 
