@@ -1,5 +1,5 @@
 ---
-title: 📊 22IB00095 Introducation to Data Science and Big Data（数据科学与大数据导论）
+title: 📊 IB00095 Introducation to Data Science and Big Data（数据科学与大数据导论）
 summary: 数据科学与大数据系列课程的基础课和先导课.
 date: '2022-08-06'
 type: book
