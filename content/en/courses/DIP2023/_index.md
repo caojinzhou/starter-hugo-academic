@@ -49,7 +49,13 @@ commentable: true
 
 ## Textbooks
 
-冈萨雷斯（阮秋琦 译）. *数字图像处理* (MATLAB版，第二版). 电子工业出版社，2020年6月
+推荐教材(Recommended Teaching Materials)：
+
+- 冈萨雷斯（阮秋琦 译）. *数字图像处理* (MATLAB版，第二版). 电子工业出版社，2020年6月
+
+参考教材(Additional Reading Materials)：
+
+- 李俊山. 数字图像处理（第4版），清华大学出版社，2021年8月
 
 <!-- ## Courses in this program
 
@@ -81,16 +87,7 @@ Continuously, at your own pace.
 
 &nbsp;
 
-## Assignment descriptions:
-1. **作业1 (5%)**
 
-随堂作业，霍夫曼变换。
-
-2. **作业2 (5%)**
-
-
-
-&nbsp;
 
 ## Course Project(10%):
 
@@ -113,23 +110,27 @@ Continuously, at your own pace.
 ## Class Schedule
 [{{% staticref "uploads/DIP_slides/DIP_Ch3.zip" "newtab" %}}Slides of Weeks 1-6{{% /staticref %}}]
 
-|Weeks |  Dates       | Topics                          | Lecture slides	                                                           | Assignments                                |
+|Weeks |  Dates       | Course Topics                          | Experiment Topics	                                                           | Assignments                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  7   | 04/06/22     | 图像复原与重建[1]               | |                                            |
-|  8   | 04/13/22     | 图像复原与重建[2]               | [{{% staticref "uploads/DIP_slides/DIP_Ch4_ALL.pdf" "newtab" %}}Slides{{% /staticref %}}]        |                                            |
-|  9   | 04/20/22     | 图像分割                        | [{{% staticref "uploads/DIP_slides/DIP_Ch7_图像分割.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                             |                                            |
-|  10  | 04/27/22     | 图像压缩 [1]                    |                                                                              |                |
-|  11  | 05/04/22     | 图像压缩 [2]                    | [{{% staticref "uploads/DIP_slides/DIP_Ch6_图像压缩.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                             |                                            |
-|  12  | 05/11/22     | 彩色图像处理 [1]                |                                                                              |                                            |
-|  13  | 05/18/22     | 彩色图像处理 [2]                |[{{% staticref "uploads/DIP_slides/DIP_Ch5 彩色图像处理.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                              |             |
-|  14  | 05/25/22     | 表示与描述 [1]                  |                                                                              |                                            |
-|  15  | 06/01/22     | 表示与描述 [2]                  |[{{% staticref "uploads/DIP_slides/DIP_Ch8_表示与描述.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                              |   |
-|  16  | 06/08/22     | 汇报展示 [1]                    |                                                                              | |
-|  17  | 06/15/22     | 汇报展示 [2]                    |                                                                              |           |
-|  18  | 06/22/22     | 复习与答疑                      |[{{% staticref "uploads/DIP_slides/期末复习.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                              |          |
+|  1   | 02/23/23     | 绪论及图像处理软件基础 [{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]+数字图像处理基础 [{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]（3）               | Matlab安装（1）|                                            |
+|  2   | 03/02/23     |数字图像的基本运算[{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]                |实验1         |                                            |
+|  3   | 03/09/23     | 空间域图像增强 [1]                 |                                                 |                                            |
+|  4   | 03/16/23     | 空间域图像增强 [2] [{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]                    |  实验2                                                                            |                |
+|  5   | 05/23/23     | 频率域图像增强[{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}]                    |   实验3                                                                           |                                            |
+|  6   | 03/30/23     | 图像复原与重建 [1]                |                                                                              |                                            |
 
 &nbsp;
 
+## Assignment descriptions:
+1. **作业1 (5%)**
+
+随堂作业，霍夫曼变换。
+
+2. **作业2 (5%)**
+
+
+
+&nbsp;
 
 ## Experimental Project
 [{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板下载{{% /staticref %}}]
