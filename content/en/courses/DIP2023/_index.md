@@ -79,11 +79,11 @@ Continuously, at your own pace.
 
 |  Requirements              | Percent      | Points                       | Note                                       |
 |:---------------------------|:------------:|:-----------------------------|:-------------------------------------------|
-| Participation   出勤        | 5%           |                              |                                            |
-| Assignments     作业        | 10%          | 5 points each, 2 in total    |                                            |
-| Projects        报告        | 10%          |                              |                                            |
-| Experiments     实验        | 35%          | 5 points each, 7 in total    |                                            |
-| Final  exam     考试        | 40%          |                              |                                            |
+| Participation   出勤        | 4%           |                              |                                            |
+| Assignments     作业        | 6%          | 3 points each, 2 in total    |                                            |
+| Projects        项目        | 10%          |                              |                                            |
+| Experiments     实验        | 30%          | 6 points each, 5 in total    |                                            |
+| Final  exam     考试        | 50%          |                              |                                            |
 
 
 &nbsp;
@@ -115,11 +115,11 @@ Continuously, at your own pace.
 &nbsp;
 
 ## Assignments:
-1. **作业1 (5%)**
+1. **作业1 (3%)**
 
 随堂作业，霍夫曼变换。
 
-2. **作业2 (5%)**
+2. **作业2 (3%)**
 
 
 
@@ -130,40 +130,24 @@ Continuously, at your own pace.
 
 |Weeks |  Due Dates       | Topics                          | Assignments	                                                           | Submission                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  8   | 04/14/22     | 图像增强实验               | [{{% staticref "uploads/DIP_slides/实验1.docx" "newtab" %}}实验1{{% /staticref %}}]|【[周一班]() 】【[周四班]()】 |
-|  9   | 04/21/22     | 图像傅里叶变换实验                        | [{{% staticref "uploads/DIP_slides/实验2.docx" "newtab" %}}实验2{{% /staticref %}}];[{{% staticref "uploads/DIP_slides/image_e2.zip" "newtab" %}}图像数据{{% /staticref %}}]                                                                             |【[周一班]() 】【[周四班]()】|
-|  10  | 04/28/22     | 图像几何变换实验                    | [{{% staticref "uploads/DIP_slides/实验3.docx" "newtab" %}}实验3{{% /staticref %}}] |【[周一班]() 】【[周四班]()】|
-|  11  | 05/05/22     | 图像复原实验                   |   [{{% staticref "uploads/DIP_slides/实验4.docx" "newtab" %}}实验4{{% /staticref %}}]|【[周一班]() 】【[周四班]()】|
-|  12  | 05/12/22     | 图像分割实验              |[{{% staticref "uploads/DIP_slides/实验5.docx" "newtab" %}}实验5{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image_e5.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |【[周一班]() 】【[周四班]()】|
-|  13  | 05/19/22     | 数字图像压缩与解压                | [{{% staticref "uploads/DIP_slides/实验6.docx" "newtab" %}}实验6{{% /staticref %}}]                                                                            |【[周一班]() 】【[周四班]()】|
+|  8   | 04/14/22     | 图像增强实验               | [{{% staticref "uploads/DIP_slides/实验1.docx" "newtab" %}}实验1{{% /staticref %}}]|【[班1]() 】【[班2]()】 |
+|  9   | 04/21/22     | 图像傅里叶变换实验                        | [{{% staticref "uploads/DIP_slides/实验2.docx" "newtab" %}}实验2{{% /staticref %}}];[{{% staticref "uploads/DIP_slides/image_e2.zip" "newtab" %}}图像数据{{% /staticref %}}]                                                                             |【[班1]() 】【[班2]()】|
+|  10  | 04/28/22     | 图像几何变换实验                    | [{{% staticref "uploads/DIP_slides/实验3.docx" "newtab" %}}实验3{{% /staticref %}}] |【[班1]() 】【[班2]()】|
+|  11  | 05/05/22     | 图像复原实验                   |   [{{% staticref "uploads/DIP_slides/实验4.docx" "newtab" %}}实验4{{% /staticref %}}]|【[班1]() 】【[班2]()】|
+|  12  | 05/12/22     | 图像分割实验              |[{{% staticref "uploads/DIP_slides/实验5.docx" "newtab" %}}实验5{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image_e5.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |【[班1]() 】【[班2]()】|
+|  13  | 05/19/22     | 数字图像压缩与解压                | [{{% staticref "uploads/DIP_slides/实验6.docx" "newtab" %}}实验6{{% /staticref %}}]                                                                            |【[班1]() 】【[班2]()】|
 
 &nbsp;
 
 ## Course Project:
 
-[{{% staticref "uploads/DIP_slides/课程设计作业.pdf" "newtab" %}}课程设计题目{{% /staticref %}}]
+[{{% staticref "uploads/DIP_slides/课程设计作业xxx.pdf" "newtab" %}}课程设计题目{{% /staticref %}}]
 
 
 
 **作业要求**
 
-1、自行分小组，4人为一个小组。小组成员指定1人为组长，其余成员须对课程设计具有明确的分工；
 
-2、要求独立完成设计项目，开发工具为MATLAB，也可为C、C++、java等，具体自选。各组长有责任督促组员完成任务；
-
-3、尽量不使用封装好的、现成的库，对于独立实现算法撰写的小组可进行加分；
-
-4、鼓励大家根据兴趣和需求，自定义开发更多功能模块；
-
-5、时间为5月7日~6月8日。6月8日下午的课上进行现场PPT展示，需对系统设计思路、功能模块等内容进行讲解。每个小组10分钟时间。
-
-请将项目介绍书word文档转成PDF格式上传至：
-
-[周一班上交截止时间：2022/10/20 21：00，点击此处](https://workspace.jianguoyun.com/inbox/collect/466cde2cac5347b1ba179acd70787c00/submitv2)；
-
-[周四班上交截止时间：2022/10/14 21：00，点击此处](https://workspace.jianguoyun.com/inbox/collect/3a4dda2fde354ebb9597209b09a63181/submitv2)
-
-[周四班计划书老师批注查看，点击此处](https://www.jianguoyun.com/p/DVc3Lj4Q9qv3BRihp98EIAA)
 
 &nbsp;
 
