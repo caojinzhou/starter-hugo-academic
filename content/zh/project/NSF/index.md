@@ -1,11 +1,10 @@
 ---
 url_pdf: ""
 date: 2022-02-27T16:08:29.959Z
-summary: National Natural Science Foundation of China (NSFC)
+summary: 国家自然科学基金青年基金
 url_video: ""
-title: Study on the multi-scaled identification of urban dynamic functions based
-  on mobile phone big data
-subtitle: National Natural Science Foundation of China (NSFC)
+title: 基于手机大数据的城市动态功能多时空尺度识别研究
+subtitle: 国家自然科学基金青年基金
 featured: true
 tags:
   - PI
@@ -30,11 +29,11 @@ url_code: ""
 </style>
 
 -----
-**Type**:       China Youth Science Fund Projects                 <br>
+**Type**:       国家自然科学基金青年基金                 <br>
 **PI**:              {{% mention "Jinzhou-Cao" %}}                 <br>
-**Grant number**:  xxx             <br>
+**Grant number**: 42001393             <br>
 **Year**:             2021.01-2023.12  <br>
-**Time**:               RMB 240,000                        
+**Time**:               RMB 300,000                        
 
 -----
 
