@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: 项目
+title: 项目清单
 subtitle: ''
 
 content:
