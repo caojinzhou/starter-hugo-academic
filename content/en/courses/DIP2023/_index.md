@@ -89,26 +89,26 @@ Continuously, at your own pace.
 &nbsp;
 
 ## Class Schedule
-[{{% staticref "uploads/DIP_slides/DIP_Ch3.zip" "newtab" %}}Slides of Weeks 1-6{{% /staticref %}}]
+[{{% staticref "uploads/DIP_slides/xxx.pdf" "newtab" %}}课程介绍{{% /staticref %}}]
 
 |Weeks |  Dates       | Course Topics                          | Experiments	                                                           | Assignments                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  1   | 02/23/23     | 绪论及图像处理软件基础 {{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}+数字图像处理基础 {{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}（3）               | Matlab安装（1）|                                            |
-|  2   | 03/02/23     |数字图像的基本运算{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                |实验1         |                                            |
-|  3   | 03/09/23     | 空间域图像增强 [1]                 |                                                 |                                            |
+|  1   | 02/23/23     | 绪论及图像处理软件基础 {{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}+数字图像处理基础 {{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}（3）               | Matlab安装与初步|                                            |
+|  2   | 03/02/23     |数字图像的基本运算{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                |         |                                            |
+|  3   | 03/09/23     | 空间域图像增强 [1]                 |实验1                                                 |                                            |
 |  4   | 03/16/23     | 空间域图像增强 [2] {{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                    |  实验2                                                                            |                |
-|  5   | 05/23/23     | 频率域图像增强{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                    |   实验3                                                                           |                                            |
-|  6   | 03/30/23     | 图像复原与重建 [1]                |                                                                              |                                            |
+|  5   | 05/23/23     | 频率域图像增强{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                    |                                                                              |                                            |
+|  6   | 03/30/23     | 图像复原与重建 [1]                |实验3                                                                              |                                            |
 |  7   | 04/06/23     | 图像复原与重建 [2]{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}               | |                                            |
-|  8   | 04/13/23     | 图像压缩 [1]               |         |                                            |
+|  8   | 04/13/23     | 图像压缩 [1]               |实验4         |                                            |
 |  9   | 04/20/22     | 图像压缩 [2]{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                        |                                                                              |                                            |
-|  10  | 04/27/22     | 图像分割 [1]                    |                                                                              |                |
+|  10  | 04/27/22     | 图像分割 [1]                    |实验5                                                                              |                |
 |  11  | 05/04/22     | 图像分割 [2]{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                    |                                                                              |                                            |
-|  12  | 05/11/22     | 彩色图像处理 [1]                |                                                                              |                                            |
+|  12  | 05/11/22     | 彩色图像处理 [1]                |实验6                                                                              |                                            |
 |  13  | 05/18/22     | 彩色图像处理 [2]{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                |                                                                              |             |
-|  14  | 05/25/22     | 图像形态学处理{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                  |                                                                              |                                            |
+|  14  | 05/25/22     | 图像形态学处理{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                  |实验7                                                                              |                                            |
 |  15  | 06/01/22     | 图像表示与描述 [1]                  |                                                                              |   |
-|  16  | 06/08/22     | 图像表示与描述 [2]{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                    |                                                                              | |
+|  16  | 06/08/22     | 图像表示与描述 [2]{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                    |实验8                                                                              | |
 |  17  | 06/15/22     | 大作业汇报展示                   |                                                                              |           |
 |  18  | 06/22/22     | 端午节假期                      |                                                                              |          |
 
@@ -128,14 +128,16 @@ Continuously, at your own pace.
 ## Experimental Projects:
 [{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板下载{{% /staticref %}}]
 
-|Weeks |  Due Dates       | Topics                          | Assignments	                                                           | Submission                                |
+|Nums |  Topics                          | Materials	                                                           |Due Dates |        Submission                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  8   | 04/14/22     | 图像增强实验               | [{{% staticref "uploads/DIP_slides/实验1.docx" "newtab" %}}实验1{{% /staticref %}}]|【[班1]() 】【[班2]()】 |
-|  9   | 04/21/22     | 图像傅里叶变换实验                        | [{{% staticref "uploads/DIP_slides/实验2.docx" "newtab" %}}实验2{{% /staticref %}}];[{{% staticref "uploads/DIP_slides/image_e2.zip" "newtab" %}}图像数据{{% /staticref %}}]                                                                             |【[班1]() 】【[班2]()】|
-|  10  | 04/28/22     | 图像几何变换实验                    | [{{% staticref "uploads/DIP_slides/实验3.docx" "newtab" %}}实验3{{% /staticref %}}] |【[班1]() 】【[班2]()】|
-|  11  | 05/05/22     | 图像复原实验                   |   [{{% staticref "uploads/DIP_slides/实验4.docx" "newtab" %}}实验4{{% /staticref %}}]|【[班1]() 】【[班2]()】|
-|  12  | 05/12/22     | 图像分割实验              |[{{% staticref "uploads/DIP_slides/实验5.docx" "newtab" %}}实验5{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image_e5.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |【[班1]() 】【[班2]()】|
-|  13  | 05/19/22     | 数字图像压缩与解压                | [{{% staticref "uploads/DIP_slides/实验6.docx" "newtab" %}}实验6{{% /staticref %}}]                                                                            |【[班1]() 】【[班2]()】|
+|  1   |  数字图像的基本运算（基本运算、几何变换、缩放、旋转、灰度变换）               | [{{% staticref "uploads/DIP_slides/xx.docx" "newtab" %}}实验1{{% /staticref %}}]|0x/xx/23     |【[班1]() 】【[班2]()】 |
+|  2   |  空间域图像增强（直方图变换、空域滤波[均值、中值、锐化]）               | [{{% staticref "uploads/DIP_slides/xx.docx" "newtab" %}}实验2{{% /staticref %}}]|0x/xx/23     |【[班1]() 】【[班2]()】 |
+|  3   |  频率域图像增强（图像的傅立叶变换、低通滤波、高通滤波）               | [{{% staticref "uploads/DIP_slides/xx.docx" "newtab" %}}实验3{{% /staticref %}}]|0x/xx/23     |【[班1]() 】【[班2]()】 |
+|  4   |  图像复原与重建（生成运动模糊图像、逆滤波和维纳滤波）                        | [{{% staticref "uploads/DIP_slides/xx.docx" "newtab" %}}实验4{{% /staticref %}}];[{{% staticref "uploads/DIP_slides/image_e2.zip" "newtab" %}}图像数据{{% /staticref %}}]                                                                             |0x/xx/23     |【[班1]() 】【[班2]()】|
+|  5  |  数字图像压缩与解压（霍夫曼编码）                    | [{{% staticref "uploads/DIP_slides/xx.docx" "newtab" %}}实验5{{% /staticref %}}] |0x/xx/23     |【[班1]() 】【[班2]()】|
+|  6  |  图像分割（边缘检测算子、霍夫变换、多个阈值分割算法）                   |   [{{% staticref "uploads/DIP_slides/xx.docx" "newtab" %}}实验6{{% /staticref %}}]|0x/xx/23     |【[班1]() 】【[班2]()】|
+|  7  |  彩色图像处理              |[{{% staticref "uploads/DIP_slides/xx.docx" "newtab" %}}实验7{{% /staticref %}}]; [{{% staticref "uploads/DIP_slides/image_e5.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |0x/xx/23     |【[班1]() 】【[班2]()】|
+|  8  |  图像表示与描述                | [{{% staticref "uploads/DIP_slides/xx.docx" "newtab" %}}实验8{{% /staticref %}}]                                                                            |0x/xx/23     |【[班1]() 】【[班2]()】|
 
 &nbsp;
 

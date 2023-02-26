@@ -1,5 +1,5 @@
 ---
-title: 📊 IB00095 Introducation to Data Science and Big Data（数据科学与大数据导论）
+title: 📊 IB00095 (2022)Introducation to Data Science and Big Data（数据科学与大数据导论）
 summary: 数据科学与大数据系列课程的基础课和先导课.
 date: '2022-08-06'
 type: book
@@ -139,26 +139,16 @@ Continuously, at your own pace.
 
 [周四班上交截止时间：2022/10/14 21：00，点击此处](https://workspace.jianguoyun.com/inbox/collect/3a4dda2fde354ebb9597209b09a63181/submitv2)
 
+[周四班计划书老师批注查看，点击此处](https://www.jianguoyun.com/p/DVc3Lj4Q9qv3BRihp98EIAA)
 
 
-4、第二阶段：期末展示：
+4、第二阶段：进度展示：
+
+- 课堂PPT汇报，5页PPT，每小组5分钟
+
+5、第三阶段：期末展示：
 
 - 期末时段，展示方式：PPT汇报+海报展示；实践报告1份，实践报告以论文模板标准撰写。
-
-
-**【UPDATE】**
-
-（1）课堂展示。时间：第18周上课时间，每小组5分钟展示。
-
-- 请于2022年12月19日前将最终版PPT上传到链接：【[周一班](https://send2me.cn/mQ5Tbp8_/S8qvgCql3swydQ==)】,【[周四班](https://send2me.cn/3mYBbZGJ/QKeFU_pY8La8pw==)】。
-
-（2）实践报告。模板[{{% staticref "uploads/idsbd/论文模板.doc" "newtab" %}}下载{{% /staticref %}}]。
-
-- 上传截止时间：2022年12月31日21：00前。上传地址：【[周一班](https://send2me.cn/sjYMRdk0/SC-X3X9Rb-sn4Q==)】；【[周四班](https://send2me.cn/i_VMHBly/TauUw6x6Li9ISw==)】。
-
-（3）因考试时间调整，海报展示环节暂停，将择机择优进行进一步展示。
-
-- 海报模板参考[{{% staticref "uploads/idsbd/海报参考.png" "newtab" %}}下载{{% /staticref %}}]，请有准备好海报的小组上传至[链接](https://send2me.cn/BVAJuvDg/QImkcDylgzH-Ng==)
 
 
 **建议选题，供大家参考（正在更新中）**
@@ -221,11 +211,13 @@ Continuously, at your own pace.
 |  9 | 大数据可视化 Big Data Visualization                                                           | [{{% staticref "uploads/idsbd/2022-Chp6-数据可视化.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                                                                                                                |                                                                                                    |
 |  10  | 专题1：城市大数据科学[1]  Urban data science                                                      |                                                                                                                                                                                 |                                                                                                    |
 |  11  | 专题1：城市大数据科学[2] Urban data science                                                       |[{{% staticref "uploads/idsbd/2022-Chp7-城市数据科学.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                                                                                                                 |                                                                                                    |
-|  12  | 专题2：图数据计算[1] Graph data computing                                                       |[{{% staticref "uploads/idsbd/2022-Chp8-图数据（1）.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                                                                                                                 |                                                                                                    |
-|  13  | 专题2：图数据计算[2] Graph data computing                                                       | [{{% staticref "uploads/idsbd/2022-Chp8-图数据（2）.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                                                                                                                |   [{{% staticref "uploads/idsbd/随堂练习参考答案.pdf" "newtab" %}}随堂作业答案{{% /staticref %}}] |
-|  14  | 专题3：文本挖掘[1] Text Mining                                                                 | [{{% staticref "uploads/idsbd/2022-Chp9-文本数据分析（1）.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                                                                                                                |                                                                                                    |
-|  15  | 专题3：文本挖掘 [2] Text Mining                                                                |                                                                                                                                                                                 |                                                                                                    |                                                                                                  | 
-|  18  | 复习与答疑                                                                                   |[{{% staticref "uploads/idsbd/期末复习.pdf" "newtab" %}}期末复习{{% /staticref %}}]                                                                                                                                                                                 |                                                                                                    |
+|  12  | 专题2：图数据计算[1] Graph data computing                                                       |                                                                                                                                                                                 |                                                                                                    |
+|  13  | 专题2：图数据计算[2] Graph data computing                                                       |                                                                                                                                                                                 |                                                                                                    |
+|  14  | 专题3：文本挖掘[1] Text Mining                                                                 |                                                                                                                                                                                 |                                                                                                    |
+|  15  | 专题3：文本挖掘 [2] Text Mining                                                                |                                                                                                                                                                                 |                                                                                                    |
+|  16  | 大数据处理平台、工具和数据存储 Big Data Platforms and Tools and Data Storage                           |                                                                                                                                                                                 |                                                                                                    |
+|  17  | 专题4：人工智能与深度学习 AI and Deep learning                                                      |                                                                                                                                                                                 |                                                                                                    | 
+|  18  | 复习与答疑                                                                                   |                                                                                                                                                                                 |                                                                                                    |
 
 
 ## Experimental Project
