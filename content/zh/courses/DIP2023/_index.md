@@ -89,11 +89,11 @@ Continuously, at your own pace.
 &nbsp;
 
 ## Class Schedule
-[{{% staticref "uploads/DIP_slides/xxx.pdf" "newtab" %}}课程介绍{{% /staticref %}}]
+[{{% staticref "uploads/DIP2023/2023_DIP_Intro.pdf" "newtab" %}}课程介绍{{% /staticref %}}]
 
 |Weeks |  Dates       | Course Topics                          | Experiments	                                                           | Assignments                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  1   | 02/23/23     | 绪论及图像处理软件基础 {{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}+数字图像处理基础 {{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}（3）               | Matlab安装与初步|                                            |
+|  1   | 02/23/23     | 绪论及图像处理软件基础 {{% staticref "uploads/DIP2023/2023_DIP_Ch1_绪论及图像处理软件基础.pdf" "newtab" %}}(Slides){{% /staticref %}}+数字图像处理基础 {{% staticref "uploads/DIP2023/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}（3）               | Matlab安装与初步|                                            |
 |  2   | 03/02/23     |数字图像的基本运算{{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                |         |                                            |
 |  3   | 03/09/23     | 空间域图像增强 [1]                 |实验1                                                 |                                            |
 |  4   | 03/16/23     | 空间域图像增强 [2] {{% staticref "uploads/DIP2023_slides/XX.pdf" "newtab" %}}(Slides){{% /staticref %}}                    |  实验2                                                                            |                |
@@ -130,7 +130,7 @@ Continuously, at your own pace.
 
 |Nums |  Topics                          | Materials	                                                           |Due Dates |        Submission                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  1   |  数字图像的基本运算（基本运算、几何变换、缩放、旋转、灰度变换）               | [{{% staticref "uploads/DIP_slides/xx.docx" "newtab" %}}实验1{{% /staticref %}}]|0x/xx/23     |【[班1]() 】【[班2]()】 |
+|  1   |  数字图像处理初步与基本运算（基本运算、几何变换、缩放、旋转、灰度变换）               | [{{% staticref "uploads/DIP2023/实验1数字图像处理初步与基本运算.pdf" "newtab" %}}实验1{{% /staticref %}}]|0x/xx/23     |【[班1]() 】【[班2]()】 |
 |  2   |  空间域图像增强（直方图变换、空域滤波[均值、中值、锐化]）               | [{{% staticref "uploads/DIP_slides/xx.docx" "newtab" %}}实验2{{% /staticref %}}]|0x/xx/23     |【[班1]() 】【[班2]()】 |
 |  3   |  频率域图像增强（图像的傅立叶变换、低通滤波、高通滤波）               | [{{% staticref "uploads/DIP_slides/xx.docx" "newtab" %}}实验3{{% /staticref %}}]|0x/xx/23     |【[班1]() 】【[班2]()】 |
 |  4   |  图像复原与重建（生成运动模糊图像、逆滤波和维纳滤波）                        | [{{% staticref "uploads/DIP_slides/xx.docx" "newtab" %}}实验4{{% /staticref %}}];[{{% staticref "uploads/DIP_slides/image_e2.zip" "newtab" %}}图像数据{{% /staticref %}}]                                                                             |0x/xx/23     |【[班1]() 】【[班2]()】|
