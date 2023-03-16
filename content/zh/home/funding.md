@@ -12,7 +12,7 @@ weight: 65
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Funding'
 subtitle:
-
+active: false
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006

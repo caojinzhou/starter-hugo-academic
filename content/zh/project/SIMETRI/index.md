@@ -1,5 +1,5 @@
 ---
-title: SIMETRI
+title: 国家自然科学基金中欧合作与交流项目，超大城市区域的可持续交通与均等化：模式、机理与治理
 summary: SustaInable Mobility and Equality in mega-ciTy RegIons.
 tags:
   - Core Members

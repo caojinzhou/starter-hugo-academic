@@ -20,6 +20,9 @@ design:
   view: list
   columns: '2'
 ---
+- :school:**Feb. 2023:**  面向2021级计科专业的专业选修课 *数字图像处理* 2023年春季学期开设中 [[课程网页]]({{< relref "/courses/DIP2023" >}}).
+
+- :page_with_curl:**Jan 2023:**  关于城市出行尺度律的 [论文](https://www.tandfonline.com/doi/pdf/10.1080/10095020.2022.2157761) 发表在SCI Q2期刊 *Geo-spatial Information Science(GSIS)*.
 
 - :mega:**Oct 2022:**  2022年度基础研究专项（深圳市自然科学基金）面上项目（资助总额30万）获得资助[[立项名单]](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10169351.html).
 
@@ -29,13 +32,13 @@ design:
 
 - :mega:**Sep 2022:**  实验室学生成员招募中 [[详细了解]]({{< relref "/group" >}}).
 
-- :school:**Aug 2022:**  面向2021级数科专业的专业必修课 *数据科学与大数据导论* 2022年秋季学期开设中 [[课程网页]]({{< relref "/courses/idsbd" >}}).
+- :school:**Aug 2022:**  面向2021级数科专业的专业必修课 *数据科学与大数据导论* 2022年秋季学期开设中 [[课程网页]]({{< relref "/courses/idsbd2022" >}}).
 
 - :school:**June 2022:**  指导学生（童磊、罗智豪、潘奕涛）参与  [大学生创新创业训练计划项目（校级）](http://nbw-sztu-edu-cn.webvpn.sztu.edu.cn:8118/info/1022/41841.htm) 获得立项.
 
 - :school:**May 2022:**  入选深圳技术大学  [2022年青年教师教育教学能力培养提升计划](http://nbw-sztu-edu-cn.webvpn.sztu.edu.cn:8118/info/1018/41631.htm) .
 
-- :school:**Apr 2022:**  面向2020级计科专业的专业选修课 *数字图像处理* 2022年春季学期开设中 [[课程网页]]({{< relref "/courses/DIP" >}}).
+- :school:**Apr 2022:**  面向2020级计科专业的专业选修课 *数字图像处理* 2022年春季学期开设中 [[课程网页]]({{< relref "/courses/DIP2022" >}}).
 
 - :mega:**Apr 2022:**  即将入职 *深圳技术大学大数据与互联网学院* 助理教授.
 
