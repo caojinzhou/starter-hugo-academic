@@ -32,7 +32,7 @@ url_code: ""
 **Type**:       国家自然科学基金青年基金                 <br>
 **PI**:              {{% mention "Jinzhou-Cao" %}}                 <br>
 **Grant number**: 42001393             <br>
-**Year**:             2021.01-2023.12  <br>
+**Time**:             2021.01-2023.12  <br>
 **Time**:               RMB 300,000                        
 
 -----
