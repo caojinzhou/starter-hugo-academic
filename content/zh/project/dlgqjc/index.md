@@ -29,12 +29,11 @@ url_code: ""
 </style>
 
 -----
-**Instructor**:       China Youth Science Fund Projects                 <br>
+**Instructor**:       自然资源部地理国情监测重点实验室开放基金                <br>
 **PI**:              {{% mention "Jinzhou-Cao" %}}                 <br>
 **Grant number**: 2020NGCMZD02             <br>
-**Year**:             2020.11 -2022.10  <br>
+**Year**:             2021.01 -2022.12  <br>
 **Time**:               RMB 100,000                        
 
 -----
 
-National Natural Science of China and Foundation of China Youth Science Fund Projects
