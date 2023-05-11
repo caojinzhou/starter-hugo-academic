@@ -112,16 +112,6 @@ Continuously, at your own pace.
 |  17  | 06/15/22     | 大作业汇报展示                   |                                                                              |           |
 |  18  | 06/22/22     | 端午节假期                      |                                                                              |          |
 
-&nbsp;
-
-## Assignments:
-1. **作业1 (3%)**
-
-随堂作业，霍夫曼变换。
-
-2. **作业2 (3%)**
-
-
 
 &nbsp;
 
@@ -134,7 +124,7 @@ Continuously, at your own pace.
 |  2   |  空间域图像增强（直方图变换、空域滤波[均值、中值、锐化]）               | [{{% staticref "uploads/DIP2023/实验2 图像空间域图像增强.pdf" "newtab" %}}实验2{{% /staticref %}}]|04/03/23     |【[班1](https://send2me.cn/sQIkzUQl/RuGO8ASBoRl97Q) 】【[班2](https://send2me.cn/mvZizEj3/S3ipYnEZGG8oPQ)】 |
 |  3   |  频率域图像增强（图像的傅立叶变换、低通滤波、高通滤波）               | [{{% staticref "uploads/DIP2023/实验3 图像频率域图像增强.pdf" "newtab" %}}实验3{{% /staticref %}}];[{{% staticref "uploads/DIP2023/image e3.zip" "newtab" %}}图像数据{{% /staticref %}}]|04/12/23     |【[班1](https://send2me.cn/t7X7ZmtH/S-mFPhJB8ddhtA) 】【[班2](https://send2me.cn/SNeuTk15/QqCP2j521niBrg)】 |
 |  4   |  图像复原与重建（生成运动模糊图像、逆滤波和维纳滤波）                        | [{{% staticref "uploads/DIP2023/实验4 图像复原实验.pdf" "newtab" %}}实验4{{% /staticref %}}] |04/26/23     |【[班1](https://send2me.cn/k7qhE1cb/RWSfKHlBjEr8Rw) 】【[班2](https://send2me.cn/c_33Ssvd/SO-ZHdAz6zgOwg)】|
-|  5  |  数字图像压缩与解压（霍夫曼编码）                    | [{{% staticref "uploads/DIP2023/xx.docx" "newtab" %}}实验5{{% /staticref %}}] |0x/xx/23     |【[班1]() 】【[班2]()】|
+|  5  |  数字图像压缩与解压（霍夫曼编码）                    | [{{% staticref "uploads/DIP2023/实验5 数字图像压缩与解压实验.pdf" "newtab" %}}实验5{{% /staticref %}}] |05/14/23     |【[班1]() 】【[班2]()】|
 |  6  |  图像分割（边缘检测算子、霍夫变换、多个阈值分割算法）                   |   [{{% staticref "uploads/DIP2023/xx.docx" "newtab" %}}实验6{{% /staticref %}}]|0x/xx/23     |【[班1]() 】【[班2]()】|
 |  7  |  彩色图像处理              |[{{% staticref "uploads/DIP2023/xx.docx" "newtab" %}}实验7{{% /staticref %}}]; [{{% staticref "uploads/DIP2023/image_e5.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |0x/xx/23     |【[班1]() 】【[班2]()】|
 |  8  |  图像表示与描述                | [{{% staticref "uploads/DIP2023/xx.docx" "newtab" %}}实验8{{% /staticref %}}]                                                                            |0x/xx/23     |【[班1]() 】【[班2]()】|
@@ -143,11 +133,25 @@ Continuously, at your own pace.
 
 ## Course Project:
 
-[{{% staticref "uploads/DIP_slides/课程设计作业xxx.pdf" "newtab" %}}课程设计题目{{% /staticref %}}]
+[{{% staticref "uploads/DIP2023/课程设计作业.pdf" "newtab" %}}课程设计题目{{% /staticref %}}]
 
 
 
 **作业要求**
+1、自行分小组，4人为一个小组。小组成员指定1人为组长，其余成员须对课程设计具有明确的分工；    
+
+2、要求独立完成设计项目，开发工具自选。各组长有责任督促组员完成任务；    
+
+3、尽量不使用封装好的、现成的库，对于独立实现算法撰写的小组可进行加分；    
+
+4、鼓励大家根据兴趣和需求，自定义开发更多功能模块；    
+
+5、时间为5月11日~6月15日。6月15日的课上进行现场PPT展示，需对系统设计思路、功能模块等内容进行讲解。每个小组10分钟时间。    
+
+请将大作业提交材料打包成压缩文件上传至：[1班，点击此处]()；[2班，点击此处]()
+
+截止时间：2023/06/XX。
+
 
 
 
