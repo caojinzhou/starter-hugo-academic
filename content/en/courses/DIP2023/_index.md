@@ -133,7 +133,7 @@ Continuously, at your own pace.
 
 ## Course Project:
 
-[{{% staticref "uploads/DIP2023/课程设计作业.pdf" "newtab" %}}课程设计题目{{% /staticref %}}]
+[{{% staticref "uploads/DIP2023/课程设计作业.pdf" "newtab" %}}课程设计题目（2023）{{% /staticref %}}]
 
 
 
