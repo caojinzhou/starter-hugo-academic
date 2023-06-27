@@ -51,6 +51,6 @@ design:
   flip_alt_rows: true
 ---
 
-{{< figure src="researcharea.png" caption="研究方向路线图" numbered="false" >}}
+
 
 
