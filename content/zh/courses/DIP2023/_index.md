@@ -106,9 +106,9 @@ Continuously, at your own pace.
 |  11  | 05/04/22     | 图像分割 [2]{{% staticref "uploads/DIP2023/2023_DIP_Ch8_图像分割.pdf" "newtab" %}}(Slides){{% /staticref %}}                    |                                                                              |                                            |
 |  12  | 05/11/22     | 彩色图像处理 [1]                |实验6                                                                              |                                            |
 |  13  | 05/18/22     | 彩色图像处理 [2]{{% staticref "uploads/DIP2023/2023_DIP_Ch9_彩色图像处理.pdf" "newtab" %}}(Slides){{% /staticref %}}                |                                                                              |             |
-|  14  | 05/25/22     | 图像形态学处理{{% staticref "uploads/DIP2023/2023_DIP_Ch10_图像形态学处理.pdf" "newtab" %}}(Slides){{% /staticref %}}                  |实验7                                                                              |                                            |
-|  15  | 06/01/22     | 图像表示与描述 [1]                  |                                                                              |   |
-|  16  | 06/08/22     | 图像表示与描述 [2]{{% staticref "uploads/DIP2023/2023_DIP_Ch11_图像表示与描述.pdf" "newtab" %}}(Slides){{% /staticref %}}                    |实验8                                                                              | |
+|  14  | 05/25/22     | 图像表示与描述 [1]                  |实验7                                                                              |                                            |
+|  15  | 06/01/22     | 图像表示与描述 [2]{{% staticref "uploads/DIP2023/2023_DIP_Ch10_图像表示与描述.pdf" "newtab" %}}(Slides){{% /staticref %}}                  |                                                                              |   |
+|  16  | 06/08/22     | 期末复习                   |                                                                              | |
 |  17  | 06/15/22     | 大作业汇报展示                   |                                                                              |           |
 |  18  | 06/22/22     | 端午节假期                      |                                                                              |          |
 
@@ -125,15 +125,14 @@ Continuously, at your own pace.
 |  3   |  频率域图像增强（图像的傅立叶变换、低通滤波、高通滤波）               | [{{% staticref "uploads/DIP2023/实验3 图像频率域图像增强.pdf" "newtab" %}}实验3{{% /staticref %}}];[{{% staticref "uploads/DIP2023/image e3.zip" "newtab" %}}图像数据{{% /staticref %}}]|04/12/23     |【[班1](https://send2me.cn/t7X7ZmtH/S-mFPhJB8ddhtA) 】【[班2](https://send2me.cn/SNeuTk15/QqCP2j521niBrg)】 |
 |  4   |  图像复原与重建（生成运动模糊图像、逆滤波和维纳滤波）                        | [{{% staticref "uploads/DIP2023/实验4 图像复原实验.pdf" "newtab" %}}实验4{{% /staticref %}}] |04/26/23     |【[班1](https://send2me.cn/k7qhE1cb/RWSfKHlBjEr8Rw) 】【[班2](https://send2me.cn/c_33Ssvd/SO-ZHdAz6zgOwg)】|
 |  5  |  数字图像压缩与解压（霍夫曼编码）                    | [{{% staticref "uploads/DIP2023/实验5 数字图像压缩与解压实验.pdf" "newtab" %}}实验5{{% /staticref %}}] |05/14/23     |【[班1](https://send2me.cn/jcQJf5oZ/QwOHklxa0Iym7w) 】【[班2](https://send2me.cn/jFACyh8O/SzuSlUcaWcWHcw)】|
-|  6  |  图像分割（边缘检测算子、霍夫变换、多个阈值分割算法）                   |   [{{% staticref "uploads/DIP2023/xx.docx" "newtab" %}}实验6{{% /staticref %}}]|0x/xx/23     |【[班1]() 】【[班2]()】|
-|  7  |  彩色图像处理              |[{{% staticref "uploads/DIP2023/xx.docx" "newtab" %}}实验7{{% /staticref %}}]; [{{% staticref "uploads/DIP2023/image_e5.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |0x/xx/23     |【[班1]() 】【[班2]()】|
-|  8  |  图像表示与描述                | [{{% staticref "uploads/DIP2023/xx.docx" "newtab" %}}实验8{{% /staticref %}}]                                                                            |0x/xx/23     |【[班1]() 】【[班2]()】|
+|  6  |  图像分割（边缘检测算子、霍夫变换、多个阈值分割算法）                   |   [{{% staticref "uploads/DIP2023/实验6 图像分割实验.pdf" "newtab" %}}实验6{{% /staticref %}}]; [{{% staticref "uploads/DIP2023/fig.rar" "newtab" %}}图像数据{{% /staticref %}}]|05/29/23     |【[班1](https://send2me.cn/YNQtVPUq/RTa7fUgm5H-OuQ) 】【[班2](https://send2me.cn/ZDkOwVC4/SlCXsJz8Su9JIw)】|
+|  7  |  彩色图像处理              |[{{% staticref "uploads/DIP2023/实验7 彩色图像处理实验.pdf" "newtab" %}}实验7{{% /staticref %}}]; [{{% staticref "uploads/DIP2023/flower.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |06/07/23     |【[班1](https://send2me.cn/dHsqD0RL/QCyyJBQLI2MBMA) 】【[班2](https://send2me.cn/inZqfP-O/RPmPv503t9bS9g)】|
 
 &nbsp;
 
 ## Course Project:
 
-[{{% staticref "uploads/DIP2023/课程设计作业.pdf" "newtab" %}}课程设计题目{{% /staticref %}}]
+[{{% staticref "uploads/DIP2023/课程设计作业.pdf" "newtab" %}}课程设计题目（2023）{{% /staticref %}}]
 
 
 
@@ -148,9 +147,9 @@ Continuously, at your own pace.
 
 5、时间为5月11日~6月15日。6月15日的课上进行现场PPT展示，需对系统设计思路、功能模块等内容进行讲解。每个小组10分钟时间。    
 
-请将大作业提交材料打包成压缩文件上传至：[1班，点击此处]()；[2班，点击此处]()
+请将大作业提交材料打包成压缩文件上传至：[1班，点击此处](https://send2me.cn/yONyCJBW/SiS-LU_uJX-JCQ)；[2班，点击此处](https://send2me.cn/Ul4Vn4Q7/RDCg_2gRzypX8Q)
 
-截止时间：2023/06/XX。
+截止时间：2023/06/26。
 
 
 
