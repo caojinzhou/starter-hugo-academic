@@ -50,8 +50,7 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
 ---
-### 研究方向思维导图
 
-{{< figure src="researcharea.png" caption="研究方向" numbered="false" >}}
+{{< figure src="researcharea.png" caption="研究方向路线图" numbered="false" >}}
 
 
