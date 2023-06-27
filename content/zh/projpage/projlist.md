@@ -34,7 +34,7 @@ content:
   - name: 已完成
     tag: Completed
   - name: 在研
-    tag: Onging
+    tag: Ongoing
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
