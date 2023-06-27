@@ -12,7 +12,7 @@ baseURL: 'https://www.caojz.cn' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: ch
+defaultContentLanguage: zh
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
