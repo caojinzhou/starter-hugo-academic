@@ -11,7 +11,7 @@ baseURL: 'https://www.caojz.cn' # Website URL
 ############################
 ## LANGUAGE
 ############################
-
+###zh/en
 defaultContentLanguage: zh
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false

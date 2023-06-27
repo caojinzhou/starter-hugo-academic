@@ -5,3 +5,4 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
+哈哈哈 这里是主页
