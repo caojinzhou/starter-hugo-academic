@@ -3,12 +3,12 @@ url_pdf: ""
 date: 2022-02-27T16:08:29.959Z
 summary: National
 url_video: ""
-title: 基于多源时空轨迹大数据的城市出行模式与空间结构适配性评估
+title: 自然资源部城市土地资源监测与仿真重点实验室开放基金,基于多源时空轨迹大数据的城市出行模式与空间结构适配性评估,15.5万
 subtitle: 自然资源部城市土地资源监测与仿真重点实验室开放基金
 featured: true
 tags:
   - PI
-  - Ongoing
+  - Completed
 external_link: ""
 url_slides: ""
 image:
@@ -29,7 +29,7 @@ url_code: ""
 </style>
 
 -----
-**Instructor**:       China Youth Science Fund Projects                 <br>
+**Instructor**:       自然资源部城市土地资源监测与仿真重点实验室开放基金                 <br>
 **PI**:              {{% mention "Jinzhou-Cao" %}}                 <br>
 **Grant number**: KF-2019-04-073             <br>
 **Year**:             2020.01 -2021.07  <br>

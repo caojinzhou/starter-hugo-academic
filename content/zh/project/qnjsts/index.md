@@ -3,7 +3,7 @@ url_pdf: ""
 date: 2022-02-27T16:08:29.959Z
 summary: 
 url_video: ""
-title: 青年教师教育教学能力培养提升计划
+title: 青年教师教育教学能力培养提升计划，1万
 subtitle: 
 featured: false
 tags:

@@ -3,7 +3,7 @@ url_pdf: ""
 date: 2022-02-27T16:08:29.959Z
 summary: 
 url_video: ""
-title: 深圳市博士后留深补助项目, 大数据驱动的城市系统研究
+title: 深圳市博士后留深补助项目, 大数据驱动的城市系统研究，30万
 subtitle: 
 featured: true
 tags:
@@ -37,4 +37,3 @@ url_code: ""
 
 -----
 
-National Natural Science of China and Foundation of China Youth Science Fund Projects

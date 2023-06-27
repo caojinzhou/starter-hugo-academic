@@ -3,7 +3,7 @@ url_pdf: ""
 date: 2022-02-27T16:08:29.959Z
 summary: 国家自然科学基金青年基金
 url_video: ""
-title: 国家自然科学基金青年基金，基于手机大数据的城市动态功能多时空尺度识别研究
+title: 国家自然科学基金青年基金，基于手机大数据的城市动态功能多时空尺度识别研究，30万
 subtitle: 
 featured: true
 tags:

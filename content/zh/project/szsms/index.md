@@ -3,8 +3,8 @@ url_pdf: ""
 date: 2022-02-27T16:08:29.959Z
 summary: National Natural Science Foundation of China (NSFC)
 url_video: ""
-title: 深圳市基础研究专项面上项目, 融合深度学习和地理-流双视角的城市群功能协同优化技术研究
-subtitle: National Natural Science Foundation of China (NSFC)
+title: 深圳市基础研究专项面上项目, 融合深度学习和地理-流双视角的城市群功能协同优化技术研究，30万
+subtitle: 
 featured: true
 tags:
   - PI
