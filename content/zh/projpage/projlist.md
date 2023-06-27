@@ -31,7 +31,7 @@ content:
     tag: PI
   - name: 参与
     tag: Particiapted
-  - name: 已完成
+  - name: 已结题
     tag: Completed
   - name: 在研
     tag: Ongoing

@@ -38,9 +38,9 @@ url_video: "https://simetri.uk/about-the-project"
 </style>
 
 -----
-**Instructor**:       China Youth Science Fund Projects                 <br>
+**Instructor**:       国家自然科学基金中欧合作与交流项目                 <br>
 **PI**:              {{% mention "Jinzhou-Cao" %}}                 <br>
-**Grant number**:  xxx             <br>
+**Grant number**:  71961137003             <br>
 **Year**:             2021.01-2023.12  <br>
 **Time**:               RMB 240,000                        
 
