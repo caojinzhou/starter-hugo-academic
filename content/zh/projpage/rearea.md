@@ -12,9 +12,6 @@ weight: 30
 title: 研究方向路线图
 subtitle:
 
-design:
-  columns: '1'
-  view: 4
 ---
 
-{{< figure src="researcharea.png" caption="" numbered="false" >}}
+{{< figure src="researcharea.png" caption="" numbered="false" align=right >}}
