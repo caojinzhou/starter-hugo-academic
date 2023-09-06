@@ -137,7 +137,7 @@ Continuously, at your own pace.
 - 小组成员分工
 
 提交时间：第7周。请将项目介绍书word文档转成PDF格式上传至：(上传链接还未开通)
-x
+
 [1班上交截止时间：2023/10/xx 23：00，点击此处]()；
 
 [2班上交截止时间：2023/10/xx 23：00，点击此处]()
@@ -199,13 +199,13 @@ x
 &nbsp;
 
 ## Class Schedule
-[{{% staticref "uploads/idsbd/2022-Intro-数据科学与大数据导论.pdf" "newtab" %}}课程导言PPT{{% /staticref %}}]
+[{{% staticref "uploads/idsbd/2023-Intro-数据科学与大数据导论.pdf" "newtab" %}}课程导言PPT{{% /staticref %}}]
 
 |Weeks | Topics                                                                                  | Lecture slides	                                                                                                                                                                 | Extra slides                                                                                       |
 |----- |:----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 |  1   | 大数据概述 Introduction to Big Data                                                          | [{{% staticref "uploads/idsbd/2023-Chp1-大数据导论.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                        |
 |  2   | 数据科学基础  Data Science Fundamentals                                                       | [{{% staticref "uploads/idsbd/2023-Chp2-数据科学导言.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                       |                                                                                                    |
-|  3   | 大数据处理基础 Big Data Analytics Fundamentals[1] 数据采集，数据模型                                    | [{{% staticref "uploads/idsbd/2023-Chp3-(1)数据采集.pdf" "newtab" %}}数据采集Slides{{% /staticref %}}];[{{% staticref "uploads/idsbd/2023-Chp3-(2)数据模型类型.pdf" "newtab" %}}数据模型Slides{{% /staticref %}}] |                                                                                                    |
+|  3   | 大数据处理基础 Big Data Analytics Fundamentals[1] 数据采集，数据模型                                    | [{{% staticref "uploads/idsbd/2023-Chp3-(2)数据模型类型.pdf" "newtab" %}}Slides{{% /staticref %}}] |                                                                                                    |
 |  4  | 大数据处理基础 Big Data Analytics Fundamentals[2] 数据预处理                                        | [{{% staticref "uploads/idsbd/2023-Chp3-(3)数据预处理.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                         | 扩展学习内容：[{{% staticref "uploads/idsbd/2023-Chp3-(3)数据预处理 扩展学习内容.pdf" "newtab" %}}Slides{{% /staticref %}}] |
 | 5  | 大数据处理基础 Big Data Analytics Fundamentals[3] 数据探索性分析                                      | [{{% staticref "uploads/idsbd/2023-Chp3-数据探索性分析.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                         |                                                                                                    |
 |  6  | 大数据分析算法[1]（聚类） Big Data Analytics Algorithms (Clustering)                               | [{{% staticref "uploads/idsbd/2023-Chp4-机器学习算法-聚类.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                         | 扩展学习内容：[{{% staticref "uploads/idsbd/2022-Chp4-机器学习算法-聚类 扩展学习内容.pdf" "newtab" %}}Slides{{% /staticref %}}] |
