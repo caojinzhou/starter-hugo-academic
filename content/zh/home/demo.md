@@ -15,7 +15,7 @@ design:
     gradient_start: ""
     gradient_end: ""
     text_color_light: true
-    image: dsc2.jpg
+    image: dsc.jpg
   spacing:
     padding:
       - 1000px
