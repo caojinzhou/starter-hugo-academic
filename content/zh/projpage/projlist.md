@@ -31,10 +31,10 @@ content:
     tag: PI
   - name: 参与
     tag: Particiapted
-  - name: 已完成
+  - name: 已结题
     tag: Completed
   - name: 在研
-    tag: Onging
+    tag: Ongoing
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -50,3 +50,7 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
 ---
+
+
+
+

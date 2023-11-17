@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: HUSKY Research Group # Website name
+title: HUSKY Lab # Website name
 baseURL: 'https://www.caojz.cn' # Website URL
 
 
@@ -11,8 +11,8 @@ baseURL: 'https://www.caojz.cn' # Website URL
 ############################
 ## LANGUAGE
 ############################
-
-defaultContentLanguage: en
+###zh/en
+defaultContentLanguage: zh
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true

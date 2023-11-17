@@ -26,7 +26,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: caojinzhou2011@gmail.com
+  email: caojinzhou@sztu.edu.cn
   phone: 888 888 88 88
   address:
     street: 3002 Lantian Road, Pingshan District
@@ -38,7 +38,7 @@ content:
   coordinates:
     latitude: '22.70142'
     longitude: '114.395955'
-  directions: Enter Building C-1 and take the stairs to Office 200 on Floor 2
+  directions: Enter Building C-1 and take the stairs to Office 1419 on Floor 14
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'

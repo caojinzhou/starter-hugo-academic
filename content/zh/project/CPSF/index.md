@@ -3,8 +3,8 @@ url_pdf: ""
 date: 2022-02-27T16:08:29.959Z
 summary: 中国博士后科学基金
 url_video: ""
-title: 基于手机大数据的动态城市功能多尺度预测研究
-subtitle: 中国博士后科学基金
+title: 中国博士后科学基金，基于手机大数据的动态城市功能多尺度预测研究，8万
+subtitle: 
 featured: true
 tags:
   - PI

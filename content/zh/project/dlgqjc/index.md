@@ -3,12 +3,12 @@ url_pdf: ""
 date: 2022-02-27T16:08:29.959Z
 summary: 
 url_video: ""
-title: 基于深度学习的城市功能区动态监测方法研究
-subtitle: 自然资源部地理国情监测重点实验室开放基金
+title: 自然资源部地理国情监测重点实验室开放基金，基于深度学习的城市功能区动态监测方法研究，10万
+subtitle: 
 featured: true
 tags:
   - PI
-  - Ongoing
+  - Completed
 external_link: ""
 url_slides: ""
 image:
@@ -29,12 +29,11 @@ url_code: ""
 </style>
 
 -----
-**Instructor**:       China Youth Science Fund Projects                 <br>
+**Instructor**:       自然资源部地理国情监测重点实验室开放基金                <br>
 **PI**:              {{% mention "Jinzhou-Cao" %}}                 <br>
 **Grant number**: 2020NGCMZD02             <br>
-**Year**:             2020.11 -2022.10  <br>
+**Year**:             2021.01 -2022.12  <br>
 **Time**:               RMB 100,000                        
 
 -----
 
-National Natural Science of China and Foundation of China Youth Science Fund Projects
