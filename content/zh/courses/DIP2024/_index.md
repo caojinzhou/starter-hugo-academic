@@ -89,7 +89,7 @@ Continuously, at your own pace.
 &nbsp;
 
 ## Class Schedule
-[{{% staticref "uploads/DIP2023/2023_DIP_Intro.pdf" "newtab" %}}课程介绍{{% /staticref %}}]
+[{{% staticref "uploads/DIP2024/2024_DIP_Intro.pdf" "newtab" %}}课程介绍{{% /staticref %}}]
 
 - 课件下载链接（课堂讲完后会上传到该云盘，请及时下载）：[点击此处](https://www.jianguoyun.com/p/DTnyy-cQmZCxDBjgwcMFIAA) 
 
@@ -121,7 +121,7 @@ Continuously, at your own pace.
 ## Experimental Projects:
 [{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板下载{{% /staticref %}}]
 
-[{{% staticref "uploads/DIP2023/images.rar" "newtab" %}}实验图像{{% /staticref %}}]
+[{{% staticref "uploads/DIP2024/images.rar" "newtab" %}}实验图像{{% /staticref %}}]
 
 |Nums |  Topics                          | Materials	                                                           |Due Dates |        Submission                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
@@ -137,7 +137,7 @@ Continuously, at your own pace.
 
 ## Course Project:
 
-[{{% staticref "uploads/DIP2023/课程设计作业.pdf" "newtab" %}}课程设计题目（2024）{{% /staticref %}}]
+[{{% staticref "uploads/DIP2024/课程设计作业.pdf" "newtab" %}}课程设计题目（2024）{{% /staticref %}}]
 
 
 
