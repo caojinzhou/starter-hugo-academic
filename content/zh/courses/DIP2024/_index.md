@@ -91,7 +91,7 @@ Continuously, at your own pace.
 ## Class Schedule
 [{{% staticref "uploads/DIP2023/2023_DIP_Intro.pdf" "newtab" %}}课程介绍{{% /staticref %}}]
 
-- 课件下载链接（课堂讲完后会上传到该云盘，请及时下载）：
+- 课件下载链接（课堂讲完后会上传到该云盘，请及时下载）：[点击此处](https://www.jianguoyun.com/p/DTnyy-cQmZCxDBjgwcMFIAA) 
 
 
 |Weeks |  Dates       | Course Topics                          | Experiments	                                                           |
