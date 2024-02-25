@@ -1,5 +1,5 @@
 ---
-title: 📊 IB00129 (2023)Digital Image Processing（数字图像处理）
+title: 📊 IB00129 (2024)Digital Image Processing（数字图像处理）
 summary: This undergraduate-level course introduces students to major themes, questions, issues, and hypotheses in Digital Image Processing(DIP).
 date: '2024-02-25'
 type: book
@@ -121,15 +121,17 @@ Continuously, at your own pace.
 ## Experimental Projects:
 [{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板下载{{% /staticref %}}]
 
+[{{% staticref "uploads/DIP2023/images.rar" "newtab" %}}实验图像{{% /staticref %}}]
+
 |Nums |  Topics                          | Materials	                                                           |Due Dates |        Submission                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
-|  1   |  数字图像处理初步与基本运算（基本运算、几何变换、缩放、旋转、灰度变换）               | [{{% staticref "uploads/DIP2023/实验1数字图像处理初步与基本运算.pdf" "newtab" %}}实验1{{% /staticref %}}]；[{{% staticref "uploads/DIP2023/images.rar" "newtab" %}}实验图像{{% /staticref %}}]|03/20/23     |【[班1](https://send2me.cn/-jMckXw6/TiS8Cupny4bn9Q) 】【[班2](https://send2me.cn/w5mCwkEC/QKqLRQ4pZ8x3wQ)】 |
-|  2   |  空间域图像增强（直方图变换、空域滤波[均值、中值、锐化]）               | [{{% staticref "uploads/DIP2023/实验2 图像空间域图像增强.pdf" "newtab" %}}实验2{{% /staticref %}}]|04/03/23     |【[班1](https://send2me.cn/sQIkzUQl/RuGO8ASBoRl97Q) 】【[班2](https://send2me.cn/mvZizEj3/S3ipYnEZGG8oPQ)】 |
-|  3   |  频率域图像增强（图像的傅立叶变换、低通滤波、高通滤波）               | [{{% staticref "uploads/DIP2023/实验3 图像频率域图像增强.pdf" "newtab" %}}实验3{{% /staticref %}}];[{{% staticref "uploads/DIP2023/image e3.zip" "newtab" %}}图像数据{{% /staticref %}}]|04/12/23     |【[班1](https://send2me.cn/t7X7ZmtH/S-mFPhJB8ddhtA) 】【[班2](https://send2me.cn/SNeuTk15/QqCP2j521niBrg)】 |
-|  4   |  图像复原与重建（生成运动模糊图像、逆滤波和维纳滤波）                        | [{{% staticref "uploads/DIP2023/实验4 图像复原实验.pdf" "newtab" %}}实验4{{% /staticref %}}] |04/26/23     |【[班1](https://send2me.cn/k7qhE1cb/RWSfKHlBjEr8Rw) 】【[班2](https://send2me.cn/c_33Ssvd/SO-ZHdAz6zgOwg)】|
-|  5  |  数字图像压缩与解压（霍夫曼编码）                    | [{{% staticref "uploads/DIP2023/实验5 数字图像压缩与解压实验.pdf" "newtab" %}}实验5{{% /staticref %}}] |05/14/23     |【[班1](https://send2me.cn/jcQJf5oZ/QwOHklxa0Iym7w) 】【[班2](https://send2me.cn/jFACyh8O/SzuSlUcaWcWHcw)】|
-|  6  |  图像分割（边缘检测算子、霍夫变换、多个阈值分割算法）                   |   [{{% staticref "uploads/DIP2023/实验6 图像分割实验.pdf" "newtab" %}}实验6{{% /staticref %}}]; [{{% staticref "uploads/DIP2023/fig.rar" "newtab" %}}图像数据{{% /staticref %}}]|05/29/23     |【[班1](https://send2me.cn/YNQtVPUq/RTa7fUgm5H-OuQ) 】【[班2](https://send2me.cn/ZDkOwVC4/SlCXsJz8Su9JIw)】|
-|  7  |  彩色图像处理              |[{{% staticref "uploads/DIP2023/实验7 彩色图像处理实验.pdf" "newtab" %}}实验7{{% /staticref %}}]; [{{% staticref "uploads/DIP2023/flower.rar" "newtab" %}}图像数据{{% /staticref %}}]                                                                              |06/07/23     |【[班1](https://send2me.cn/dHsqD0RL/QCyyJBQLI2MBMA) 】【[班2](https://send2me.cn/inZqfP-O/RPmPv503t9bS9g)】|
+|  1   |  数字图像处理初步与基本运算（基本运算、几何变换、缩放、旋转、灰度变换）               | [{{% staticref "uploads/DIP2023/实验1数字图像处理初步与基本运算.pdf" "newtab" %}}实验1{{% /staticref %}}]；|03/20/23     |【[上传链接](https://send2me.cn/-jMckXw6/TiS8Cupny4bn9Q) 】|
+|  2   |  空间域图像增强（直方图变换、空域滤波[均值、中值、锐化]）               | [{{% staticref "uploads/DIP2023/实验2 图像空间域图像增强.pdf" "newtab" %}}实验2{{% /staticref %}}]|04/03/23     |【[上传链接](https://send2me.cn/sQIkzUQl/RuGO8ASBoRl97Q) 】|
+|  3   |  频率域图像增强（图像的傅立叶变换、低通滤波、高通滤波）               | [{{% staticref "uploads/DIP2023/实验3 图像频率域图像增强.pdf" "newtab" %}}实验3{{% /staticref %}}]|04/12/23     |【[上传链接](https://send2me.cn/t7X7ZmtH/S-mFPhJB8ddhtA) 】|
+|  4   |  图像复原与重建（生成运动模糊图像、逆滤波和维纳滤波）                        | [{{% staticref "uploads/DIP2023/实验4 图像复原实验.pdf" "newtab" %}}实验4{{% /staticref %}}] |04/26/23     |【[上传链接](https://send2me.cn/k7qhE1cb/RWSfKHlBjEr8Rw) 】|
+|  5  |  数字图像压缩与解压（霍夫曼编码）                    | [{{% staticref "uploads/DIP2023/实验5 数字图像压缩与解压实验.pdf" "newtab" %}}实验5{{% /staticref %}}] |05/14/23     |【[上传链接](https://send2me.cn/jcQJf5oZ/QwOHklxa0Iym7w) 】|
+|  6  |  图像分割（边缘检测算子、霍夫变换、多个阈值分割算法）                   |   [{{% staticref "uploads/DIP2023/实验6 图像分割实验.pdf" "newtab" %}}实验6{{% /staticref %}}]|05/29/23     |【[上传链接](https://send2me.cn/YNQtVPUq/RTa7fUgm5H-OuQ) 】|
+|  7  |  彩色图像处理              |[{{% staticref "uploads/DIP2023/实验7 彩色图像处理实验.pdf" "newtab" %}}实验7{{% /staticref %}}]   |06/07/23     |【[上传链接](https://send2me.cn/dHsqD0RL/QCyyJBQLI2MBMA) 】|
 
 &nbsp;
 
