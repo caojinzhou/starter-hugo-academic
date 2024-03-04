@@ -121,7 +121,12 @@ Continuously, at your own pace.
 ## Experimental Projects:
 [{{% staticref "uploads/DIP_slides/实验报告模板.docx" "newtab" %}}实验报告模板下载{{% /staticref %}}]
 
-[{{% staticref "uploads/DIP2024/images.rar" "newtab" %}}实验图像{{% /staticref %}}]
+[{{% staticref "uploads/DIP2024/image.rar" "newtab" %}}实验图像{{% /staticref %}}]
+
+[{{% staticref "uploads/DIP2024/附件1：深圳技术大学MATLAB个人版安装指南.pdf" "newtab" %}}正版Matlab安装教程{{% /staticref %}}]
+
+[{{% staticref "uploads/DIP2024/Matlab数字图像处理函数.pdf" "newtab" %}}Matlab数字图像处理函数{{% /staticref %}}]
+
 
 |Nums |  Topics                          | Materials	                                                           |Due Dates |        Submission                                |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
