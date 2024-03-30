@@ -19,6 +19,6 @@ organizations:
     url: https://www.sztu.edu.cn/
 superuser: false
 user_groups:
-  - Undergraduate students
+  - Unknown
 ---
 张浩朝是一名目前就读于深圳技术大学的本科生，同时他也是HUSKY实验室的一员。目前他的研究方向主要在人工智能、数据科学和数据挖掘。除此之外，他还积极参加了ICPC的社团。
