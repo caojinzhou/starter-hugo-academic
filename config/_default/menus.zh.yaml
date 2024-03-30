@@ -10,7 +10,7 @@ main:
   - name: PI
     url: 'me/'
     weight: 20
-  - name: 团队
+  - name: 招募
     url: 'group/'
     weight: 30
  # - name: 贴文
