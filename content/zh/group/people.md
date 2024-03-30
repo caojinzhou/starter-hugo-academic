@@ -29,9 +29,6 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: false
 ---
-{{% callout note %}}
-
-
 优越的实验室环境
 - 实验室拥有充足的科研经费，拥有多台深度学习服务器、城市大数据实训平台、城市智能开发套件与系统、深度学习台式工作站等硬件条件。
 - 实验室拥有惬意的办公环境，轻松的沟通方式，和疯狂的团建活动等软件条件。
@@ -48,5 +45,6 @@ design:
 - 机器/深度学习：理解机器学习的基本原理，并有一定的相关项目经验。
 - 能够独立进行科研问题的分析与解决，具备良好的创新能力和快速学习新技术和新知识的能力，具有良好的团队合作精神，能够自我驱动与控制。
 
+{{% callout note %}}
 更多介绍，请查看 [{{% staticref "uploads/huskylab.pdf" "newtab" %}}文档{{% /staticref %}}]
 {{% /callout %}}
