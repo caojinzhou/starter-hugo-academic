@@ -50,5 +50,5 @@ design:
 
 
 {{% callout note %}}
-更多介绍，请点击此 [{{% staticref "uploads/huskylab.pdf" "newtab" %}} PPT文档{{% /staticref %}}]
+更多介绍，请点击此 [{{% staticref "uploads/实验室简介 2024.pdf" "newtab" %}} PPT文档{{% /staticref %}}]
 {{% /callout %}}
