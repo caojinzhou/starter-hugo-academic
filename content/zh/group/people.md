@@ -54,8 +54,12 @@ design:
 <p align="left"> -英文能力：最好过四六级，愿意静下心来阅读英文文献。</p>
 <p align="left"> -学习态度：自学能力强，能较快熟悉；做事踏实认真，愿意钻研和攻克难关。</p>
 <p align="left"> -其他能力：前后端，如Deck.gl、JS网页开发等</p>
-<p align="left"> 请有意向本科生发送简历cv和参与项目经历到邮箱；若合适，会在一星期内回复。</p>
+
 
 {{% callout note %}}
 更多介绍，请点击此 [{{% staticref "uploads/实验室简介2024.pdf" "newtab" %}} PPT文档{{% /staticref %}}]
+{{% /callout %}}
+
+{{% callout note %}}
+请有意向本科生发送简历cv和参与项目经历到邮箱；若合适，会在一星期内回复。
 {{% /callout %}}
