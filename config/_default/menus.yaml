@@ -4,10 +4,10 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: About
     url: '#about'
     weight: 10
-  - name: PI
+  - name: CV
     url: 'me/'
     weight: 20
   - name: Group
@@ -23,22 +23,22 @@ main:
     url: 'publication/'
     weight: 50
   - name: Partnership
-    url: '#partner'
+    url: 'partner/'
     weight: 75
-  - name: Courses
+  - name: Teaching
     url: 'courses/'
     weight: 60
+  - name: Openings
+    url: 'opening/'
+    weight: 80
+
   # - name: Resources
     # url: 'resource/'
     # weight: 70
   # - name: Contact
     # url: 'contact/'
     # weight: 80
-#  - name: CV
-#    url: uploads/曹劲舟CV-ENG.pdf
-#    weight: 90
+
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70

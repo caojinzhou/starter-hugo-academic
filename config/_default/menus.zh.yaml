@@ -7,10 +7,10 @@ main:
   - name: 主页
     url: '#about'
     weight: 10
-  - name: PI
+  - name: 简历
     url: 'me/'
     weight: 20
-  - name: 招募
+  - name: 团队
     url: 'group/'
     weight: 30
  # - name: 贴文
@@ -23,11 +23,16 @@ main:
     url: 'publication/'
     weight: 50
   - name: 合作
-    url: '#partner'
+    url: 'partner/'
     weight: 75
   - name: 课程
     url: 'courses/'
     weight: 60
+  - name: 招募
+    url: 'opening/'
+    weight: 80
+  
+
   #- name: 资源
  #   url: 'resource/'
  #   weight: 70
