@@ -1,6 +1,6 @@
 ---
 title: LG 376 Second Language Acquisition
-type: page
+type: book
 summary: 'This undergraduate-level course introduces students to major themes, questions, issues, and hypotheses in second language acquisition (SLA).'
 date: '2022-01-02'
 lastmod: '2022-01-02'
