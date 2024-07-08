@@ -1,7 +1,7 @@
 ---
-title: 📊 IB00095 (2023)Introducation to Data Science and Big Data（数据科学与大数据导论）
+title: 📊 IB00095 (2024)Introducation to Data Science and Big Data（数据科学与大数据导论）
 summary: 数据科学与大数据系列课程的基础课和先导课.
-date: '2023-08-06'
+date: '2024-08-06'
 type: book
 commentable: true
 
