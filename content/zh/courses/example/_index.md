@@ -5,7 +5,6 @@ summary: 'This undergraduate-level course introduces students to major themes, q
 date: '2022-01-02'
 lastmod: '2022-01-02'
 active: true
-draft: true
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
