@@ -1,5 +1,5 @@
 ---
-title: 📊 IB01036 大数据与城市计算实战 Big Data and Urban Computing Practice (2024) 
+title: Syllabus 
 summary: 学院 4+ 专业选修课.
 date: '2024-07-11'
 type: book
