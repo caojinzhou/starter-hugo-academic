@@ -4,7 +4,7 @@ summary: 数据科学与大数据系列课程的基础课和先导课.
 date: '2024-07-06'
 type: book
 commentable: true
-
+weight: 30
 ---
 {{< toc hide_on="xl" >}}
 
