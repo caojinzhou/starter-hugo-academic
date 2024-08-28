@@ -105,7 +105,7 @@ Continuously, at your own pace.
 ## Class Schedule
 [{{% staticref "uploads/idsbd2024/2024-Intro-数据科学与大数据导论.pdf" "newtab" %}}课程导言PPT{{% /staticref %}}]
 
-- 课件下载链接（课堂讲完后会上传到该云盘，请及时下载）：[点击此处](xxx) 
+- 课件下载链接（课堂讲完后会上传到该云盘，请及时下载）：[点击此处](https://www.jianguoyun.com/p/DZ4RvisQmZCxDBjnhuAFIAA) 
 
 |Weeks |  Dates       | Course Topics                          | Experiments	                                                           |
 |----- |:------------:|:--------------------------------|------------------------------------------------------------------------------|
