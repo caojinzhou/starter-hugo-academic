@@ -3,6 +3,7 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
+active: false
 widget_id: header
 headless: true
 weight: 15
