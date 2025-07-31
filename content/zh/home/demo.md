@@ -9,7 +9,6 @@ headless: true
 weight: 15
 title: <u>H</u>uman-<u>U</u>rban <u>S</u>patial-temporal <u>K</u>nowledge discover<u>Y</u>(HUSKY)
 subtitle: ""
-active: true
 design:
   columns: "1"
   background:
