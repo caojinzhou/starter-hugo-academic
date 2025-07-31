@@ -7,12 +7,15 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
-  title: CityXAI Lab
+  title: Jinzhou Cao(曹劲舟)
+  #CityXAI Lab
 # Uncomment the lines below to configure your website in a second language.
 zh:
  languageCode: zh-Hans
  contentDir: content/zh
- title: 城市与空间人工智能（CityXAI）实验室
+ title:  曹劲舟（Jinzhou Cao）
+ 
+ #城市与空间人工智能（CityXAI）实验室
  
  #  menu:
 #    main:
