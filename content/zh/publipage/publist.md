@@ -17,7 +17,6 @@ content:
   filters:
     folders:
       - publication
-      - project
     tag: ''
     category: ''
     publication_type: ''
