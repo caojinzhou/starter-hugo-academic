@@ -20,7 +20,7 @@ main:
     url: 'projpage/'
     weight: 40
   - name: 论文
-    url: 'pubpage/'
+    url: 'publipage/'
     weight: 50
   - name: 合作
     url: 'partner/'
