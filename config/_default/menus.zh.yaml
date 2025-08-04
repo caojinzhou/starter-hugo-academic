@@ -16,7 +16,7 @@ main:
  # - name: 贴文
   #  url: 'post/'
  #   weight: 35
-  - name: 研究
+  - name: 项目
     url: 'projpage/'
     weight: 40
   - name: 论文
