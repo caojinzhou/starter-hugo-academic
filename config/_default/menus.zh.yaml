@@ -10,9 +10,9 @@ main:
   - name: 简历
     url: 'me/'
     weight: 20
-  - name: 团队
-    url: 'group/'
-    weight: 30
+  #- name: 团队
+  #  url: 'group/'
+  #  weight: 30
  # - name: 贴文
   #  url: 'post/'
  #   weight: 35
@@ -22,9 +22,9 @@ main:
   - name: 论文
     url: 'publipage/'
     weight: 50
-  - name: 合作
-    url: 'partner/'
-    weight: 75
+ # - name: 合作
+  #  url: 'partner/'
+  #  weight: 75
   - name: 课程
     url: 'courses/'
     weight: 60
