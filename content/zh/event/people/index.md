@@ -29,16 +29,11 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
 - 招募
 
 ---
-## Overview
-**no-code solution (write in Markdown and customize with YAML parameters)** You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
-
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 
 ## 优越的实验室环境
@@ -69,11 +64,13 @@ tags:
 - 📚 **学习态度**：自学能力强，能较快熟悉；做事踏实认真，愿意钻研和攻克难关。
 - 📚 **其他能力**：前后端，如Deck.gl、JS网页开发等。
 
+{{% callout note %}}
+请有意向本科生发送简历cv和参与项目经历到邮箱 `caojinzhou@sztu.edu.cn`；若合适，会在一星期内回复。
+{{% /callout %}}
+
 
 {{% callout note %}}
 更多介绍，请点击此 [{{% staticref "uploads/实验室简介2024.pdf" "newtab" %}} PPT文档{{% /staticref %}}]
 {{% /callout %}}
 
-{{% callout note %}}
-请有意向本科生发送简历cv和参与项目经历到邮箱 `caojinzhou@sztu.edu.cn`；若合适，会在一星期内回复。
-{{% /callout %}}
+
