@@ -28,9 +28,9 @@ main:
   - name: 课程
     url: 'courses/'
     weight: 60
-  - name: 招募
-    url: 'opening/'
-    weight: 80
+  # - name: 招募
+  #   url: 'opening/'
+  #   weight: 80
   - name: 研究中心
     url: 'center/'
     weight: 90

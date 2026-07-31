@@ -7,6 +7,8 @@ title: 全部新闻
 subtitle:
 design:
   columns: '1'
+advanced:
+  css_class: stic-news-archive-section
 ---
 
 - :page_with_curl:**Jul. 2026:**  论文 *RAMEN: Region-Adaptive Mixture of Ego-Networks for Multimodal Geospatial Fusion in Urban Region Representation* 发表在 *Mathematics*.

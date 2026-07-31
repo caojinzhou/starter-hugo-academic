@@ -2,7 +2,7 @@
 # An instance of the Experience widget.
 widget: experience
 headless: true
-active: true
+active: false
 weight: 25
 title: 教育经历
 subtitle:

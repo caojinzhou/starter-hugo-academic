@@ -4,7 +4,7 @@ headless: true
 active: true
 weight: 30
 title: 研究中心
-subtitle: 研究方向、中心介绍与招募信息
+subtitle: 研究方向、中心介绍与相关新闻
 
 design:
   columns: '1'
@@ -30,9 +30,5 @@ design:
   <a class="center-subpage-item" href="/center/news/">
     <h4>相关新闻</h4>
     <p>浏览中心最新动态、论文与项目进展。</p>
-  </a>
-  <a class="center-subpage-item" href="/opening/">
-    <h4>招募信息</h4>
-    <p>欢迎优秀研究生和高年级本科生加入。</p>
   </a>
 </div>

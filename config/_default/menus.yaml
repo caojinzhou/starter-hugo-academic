@@ -28,9 +28,9 @@ main:
   - name: Teaching
     url: 'courses/'
     weight: 60
-  - name: Openings
-    url: 'opening/'
-    weight: 80
+  # - name: Openings
+  #   url: 'opening/'
+  #   weight: 80
   - name: Center
     url: 'center/'
     weight: 90

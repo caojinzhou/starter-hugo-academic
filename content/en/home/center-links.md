@@ -4,7 +4,7 @@ headless: true
 active: true
 weight: 30
 title: Center
-subtitle: Research directions, center profile, and openings
+subtitle: Research directions, center profile, and center news
 
 design:
   columns: '1'
@@ -30,9 +30,5 @@ design:
   <a class="center-subpage-item" href="/en/center/news/">
     <h4>Center News</h4>
     <p>Follow recent papers, projects, and academic activities from the center.</p>
-  </a>
-  <a class="center-subpage-item" href="/en/opening/">
-    <h4>Openings</h4>
-    <p>Join us as a graduate student or senior undergraduate researcher.</p>
   </a>
 </div>

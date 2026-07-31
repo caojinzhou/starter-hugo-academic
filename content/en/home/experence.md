@@ -2,7 +2,7 @@
 # An instance of the Experience widget.
 widget: experience
 headless: true
-active: true
+active: false
 weight: 20
 title: Professional Appointment
 subtitle:
