@@ -11,6 +11,7 @@ advanced:
   css_class: stic-news-archive-section
 ---
 
+{{< rawhtml >}}
 <div class="stic-news-archive">
   <section class="stic-news-hero-panel">
     <div>
@@ -307,3 +308,4 @@ advanced:
     </article>
   </div>
 </div>
+{{< /rawhtml >}}
