@@ -11,6 +11,7 @@
       cite: '引用',
       copied: '已复制',
       failed: '无法加载引用信息',
+      details: '论文详情',
       close: '关闭',
       copy: '复制',
       download: '下载 BibTeX',
@@ -35,6 +36,7 @@
       cite: 'Cite',
       copied: 'Copied',
       failed: 'Citation unavailable',
+      details: 'Details',
       close: 'Close',
       copy: 'Copy',
       download: 'Download BibTeX',
@@ -96,6 +98,8 @@
   };
 
   const normalizeDoi = (doi) => doi ? doi.replace(/^https?:\/\/doi\.org\//, '') : '';
+
+  const publicationUrl = (pub, lang) => `${lang === 'en' ? '/en' : ''}/publication/${encodeURIComponent(pub.slug)}/`;
 
   const buildSearchText = (pub, text) => [
     pub.title,
@@ -192,7 +196,9 @@
 
     root.innerHTML = selected.map((pub) => {
       const doi = normalizeDoi(pub.doi);
+      const detailUrl = publicationUrl(pub, lang);
       const actions = [
+        `<a href="${escapeHtml(detailUrl)}">${text.details}</a>`,
         `<button type="button" data-cite-key="${escapeHtml(pub.slug)}">${text.cite}</button>`,
         pub.doi ? `<a href="${escapeHtml(pub.doi)}">DOI</a>` : '',
         pub.code ? `<a href="${escapeHtml(pub.code)}">Code</a>` : '',
@@ -203,7 +209,7 @@
           <div class="ai4city-paper-visual ${visualClass(pub.visual)}" aria-hidden="true">${visualHtml(pub.visual)}</div>
           <div class="ai4city-paper-copy">
             <span class="ai4city-paper-tag">${escapeHtml(pub.venue.split(',')[0])} · ${escapeHtml(pub.year)}${doi ? ` · DOI ${escapeHtml(doi)}` : ''}</span>
-            <h3>${escapeHtml(pub.title)}</h3>
+            <h3><a href="${escapeHtml(detailUrl)}">${escapeHtml(pub.title)}</a></h3>
             <p>${escapeHtml(pub.abstract)}</p>
             <div class="ai4city-paper-actions">${actions}</div>
           </div>
