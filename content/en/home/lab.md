@@ -18,8 +18,6 @@ design:
     <div class="stic-inline-actions">
       <a href="/en/projpage/">Projects</a>
       <a href="/en/publication/">Publications</a>
-      <a href="/en/opening/">Openings</a>
-      <a href="/en/center/">Parent Center</a>
     </div>
   </div>
 </div>

@@ -3,8 +3,8 @@ widget: blank
 headless: true
 active: true
 weight: 30
-title: 研究中心
-subtitle: 研究方向、中心介绍与相关新闻
+title: 时空智能研究中心
+subtitle:
 
 design:
   columns: '1'
@@ -14,21 +14,21 @@ design:
   <img class="stic-home-logo" src="/media/stic/stic-logo-full-cropped.png" alt="深圳技术大学时空智能研究中心">
   <div class="stic-home-copy">
     <h3>深圳技术大学时空智能研究中心</h3>
-    <p>研究中心面向智慧城市与空间智能需求，聚焦城市时空数据、Geo-AI、城市多模态大模型、人群移动分析与智能应用平台建设。</p>
+    <p>研究中心面向低空经济、智能城市、智能装备与具身智能等应用场景，围绕时空感知、认知与决策，重点建设无人自主感知与导航定位、城市空间智能与大模型、具身空间智能与自主作业三大研究方向。</p>
   </div>
 </div>
 
 <div class="center-subpage-grid">
-  <a class="center-subpage-item" href="/center/about/">
-    <h4>中心介绍</h4>
-    <p>了解研究中心的定位、团队与建设背景。</p>
+  <a class="center-subpage-item" href="/center/directions/">
+    <h4>无人自主感知与导航定位</h4>
+    <p>面向低空经济、智能巡检、应急测绘和智能装备，突破复杂环境下精准定位、自主导航与自主测绘关键技术。</p>
   </a>
   <a class="center-subpage-item" href="/center/directions/">
-    <h4>研究方向</h4>
-    <p>查看当前聚焦的城市时空数据、Geo-AI 与多模态智能应用方向。</p>
+    <h4>城市空间智能与大模型</h4>
+    <p>融合城市时空大数据、人工智能与多模态大模型，提升城市认知、预测、优化与智能决策能力。</p>
   </a>
-  <a class="center-subpage-item" href="/center/news/">
-    <h4>相关新闻</h4>
-    <p>浏览中心最新动态、论文与项目进展。</p>
+  <a class="center-subpage-item" href="/center/directions/">
+    <h4>具身空间智能与自主作业</h4>
+    <p>面向轨道交通、地下空间、密闭空间与复杂设施巡检，研究环境理解、任务决策和安全自主作业技术。</p>
   </a>
 </div>

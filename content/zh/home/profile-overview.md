@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-active: true
+active: false
 weight: 12
 title: 履历与研究方向
 subtitle:

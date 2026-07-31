@@ -56,3 +56,45 @@ highlight_name: true
 
 {{< icon name="download" pack="fas" >}} 点击下载 {{< staticref "uploads/曹劲舟简历-中文.pdf" "newtab" >}}中文简历{{< /staticref >}}.
 
+<div class="ai4city-about-career-grid">
+  <section>
+    <h3>工作经历</h3>
+    <ul>
+      <li><strong>2026.04-至今</strong><span>副教授，深圳技术大学人工智能学院；时空智能研究中心执行主任；数据科学系副系主任。</span></li>
+      <li><strong>2022.04-2026.03</strong><span>助理教授，深圳技术大学人工智能学院；数据科学系副系主任。</span></li>
+      <li><strong>2021.08-2022.03</strong><span>特聘副研究员，深圳大学建筑与城市规划学院，广东省城市空间信息工程重点实验室。</span></li>
+      <li><strong>2019.07-2021.07</strong><span>博士后，深圳大学建筑与城市规划学院，合作导师：李清泉院士。</span></li>
+    </ul>
+  </section>
+  <section>
+    <h3>教育经历</h3>
+    <ul>
+      <li><strong>2013-2019</strong><span>工学博士（硕博连读），武汉大学测绘遥感信息工程国家重点实验室，城市数据挖掘方向。</span></li>
+      <li><strong>2017-2018</strong><span>访问学者，美国华盛顿大学土木与环境工程学院 THINK LAB。</span></li>
+      <li><strong>2009-2013</strong><span>本科，武汉大学遥感信息工程学院，遥感科学与技术专业。</span></li>
+    </ul>
+  </section>
+</div>
+
+<div class="ai4city-about-directions">
+  <article>
+    <img src="/media/research/urban-sensing.svg" alt="城市时空数据感知与表征">
+    <h3>城市时空数据感知与表征</h3>
+    <p>融合多源城市感知数据，刻画城市空间结构、功能语义与动态变化。</p>
+  </article>
+  <article>
+    <img src="/media/research/urban-foundation-model.svg" alt="城市多模态大模型及应用">
+    <h3>城市多模态大模型及应用</h3>
+    <p>构建面向城市空间理解、预测与决策的多模态表征和基础模型。</p>
+  </article>
+  <article>
+    <img src="/media/research/geoai-social-computing.svg" alt="地理空间智能与社会计算">
+    <h3>地理空间智能与社会计算</h3>
+    <p>结合 Geo-AI、社会感知与知识推理，服务城市治理与空间决策。</p>
+  </article>
+  <article>
+    <img src="/media/research/human-mobility.svg" alt="人群移动出行模式分析">
+    <h3>人群移动出行模式分析</h3>
+    <p>解析个体出行、活动网络和城市流动规律，支撑交通与规划应用。</p>
+  </article>
+</div>

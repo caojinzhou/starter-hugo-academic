@@ -55,4 +55,47 @@ His research focuses on spatiotemporal big data mining, urban computing, Geo-AI,
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/曹劲舟CV-ENG.pdf" "newtab" >}}resumé(En){{< /staticref >}} or {{< staticref "uploads/曹劲舟简历-中文.pdf" "newtab" >}}resumé(Ch){{< /staticref >}}.
 
+<div class="ai4city-about-career-grid">
+  <section>
+    <h3>Professional Appointments</h3>
+    <ul>
+      <li><strong>2026.04-present</strong><span>Associate Professor, College of Artificial Intelligence, SZTU; Executive Director of STIC; Deputy Head of Data Science.</span></li>
+      <li><strong>2022.04-2026.03</strong><span>Assistant Professor, College of Artificial Intelligence, Shenzhen Technology University.</span></li>
+      <li><strong>2021.08-2022.03</strong><span>Specially Appointed Associate Research Fellow, Guangdong Key Laboratory of Urban Informatics, Shenzhen University.</span></li>
+      <li><strong>2019.07-2021.07</strong><span>Postdoctoral Fellow, Shenzhen University; advisor: Academician Qingquan Li.</span></li>
+    </ul>
+  </section>
+  <section>
+    <h3>Education</h3>
+    <ul>
+      <li><strong>2013-2019</strong><span>Ph.D. in Engineering, LIESMARS, Wuhan University, focusing on urban data mining.</span></li>
+      <li><strong>2017-2018</strong><span>Visiting Scholar, THINK LAB, University of Washington.</span></li>
+      <li><strong>2009-2013</strong><span>B.S. in Remote Sensing Science and Technology, Wuhan University.</span></li>
+    </ul>
+  </section>
+</div>
+
+<div class="ai4city-about-directions">
+  <article>
+    <img src="/media/research/urban-sensing.svg" alt="Urban spatiotemporal data sensing and representation">
+    <h3>Urban Spatiotemporal Sensing</h3>
+    <p>Integrating multi-source urban sensing data to represent spatial structure, functional semantics, and dynamic change.</p>
+  </article>
+  <article>
+    <img src="/media/research/urban-foundation-model.svg" alt="Multimodal urban foundation models and applications">
+    <h3>Multimodal Urban Foundation Models</h3>
+    <p>Building multimodal representations and foundation models for urban understanding, prediction, and decision support.</p>
+  </article>
+  <article>
+    <img src="/media/research/geoai-social-computing.svg" alt="Geospatial intelligence and social computing">
+    <h3>Geo-AI And Social Computing</h3>
+    <p>Combining Geo-AI, social sensing, and knowledge reasoning for urban governance and spatial decision-making.</p>
+  </article>
+  <article>
+    <img src="/media/research/human-mobility.svg" alt="Human mobility and travel behavior analytics">
+    <h3>Human Mobility Analytics</h3>
+    <p>Analyzing travel behavior, activity networks, and urban flows to support transport and planning applications.</p>
+  </article>
+</div>
+
 Feel free to *[contact](contact/)* me directly or to *[schedule an appointment](https://calendly.com/caojz/30min)*.

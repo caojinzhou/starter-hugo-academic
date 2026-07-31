@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+  <title id="title">Geo-AI and social computing</title>
+  <desc id="desc">Abstract map cells and social network links.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="1" stop-color="#fff1e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="620" rx="38" fill="url(#bg)"/>
+  <g fill="none" stroke="#d6dfef" stroke-width="6">
+    <path d="M164 174h632M164 286h632M164 398h632"/>
+    <path d="M300 112v398M480 112v398M660 112v398"/>
+  </g>
+  <path d="M166 402 300 286l180 66 180-178 136 112v224H166z" fill="#2f66e8" opacity=".16"/>
+  <path d="M166 402 300 286l180 66 180-178 136 112" fill="none" stroke="#2f66e8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#fff" stroke="#1f2b3f" stroke-width="7">
+    <circle cx="300" cy="286" r="34"/>
+    <circle cx="480" cy="352" r="34"/>
+    <circle cx="660" cy="174" r="34"/>
+  </g>
+  <g fill="#ff7a00">
+    <circle cx="300" cy="286" r="13"/>
+    <circle cx="480" cy="352" r="13"/>
+    <circle cx="660" cy="174" r="13"/>
+    <circle cx="796" cy="286" r="16"/>
+  </g>
+</svg>

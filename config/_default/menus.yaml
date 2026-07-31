@@ -31,7 +31,7 @@ main:
   # - name: Openings
   #   url: 'opening/'
   #   weight: 80
-  - name: Center
+  - name: Spatio-Temporal Intelligence Center
     url: 'center/'
     weight: 90
 

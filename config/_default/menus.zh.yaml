@@ -31,7 +31,7 @@ main:
   # - name: 招募
   #   url: 'opening/'
   #   weight: 80
-  - name: 研究中心
+  - name: 深圳技术大学时空智能研究中心
     url: 'center/'
     weight: 90
   

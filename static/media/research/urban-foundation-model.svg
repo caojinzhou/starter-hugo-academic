@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+  <title id="title">Multimodal urban foundation model</title>
+  <desc id="desc">Abstract neural model illustration with multimodal city tokens.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef4ff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f66e8"/>
+      <stop offset="1" stop-color="#ff7a00"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="620" rx="38" fill="url(#bg)"/>
+  <g stroke="#b9c6dc" stroke-width="5" opacity=".78">
+    <path d="M262 168 480 310 704 168"/>
+    <path d="M226 452 480 310 750 452"/>
+    <path d="M480 122v376"/>
+    <path d="M178 310h604"/>
+  </g>
+  <circle cx="480" cy="310" r="94" fill="url(#core)"/>
+  <circle cx="480" cy="310" r="46" fill="#fff" opacity=".92"/>
+  <g fill="#2f66e8">
+    <rect x="182" y="134" width="120" height="76" rx="18"/>
+    <rect x="654" y="134" width="120" height="76" rx="18"/>
+    <rect x="156" y="274" width="112" height="72" rx="18"/>
+    <rect x="692" y="274" width="112" height="72" rx="18"/>
+    <rect x="190" y="416" width="120" height="76" rx="18"/>
+    <rect x="650" y="416" width="120" height="76" rx="18"/>
+  </g>
+  <g fill="#ff7a00">
+    <circle cx="242" cy="172" r="12"/>
+    <circle cx="714" cy="172" r="12"/>
+    <circle cx="212" cy="310" r="12"/>
+    <circle cx="748" cy="310" r="12"/>
+    <circle cx="250" cy="454" r="12"/>
+    <circle cx="710" cy="454" r="12"/>
+  </g>
+</svg>

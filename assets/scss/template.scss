@@ -56,6 +56,31 @@ body {
   color: var(--stic-blue) !important;
 }
 
+.navbar .navbar-nav .nav-link[href$="/center/"],
+.navbar .navbar-nav .nav-link[href="center/"] {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.42rem;
+  min-height: 34px;
+  padding: 0.36rem 0.62rem !important;
+  border: 1px solid rgba(47, 102, 232, 0.18);
+  border-radius: 8px;
+  background:
+    linear-gradient(90deg, rgba(234, 241, 255, 0.92), rgba(255, 241, 229, 0.72));
+  color: var(--stic-blue-deep) !important;
+  box-shadow: 0 8px 20px rgba(47, 102, 232, 0.08);
+}
+
+.navbar .navbar-nav .nav-link[href$="/center/"]::before,
+.navbar .navbar-nav .nav-link[href="center/"]::before {
+  content: "";
+  flex: 0 0 auto;
+  width: 20px;
+  height: 20px;
+  border-radius: 5px;
+  background: url("/media/stic/stic-menu-logo.svg") center / contain no-repeat;
+}
+
 a {
   color: var(--stic-blue);
 }
@@ -303,6 +328,114 @@ p {
 
 .ai4city-home-logo {
   max-width: 455px;
+}
+
+.ai4city-about-career-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.78rem;
+  margin: 1rem 0 1.1rem;
+}
+
+.ai4city-about-career-grid section {
+  padding: 0.78rem 0.86rem;
+  border: 1px solid rgba(47, 102, 232, 0.16);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(250, 252, 255, 0.96));
+  box-shadow: var(--stic-shadow-soft);
+}
+
+.ai4city-about-career-grid h3 {
+  display: flex;
+  align-items: center;
+  gap: 0.42rem;
+  margin: 0 0 0.52rem;
+  color: var(--stic-charcoal);
+  font-size: 0.95rem;
+  font-weight: 850;
+}
+
+.ai4city-about-career-grid h3::before {
+  content: "";
+  width: 15px;
+  height: 15px;
+  border-radius: 4px;
+  background:
+    linear-gradient(135deg, var(--stic-blue) 0 58%, var(--stic-orange) 58% 100%);
+}
+
+.ai4city-about-career-grid ul {
+  display: grid;
+  gap: 0.35rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.ai4city-about-career-grid li {
+  display: grid;
+  grid-template-columns: 104px minmax(0, 1fr);
+  gap: 0.5rem;
+  align-items: baseline;
+  padding-top: 0.34rem;
+  border-top: 1px solid rgba(31, 41, 59, 0.08);
+}
+
+.ai4city-about-career-grid li:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.ai4city-about-career-grid strong {
+  color: var(--stic-blue);
+  font-size: 0.74rem;
+  font-weight: 850;
+  white-space: nowrap;
+}
+
+.ai4city-about-career-grid span {
+  color: var(--stic-muted);
+  font-size: 0.78rem;
+  line-height: 1.36;
+}
+
+.ai4city-about-directions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.72rem;
+  margin: 0.8rem 0 0;
+}
+
+.ai4city-about-directions article {
+  overflow: hidden;
+  border: 1px solid rgba(47, 102, 232, 0.14);
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: var(--stic-shadow-soft);
+}
+
+.ai4city-about-directions img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1.45;
+  object-fit: cover;
+  background: var(--stic-blue-soft);
+}
+
+.ai4city-about-directions h3 {
+  margin: 0.58rem 0.64rem 0.28rem;
+  color: var(--stic-charcoal);
+  font-size: 0.86rem;
+  font-weight: 850;
+  line-height: 1.24;
+}
+
+.ai4city-about-directions p {
+  margin: 0 0.64rem 0.72rem;
+  color: var(--stic-muted);
+  font-size: 0.74rem;
+  line-height: 1.42;
 }
 
 .ai4city-profile-grid {
@@ -997,11 +1130,14 @@ p {
   }
 
   .ai4city-profile-grid,
+  .ai4city-about-career-grid,
+  .ai4city-about-directions,
   .ai4city-recruit-strip {
     grid-template-columns: 1fr;
   }
 
-  .ai4city-brief-list li {
+  .ai4city-brief-list li,
+  .ai4city-about-career-grid li {
     grid-template-columns: 1fr;
     gap: 0.18rem;
   }

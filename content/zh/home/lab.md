@@ -18,8 +18,6 @@ design:
     <div class="stic-inline-actions">
       <a href="/projpage/">研究项目</a>
       <a href="/publipage/">代表论文</a>
-      <a href="/opening/">招募信息</a>
-      <a href="/center/">所属研究中心</a>
     </div>
   </div>
 </div>
