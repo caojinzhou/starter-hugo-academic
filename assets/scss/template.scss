@@ -1106,7 +1106,8 @@ p {
 }
 
 .ai4city-pub-toolbar input {
-  width: min(360px, 100%);
+  width: 100%;
+  max-width: 360px;
   border: 1px solid rgba(31, 41, 59, 0.14);
   border-radius: 6px;
   padding: 0.48rem 0.62rem;
