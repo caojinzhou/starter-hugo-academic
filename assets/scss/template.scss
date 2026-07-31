@@ -123,7 +123,7 @@ p {
 }
 
 .stic-compact-timeline .container {
-  max-width: 900px;
+  max-width: 1040px;
 }
 
 .wg-experience .card {
@@ -132,11 +132,11 @@ p {
 }
 
 .stic-compact-timeline.home-section {
-  padding: 1.85rem 0;
+  padding: 1.35rem 0;
 }
 
 .stic-compact-timeline .section-heading {
-  margin-bottom: 1rem;
+  margin-bottom: 0.72rem;
 }
 
 .stic-compact-timeline .section-heading h1 {
@@ -150,20 +150,20 @@ p {
 }
 
 .stic-compact-timeline .container {
-  max-width: 760px;
+  max-width: 1040px;
 }
 
 .wg-experience.stic-compact-timeline .card,
 .stic-compact-timeline .card {
-  max-width: 720px;
-  margin: 0 auto 0.48rem;
+  max-width: 980px;
+  margin: 0 auto 0.36rem;
   border-left: 4px solid var(--stic-blue);
   box-shadow: var(--stic-shadow-soft);
 }
 
 .wg-experience.stic-compact-timeline .card-body,
 .stic-compact-timeline .card-body {
-  padding: 0.58rem 0.78rem;
+  padding: 0.42rem 0.72rem;
 }
 
 .stic-compact-timeline .media {
@@ -190,8 +190,8 @@ p {
 .stic-compact-timeline .card-subtitle,
 .stic-compact-timeline .experience-date,
 .stic-compact-timeline .card-text {
-  font-size: 0.83rem;
-  line-height: 1.4;
+  font-size: 0.8rem;
+  line-height: 1.32;
 }
 
 .stic-compact-timeline .card-text p {
@@ -220,7 +220,7 @@ p {
 
 .home-section.stic-compact-timeline .card-body,
 .wg-experience.stic-compact-timeline .card-body {
-  padding: 0.58rem 0.78rem;
+  padding: 0.42rem 0.72rem;
 }
 
 .home-section.stic-compact-timeline .experience-date,
@@ -289,6 +289,45 @@ p {
     #fff;
 }
 
+.ai4city-home-lab {
+  border-color: rgba(36, 82, 154, 0.2);
+  background:
+    linear-gradient(120deg, rgba(18, 168, 212, 0.08), rgba(36, 82, 154, 0.08)),
+    #fff;
+}
+
+.ai4city-home-logo {
+  max-width: 455px;
+}
+
+.stic-inline-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.stic-inline-actions a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  padding: 0.42rem 0.68rem;
+  border: 1px solid rgba(47, 102, 232, 0.18);
+  border-radius: 6px;
+  background: rgba(234, 241, 255, 0.74);
+  color: var(--stic-blue);
+  font-size: 0.86rem;
+  font-weight: 750;
+  text-decoration: none;
+}
+
+.stic-inline-actions a:hover {
+  border-color: rgba(255, 122, 0, 0.34);
+  background: var(--stic-orange-soft);
+  color: var(--stic-orange);
+  text-decoration: none;
+}
+
 .stic-home-logo {
   display: block;
   width: 100%;
@@ -338,19 +377,19 @@ p {
 
 .stic-news-list {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.72rem;
-  max-width: 1060px;
+  grid-template-columns: 1fr;
+  gap: 0.55rem;
+  max-width: 1040px;
   margin: 0 auto;
 }
 
 .stic-news-item {
   display: grid;
-  grid-template-columns: 38px minmax(84px, 0.24fr) minmax(0, 1fr);
+  grid-template-columns: 38px 104px minmax(0, 1fr);
   align-items: center;
   gap: 0.7rem;
-  min-height: 68px;
-  padding: 0.62rem 0.72rem;
+  min-height: 56px;
+  padding: 0.5rem 0.66rem;
   border: 1px solid rgba(31, 41, 59, 0.1);
   border-radius: 8px;
   background:
@@ -517,7 +556,7 @@ p {
 .stic-news-copy {
   color: var(--stic-ink);
   font-size: 0.9rem;
-  line-height: 1.48;
+  line-height: 1.42;
 }
 
 .stic-news-copy em {
@@ -529,6 +568,36 @@ p {
 .stic-news-more {
   margin: 1.2rem auto 0;
   text-align: center;
+}
+
+.stic-news-actions {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.36rem;
+  margin-left: 0.38rem;
+  vertical-align: middle;
+}
+
+.stic-news-actions a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  padding: 0.16rem 0.42rem;
+  border: 1px solid rgba(47, 102, 232, 0.16);
+  border-radius: 5px;
+  background: rgba(234, 241, 255, 0.78);
+  color: var(--stic-blue);
+  font-size: 0.75rem;
+  font-weight: 760;
+  line-height: 1.1;
+  text-decoration: none;
+}
+
+.stic-news-actions a:hover {
+  border-color: rgba(255, 122, 0, 0.32);
+  background: var(--stic-orange-soft);
+  color: var(--stic-orange);
+  text-decoration: none;
 }
 
 .stic-center-brand {
@@ -689,7 +758,7 @@ p {
   }
 
   .stic-news-item {
-    grid-template-columns: 34px minmax(72px, auto) minmax(0, 1fr);
+    grid-template-columns: 34px minmax(78px, auto) minmax(0, 1fr);
     gap: 0.55rem;
     min-height: 62px;
   }

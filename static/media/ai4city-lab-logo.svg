@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">AI4CITY LAB 城市空间智能实验室</title>
+  <desc id="desc">A blue geometric city and cube logo with AI4CITY LAB text.</desc>
+  <defs>
+    <linearGradient id="ai4cityBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12a8d4"/>
+      <stop offset="1" stop-color="#24529a"/>
+    </linearGradient>
+    <linearGradient id="ai4cityDark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f63b6"/>
+      <stop offset="1" stop-color="#17488c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" fill="#fff"/>
+  <g transform="translate(80 72)">
+    <path d="M0 84 126 12v72L64 120v82L0 165Z" fill="#149fca"/>
+    <path d="M126 12 252 84v81l-64 37v-82l-62-36Z" fill="#24529a"/>
+    <path d="M64 120 126 84l62 36-62 36Z" fill="#fff"/>
+    <path d="M64 120 126 156v78L64 198Z" fill="#1687bd"/>
+    <path d="M126 156 188 120v78l-62 36Z" fill="#24529a"/>
+    <path d="M284 66 318 28l34 38v168h-16V76l-18-20-18 20v158h-16Z" fill="url(#ai4cityDark)"/>
+    <path d="M238 108 272 70v164h-34Z" fill="#24529a"/>
+    <path d="M364 58 382 78v156h-18Z" fill="#10a8d4"/>
+    <text x="0" y="292" font-family="Montserrat, Arial, sans-serif" font-size="44" font-weight="800" fill="#24529a" letter-spacing="0">AI4CITY LAB</text>
+  </g>
+  <g transform="translate(470 95)" fill="#24529a">
+    <text x="0" y="74" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="88" font-weight="900" letter-spacing="0">城市空间智能</text>
+    <text x="0" y="188" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="70" font-weight="700" letter-spacing="26">实验室</text>
+  </g>
+</svg>
