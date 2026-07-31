@@ -22,9 +22,9 @@ main:
   - name: News
     url: 'news/'
     weight: 55
-  - name: Partnership
-    url: 'partner/'
-    weight: 75
+  # - name: Partnership
+  #   url: 'partner/'
+  #   weight: 75
   - name: Teaching
     url: 'courses/'
     weight: 60
