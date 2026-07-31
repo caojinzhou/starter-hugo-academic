@@ -17,7 +17,7 @@ design:
     <p>The Urban Spatial Intelligence Lab is Prof. Jinzhou Cao's research group and is affiliated with the Spatio-Temporal Intelligence Center at Shenzhen Technology University. The lab works on urban intelligent computing, urban spatial representation, Geo-AI, multimodal urban sensing, and human mobility analytics.</p>
     <div class="stic-inline-actions">
       <a href="/en/projpage/">Projects</a>
-      <a href="/en/pubpage/">Selected Papers</a>
+      <a href="/en/pubpage/">Papers</a>
     </div>
   </div>
 </div>

@@ -11,7 +11,7 @@ design:
 ---
 
 <div class="stic-home-center">
-  <img class="stic-home-logo" src="/media/stic/stic-logo-full-cropped.png" alt="Spatio-Temporal Intelligence Center, Shenzhen Technology University">
+  <img class="stic-home-logo" src="/media/stic/stic-logo-en-home-7-cropped.png" alt="Spatio-Temporal Intelligence Center">
   <div class="stic-home-copy">
     <h3>Spatio-Temporal Intelligence Center</h3>
     <p>The center serves low-altitude economy, smart cities, intelligent equipment, and embodied intelligence by advancing spatio-temporal sensing, cognition, and decision-making across three directions: autonomous sensing, navigation, and positioning; urban spatial intelligence and foundation models; and embodied spatial intelligence and autonomous operation.</p>
