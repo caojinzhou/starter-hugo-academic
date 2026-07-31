@@ -10,29 +10,36 @@ advanced:
   css_class: ai4city-featured-papers-section
 ---
 
-<div class="ai4city-featured-papers">
-  <article class="ai4city-feature-paper">
-    <div class="ai4city-paper-visual urbanmmcl-visual" aria-hidden="true">
-      <span class="modality satellite"></span><span class="modality street"></span><span class="modality poi"></span><span class="modality text"></span>
-      <span class="fusion-line"></span><span class="embedding-node"></span>
-    </div>
-    <div class="ai4city-paper-copy">
-      <span class="ai4city-paper-tag">ISPRS JPRS · 2026</span>
-      <h3>UrbanMMCL</h3>
-      <p>A multi-modal and multi-graph self-supervised contrastive framework for unified urban region representations.</p>
-      <div class="ai4city-paper-actions"><button type="button" data-cite-href="/en/publication/cao-urbanmmcl-2026/cite.bib">Cite</button><a href="https://doi.org/10.1016/j.isprsjprs.2025.11.012">DOI</a></div>
-    </div>
-  </article>
-  <article class="ai4city-feature-paper">
-    <div class="ai4city-paper-visual sat2flow-visual" aria-hidden="true">
-      <span class="sat-cell"></span><span class="sat-cell"></span><span class="sat-cell accent"></span><span class="sat-cell"></span>
-      <span class="flow-arrow"></span><span class="flow-bar one"></span><span class="flow-bar two"></span><span class="flow-bar three"></span>
-    </div>
-    <div class="ai4city-paper-copy">
-      <span class="ai4city-paper-tag">AAAI · 2026</span>
-      <h3>Sat2Flow</h3>
-      <p>A structure-aware diffusion framework that generates human flow patterns from satellite imagery.</p>
-      <div class="ai4city-paper-actions"><button type="button" data-cite-href="/en/publication/wang-sat2flow-2026/cite.bib">Cite</button><a href="https://doi.org/10.1609/aaai.v40i19.38621">DOI</a><a href="https://github.com/ai4city-sztu/Sat2Flow">Code</a></div>
-    </div>
-  </article>
-</div>
+<!-- 修改 data-featured-slugs 即可选择任意论文进入代表性论文；slug 来自下方全部论文列表的 data-slug。 -->
+<div class="ai4city-featured-papers" data-featured-papers data-featured-data="ai4cityPubDataEn" data-featured-slugs="cao-urbanmmcl-2026 wang-sat2flow-2026" data-cite-label="Cite"></div>
+
+<script>
+(() => {
+  const visualHtml = (visual) => {
+    if (visual === 'urbanmmcl') return '<span class="modality satellite"></span><span class="modality street"></span><span class="modality poi"></span><span class="modality text"></span><span class="fusion-line"></span><span class="embedding-node"></span>';
+    if (visual === 'sat2flow') return '<span class="sat-cell"></span><span class="sat-cell"></span><span class="sat-cell accent"></span><span class="sat-cell"></span><span class="flow-arrow"></span><span class="flow-bar one"></span><span class="flow-bar two"></span><span class="flow-bar three"></span>';
+    return '<span class="generic-node one"></span><span class="generic-node two"></span><span class="generic-node three"></span><span class="generic-line one"></span><span class="generic-line two"></span>';
+  };
+  const escapeHtml = (value) => String(value || '').replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
+  const renderFeatured = () => {
+    document.querySelectorAll('[data-featured-papers]').forEach((root) => {
+      const data = window[root.dataset.featuredData] || [];
+      if (!data.length) return;
+      const slugs = (root.dataset.featuredSlugs || '').split(/\s+/).filter(Boolean);
+      const selected = slugs.map((slug) => data.find((pub) => pub.slug === slug)).filter(Boolean);
+      root.innerHTML = selected.map((pub) => `
+        <article class="ai4city-feature-paper">
+          <div class="ai4city-paper-visual ${pub.visual === 'urbanmmcl' ? 'urbanmmcl-visual' : pub.visual === 'sat2flow' ? 'sat2flow-visual' : 'generic-paper-visual'}" aria-hidden="true">${visualHtml(pub.visual)}</div>
+          <div class="ai4city-paper-copy">
+            <span class="ai4city-paper-tag">${escapeHtml(pub.venue.split(',')[0])} · ${pub.year}</span>
+            <h3>${escapeHtml(pub.title)}</h3>
+            <p>${escapeHtml(pub.abstract)}</p>
+            <div class="ai4city-paper-actions"><button type="button" data-cite-key="${escapeHtml(pub.slug)}">${root.dataset.citeLabel}</button>${pub.doi ? `<a href="${escapeHtml(pub.doi)}">DOI</a>` : ''}${pub.code ? `<a href="${escapeHtml(pub.code)}">Code</a>` : ''}</div>
+          </div>
+        </article>`).join('');
+    });
+  };
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', renderFeatured);
+  else renderFeatured();
+})();
+</script>

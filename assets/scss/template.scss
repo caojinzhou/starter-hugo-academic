@@ -1034,6 +1034,41 @@ p {
 .sat2flow-visual .flow-bar.two { width: 92%; background: var(--stic-orange); }
 .sat2flow-visual .flow-bar.three { width: 56%; background: var(--stic-grey); }
 
+.generic-paper-visual .generic-node,
+.generic-paper-visual .generic-line {
+  position: absolute;
+  border-radius: 8px;
+}
+
+.generic-paper-visual .generic-node {
+  width: 42px;
+  height: 42px;
+  background: var(--stic-blue);
+  box-shadow: 0 8px 18px rgba(47, 102, 232, 0.18);
+}
+
+.generic-paper-visual .generic-node.one { left: 22px; top: 26px; }
+.generic-paper-visual .generic-node.two { right: 24px; top: 56px; background: var(--stic-orange); }
+.generic-paper-visual .generic-node.three { left: 54px; bottom: 24px; background: var(--stic-grey); }
+
+.generic-paper-visual .generic-line {
+  height: 4px;
+  background: linear-gradient(90deg, var(--stic-blue), var(--stic-orange));
+}
+
+.generic-paper-visual .generic-line.one {
+  left: 38px;
+  right: 40px;
+  top: 74px;
+}
+
+.generic-paper-visual .generic-line.two {
+  left: 58px;
+  right: 58px;
+  bottom: 52px;
+  opacity: 0.62;
+}
+
 .ai4city-paper-copy h3,
 .ai4city-pub-main h3 {
   margin: 0.18rem 0 0.35rem;
