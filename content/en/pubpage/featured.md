@@ -3,8 +3,8 @@ widget: blank
 headless: true
 active: true
 weight: 10
-title: Selected Papers
-subtitle: Two selected works: UrbanMMCL and Sat2Flow.
+title: "Selected Papers"
+subtitle: "Two selected works: UrbanMMCL and Sat2Flow."
 design:
   columns: '1'
 advanced:

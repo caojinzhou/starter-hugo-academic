@@ -3,8 +3,8 @@ widget: blank
 headless: true
 active: true
 weight: 10
-title: 代表性论文
-subtitle: 只保留 UrbanMMCL 与 Sat2Flow 两篇代表性成果。
+title: "代表性论文"
+subtitle: "只保留 UrbanMMCL 与 Sat2Flow 两篇代表性成果。"
 design:
   columns: '1'
 advanced:
