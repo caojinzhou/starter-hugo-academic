@@ -1065,12 +1065,15 @@ p {
 }
 
 .ai4city-paper-actions a,
+.ai4city-paper-actions button,
 .ai4city-pub-actions a,
+.ai4city-pub-actions button,
 .ai4city-pub-tabs button {
   border: 1px solid rgba(47, 102, 232, 0.16);
   border-radius: 6px;
   background: #ffffff;
   color: var(--stic-blue);
+  cursor: pointer;
   font-weight: 700;
   padding: 0.34rem 0.62rem;
   line-height: 1;
@@ -1078,7 +1081,9 @@ p {
 }
 
 .ai4city-paper-actions a:hover,
+.ai4city-paper-actions button:hover,
 .ai4city-pub-actions a:hover,
+.ai4city-pub-actions button:hover,
 .ai4city-pub-tabs button:hover,
 .ai4city-pub-tabs button.active {
   border-color: rgba(255, 122, 0, 0.45);
@@ -1089,7 +1094,7 @@ p {
 
 .ai4city-pub-toolbar {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
   gap: 0.8rem;
   margin-bottom: 1rem;
@@ -1097,6 +1102,24 @@ p {
   border: 1px solid rgba(47, 102, 232, 0.12);
   border-radius: 8px;
   background: linear-gradient(90deg, rgba(234, 241, 255, 0.9), rgba(255, 241, 229, 0.65));
+}
+
+.ai4city-pub-filter-groups {
+  display: grid;
+  gap: 0.62rem;
+}
+
+.ai4city-pub-filter-group {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 0.55rem;
+  align-items: center;
+}
+
+.ai4city-pub-filter-group > span {
+  color: var(--stic-charcoal);
+  font-size: 0.84rem;
+  font-weight: 800;
 }
 
 .ai4city-pub-tabs {
@@ -1147,8 +1170,107 @@ p {
   font-weight: 750;
 }
 
+.ai4city-pub-main .ai4city-pub-abstract {
+  margin: -0.1rem 0 0.38rem;
+  color: var(--stic-charcoal);
+  font-size: 0.94rem;
+  line-height: 1.62;
+}
+
+.ai4city-pub-main .ai4city-pub-venue {
+  margin-bottom: 0.55rem;
+  color: var(--stic-muted);
+  font-size: 0.9rem;
+}
+
+.ai4city-pub-keywords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.32rem;
+  margin-bottom: 0.62rem;
+}
+
+.ai4city-pub-keywords span {
+  border-radius: 999px;
+  background: rgba(47, 102, 232, 0.08);
+  color: var(--stic-blue);
+  font-size: 0.76rem;
+  font-weight: 750;
+  padding: 0.16rem 0.46rem;
+}
+
 .ai4city-pub-item[hidden] {
   display: none;
+}
+
+.ai4city-cite-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 1100;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  background: rgba(15, 23, 42, 0.56);
+}
+
+.ai4city-cite-modal[hidden] {
+  display: none;
+}
+
+.ai4city-cite-dialog {
+  width: 100%;
+  max-width: 720px;
+  max-height: 76vh;
+  display: grid;
+  gap: 0.75rem;
+  padding: 1rem;
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 22px 70px rgba(15, 23, 42, 0.28);
+}
+
+.ai4city-cite-head,
+.ai4city-cite-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+}
+
+.ai4city-cite-head strong {
+  color: var(--stic-charcoal);
+  font-size: 1rem;
+}
+
+.ai4city-cite-dialog pre {
+  max-height: 48vh;
+  overflow: auto;
+  margin: 0;
+  padding: 0.82rem;
+  border: 1px solid rgba(47, 102, 232, 0.12);
+  border-radius: 6px;
+  background: #f8fafc;
+  color: #0f172a;
+  font-size: 0.82rem;
+  white-space: pre-wrap;
+}
+
+.ai4city-cite-head button,
+.ai4city-cite-actions button,
+.ai4city-cite-actions a {
+  border: 1px solid rgba(47, 102, 232, 0.16);
+  border-radius: 6px;
+  background: #ffffff;
+  color: var(--stic-blue);
+  cursor: pointer;
+  font-weight: 750;
+  padding: 0.42rem 0.68rem;
+}
+
+.ai4city-cite-actions button,
+.ai4city-cite-actions a {
+  background: var(--stic-blue);
+  color: #ffffff;
 }
 
 .stic-center-brand {

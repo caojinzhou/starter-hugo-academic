@@ -4,146 +4,183 @@ headless: true
 active: true
 weight: 20
 title: 全部论文
-subtitle: 按年份、类型和关键词快速筛选。
+subtitle: 按年份、类型和研究方向快速筛选。
 design:
   columns: '1'
 advanced:
   css_class: ai4city-publication-list-section
 ---
 
-<div class="ai4city-pub-filter" data-pub-filter>
+<div class="ai4city-pub-filter" data-pub-filter data-copy-label="已复制" data-fail-label="无法加载引用信息" data-download-label="下载 BibTeX">
   <div class="ai4city-pub-toolbar">
-    <div class="ai4city-pub-tabs">
-      <button type="button" class="active" data-filter="all">全部</button>
-      <button type="button" data-filter="journal">期刊</button>
-      <button type="button" data-filter="conference">会议</button>
-      <button type="button" data-filter="recent">近三年</button>
+    <div class="ai4city-pub-filter-groups">
+      <div class="ai4city-pub-filter-group"><span>年份</span><div class="ai4city-pub-tabs"><button type="button" class="active" data-filter-group="year" data-filter-value="all">全部</button><button type="button" class="" data-filter-group="year" data-filter-value="y2026">2026</button><button type="button" class="" data-filter-group="year" data-filter-value="y2025">2025</button><button type="button" class="" data-filter-group="year" data-filter-value="y2024">2024</button><button type="button" class="" data-filter-group="year" data-filter-value="y2022">2022</button><button type="button" class="" data-filter-group="year" data-filter-value="y2021">2021</button><button type="button" class="" data-filter-group="year" data-filter-value="y2020">2020</button><button type="button" class="" data-filter-group="year" data-filter-value="y2019">2019</button><button type="button" class="" data-filter-group="year" data-filter-value="y2018">2018</button><button type="button" class="" data-filter-group="year" data-filter-value="y2017">2017</button><button type="button" class="" data-filter-group="year" data-filter-value="y2016">2016</button><button type="button" class="" data-filter-group="year" data-filter-value="y2015">2015</button><button type="button" class="" data-filter-group="year" data-filter-value="y2014">2014</button></div></div>
+      <div class="ai4city-pub-filter-group"><span>类型</span><div class="ai4city-pub-tabs"><button type="button" class="active" data-filter-group="type" data-filter-value="all">全部</button><button type="button" data-filter-group="type" data-filter-value="journal">期刊</button><button type="button" data-filter-group="type" data-filter-value="conference">会议</button></div></div>
+      <div class="ai4city-pub-filter-group"><span>研究方向</span><div class="ai4city-pub-tabs"><button type="button" class="active" data-filter-group="topic" data-filter-value="all">全部</button><button type="button" data-filter-group="topic" data-filter-value="multimodal">多模态融合</button><button type="button" data-filter-group="topic" data-filter-value="mobility">移动出行</button><button type="button" data-filter-group="topic" data-filter-value="remote-sensing">遥感与地理AI</button><button type="button" data-filter-group="topic" data-filter-value="urban-representation">城市表征</button><button type="button" data-filter-group="topic" data-filter-value="social-computing">社会计算</button><button type="button" data-filter-group="topic" data-filter-value="spatiotemporal">时空建模</button></div></div>
     </div>
     <input type="search" data-pub-search placeholder="搜索论文、作者或关键词">
   </div>
   <div class="ai4city-pub-list">
-  <article class="ai4city-pub-item" data-tags="journal y2026 recent" data-search="ramen: region-adaptive mixture of ego-networks for multimodal geospatial fusion in urban region representation mathematics, 14(15), 2682 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2026 multimodal urban-representation" data-search="ramen: region-adaptive mixture of ego-networks for multimodal geospatial fusion in urban region representation mathematics, 14(15), 2682 多模态融合 城市表征 期刊">
     <div class="ai4city-pub-year">2026<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>RAMEN: Region-Adaptive Mixture of Ego-Networks for Multimodal Geospatial Fusion in Urban Region Representation</h3><p>Mathematics, 14(15), 2682</p><div class="ai4city-pub-actions"><a href="/publication/dai-ramen-2026/">详情</a><a href="/publication/dai-ramen-2026/cite.bib">引用</a><a href="https://doi.org/10.3390/math14152682">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>RAMEN: Region-Adaptive Mixture of Ego-Networks for Multimodal Geospatial Fusion in Urban Region Representation</h3><p class="ai4city-pub-abstract">提出区域自适应 ego-network 混合模型，用于城市区域表征中的多模态地理空间融合。</p><p class="ai4city-pub-venue">Mathematics, 14(15), 2682</p><div class="ai4city-pub-keywords"><span>多模态融合</span><span>城市表征</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/dai-ramen-2026/cite.bib">引用</button><a href="https://doi.org/10.3390/math14152682">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2026 recent" data-search="urbanmmcl: urban region representations via multi-modal and multi-graph self-supervised contrastive learning isprs journal of photogrammetry and remote sensing, 232, 75-93 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2026 multimodal urban-representation" data-search="urbanmmcl: urban region representations via multi-modal and multi-graph self-supervised contrastive learning isprs journal of photogrammetry and remote sensing, 232, 75-93 多模态融合 城市表征 期刊">
     <div class="ai4city-pub-year">2026<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>UrbanMMCL: Urban Region Representations via Multi-Modal and Multi-Graph Self-Supervised Contrastive Learning</h3><p>ISPRS Journal of Photogrammetry and Remote Sensing, 232, 75-93</p><div class="ai4city-pub-actions"><a href="/publication/cao-urbanmmcl-2026/">详情</a><a href="/publication/cao-urbanmmcl-2026/cite.bib">引用</a><a href="https://doi.org/10.1016/j.isprsjprs.2025.11.012">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>UrbanMMCL: Urban Region Representations via Multi-Modal and Multi-Graph Self-Supervised Contrastive Learning</h3><p class="ai4city-pub-abstract">通过多模态、多图自监督对比学习，融合遥感影像、街景、位置编码与文本语义，构建统一城市区域表征。</p><p class="ai4city-pub-venue">ISPRS Journal of Photogrammetry and Remote Sensing, 232, 75-93</p><div class="ai4city-pub-keywords"><span>多模态融合</span><span>城市表征</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/cao-urbanmmcl-2026/cite.bib">引用</button><a href="https://doi.org/10.1016/j.isprsjprs.2025.11.012">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="conference y2026 recent" data-search="sat2flow: a structure-aware diffusion framework for human flow generation from satellite imagery proceedings of the aaai conference on artificial intelligence, 40, 15886-15894 会议">
+  <article class="ai4city-pub-item" data-tags="conference y2026 multimodal mobility remote-sensing" data-search="sat2flow: a structure-aware diffusion framework for human flow generation from satellite imagery proceedings of the aaai conference on artificial intelligence, 40, 15886-15894 多模态融合 移动出行 遥感与地理ai 会议">
     <div class="ai4city-pub-year">2026<span>会议</span></div>
-    <div class="ai4city-pub-main"><h3>Sat2Flow: A Structure-Aware Diffusion Framework for Human Flow Generation from Satellite Imagery</h3><p>Proceedings of the AAAI Conference on Artificial Intelligence, 40, 15886-15894</p><div class="ai4city-pub-actions"><a href="/publication/wang-sat2flow-2026/">详情</a><a href="/publication/wang-sat2flow-2026/cite.bib">引用</a><a href="https://doi.org/10.1609/aaai.v40i19.38621">DOI</a><a href="https://github.com/ai4city-sztu/Sat2Flow">Code</a></div></div>
+    <div class="ai4city-pub-main"><h3>Sat2Flow: A Structure-Aware Diffusion Framework for Human Flow Generation from Satellite Imagery</h3><p class="ai4city-pub-abstract">提出结构感知扩散框架，从卫星影像生成城市人群流动 OD 模式，连接空间形态与出行需求。</p><p class="ai4city-pub-venue">Proceedings of the AAAI Conference on Artificial Intelligence, 40, 15886-15894</p><div class="ai4city-pub-keywords"><span>多模态融合</span><span>移动出行</span><span>遥感与地理AI</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/wang-sat2flow-2026/cite.bib">引用</button><a href="https://doi.org/10.1609/aaai.v40i19.38621">DOI</a><a href="https://github.com/ai4city-sztu/Sat2Flow">Code</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2026 recent" data-search="learning fine-grained urban mobility dynamics through large model-enhanced multimodal representations ieee transactions on intelligent transportation systems, 1-15 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2026 multimodal mobility urban-representation spatiotemporal" data-search="learning fine-grained urban mobility dynamics through large model-enhanced multimodal representations ieee transactions on intelligent transportation systems, 1-15 多模态融合 移动出行 城市表征 时空建模 期刊">
     <div class="ai4city-pub-year">2026<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Learning Fine-Grained Urban Mobility Dynamics Through Large Model-Enhanced Multimodal Representations</h3><p>IEEE Transactions on Intelligent Transportation Systems, 1-15</p><div class="ai4city-pub-actions"><a href="/publication/zhao-learning-fine-grained-urban-mobility-2026/">详情</a><a href="/publication/zhao-learning-fine-grained-urban-mobility-2026/cite.bib">引用</a></div></div>
+    <div class="ai4city-pub-main"><h3>Learning Fine-Grained Urban Mobility Dynamics Through Large Model-Enhanced Multimodal Representations</h3><p class="ai4city-pub-abstract">利用大模型增强的多模态城市表征，刻画细粒度城市移动动态与交通需求变化。</p><p class="ai4city-pub-venue">IEEE Transactions on Intelligent Transportation Systems, 1-15</p><div class="ai4city-pub-keywords"><span>多模态融合</span><span>移动出行</span><span>城市表征</span><span>时空建模</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/zhao-learning-fine-grained-urban-mobility-2026/cite.bib">引用</button></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2025 recent" data-search="st-camba: a decoupled-free spatiotemporal graph fusion state space model with linear complexity for efficient traffic forecasting information fusion, 126, 103495 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2025 multimodal mobility spatiotemporal" data-search="st-camba: a decoupled-free spatiotemporal graph fusion state space model with linear complexity for efficient traffic forecasting information fusion, 126, 103495 多模态融合 移动出行 时空建模 期刊">
     <div class="ai4city-pub-year">2025<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>ST-camba: A decoupled-free spatiotemporal graph fusion state space model with linear complexity for efficient traffic forecasting</h3><p>Information Fusion, 126, 103495</p><div class="ai4city-pub-actions"><a href="/publication/wang-st-camba-2025/">详情</a><a href="/publication/wang-st-camba-2025/cite.bib">引用</a><a href="https://doi.org/10.1016/j.inffus.2025.103495">DOI</a><a href="https://github.com/ai4city-sztu/ST-Camba">Code</a></div></div>
+    <div class="ai4city-pub-main"><h3>ST-camba: A decoupled-free spatiotemporal graph fusion state space model with linear complexity for efficient traffic forecasting</h3><p class="ai4city-pub-abstract">构建线性复杂度的时空图融合状态空间模型，用于高效交通预测。</p><p class="ai4city-pub-venue">Information Fusion, 126, 103495</p><div class="ai4city-pub-keywords"><span>多模态融合</span><span>移动出行</span><span>时空建模</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/wang-st-camba-2025/cite.bib">引用</button><a href="https://doi.org/10.1016/j.inffus.2025.103495">DOI</a><a href="https://github.com/ai4city-sztu/ST-Camba">Code</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2025 recent" data-search="urban representation learning for fine-grained economic mapping: a semi-supervised graph-based approach isprs journal of photogrammetry and remote sensing, 226, 317-331 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2025 urban-representation social-computing" data-search="urban representation learning for fine-grained economic mapping: a semi-supervised graph-based approach isprs journal of photogrammetry and remote sensing, 226, 317-331 城市表征 社会计算 期刊">
     <div class="ai4city-pub-year">2025<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Urban representation learning for fine-grained economic mapping: A semi-supervised graph-based approach</h3><p>ISPRS Journal of Photogrammetry and Remote Sensing, 226, 317-331</p><div class="ai4city-pub-actions"><a href="/publication/cao-urban-representation-economic-2025/">详情</a><a href="/publication/cao-urban-representation-economic-2025/cite.bib">引用</a><a href="https://doi.org/10.1016/j.isprsjprs.2025.05.007">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Urban representation learning for fine-grained economic mapping: A semi-supervised graph-based approach</h3><p class="ai4city-pub-abstract">基于半监督图学习融合多源地理空间数据，实现细粒度城市经济空间制图。</p><p class="ai4city-pub-venue">ISPRS Journal of Photogrammetry and Remote Sensing, 226, 317-331</p><div class="ai4city-pub-keywords"><span>城市表征</span><span>社会计算</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/cao-urban-representation-economic-2025/cite.bib">引用</button><a href="https://doi.org/10.1016/j.isprsjprs.2025.05.007">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2024 recent" data-search="disentangling the hourly dynamics of mixed urban function: a multimodal fusion perspective using dynamic graphs information fusion, 117, 102832 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2024 multimodal urban-representation spatiotemporal" data-search="disentangling the hourly dynamics of mixed urban function: a multimodal fusion perspective using dynamic graphs information fusion, 117, 102832 多模态融合 城市表征 时空建模 期刊">
     <div class="ai4city-pub-year">2024<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Disentangling the hourly dynamics of mixed urban function: A multimodal fusion perspective using dynamic graphs</h3><p>Information Fusion, 117, 102832</p><div class="ai4city-pub-actions"><a href="/publication/cao-disentangling-hourly-dynamics-2024/">详情</a><a href="/publication/cao-disentangling-hourly-dynamics-2024/cite.bib">引用</a></div></div>
+    <div class="ai4city-pub-main"><h3>Disentangling the hourly dynamics of mixed urban function: A multimodal fusion perspective using dynamic graphs</h3><p class="ai4city-pub-abstract">从多模态融合和动态图视角解析混合城市功能的小时级变化。</p><p class="ai4city-pub-venue">Information Fusion, 117, 102832</p><div class="ai4city-pub-keywords"><span>多模态融合</span><span>城市表征</span><span>时空建模</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/cao-disentangling-hourly-dynamics-2024/cite.bib">引用</button></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2022 earlier" data-search="revealing transport inequality from an activity space perspective: a study based on human mobility data cities, 131, 104036 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2022 mobility social-computing" data-search="revealing transport inequality from an activity space perspective: a study based on human mobility data cities, 131, 104036 移动出行 社会计算 期刊">
     <div class="ai4city-pub-year">2022<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Revealing Transport Inequality from an Activity Space Perspective: A Study Based on Human Mobility Data</h3><p>Cities, 131, 104036</p><div class="ai4city-pub-actions"><a href="/publication/gao-revealing-transport-inequality-2022/">详情</a><a href="/publication/gao-revealing-transport-inequality-2022/cite.bib">引用</a><a href="https://doi.org/10.1016/j.cities.2022.104036">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Revealing Transport Inequality from an Activity Space Perspective: A Study Based on Human Mobility Data</h3><p class="ai4city-pub-abstract">基于人群移动数据与活动空间视角，揭示城市交通可达性与出行不平等。</p><p class="ai4city-pub-venue">Cities, 131, 104036</p><div class="ai4city-pub-keywords"><span>移动出行</span><span>社会计算</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/gao-revealing-transport-inequality-2022/cite.bib">引用</button><a href="https://doi.org/10.1016/j.cities.2022.104036">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="conference y2022 earlier" data-search="machine learning-based economic development mapping from multi-source open geospatial data isprs annals, v-4-2022, 259-266 会议">
+  <article class="ai4city-pub-item" data-tags="conference y2022 urban-representation social-computing" data-search="machine learning-based economic development mapping from multi-source open geospatial data isprs annals, v-4-2022, 259-266 城市表征 社会计算 会议">
     <div class="ai4city-pub-year">2022<span>会议</span></div>
-    <div class="ai4city-pub-main"><h3>Machine Learning-Based Economic Development Mapping from Multi-Source Open Geospatial Data</h3><p>ISPRS Annals, V-4-2022, 259-266</p><div class="ai4city-pub-actions"><a href="/publication/cao-machine-learning-based-economic-2022/">详情</a><a href="/publication/cao-machine-learning-based-economic-2022/cite.bib">引用</a><a href="https://doi.org/10.5194/isprs-annals-V-4-2022-259-2022">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Machine Learning-Based Economic Development Mapping from Multi-Source Open Geospatial Data</h3><p class="ai4city-pub-abstract">利用多源开放地理空间数据和机器学习方法刻画城市经济发展格局。</p><p class="ai4city-pub-venue">ISPRS Annals, V-4-2022, 259-266</p><div class="ai4city-pub-keywords"><span>城市表征</span><span>社会计算</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/cao-machine-learning-based-economic-2022/cite.bib">引用</button><a href="https://doi.org/10.5194/isprs-annals-V-4-2022-259-2022">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="conference y2022 earlier" data-search="uncovering spatial synergy of the megacity region: a flow perspective isprs archives, xliii-b4-2022, 521-528 会议">
+  <article class="ai4city-pub-item" data-tags="conference y2022 mobility" data-search="uncovering spatial synergy of the megacity region: a flow perspective isprs archives, xliii-b4-2022, 521-528 移动出行 会议">
     <div class="ai4city-pub-year">2022<span>会议</span></div>
-    <div class="ai4city-pub-main"><h3>Uncovering Spatial Synergy of the Megacity Region: A Flow Perspective</h3><p>ISPRS Archives, XLIII-B4-2022, 521-528</p><div class="ai4city-pub-actions"><a href="/publication/fang-uncovering-spatial-synergy-2022/">详情</a><a href="/publication/fang-uncovering-spatial-synergy-2022/cite.bib">引用</a><a href="https://doi.org/10.5194/isprs-archives-XLIII-B4-2022-521-2022">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Uncovering Spatial Synergy of the Megacity Region: A Flow Perspective</h3><p class="ai4city-pub-abstract">从流动联系视角揭示都市圈空间协同关系与区域互动结构。</p><p class="ai4city-pub-venue">ISPRS Archives, XLIII-B4-2022, 521-528</p><div class="ai4city-pub-keywords"><span>移动出行</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/fang-uncovering-spatial-synergy-2022/cite.bib">引用</button><a href="https://doi.org/10.5194/isprs-archives-XLIII-B4-2022-521-2022">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2021 earlier" data-search="resolving urban mobility networks from individual travel graphs using massive-scale mobile phone tracking data cities, 110, 103077 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2021 mobility" data-search="resolving urban mobility networks from individual travel graphs using massive-scale mobile phone tracking data cities, 110, 103077 移动出行 期刊">
     <div class="ai4city-pub-year">2021<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Resolving Urban Mobility Networks from Individual Travel Graphs Using Massive-Scale Mobile Phone Tracking Data</h3><p>Cities, 110, 103077</p><div class="ai4city-pub-actions"><a href="/publication/cao-resolving-urban-mobility-2021/">详情</a><a href="/publication/cao-resolving-urban-mobility-2021/cite.bib">引用</a><a href="https://doi.org/10.1016/j.cities.2020.103077">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Resolving Urban Mobility Networks from Individual Travel Graphs Using Massive-Scale Mobile Phone Tracking Data</h3><p class="ai4city-pub-abstract">从个体出行图中解析城市移动网络，刻画大规模手机定位数据中的出行联系。</p><p class="ai4city-pub-venue">Cities, 110, 103077</p><div class="ai4city-pub-keywords"><span>移动出行</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/cao-resolving-urban-mobility-2021/cite.bib">引用</button><a href="https://doi.org/10.1016/j.cities.2020.103077">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2021 earlier" data-search="segregation or integration? exploring activity disparities between migrants and settled urban residents using human mobility data transactions in gis, 25(6), 2791-2820 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2021 mobility social-computing" data-search="segregation or integration? exploring activity disparities between migrants and settled urban residents using human mobility data transactions in gis, 25(6), 2791-2820 移动出行 社会计算 期刊">
     <div class="ai4city-pub-year">2021<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Segregation or Integration? Exploring Activity Disparities between Migrants and Settled Urban Residents Using Human Mobility Data</h3><p>Transactions in GIS, 25(6), 2791-2820</p><div class="ai4city-pub-actions"><a href="/publication/gao-segregation-integration-exploring-2021/">详情</a><a href="/publication/gao-segregation-integration-exploring-2021/cite.bib">引用</a><a href="https://doi.org/10.1111/tgis.12760">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Segregation or Integration? Exploring Activity Disparities between Migrants and Settled Urban Residents Using Human Mobility Data</h3><p class="ai4city-pub-abstract">利用人群移动数据比较流动人口与本地居民活动差异，分析城市融合与隔离。</p><p class="ai4city-pub-venue">Transactions in GIS, 25(6), 2791-2820</p><div class="ai4city-pub-keywords"><span>移动出行</span><span>社会计算</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/gao-segregation-integration-exploring-2021/cite.bib">引用</button><a href="https://doi.org/10.1111/tgis.12760">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2021 earlier" data-search="scale effect on fusing remote sensing and human sensing to portray urban functions ieee geoscience and remote sensing letters, 19, 1-5 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2021 multimodal remote-sensing urban-representation" data-search="scale effect on fusing remote sensing and human sensing to portray urban functions ieee geoscience and remote sensing letters, 19, 1-5 多模态融合 遥感与地理ai 城市表征 期刊">
     <div class="ai4city-pub-year">2021<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Scale Effect on Fusing Remote Sensing and Human Sensing to Portray Urban Functions</h3><p>IEEE Geoscience and Remote Sensing Letters, 19, 1-5</p><div class="ai4city-pub-actions"><a href="/publication/tu-scale-effect-fusing-2021/">详情</a><a href="/publication/tu-scale-effect-fusing-2021/cite.bib">引用</a><a href="https://doi.org/10.1109/LGRS.2020.2965247">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Scale Effect on Fusing Remote Sensing and Human Sensing to Portray Urban Functions</h3><p class="ai4city-pub-abstract">研究遥感与人类活动感知融合中的尺度效应，用于城市功能识别。</p><p class="ai4city-pub-venue">IEEE Geoscience and Remote Sensing Letters, 19, 1-5</p><div class="ai4city-pub-keywords"><span>多模态融合</span><span>遥感与地理AI</span><span>城市表征</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/tu-scale-effect-fusing-2021/cite.bib">引用</button><a href="https://doi.org/10.1109/LGRS.2020.2965247">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2021 earlier" data-search="big data-driven research on the interaction of human mobility pattern and urban spatial structure acta geodaetica et cartographica sinica, 50(2), 271 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2021 mobility" data-search="big data-driven research on the interaction of human mobility pattern and urban spatial structure acta geodaetica et cartographica sinica, 50(2), 271 移动出行 期刊">
     <div class="ai4city-pub-year">2021<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Big Data-Driven Research on the Interaction of Human Mobility Pattern and Urban Spatial Structure</h3><p>Acta Geodaetica et Cartographica Sinica, 50(2), 271</p><div class="ai4city-pub-actions"><a href="/publication/cao-big-datadriven-research-2021/">详情</a><a href="/publication/cao-big-datadriven-research-2021/cite.bib">引用</a><a href="https://doi.org/10.11947/j.AGCS.2021.20200287">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Big Data-Driven Research on the Interaction of Human Mobility Pattern and Urban Spatial Structure</h3><p class="ai4city-pub-abstract">综述和讨论人群移动模式与城市空间结构交互关系的大数据驱动研究。</p><p class="ai4city-pub-venue">Acta Geodaetica et Cartographica Sinica, 50(2), 271</p><div class="ai4city-pub-keywords"><span>移动出行</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/cao-big-datadriven-research-2021/cite.bib">引用</button><a href="https://doi.org/10.11947/j.AGCS.2021.20200287">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2020 earlier" data-search="sensing urban dynamics by fusing multi-sourced spatiotemporal big data geomatics and information science of wuhan university, 45(12), 1906-1913 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2020 spatiotemporal" data-search="sensing urban dynamics by fusing multi-sourced spatiotemporal big data geomatics and information science of wuhan university, 45(12), 1906-1913 时空建模 期刊">
     <div class="ai4city-pub-year">2020<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Sensing Urban Dynamics by Fusing Multi-sourced Spatiotemporal Big Data</h3><p>Geomatics and Information Science of Wuhan University, 45(12), 1906-1913</p><div class="ai4city-pub-actions"><a href="/publication/tu-sensing-urban-dynamics-2020/">详情</a><a href="/publication/tu-sensing-urban-dynamics-2020/cite.bib">引用</a><a href="https://doi.org/10.13203/j.whugis20200535">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Sensing Urban Dynamics by Fusing Multi-sourced Spatiotemporal Big Data</h3><p class="ai4city-pub-abstract">融合多源时空大数据感知城市动态变化，为城市运行监测提供数据基础。</p><p class="ai4city-pub-venue">Geomatics and Information Science of Wuhan University, 45(12), 1906-1913</p><div class="ai4city-pub-keywords"><span>时空建模</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/tu-sensing-urban-dynamics-2020/cite.bib">引用</button><a href="https://doi.org/10.13203/j.whugis20200535">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2019 earlier" data-search="extracting trips from multi-sourced data for mobility pattern analysis: an app-based data example transportation research part c, 105, 183-202 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2019 mobility" data-search="extracting trips from multi-sourced data for mobility pattern analysis: an app-based data example transportation research part c, 105, 183-202 移动出行 期刊">
     <div class="ai4city-pub-year">2019<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Extracting Trips from Multi-Sourced Data for Mobility Pattern Analysis: An App-Based Data Example</h3><p>Transportation Research Part C, 105, 183-202</p><div class="ai4city-pub-actions"><a href="/publication/wang-extracting-trips-multisourced-2019/">详情</a><a href="/publication/wang-extracting-trips-multisourced-2019/cite.bib">引用</a><a href="https://doi.org/10.1016/j.trc.2019.05.028">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Extracting Trips from Multi-Sourced Data for Mobility Pattern Analysis: An App-Based Data Example</h3><p class="ai4city-pub-abstract">提出从多源 App 数据中提取出行链的方法，支持移动模式分析。</p><p class="ai4city-pub-venue">Transportation Research Part C, 105, 183-202</p><div class="ai4city-pub-keywords"><span>移动出行</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/wang-extracting-trips-multisourced-2019/cite.bib">引用</button><a href="https://doi.org/10.1016/j.trc.2019.05.028">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2019 earlier" data-search="characterizing preferred motif choices and distance impacts plos one, 14(4), e0215242 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2019 mobility" data-search="characterizing preferred motif choices and distance impacts plos one, 14(4), e0215242 移动出行 期刊">
     <div class="ai4city-pub-year">2019<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Characterizing Preferred Motif Choices and Distance Impacts</h3><p>PLOS ONE, 14(4), e0215242</p><div class="ai4city-pub-actions"><a href="/publication/cao-characterizing-preferred-motif-2019/">详情</a><a href="/publication/cao-characterizing-preferred-motif-2019/cite.bib">引用</a><a href="https://doi.org/10.1371/journal.pone.0215242">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Characterizing Preferred Motif Choices and Distance Impacts</h3><p class="ai4city-pub-abstract">分析个体出行 motif 偏好及距离影响，刻画日常活动组织模式。</p><p class="ai4city-pub-venue">PLOS ONE, 14(4), e0215242</p><div class="ai4city-pub-keywords"><span>移动出行</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/cao-characterizing-preferred-motif-2019/cite.bib">引用</button><a href="https://doi.org/10.1371/journal.pone.0215242">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2018 earlier" data-search="integrating aerial and street view images for urban land use classification remote sensing, 10(10), 1553 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2018 multimodal remote-sensing urban-representation" data-search="integrating aerial and street view images for urban land use classification remote sensing, 10(10), 1553 多模态融合 遥感与地理ai 城市表征 期刊">
     <div class="ai4city-pub-year">2018<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Integrating Aerial and Street View Images for Urban Land Use Classification</h3><p>Remote Sensing, 10(10), 1553</p><div class="ai4city-pub-actions"><a href="/publication/cao-integrating-aerial-street-2018/">详情</a><a href="/publication/cao-integrating-aerial-street-2018/cite.bib">引用</a><a href="https://doi.org/10.3390/rs10101553">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Integrating Aerial and Street View Images for Urban Land Use Classification</h3><p class="ai4city-pub-abstract">融合航拍影像和街景影像进行城市土地利用分类。</p><p class="ai4city-pub-venue">Remote Sensing, 10(10), 1553</p><div class="ai4city-pub-keywords"><span>多模态融合</span><span>遥感与地理AI</span><span>城市表征</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/cao-integrating-aerial-street-2018/cite.bib">引用</button><a href="https://doi.org/10.3390/rs10101553">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2018 earlier" data-search="portraying urban functional zones by coupling remote sensing imagery and human sensing data remote sensing, 10(1), 141 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2018 multimodal remote-sensing urban-representation" data-search="portraying urban functional zones by coupling remote sensing imagery and human sensing data remote sensing, 10(1), 141 多模态融合 遥感与地理ai 城市表征 期刊">
     <div class="ai4city-pub-year">2018<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Portraying Urban Functional Zones by Coupling Remote Sensing Imagery and Human Sensing Data</h3><p>Remote Sensing, 10(1), 141</p><div class="ai4city-pub-actions"><a href="/publication/tu-portraying-urban-functional-2018/">详情</a><a href="/publication/tu-portraying-urban-functional-2018/cite.bib">引用</a><a href="https://doi.org/10.3390/rs10010141">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Portraying Urban Functional Zones by Coupling Remote Sensing Imagery and Human Sensing Data</h3><p class="ai4city-pub-abstract">耦合遥感影像与人类活动感知数据识别城市功能区。</p><p class="ai4city-pub-venue">Remote Sensing, 10(1), 141</p><div class="ai4city-pub-keywords"><span>多模态融合</span><span>遥感与地理AI</span><span>城市表征</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/tu-portraying-urban-functional-2018/cite.bib">引用</button><a href="https://doi.org/10.3390/rs10010141">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2017 earlier" data-search="coupling mobile phone and social media data: a new approach to understanding urban functions and diurnal patterns international journal of geographical information science, 31(12), 2331-2358 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2017 urban-representation social-computing" data-search="coupling mobile phone and social media data: a new approach to understanding urban functions and diurnal patterns international journal of geographical information science, 31(12), 2331-2358 城市表征 社会计算 期刊">
     <div class="ai4city-pub-year">2017<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Coupling Mobile Phone and Social Media Data: A New Approach to Understanding Urban Functions and Diurnal Patterns</h3><p>International Journal of Geographical Information Science, 31(12), 2331-2358</p><div class="ai4city-pub-actions"><a href="/publication/tu-coupling-mobile-phone-2017/">详情</a><a href="/publication/tu-coupling-mobile-phone-2017/cite.bib">引用</a><a href="https://doi.org/10.1080/13658816.2017.1356464">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Coupling Mobile Phone and Social Media Data: A New Approach to Understanding Urban Functions and Diurnal Patterns</h3><p class="ai4city-pub-abstract">融合手机与社交媒体数据理解城市功能和昼夜活动模式。</p><p class="ai4city-pub-venue">International Journal of Geographical Information Science, 31(12), 2331-2358</p><div class="ai4city-pub-keywords"><span>城市表征</span><span>社会计算</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/tu-coupling-mobile-phone-2017/cite.bib">引用</button><a href="https://doi.org/10.1080/13658816.2017.1356464">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="journal y2017 earlier" data-search="spatio-temporal analysis of aggregated human activities based on massive mobile phone tracking data journal of geo-information science, 19(4), 467-474 期刊">
+  <article class="ai4city-pub-item" data-tags="journal y2017 mobility spatiotemporal" data-search="spatio-temporal analysis of aggregated human activities based on massive mobile phone tracking data journal of geo-information science, 19(4), 467-474 移动出行 时空建模 期刊">
     <div class="ai4city-pub-year">2017<span>期刊</span></div>
-    <div class="ai4city-pub-main"><h3>Spatio-Temporal Analysis of Aggregated Human Activities Based on Massive Mobile Phone Tracking Data</h3><p>Journal of Geo-Information Science, 19(4), 467-474</p><div class="ai4city-pub-actions"><a href="/publication/cao-spatiotemporal-analysis-aggregated-2017/">详情</a><a href="/publication/cao-spatiotemporal-analysis-aggregated-2017/cite.bib">引用</a><a href="https://doi.org/10.3724/SP.J.1047.2017.00467">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Spatio-Temporal Analysis of Aggregated Human Activities Based on Massive Mobile Phone Tracking Data</h3><p class="ai4city-pub-abstract">基于大规模手机定位数据分析群体活动的时空特征。</p><p class="ai4city-pub-venue">Journal of Geo-Information Science, 19(4), 467-474</p><div class="ai4city-pub-keywords"><span>移动出行</span><span>时空建模</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/cao-spatiotemporal-analysis-aggregated-2017/cite.bib">引用</button><a href="https://doi.org/10.3724/SP.J.1047.2017.00467">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="conference y2016 earlier" data-search="comparison of urban human movements inferring from multi-source spatial-temporal data isprs archives, xli-b2, 471-476 会议">
+  <article class="ai4city-pub-item" data-tags="conference y2016 mobility" data-search="comparison of urban human movements inferring from multi-source spatial-temporal data isprs archives, xli-b2, 471-476 移动出行 会议">
     <div class="ai4city-pub-year">2016<span>会议</span></div>
-    <div class="ai4city-pub-main"><h3>Comparison of Urban Human Movements Inferring from Multi-Source Spatial-Temporal Data</h3><p>ISPRS Archives, XLI-B2, 471-476</p><div class="ai4city-pub-actions"><a href="/publication/cao-comparison-urban-human-2016/">详情</a><a href="/publication/cao-comparison-urban-human-2016/cite.bib">引用</a><a href="https://doi.org/10.5194/isprsarchives-XLI-B2-471-2016">DOI</a></div></div>
+    <div class="ai4city-pub-main"><h3>Comparison of Urban Human Movements Inferring from Multi-Source Spatial-Temporal Data</h3><p class="ai4city-pub-abstract">比较多源时空数据推断城市人群移动的差异与适用性。</p><p class="ai4city-pub-venue">ISPRS Archives, XLI-B2, 471-476</p><div class="ai4city-pub-keywords"><span>移动出行</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/cao-comparison-urban-human-2016/cite.bib">引用</button><a href="https://doi.org/10.5194/isprsarchives-XLI-B2-471-2016">DOI</a></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="conference y2015 earlier" data-search="exploring the distribution and dynamics of functional regions using mobile phone data and social media data acm sigspatial lbsn workshop 会议">
+  <article class="ai4city-pub-item" data-tags="conference y2015 urban-representation social-computing spatiotemporal" data-search="exploring the distribution and dynamics of functional regions using mobile phone data and social media data acm sigspatial lbsn workshop 城市表征 社会计算 时空建模 会议">
     <div class="ai4city-pub-year">2015<span>会议</span></div>
-    <div class="ai4city-pub-main"><h3>Exploring the Distribution and Dynamics of Functional Regions Using Mobile Phone Data and Social Media Data</h3><p>ACM SIGSPATIAL LBSN Workshop</p><div class="ai4city-pub-actions"><a href="/publication/cao-exploring-distribution-dynamics-2015/">详情</a><a href="/publication/cao-exploring-distribution-dynamics-2015/cite.bib">引用</a></div></div>
+    <div class="ai4city-pub-main"><h3>Exploring the Distribution and Dynamics of Functional Regions Using Mobile Phone Data and Social Media Data</h3><p class="ai4city-pub-abstract">基于手机与社交媒体数据探索城市功能区分布与动态变化。</p><p class="ai4city-pub-venue">ACM SIGSPATIAL LBSN Workshop</p><div class="ai4city-pub-keywords"><span>城市表征</span><span>社会计算</span><span>时空建模</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/cao-exploring-distribution-dynamics-2015/cite.bib">引用</button></div></div>
   </article>
-  <article class="ai4city-pub-item" data-tags="conference y2014 earlier" data-search="a study of users' movements based on check-in data in location-based social networks acm sigspatial lbsn workshop 会议">
+  <article class="ai4city-pub-item" data-tags="conference y2014 mobility social-computing" data-search="a study of users' movements based on check-in data in location-based social networks acm sigspatial lbsn workshop 移动出行 社会计算 会议">
     <div class="ai4city-pub-year">2014<span>会议</span></div>
-    <div class="ai4city-pub-main"><h3>A Study of Users' Movements Based on Check-In Data in Location-Based Social Networks</h3><p>ACM SIGSPATIAL LBSN Workshop</p><div class="ai4city-pub-actions"><a href="/publication/cao-study-users-movements-2014/">详情</a><a href="/publication/cao-study-users-movements-2014/cite.bib">引用</a></div></div>
+    <div class="ai4city-pub-main"><h3>A Study of Users' Movements Based on Check-In Data in Location-Based Social Networks</h3><p class="ai4city-pub-abstract">基于位置签到数据研究 LBSN 用户移动行为。</p><p class="ai4city-pub-venue">ACM SIGSPATIAL LBSN Workshop</p><div class="ai4city-pub-keywords"><span>移动出行</span><span>社会计算</span></div><div class="ai4city-pub-actions"><button type="button" data-cite-href="/publication/cao-study-users-movements-2014/cite.bib">引用</button></div></div>
   </article>
+  </div>
+  <div class="ai4city-cite-modal" data-cite-modal hidden>
+    <div class="ai4city-cite-dialog" role="dialog" aria-modal="true">
+      <div class="ai4city-cite-head"><strong>BibTeX</strong><button type="button" data-cite-close>关闭</button></div>
+      <pre data-cite-text></pre>
+      <div class="ai4city-cite-actions"><button type="button" data-cite-copy>复制</button><a href="#" data-cite-download download="cite.bib">下载 BibTeX</a></div>
+    </div>
   </div>
 </div>
 
 <script>
 (() => {
   document.querySelectorAll('[data-pub-filter]').forEach((root) => {
-    const buttons = Array.from(root.querySelectorAll('[data-filter]'));
+    const buttons = Array.from(root.querySelectorAll('[data-filter-group]'));
     const search = root.querySelector('[data-pub-search]');
     const items = Array.from(root.querySelectorAll('.ai4city-pub-item'));
-    let active = 'all';
+    const active = { year: 'all', type: 'all', topic: 'all' };
     const apply = () => {
       const query = (search.value || '').trim().toLowerCase();
       items.forEach((item) => {
         const tags = item.dataset.tags || '';
         const text = item.dataset.search || item.textContent.toLowerCase();
-        const tagMatch = active === 'all' || tags.includes(active);
+        const tagMatch = Object.values(active).every((value) => value === 'all' || tags.split(' ').includes(value));
         const textMatch = !query || text.includes(query);
         item.hidden = !(tagMatch && textMatch);
       });
     };
     buttons.forEach((button) => button.addEventListener('click', () => {
-      active = button.dataset.filter;
-      buttons.forEach((btn) => btn.classList.toggle('active', btn === button));
+      const group = button.dataset.filterGroup;
+      active[group] = button.dataset.filterValue;
+      buttons.filter((btn) => btn.dataset.filterGroup === group).forEach((btn) => btn.classList.toggle('active', btn === button));
       apply();
     }));
     search.addEventListener('input', apply);
+
+    const modal = root.querySelector('[data-cite-modal]');
+    const citeText = root.querySelector('[data-cite-text]');
+    const copyButton = root.querySelector('[data-cite-copy]');
+    const downloadLink = root.querySelector('[data-cite-download]');
+    let currentBib = '';
+    const close = () => { modal.hidden = true; };
+    root.querySelectorAll('[data-cite-close]').forEach((button) => button.addEventListener('click', close));
+    modal.addEventListener('click', (event) => { if (event.target === modal) close(); });
+    document.querySelectorAll('[data-cite-href]').forEach((button) => button.addEventListener('click', async () => {
+      modal.hidden = false;
+      citeText.textContent = 'Loading...';
+      try {
+        const response = await fetch(button.dataset.citeHref);
+        currentBib = await response.text();
+        citeText.textContent = currentBib;
+        downloadLink.href = URL.createObjectURL(new Blob([currentBib], { type: 'text/plain' }));
+      } catch (error) {
+        currentBib = '';
+        citeText.textContent = root.dataset.failLabel;
+        downloadLink.removeAttribute('href');
+      }
+    }));
+    copyButton.addEventListener('click', async () => {
+      if (!currentBib) return;
+      await navigator.clipboard.writeText(currentBib);
+      const original = copyButton.textContent;
+      copyButton.textContent = root.dataset.copyLabel;
+      setTimeout(() => { copyButton.textContent = original; }, 1400);
+    });
   });
 })();
 </script>
