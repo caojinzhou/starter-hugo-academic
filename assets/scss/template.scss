@@ -1218,24 +1218,18 @@ p {
   font-size: 0.9rem;
 }
 
-.ai4city-pub-keywords {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.32rem;
-  margin-bottom: 0.62rem;
-}
-
-.ai4city-pub-keywords span {
-  border-radius: 999px;
-  background: rgba(47, 102, 232, 0.08);
-  color: var(--stic-blue);
-  font-size: 0.76rem;
-  font-weight: 750;
-  padding: 0.16rem 0.46rem;
-}
-
 .ai4city-pub-item[hidden] {
   display: none;
+}
+
+.ai4city-pub-empty {
+  margin: 1rem 0 0;
+  padding: 0.85rem 1rem;
+  border: 1px dashed rgba(255, 122, 0, 0.45);
+  border-radius: 8px;
+  color: var(--stic-muted);
+  background: rgba(255, 241, 229, 0.56);
+  text-align: center;
 }
 
 .ai4city-cite-modal {

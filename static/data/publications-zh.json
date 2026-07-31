@@ -1,0 +1,833 @@
+[
+  {
+    "slug": "zhao-learning-fine-grained-urban-mobility-2026",
+    "year": 2026,
+    "type": "journal",
+    "title": "Learning Fine-Grained Urban Mobility Dynamics Through Large Model-Enhanced Multimodal Representations",
+    "venue": "IEEE Transactions on Intelligent Transportation Systems, 1-15",
+    "abstract": "利用大模型增强的多模态城市表征，刻画细粒度城市移动动态与交通需求变化。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "multimodal",
+      "mobility",
+      "urban-representation",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@article{zhao-learning-fine-grained-urban-mobility-2026,\n  title = {Learning Fine-Grained Urban Mobility Dynamics Through Large Model-Enhanced Multimodal Representations},\n  journal = {IEEE Transactions on Intelligent Transportation Systems, 1-15},\n  year = {2026}\n}"
+  },
+  {
+    "slug": "wang-sat2flow-2026",
+    "year": 2026,
+    "type": "conference",
+    "title": "Sat2Flow: A Structure-Aware Diffusion Framework for Human Flow Generation from Satellite Imagery",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence, 40, 15886-15894",
+    "abstract": "提出结构感知扩散框架，从卫星影像生成城市人群流动 OD 模式，连接空间形态与出行需求。",
+    "doi": "https://doi.org/10.1609/aaai.v40i19.38621",
+    "code": "https://github.com/ai4city-sztu/Sat2Flow",
+    "tags": [
+      "multimodal",
+      "mobility",
+      "remote-sensing"
+    ],
+    "visual": "sat2flow",
+    "citation": "@inproceedings{wang-sat2flow-2026,\n  title = {Sat2Flow: A Structure-Aware Diffusion Framework for Human Flow Generation from Satellite Imagery},\n  journal = {Proceedings of the AAAI Conference on Artificial Intelligence, 40, 15886-15894},\n  year = {2026},\n  doi = {10.1609/aaai.v40i19.38621}\n}"
+  },
+  {
+    "slug": "cao-urbanmmcl-2026",
+    "year": 2026,
+    "type": "journal",
+    "title": "UrbanMMCL: Urban Region Representations via Multi-Modal and Multi-Graph Self-Supervised Contrastive Learning",
+    "venue": "ISPRS Journal of Photogrammetry and Remote Sensing, 232, 75-93",
+    "abstract": "通过多模态、多图自监督对比学习，融合遥感影像、街景、位置编码与文本语义，构建统一城市区域表征。",
+    "doi": "https://doi.org/10.1016/j.isprsjprs.2025.11.012",
+    "code": "",
+    "tags": [
+      "multimodal",
+      "urban-representation"
+    ],
+    "visual": "urbanmmcl",
+    "citation": "@article{cao-urbanmmcl-2026,\n  title = {UrbanMMCL: Urban Region Representations via Multi-Modal and Multi-Graph Self-Supervised Contrastive Learning},\n  journal = {ISPRS Journal of Photogrammetry and Remote Sensing, 232, 75-93},\n  year = {2026},\n  doi = {10.1016/j.isprsjprs.2025.11.012}\n}"
+  },
+  {
+    "slug": "dai-ramen-2026",
+    "year": 2026,
+    "type": "journal",
+    "title": "RAMEN: Region-Adaptive Mixture of Ego-Networks for Multimodal Geospatial Fusion in Urban Region Representation",
+    "venue": "Mathematics, 14(15), 2682",
+    "abstract": "提出区域自适应 ego-network 混合模型，用于城市区域表征中的多模态地理空间融合。",
+    "doi": "https://doi.org/10.3390/math14152682",
+    "code": "",
+    "tags": [
+      "multimodal",
+      "urban-representation"
+    ],
+    "visual": "generic",
+    "citation": "@article{dai-ramen-2026,\n  title = {RAMEN: Region-Adaptive Mixture of Ego-Networks for Multimodal Geospatial Fusion in Urban Region Representation},\n  journal = {Mathematics, 14(15), 2682},\n  year = {2026},\n  doi = {10.3390/math14152682}\n}"
+  },
+  {
+    "slug": "dai-resat-2026",
+    "year": 2026,
+    "type": "journal",
+    "title": "RE-SAT: Spatial-Aware Transformers with Semantic-Guided Prompting for Urban Region Embedding",
+    "venue": "Urban Science, 10(3), 168",
+    "abstract": "结合空间感知 Transformer 与语义引导提示学习，构建城市区域嵌入。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "multimodal",
+      "remote-sensing",
+      "urban-representation"
+    ],
+    "visual": "generic",
+    "citation": "@article{dai-resat-2026,\n  title = {RE-SAT: Spatial-Aware Transformers with Semantic-Guided Prompting for Urban Region Embedding},\n  journal = {Urban Science, 10(3), 168},\n  year = {2026}\n}"
+  },
+  {
+    "slug": "wang-st-camba-2025",
+    "year": 2025,
+    "type": "journal",
+    "title": "ST-camba: A decoupled-free spatiotemporal graph fusion state space model with linear complexity for efficient traffic forecasting",
+    "venue": "Information Fusion, 126, 103495",
+    "abstract": "构建线性复杂度的时空图融合状态空间模型，用于高效交通预测。",
+    "doi": "https://doi.org/10.1016/j.inffus.2025.103495",
+    "code": "https://github.com/ai4city-sztu/ST-Camba",
+    "tags": [
+      "multimodal",
+      "mobility",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@article{wang-st-camba-2025,\n  title = {ST-camba: A decoupled-free spatiotemporal graph fusion state space model with linear complexity for efficient traffic forecasting},\n  journal = {Information Fusion, 126, 103495},\n  year = {2025},\n  doi = {10.1016/j.inffus.2025.103495}\n}"
+  },
+  {
+    "slug": "cao-urban-representation-economic-2025",
+    "year": 2025,
+    "type": "journal",
+    "title": "Urban representation learning for fine-grained economic mapping: A semi-supervised graph-based approach",
+    "venue": "ISPRS Journal of Photogrammetry and Remote Sensing, 226, 317-331",
+    "abstract": "基于半监督图学习融合多源地理空间数据，实现细粒度城市经济空间制图。",
+    "doi": "https://doi.org/10.1016/j.isprsjprs.2025.05.007",
+    "code": "",
+    "tags": [
+      "urban-representation",
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@article{cao-urban-representation-economic-2025,\n  title = {Urban representation learning for fine-grained economic mapping: A semi-supervised graph-based approach},\n  journal = {ISPRS Journal of Photogrammetry and Remote Sensing, 226, 317-331},\n  year = {2025},\n  doi = {10.1016/j.isprsjprs.2025.05.007}\n}"
+  },
+  {
+    "slug": "cao-disentangling-hourly-dynamics-2024",
+    "year": 2024,
+    "type": "journal",
+    "title": "Disentangling the hourly dynamics of mixed urban function: A multimodal fusion perspective using dynamic graphs",
+    "venue": "Information Fusion, 117, 102832",
+    "abstract": "从多模态融合和动态图视角解析混合城市功能的小时级变化。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "multimodal",
+      "urban-representation",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@article{cao-disentangling-hourly-dynamics-2024,\n  title = {Disentangling the hourly dynamics of mixed urban function: A multimodal fusion perspective using dynamic graphs},\n  journal = {Information Fusion, 117, 102832},\n  year = {2024}\n}"
+  },
+  {
+    "slug": "cao-nighttime-light-mobile-phone-2025",
+    "year": 2025,
+    "type": "journal",
+    "title": "Nighttime light imagery or mobile phone footprints: Which better reflects urban socio-economics at the grid level? A case study in the Pearl River Delta, China",
+    "venue": "Computers, Environment and Urban Systems, 116, 102220",
+    "abstract": "比较夜间灯光影像与手机活动足迹在网格尺度刻画城市社会经济状态的能力。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "remote-sensing",
+      "urban-representation",
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@article{cao-nighttime-light-mobile-phone-2025,\n  title = {Nighttime light imagery or mobile phone footprints: Which better reflects urban socio-economics at the grid level? A case study in the Pearl River Delta, China},\n  journal = {Computers, Environment and Urban Systems, 116, 102220},\n  year = {2025}\n}"
+  },
+  {
+    "slug": "cao-semigps-2025",
+    "year": 2025,
+    "type": "conference",
+    "title": "SemiGPS: GraphGPS-based Semi-supervised Graph Learning for Sector-Specific GDP Mapping",
+    "venue": "IEEE ICASSP, 1-5",
+    "abstract": "基于 GraphGPS 的半监督图学习方法，用于分行业 GDP 空间制图。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "urban-representation",
+      "social-computing",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{cao-semigps-2025,\n  title = {SemiGPS: GraphGPS-based Semi-supervised Graph Learning for Sector-Specific GDP Mapping},\n  journal = {IEEE ICASSP, 1-5},\n  year = {2025}\n}"
+  },
+  {
+    "slug": "zhao-seasonal-bias-street-view-2025",
+    "year": 2025,
+    "type": "journal",
+    "title": "Quantifying Seasonal Bias in Street View Imagery for Urban Form Assessment: A Global Analysis of 40 Cities",
+    "venue": "Computers, Environment and Urban Systems, 120, 102302",
+    "abstract": "面向 40 个城市的全球分析，量化街景影像季节偏差对城市形态评估的影响。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "multimodal",
+      "urban-representation"
+    ],
+    "visual": "generic",
+    "citation": "@article{zhao-seasonal-bias-street-view-2025,\n  title = {Quantifying Seasonal Bias in Street View Imagery for Urban Form Assessment: A Global Analysis of 40 Cities},\n  journal = {Computers, Environment and Urban Systems, 120, 102302},\n  year = {2025}\n}"
+  },
+  {
+    "slug": "cao-untangling-association-2023",
+    "year": 2023,
+    "type": "journal",
+    "title": "Untangling the association between urban mobility and urban elements",
+    "venue": "Geo-spatial Information Science, 1-19",
+    "abstract": "解析城市移动性与城市要素之间的关联关系。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "mobility",
+      "urban-representation",
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@article{cao-untangling-association-2023,\n  title = {Untangling the association between urban mobility and urban elements},\n  journal = {Geo-spatial Information Science, 1-19},\n  year = {2023}\n}"
+  },
+  {
+    "slug": "shen-real-time-scene-classification-2023",
+    "year": 2023,
+    "type": "journal",
+    "title": "Real-time scene classification of unmanned aerial vehicles remote sensing image based on Modified GhostNet",
+    "venue": "PLOS ONE, 18(6), e0286873",
+    "abstract": "基于改进 GhostNet 的无人机遥感影像实时场景分类。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "remote-sensing"
+    ],
+    "visual": "generic",
+    "citation": "@article{shen-real-time-scene-classification-2023,\n  title = {Real-time scene classification of unmanned aerial vehicles remote sensing image based on Modified GhostNet},\n  journal = {PLOS ONE, 18(6), e0286873},\n  year = {2023}\n}"
+  },
+  {
+    "slug": "cao-resolving-urban-mobility-2021",
+    "year": 2021,
+    "type": "journal",
+    "title": "Resolving Urban Mobility Networks from Individual Travel Graphs Using Massive-Scale Mobile Phone Tracking Data",
+    "venue": "Cities, 110, 103077",
+    "abstract": "从个体出行图中解析城市移动网络，刻画大规模手机定位数据中的出行联系。",
+    "doi": "https://doi.org/10.1016/j.cities.2020.103077",
+    "code": "",
+    "tags": [
+      "mobility"
+    ],
+    "visual": "generic",
+    "citation": "@article{cao-resolving-urban-mobility-2021,\n  title = {Resolving Urban Mobility Networks from Individual Travel Graphs Using Massive-Scale Mobile Phone Tracking Data},\n  journal = {Cities, 110, 103077},\n  year = {2021},\n  doi = {10.1016/j.cities.2020.103077}\n}"
+  },
+  {
+    "slug": "cao-characterizing-preferred-motif-2019",
+    "year": 2019,
+    "type": "journal",
+    "title": "Characterizing Preferred Motif Choices and Distance Impacts",
+    "venue": "PLOS ONE, 14(4), e0215242",
+    "abstract": "分析个体出行 motif 偏好及距离影响，刻画日常活动组织模式。",
+    "doi": "https://doi.org/10.1371/journal.pone.0215242",
+    "code": "",
+    "tags": [
+      "mobility"
+    ],
+    "visual": "generic",
+    "citation": "@article{cao-characterizing-preferred-motif-2019,\n  title = {Characterizing Preferred Motif Choices and Distance Impacts},\n  journal = {PLOS ONE, 14(4), e0215242},\n  year = {2019},\n  doi = {10.1371/journal.pone.0215242}\n}"
+  },
+  {
+    "slug": "tu-coupling-mobile-phone-2017",
+    "year": 2017,
+    "type": "journal",
+    "title": "Coupling Mobile Phone and Social Media Data: A New Approach to Understanding Urban Functions and Diurnal Patterns",
+    "venue": "International Journal of Geographical Information Science, 31(12), 2331-2358",
+    "abstract": "融合手机与社交媒体数据理解城市功能和昼夜活动模式。",
+    "doi": "https://doi.org/10.1080/13658816.2017.1356464",
+    "code": "",
+    "tags": [
+      "urban-representation",
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@article{tu-coupling-mobile-phone-2017,\n  title = {Coupling Mobile Phone and Social Media Data: A New Approach to Understanding Urban Functions and Diurnal Patterns},\n  journal = {International Journal of Geographical Information Science, 31(12), 2331-2358},\n  year = {2017},\n  doi = {10.1080/13658816.2017.1356464}\n}"
+  },
+  {
+    "slug": "cao-big-datadriven-research-2021",
+    "year": 2021,
+    "type": "journal",
+    "title": "Big Data-Driven Research on the Interaction of Human Mobility Pattern and Urban Spatial Structure",
+    "venue": "Acta Geodaetica et Cartographica Sinica, 50(6), 849-849",
+    "abstract": "大数据驱动的个体出行模式与城市空间结构交互研究。",
+    "doi": "https://doi.org/10.11947/j.AGCS.2021.20200287",
+    "code": "",
+    "tags": [
+      "mobility"
+    ],
+    "visual": "generic",
+    "citation": "@article{cao-big-datadriven-research-2021,\n  title = {Big Data-Driven Research on the Interaction of Human Mobility Pattern and Urban Spatial Structure},\n  journal = {Acta Geodaetica et Cartographica Sinica, 50(6), 849-849},\n  year = {2021},\n  doi = {10.11947/j.AGCS.2021.20200287}\n}"
+  },
+  {
+    "slug": "cao-spatiotemporal-analysis-aggregated-2017",
+    "year": 2017,
+    "type": "journal",
+    "title": "Spatio-Temporal Analysis of Aggregated Human Activities Based on Massive Mobile Phone Tracking Data",
+    "venue": "Journal of Geo-Information Science, 19(4), 467-474",
+    "abstract": "基于大规模手机定位数据分析群体活动的时空特征。",
+    "doi": "https://doi.org/10.3724/SP.J.1047.2017.00467",
+    "code": "",
+    "tags": [
+      "mobility",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@article{cao-spatiotemporal-analysis-aggregated-2017,\n  title = {Spatio-Temporal Analysis of Aggregated Human Activities Based on Massive Mobile Phone Tracking Data},\n  journal = {Journal of Geo-Information Science, 19(4), 467-474},\n  year = {2017},\n  doi = {10.3724/SP.J.1047.2017.00467}\n}"
+  },
+  {
+    "slug": "xing-dash-2026",
+    "year": 2026,
+    "type": "journal",
+    "title": "DASH: Disaster-Aware Social-Semantic Enhanced Hypergraph Convolution Network for Human Mobility Forecasting",
+    "venue": "ACM Transactions on Intelligent Systems and Technology",
+    "abstract": "面向灾害场景的人类移动预测，融合社会语义与超图卷积建模。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "mobility",
+      "social-computing",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@article{xing-dash-2026,\n  title = {DASH: Disaster-Aware Social-Semantic Enhanced Hypergraph Convolution Network for Human Mobility Forecasting},\n  journal = {ACM Transactions on Intelligent Systems and Technology},\n  year = {2026}\n}"
+  },
+  {
+    "slug": "cai-decoding-urban-soundscapes-2026",
+    "year": 2026,
+    "type": "journal",
+    "title": "Decoding urban soundscapes: spatial prediction and influence mechanism analysis with interpretable semi-supervised learning",
+    "venue": "Computers, Environment and Urban Systems, 126, 102412",
+    "abstract": "利用可解释半监督学习预测城市声景并分析影响机制。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "urban-representation",
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@article{cai-decoding-urban-soundscapes-2026,\n  title = {Decoding urban soundscapes: spatial prediction and influence mechanism analysis with interpretable semi-supervised learning},\n  journal = {Computers, Environment and Urban Systems, 126, 102412},\n  year = {2026}\n}"
+  },
+  {
+    "slug": "chen-diabetes-prediction-2026",
+    "year": 2026,
+    "type": "journal",
+    "title": "An enhanced adaptive differential evolution for early diabetes prediction",
+    "venue": "Biomedical Signal Processing and Control, 115, 109391",
+    "abstract": "提出增强自适应差分进化方法，用于早期糖尿病预测。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@article{chen-diabetes-prediction-2026,\n  title = {An enhanced adaptive differential evolution for early diabetes prediction},\n  journal = {Biomedical Signal Processing and Control, 115, 109391},\n  year = {2026}\n}"
+  },
+  {
+    "slug": "li-domain-invariant-sam-2026",
+    "year": 2026,
+    "type": "journal",
+    "title": "Domain-invariant representation learning via SAM for blood cell classification",
+    "venue": "Pattern Recognition, 170, 112000",
+    "abstract": "面向血细胞分类的基于 SAM 的域不变表征学习。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "multimodal"
+    ],
+    "visual": "generic",
+    "citation": "@article{li-domain-invariant-sam-2026,\n  title = {Domain-invariant representation learning via SAM for blood cell classification},\n  journal = {Pattern Recognition, 170, 112000},\n  year = {2026}\n}"
+  },
+  {
+    "slug": "zhang-induce-align-predict-2026",
+    "year": 2026,
+    "type": "conference",
+    "title": "Induce, Align, Predict: Zero-Shot Stance Detection via Cognitive Inductive Reasoning",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence, 40, 34638-34646",
+    "abstract": "基于认知归纳推理的零样本立场检测框架。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{zhang-induce-align-predict-2026,\n  title = {Induce, Align, Predict: Zero-Shot Stance Detection via Cognitive Inductive Reasoning},\n  journal = {Proceedings of the AAAI Conference on Artificial Intelligence, 40, 34638-34646},\n  year = {2026}\n}"
+  },
+  {
+    "slug": "chen-trigeonet-2026",
+    "year": 2026,
+    "type": "journal",
+    "title": "TriGeoNet: A Triple-Feature-Split network with geometry-statistics co-optimization for high-accuracy satellite stereo matching",
+    "venue": "International Journal of Applied Earth Observation and Geoinformation, 148, 105232",
+    "abstract": "面向高精度卫星立体匹配的几何-统计协同优化网络。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "remote-sensing"
+    ],
+    "visual": "generic",
+    "citation": "@article{chen-trigeonet-2026,\n  title = {TriGeoNet: A Triple-Feature-Split network with geometry-statistics co-optimization for high-accuracy satellite stereo matching},\n  journal = {International Journal of Applied Earth Observation and Geoinformation, 148, 105232},\n  year = {2026}\n}"
+  },
+  {
+    "slug": "zhu-adaptive-dynamic-graph-2026",
+    "year": 2026,
+    "type": "journal",
+    "title": "Adaptive Dynamic Graph Learning for Forecasting Urban Multimodal Flow",
+    "venue": "International Journal of Geographical Information Science",
+    "abstract": "用于城市多模态流预测的自适应动态图学习方法。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "multimodal",
+      "mobility",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@article{zhu-adaptive-dynamic-graph-2026,\n  title = {Adaptive Dynamic Graph Learning for Forecasting Urban Multimodal Flow},\n  journal = {International Journal of Geographical Information Science},\n  year = {2026}\n}"
+  },
+  {
+    "slug": "chen-exp-casa-2025",
+    "year": 2025,
+    "type": "journal",
+    "title": "Enhancing terrestrial net primary productivity estimation with EXP-CASA: A novel light use efficiency model approach",
+    "venue": "Remote Sensing of Environment, 326, 114790",
+    "abstract": "提出 EXP-CASA 光能利用率模型以提升陆地净初级生产力估计。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "remote-sensing"
+    ],
+    "visual": "generic",
+    "citation": "@article{chen-exp-casa-2025,\n  title = {Enhancing terrestrial net primary productivity estimation with EXP-CASA: A novel light use efficiency model approach},\n  journal = {Remote Sensing of Environment, 326, 114790},\n  year = {2025}\n}"
+  },
+  {
+    "slug": "qiu-rankrrg-2025",
+    "year": 2025,
+    "type": "conference",
+    "title": "RankRRG: A Rank-Aware Framework for Automated Radiology Report Generation",
+    "venue": "International Conference on Advanced Data Mining and Applications",
+    "abstract": "面向自动放射报告生成的排序感知框架。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "multimodal"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{qiu-rankrrg-2025,\n  title = {RankRRG: A Rank-Aware Framework for Automated Radiology Report Generation},\n  journal = {International Conference on Advanced Data Mining and Applications},\n  year = {2025}\n}"
+  },
+  {
+    "slug": "song-adaptive-confidence-2025",
+    "year": 2025,
+    "type": "conference",
+    "title": "Adaptive Confidence Estimation for Data Distribution Shift Robustness in Cloud-Edge Collaborative Inference",
+    "venue": "International Conference on Advanced Data Mining and Applications",
+    "abstract": "云边协同推理中面向数据分布漂移鲁棒性的自适应置信估计。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{song-adaptive-confidence-2025,\n  title = {Adaptive Confidence Estimation for Data Distribution Shift Robustness in Cloud-Edge Collaborative Inference},\n  journal = {International Conference on Advanced Data Mining and Applications},\n  year = {2025}\n}"
+  },
+  {
+    "slug": "dai-crrl-2025",
+    "year": 2025,
+    "type": "journal",
+    "title": "CRRL: Contrastive Region Relevance Learning Framework for cross-city traffic prediction",
+    "venue": "Information Fusion, 103215",
+    "abstract": "面向跨城市交通预测的对比区域相关性学习框架。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "mobility",
+      "urban-representation",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@article{dai-crrl-2025,\n  title = {CRRL: Contrastive Region Relevance Learning Framework for cross-city traffic prediction},\n  journal = {Information Fusion, 103215},\n  year = {2025}\n}"
+  },
+  {
+    "slug": "zhang-semantics-guided-hypergraph-2025",
+    "year": 2025,
+    "type": "conference",
+    "title": "Semantics-Guided Dynamic Hypergraph Network for Human Mobility Nowcasting in Disaster",
+    "venue": "IEEE ICASSP, 1-5",
+    "abstract": "面向灾害情景人类移动即时预测的语义引导动态超图网络。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "mobility",
+      "social-computing",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{zhang-semantics-guided-hypergraph-2025,\n  title = {Semantics-Guided Dynamic Hypergraph Network for Human Mobility Nowcasting in Disaster},\n  journal = {IEEE ICASSP, 1-5},\n  year = {2025}\n}"
+  },
+  {
+    "slug": "wu-urban-vitality-2025",
+    "year": 2025,
+    "type": "journal",
+    "title": "Spatiotemporal analysis of urban vitality and its drivers from a human mobility perspective",
+    "venue": "ISPRS International Journal of Geo-Information, 14(4), 167",
+    "abstract": "从人群移动视角分析城市活力及其驱动因素的时空变化。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "mobility",
+      "social-computing",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@article{wu-urban-vitality-2025,\n  title = {Spatiotemporal analysis of urban vitality and its drivers from a human mobility perspective},\n  journal = {ISPRS International Journal of Geo-Information, 14(4), 167},\n  year = {2025}\n}"
+  },
+  {
+    "slug": "li-nighttime-economy-housing-2024",
+    "year": 2024,
+    "type": "journal",
+    "title": "Quantifying the nighttime economy-housing separation from a human activity standpoint: A case study in Shenzhen, China",
+    "venue": "Cities, 148, 104894",
+    "abstract": "从人类活动视角量化深圳夜间经济与居住空间分离。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "mobility",
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@article{li-nighttime-economy-housing-2024,\n  title = {Quantifying the nighttime economy-housing separation from a human activity standpoint: A case study in Shenzhen, China},\n  journal = {Cities, 148, 104894},\n  year = {2024}\n}"
+  },
+  {
+    "slug": "cai-cross-domain-blood-cell-2024",
+    "year": 2024,
+    "type": "conference",
+    "title": "Towards cross-domain single blood cell image classification via large-scale LoRA-based Segment Anything Model",
+    "venue": "IEEE International Symposium on Biomedical Imaging, 1-5",
+    "abstract": "基于 LoRA-SAM 的跨域单血细胞图像分类方法。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "multimodal"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{cai-cross-domain-blood-cell-2024,\n  title = {Towards cross-domain single blood cell image classification via large-scale LoRA-based Segment Anything Model},\n  journal = {IEEE International Symposium on Biomedical Imaging, 1-5},\n  year = {2024}\n}"
+  },
+  {
+    "slug": "shen-object-based-multiscale-2023",
+    "year": 2023,
+    "type": "journal",
+    "title": "Object-based multiscale segmentation incorporating texture and edge features of high-resolution remote sensing images",
+    "venue": "PeerJ Computer Science, 9, e1290",
+    "abstract": "融合纹理与边缘特征的高分辨率遥感影像面向对象多尺度分割。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "remote-sensing"
+    ],
+    "visual": "generic",
+    "citation": "@article{shen-object-based-multiscale-2023,\n  title = {Object-based multiscale segmentation incorporating texture and edge features of high-resolution remote sensing images},\n  journal = {PeerJ Computer Science, 9, e1290},\n  year = {2023}\n}"
+  },
+  {
+    "slug": "liao-street-level-lcz-2023",
+    "year": 2023,
+    "type": "journal",
+    "title": "Exploring how street-level images help enhance remote-sensing-based local climate zone mapping",
+    "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 16, 7662-7674",
+    "abstract": "探索街景影像如何增强基于遥感的局地气候区制图。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "multimodal",
+      "remote-sensing",
+      "urban-representation"
+    ],
+    "visual": "generic",
+    "citation": "@article{liao-street-level-lcz-2023,\n  title = {Exploring how street-level images help enhance remote-sensing-based local climate zone mapping},\n  journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 16, 7662-7674},\n  year = {2023}\n}"
+  },
+  {
+    "slug": "shen-building-extraction-attention-2023",
+    "year": 2023,
+    "type": "journal",
+    "title": "Object-oriented building extraction based on visual attention mechanism",
+    "venue": "PeerJ Computer Science, 9, e1566",
+    "abstract": "基于视觉注意力机制的面向对象建筑物提取方法。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "remote-sensing"
+    ],
+    "visual": "generic",
+    "citation": "@article{shen-building-extraction-attention-2023,\n  title = {Object-oriented building extraction based on visual attention mechanism},\n  journal = {PeerJ Computer Science, 9, e1566},\n  year = {2023}\n}"
+  },
+  {
+    "slug": "zhao-bus-travel-demand-2022",
+    "year": 2022,
+    "type": "journal",
+    "title": "Coupling graph deep learning and spatial-temporal influence of built environment for short-term bus travel demand prediction",
+    "venue": "Computers, Environment and Urban Systems, 94, 101776",
+    "abstract": "耦合图深度学习与建成环境时空影响，预测短期公交出行需求。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "mobility",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@article{zhao-bus-travel-demand-2022,\n  title = {Coupling graph deep learning and spatial-temporal influence of built environment for short-term bus travel demand prediction},\n  journal = {Computers, Environment and Urban Systems, 94, 101776},\n  year = {2022}\n}"
+  },
+  {
+    "slug": "gao-revealing-transport-inequality-2022",
+    "year": 2022,
+    "type": "journal",
+    "title": "Revealing Transport Inequality from an Activity Space Perspective: A Study Based on Human Mobility Data",
+    "venue": "Cities, 131, 104036",
+    "abstract": "基于人群移动数据与活动空间视角，揭示城市交通可达性与出行不平等。",
+    "doi": "https://doi.org/10.1016/j.cities.2022.104036",
+    "code": "",
+    "tags": [
+      "mobility",
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@article{gao-revealing-transport-inequality-2022,\n  title = {Revealing Transport Inequality from an Activity Space Perspective: A Study Based on Human Mobility Data},\n  journal = {Cities, 131, 104036},\n  year = {2022},\n  doi = {10.1016/j.cities.2022.104036}\n}"
+  },
+  {
+    "slug": "fang-uncovering-spatial-synergy-2022",
+    "year": 2022,
+    "type": "conference",
+    "title": "Uncovering Spatial Synergy of the Megacity Region: A Flow Perspective",
+    "venue": "ISPRS Archives, XLIII-B4-2022, 521-528",
+    "abstract": "从流动联系视角揭示都市圈空间协同关系与区域互动结构。",
+    "doi": "https://doi.org/10.5194/isprs-archives-XLIII-B4-2022-521-2022",
+    "code": "",
+    "tags": [
+      "mobility"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{fang-uncovering-spatial-synergy-2022,\n  title = {Uncovering Spatial Synergy of the Megacity Region: A Flow Perspective},\n  journal = {ISPRS Archives, XLIII-B4-2022, 521-528},\n  year = {2022},\n  doi = {10.5194/isprs-archives-XLIII-B4-2022-521-2022}\n}"
+  },
+  {
+    "slug": "cao-machine-learning-based-economic-2022",
+    "year": 2022,
+    "type": "conference",
+    "title": "Machine Learning-Based Economic Development Mapping from Multi-Source Open Geospatial Data",
+    "venue": "ISPRS Annals, V-4-2022, 259-266",
+    "abstract": "利用多源开放地理空间数据和机器学习方法刻画城市经济发展格局。",
+    "doi": "https://doi.org/10.5194/isprs-annals-V-4-2022-259-2022",
+    "code": "",
+    "tags": [
+      "urban-representation",
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{cao-machine-learning-based-economic-2022,\n  title = {Machine Learning-Based Economic Development Mapping from Multi-Source Open Geospatial Data},\n  journal = {ISPRS Annals, V-4-2022, 259-266},\n  year = {2022},\n  doi = {10.5194/isprs-annals-V-4-2022-259-2022}\n}"
+  },
+  {
+    "slug": "gao-segregation-integration-exploring-2021",
+    "year": 2021,
+    "type": "journal",
+    "title": "Segregation or Integration? Exploring Activity Disparities between Migrants and Settled Urban Residents Using Human Mobility Data",
+    "venue": "Transactions in GIS, 25(6), 2791-2820",
+    "abstract": "利用人群移动数据比较流动人口与本地居民活动差异，分析城市融合与隔离。",
+    "doi": "https://doi.org/10.1111/tgis.12760",
+    "code": "",
+    "tags": [
+      "mobility",
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@article{gao-segregation-integration-exploring-2021,\n  title = {Segregation or Integration? Exploring Activity Disparities between Migrants and Settled Urban Residents Using Human Mobility Data},\n  journal = {Transactions in GIS, 25(6), 2791-2820},\n  year = {2021},\n  doi = {10.1111/tgis.12760}\n}"
+  },
+  {
+    "slug": "tu-sensing-urban-dynamics-2020",
+    "year": 2020,
+    "type": "journal",
+    "title": "Sensing Urban Dynamics by Fusing Multi-sourced Spatiotemporal Big Data",
+    "venue": "Geomatics and Information Science of Wuhan University, 45(12), 1875-1883",
+    "abstract": "融合多源时空大数据感知城市动态变化，为城市运行监测提供数据基础。",
+    "doi": "https://doi.org/10.13203/j.whugis20200535",
+    "code": "",
+    "tags": [
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@article{tu-sensing-urban-dynamics-2020,\n  title = {Sensing Urban Dynamics by Fusing Multi-sourced Spatiotemporal Big Data},\n  journal = {Geomatics and Information Science of Wuhan University, 45(12), 1875-1883},\n  year = {2020},\n  doi = {10.13203/j.whugis20200535}\n}"
+  },
+  {
+    "slug": "tu-scale-effect-fusing-2021",
+    "year": 2020,
+    "type": "journal",
+    "title": "Scale Effect on Fusing Remote Sensing and Human Sensing to Portray Urban Functions",
+    "venue": "IEEE Geoscience and Remote Sensing Letters, 49(3), 365-374",
+    "abstract": "研究遥感与人类活动感知融合中的尺度效应，用于城市功能识别。",
+    "doi": "https://doi.org/10.1109/LGRS.2020.2965247",
+    "code": "",
+    "tags": [
+      "multimodal",
+      "remote-sensing",
+      "urban-representation"
+    ],
+    "visual": "generic",
+    "citation": "@article{tu-scale-effect-fusing-2021,\n  title = {Scale Effect on Fusing Remote Sensing and Human Sensing to Portray Urban Functions},\n  journal = {IEEE Geoscience and Remote Sensing Letters, 49(3), 365-374},\n  year = {2020},\n  doi = {10.1109/LGRS.2020.2965247}\n}"
+  },
+  {
+    "slug": "wang-extracting-trips-multisourced-2019",
+    "year": 2019,
+    "type": "journal",
+    "title": "Extracting Trips from Multi-Sourced Data for Mobility Pattern Analysis: An App-Based Data Example",
+    "venue": "Transportation Research Part C, 105, 183-202",
+    "abstract": "提出从多源 App 数据中提取出行链的方法，支持移动模式分析。",
+    "doi": "https://doi.org/10.1016/j.trc.2019.05.028",
+    "code": "",
+    "tags": [
+      "mobility"
+    ],
+    "visual": "generic",
+    "citation": "@article{wang-extracting-trips-multisourced-2019,\n  title = {Extracting Trips from Multi-Sourced Data for Mobility Pattern Analysis: An App-Based Data Example},\n  journal = {Transportation Research Part C, 105, 183-202},\n  year = {2019},\n  doi = {10.1016/j.trc.2019.05.028}\n}"
+  },
+  {
+    "slug": "cao-uncovering-motif-patterns-2018",
+    "year": 2018,
+    "type": "conference",
+    "title": "Uncovering motif patterns from mobile phone positioning data",
+    "venue": "Association of American Geographers Annual Meeting",
+    "abstract": "基于手机定位数据挖掘日常出行 motif 模式。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "mobility"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{cao-uncovering-motif-patterns-2018,\n  title = {Uncovering motif patterns from mobile phone positioning data},\n  journal = {Association of American Geographers Annual Meeting},\n  year = {2018}\n}"
+  },
+  {
+    "slug": "tu-portraying-urban-functional-2018",
+    "year": 2018,
+    "type": "journal",
+    "title": "Portraying Urban Functional Zones by Coupling Remote Sensing Imagery and Human Sensing Data",
+    "venue": "Remote Sensing, 10(1), 141",
+    "abstract": "耦合遥感影像与人类活动感知数据识别城市功能区。",
+    "doi": "https://doi.org/10.3390/rs10010141",
+    "code": "",
+    "tags": [
+      "multimodal",
+      "remote-sensing",
+      "urban-representation"
+    ],
+    "visual": "generic",
+    "citation": "@article{tu-portraying-urban-functional-2018,\n  title = {Portraying Urban Functional Zones by Coupling Remote Sensing Imagery and Human Sensing Data},\n  journal = {Remote Sensing, 10(1), 141},\n  year = {2018},\n  doi = {10.3390/rs10010141}\n}"
+  },
+  {
+    "slug": "cao-integrating-aerial-street-2018",
+    "year": 2018,
+    "type": "journal",
+    "title": "Integrating Aerial and Street View Images for Urban Land Use Classification",
+    "venue": "Remote Sensing, 10(10), 1553",
+    "abstract": "融合航拍影像和街景影像进行城市土地利用分类。",
+    "doi": "https://doi.org/10.3390/rs10101553",
+    "code": "",
+    "tags": [
+      "multimodal",
+      "remote-sensing",
+      "urban-representation"
+    ],
+    "visual": "generic",
+    "citation": "@article{cao-integrating-aerial-street-2018,\n  title = {Integrating Aerial and Street View Images for Urban Land Use Classification},\n  journal = {Remote Sensing, 10(10), 1553},\n  year = {2018},\n  doi = {10.3390/rs10101553}\n}"
+  },
+  {
+    "slug": "cao-comparison-urban-human-2016",
+    "year": 2016,
+    "type": "conference",
+    "title": "Comparison of Urban Human Movements Inferring from Multi-Source Spatial-Temporal Data",
+    "venue": "ISPRS Congress, XLI-B2, 471-476",
+    "abstract": "比较多源时空数据推断城市人群移动的差异与适用性。",
+    "doi": "https://doi.org/10.5194/isprsarchives-XLI-B2-471-2016",
+    "code": "",
+    "tags": [
+      "mobility"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{cao-comparison-urban-human-2016,\n  title = {Comparison of Urban Human Movements Inferring from Multi-Source Spatial-Temporal Data},\n  journal = {ISPRS Congress, XLI-B2, 471-476},\n  year = {2016},\n  doi = {10.5194/isprsarchives-XLI-B2-471-2016}\n}"
+  },
+  {
+    "slug": "tu-public-transit-ridership-2016",
+    "year": 2016,
+    "type": "conference",
+    "title": "Spatial-temporal variation of public transit ridership using smart card data and mobile phone data",
+    "venue": "Association of American Geographers Annual Meeting",
+    "abstract": "融合公交刷卡和手机定位数据分析公共交通客流时空变化。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "mobility",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{tu-public-transit-ridership-2016,\n  title = {Spatial-temporal variation of public transit ridership using smart card data and mobile phone data},\n  journal = {Association of American Geographers Annual Meeting},\n  year = {2016}\n}"
+  },
+  {
+    "slug": "cao-exploring-distribution-dynamics-2015",
+    "year": 2015,
+    "type": "conference",
+    "title": "Exploring the Distribution and Dynamics of Functional Regions Using Mobile Phone Data and Social Media Data",
+    "venue": "14th International Conference on Computers in Urban Planning and Urban Management",
+    "abstract": "基于手机与社交媒体数据探索城市功能区分布与动态变化。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "urban-representation",
+      "social-computing",
+      "spatiotemporal"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{cao-exploring-distribution-dynamics-2015,\n  title = {Exploring the Distribution and Dynamics of Functional Regions Using Mobile Phone Data and Social Media Data},\n  journal = {14th International Conference on Computers in Urban Planning and Urban Management},\n  year = {2015}\n}"
+  },
+  {
+    "slug": "cao-study-users-movements-2014",
+    "year": 2014,
+    "type": "conference",
+    "title": "A Study of Users' Movements Based on Check-In Data in Location-Based Social Networks",
+    "venue": "Web and Wireless Geographical Information Systems, LNCS 8470",
+    "abstract": "基于位置签到数据研究 LBSN 用户移动行为。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "mobility",
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@inproceedings{cao-study-users-movements-2014,\n  title = {A Study of Users' Movements Based on Check-In Data in Location-Based Social Networks},\n  journal = {Web and Wireless Geographical Information Systems, LNCS 8470},\n  year = {2014}\n}"
+  },
+  {
+    "slug": "cao-poi-update-weibo-2013",
+    "year": 2013,
+    "type": "journal",
+    "title": "基于微博位置签到数据的 POI 更新方法",
+    "venue": "地理空间信息, 11(2)",
+    "abstract": "利用微博位置签到数据进行 POI 更新与质量辅助判断。",
+    "doi": "",
+    "code": "",
+    "tags": [
+      "social-computing"
+    ],
+    "visual": "generic",
+    "citation": "@article{cao-poi-update-weibo-2013,\n  title = {基于微博位置签到数据的 POI 更新方法},\n  journal = {地理空间信息, 11(2)},\n  year = {2013}\n}"
+  }
+]
