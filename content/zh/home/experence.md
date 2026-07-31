@@ -49,5 +49,5 @@ experience:
       合作导师：李清泉院士。
 
 design:
-  columns: '2'
+  columns: '1'
 ---
