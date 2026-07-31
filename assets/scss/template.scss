@@ -395,6 +395,16 @@ p {
   margin: 0 auto;
 }
 
+#rearea h1 {
+  margin-bottom: 1.25rem;
+  text-align: center;
+}
+
+#rearea h1::after {
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .ai4city-project-directions article {
   display: grid;
   grid-template-columns: 180px minmax(0, 1fr);
@@ -520,6 +530,12 @@ p {
   border-color: rgba(255, 122, 0, 0.44);
   background: var(--stic-orange);
   color: #fff;
+}
+
+#projlist .projects-container a:not(.btn):not([data-filter]) {
+  pointer-events: none;
+  color: inherit;
+  text-decoration: none;
 }
 
 #projlist .projects-container {

@@ -97,8 +97,6 @@
     return 'generic-paper-visual';
   };
 
-  const normalizeDoi = (doi) => doi ? doi.replace(/^https?:\/\/doi\.org\//, '') : '';
-
   const publicationUrl = (pub, lang) => `${lang === 'en' ? '/en' : ''}/publication/${encodeURIComponent(pub.slug)}/`;
 
   const buildSearchText = (pub, text) => [
@@ -195,7 +193,6 @@
     const selected = slugs.map((slug) => data.find((pub) => pub.slug === slug)).filter(Boolean);
 
     root.innerHTML = selected.map((pub) => {
-      const doi = normalizeDoi(pub.doi);
       const detailUrl = publicationUrl(pub, lang);
       const actions = [
         `<a href="${escapeHtml(detailUrl)}">${text.details}</a>`,
@@ -208,7 +205,7 @@
         <article class="ai4city-feature-paper">
           <div class="ai4city-paper-visual ${visualClass(pub.visual)}" aria-hidden="true">${visualHtml(pub.visual)}</div>
           <div class="ai4city-paper-copy">
-            <span class="ai4city-paper-tag">${escapeHtml(pub.venue.split(',')[0])} · ${escapeHtml(pub.year)}${doi ? ` · DOI ${escapeHtml(doi)}` : ''}</span>
+            <span class="ai4city-paper-tag">${escapeHtml(pub.venue.split(',')[0])} · ${escapeHtml(pub.year)}</span>
             <h3><a href="${escapeHtml(detailUrl)}">${escapeHtml(pub.title)}</a></h3>
             <p>${escapeHtml(pub.abstract)}</p>
             <div class="ai4city-paper-actions">${actions}</div>

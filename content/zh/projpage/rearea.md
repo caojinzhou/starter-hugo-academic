@@ -12,6 +12,9 @@ weight: 30
 title: 研究方向
 subtitle:
 
+design:
+  columns: '1'
+
 ---
 
 <div class="ai4city-project-directions">
