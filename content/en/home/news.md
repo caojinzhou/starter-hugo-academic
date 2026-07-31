@@ -4,7 +4,7 @@ widget: blank
 active: true
 headless: true
 weight: 28
-title: Recent News
+title: News
 subtitle:
 
 design:

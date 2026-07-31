@@ -65,6 +65,8 @@ body {
   background: transparent;
   color: var(--stic-blue-deep) !important;
   line-height: inherit;
+  white-space: nowrap;
+  vertical-align: middle;
   transition: background 160ms ease, color 160ms ease;
 }
 
