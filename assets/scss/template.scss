@@ -256,7 +256,8 @@ p {
 
 .stic-center-hero img {
   display: block;
-  width: min(760px, 100%);
+  width: 100%;
+  max-width: 760px;
   margin: 0 auto 1.25rem;
   padding: 0.85rem 1rem;
   border-radius: 8px;
