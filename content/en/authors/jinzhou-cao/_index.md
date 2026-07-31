@@ -1,13 +1,13 @@
 ---
 title: Jinzhou Cao(曹劲舟)
-role: Assistant Professor
+role: Associate Professor
 avatar_filename: avatar.jpg
-bio: My research interests Urban big data mining, Geo-AI and Urban Analytics.
+bio: My research focuses on spatiotemporal big data mining, urban computing, Geo-AI, and multimodal urban foundation models.
 interests:
-  - Urban Data Science and Urban Analytics
-  - Geo-computation and Smart cities
-  - Human Mobility and Urban Informatics
-  - Human-Urban-Social Interaction
+  - Urban spatiotemporal data sensing and representation
+  - Multimodal urban foundation models and applications
+  - Geospatial intelligence and social computing
+  - Human mobility and travel behavior analytics
 
 social:
   - icon: envelope
@@ -30,8 +30,8 @@ social:
 organizations:
   - name: Shenzhen Technology University
     url: https://www.sztu.edu.cn/
-  - name: College of Big Data and Internet
-    url: https://bdi.sztu.edu.cn/
+  - name: College of Artificial Intelligence
+    url: https://ai.sztu.edu.cn/
 education:
   courses:
     - course: PhD in Geographic Information Science
@@ -46,13 +46,13 @@ education:
 email: "caojinzhou@sztu.edu.cn"
 superuser: true
 user_groups:
-  - admin	
+  - admin
 highlight_name: true
 ---
-Jinzhou Cao is an Assistant Professor at the [Shenzhen Technology University](https://www.sztu.edu.cn/)(SZTU) with the [College of Big Data and Internet](https://bdi.sztu.edu.cn/). Previously, he worked at the [Guangdong Key Laboratory of Urban Informatics](https://geospatial.szu.edu.cn/) at the [Shenzhen University](https://www.szu.edu.cn/) as a Postdoctoral Researcher and Research Associate.He earned his Ph.D. in GIS from [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](http://www.lmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). He was also a visiting student of [University of Washington](https://www.washington.edu/), Seattle, USA. during his Ph.D. student period. His research interest and expertise areas include Urban Big Data Mining, Geo-AI and Urban Analytics on the Interaction between Human Mobility and Urban Envronments. He has published over 20 peer-reviewed papers in activity-based urban functions, individual mobility patterns, urban mobility networks and urban mobility scalings. His works have been cited over 400 times according to Google Scholar. He has lead and participated in several research grants funded by NSFC, PSFC, etc.
+Jinzhou Cao is an Associate Professor and master's supervisor at the [College of Artificial Intelligence, Shenzhen Technology University](https://www.sztu.edu.cn/). He serves as Executive Director of the Spatiotemporal Intelligence Research Center and Deputy Head of the Department of Data Science. He received his Ph.D. from the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), [Wuhan University](https://www.whu.edu.cn/), and was a visiting scholar at the University of Washington. Before joining SZTU, he worked at the Guangdong Key Laboratory of Urban Informatics, Shenzhen University, as a postdoctoral researcher and specially appointed associate research fellow.
+
+His research focuses on spatiotemporal big data mining, urban computing, Geo-AI, multimodal urban foundation models, and human mobility analytics. He has led more than ten research projects funded by the National Natural Science Foundation of China, the China Postdoctoral Science Foundation, Guangdong Basic and Applied Basic Research Foundation, Shenzhen Natural Science Foundation, and open funds from key laboratories of the Ministry of Natural Resources. He has published more than 50 papers in journals and conferences including *Information Fusion*, *ISPRS Journal of Photogrammetry and Remote Sensing*, *Computers, Environment and Urban Systems*, *International Journal of Geographical Information Science*, *Cities*, AAAI, and ICASSP. Two papers are ESI Highly Cited Papers, and his work has received more than 1,500 Google Scholar citations. He holds 24 granted invention patents and 3 software copyrights, and received the First Prize of the Surveying and Mapping Science and Technology Award.
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/曹劲舟CV-ENG.pdf" "newtab" >}}resumé(En){{< /staticref >}} or {{< staticref "uploads/曹劲舟简历-中文.pdf" "newtab" >}}resumé(Ch){{< /staticref >}}.
 
-Feel free to *[contact](contact/)* 🗣️ me directly or to *[schedule an appointment](https://calendly.com/caojz/30min)* 🗓️.
-
-
+Feel free to *[contact](contact/)* me directly or to *[schedule an appointment](https://calendly.com/caojz/30min)*.

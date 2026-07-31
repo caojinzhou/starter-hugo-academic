@@ -21,33 +21,45 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:     
-  - title: Assistant Professor
-    company: College of Big Data and Internet, Shenzhen Technology University
-    company_url: 'https://bdi.sztu.edu.cn/'
+experience:
+  - title: 副教授
+    company: 深圳技术大学人工智能学院
+    company_url: 'https://ai.sztu.edu.cn/'
     company_logo: sztu
-    location: Shenzhen,China
-    date_start: '2022-04-01'
+    location: 深圳，中国
+    date_start: '2026-04-01'
     date_end: ''
-    description: 
+    description: |-
+      时空智能研究中心执行主任；数据科学系副系主任。
+
+  - title: 助理教授
+    company: 深圳技术大学人工智能学院
+    company_url: 'https://ai.sztu.edu.cn/'
+    company_logo: sztu
+    location: 深圳，中国
+    date_start: '2022-04-01'
+    date_end: '2026-03-31'
+    description: |-
+      数据科学系副系主任。
         
-  - title: Research Associate
-    company: Department of Urban Informatics, Shenzhen University
+  - title: 特聘副研究员
+    company: 深圳大学建筑与城市规划学院，广东省城市空间信息工程重点实验室
     company_url: 'https://geospatial.szu.edu.cn/'
     company_logo: szu
-    location: Shenzhen,China
+    location: 深圳，中国
     date_start: '2021-08-01'
     date_end: '2022-03-31'
     description: 
 
-  - title: Postdoctoral Fellow
-    company: Department of Urban Informatics, Shenzhen University
+  - title: 博士后
+    company: 深圳大学建筑与城市规划学院，广东省城市空间信息工程重点实验室
     company_url: 'https://geospatial.szu.edu.cn/'
     company_logo: szu
-    location: Shenzhen,China
+    location: 深圳，中国
     date_start: '2019-07-01'
     date_end: '2021-07-31'
-    description: 
+    description: |-
+      合作导师：李清泉院士。
 design:
   columns: '2'
 ---

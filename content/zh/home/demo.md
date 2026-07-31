@@ -3,12 +3,12 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
-active: false
+active: true
 widget_id: header
 headless: true
-weight: 15
-title: <u>H</u>uman-<u>U</u>rban <u>S</u>patial-temporal <u>K</u>nowledge discover<u>Y</u>(HUSKY)
-subtitle: ""
+weight: 5
+title: 时空智能研究中心
+subtitle: 城市计算 · Geo-AI · 城市多模态大模型 · 人群移动出行分析
 design:
   columns: "1"
   background:
@@ -18,12 +18,11 @@ design:
     image: dsc.jpg
   spacing:
     padding:
-      - 1000px
+      - 180px
       - "0"
-      - 1000px
+      - 180px
       - "0"
-      - 1000px
+      - 180px
       - "0"
 ---
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<div style="text-align: right"> <span style="color:lightgray">深圳技术大学 </span></div>
+<div class="home-hero-meta">深圳技术大学 · 人工智能学院</div>

@@ -5,9 +5,9 @@ advanced:
 widget: blank
 widget_id: header
 headless: true
-weight: 15
-title: <u>H</u>uman-<u>U</u>rban <u>S</u>patial-temporal <u>K</u>nowledge discover<u>Y</u>(HUSKY)
-subtitle: ""
+weight: 5
+title: Spatiotemporal Intelligence Research Center
+subtitle: Urban computing, Geo-AI, multimodal urban foundation models, and human mobility analytics
 active: true
 design:
   columns: "1"
@@ -18,12 +18,11 @@ design:
     image: dsc3.jpg
   spacing:
     padding:
-      - 1000px
+      - 180px
       - "0"
-      - 1000px
+      - 180px
       - "0"
-      - 1000px
+      - 180px
       - "0"
 ---
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<div style="text-align: right"> <span style="color:lightgray">Shenzhen Technology University, Guangdong, China </span></div>
+<div class="home-hero-meta">Shenzhen Technology University · College of Artificial Intelligence</div>

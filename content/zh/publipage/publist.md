@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: 近期论文
 subtitle: ''
 
 content:
@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+可进入论文页面按年份、作者和关键词筛选完整条目。
 {{% /callout %}}

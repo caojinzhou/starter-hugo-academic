@@ -9,7 +9,7 @@ active: false
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: 代表性论文
 subtitle: ""
 
 content:

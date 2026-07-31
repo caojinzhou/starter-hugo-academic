@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Explore the publication page to filter papers by year, author, and research topic.
 {{% /callout %}}

@@ -8,7 +8,7 @@ subtitle:
 featured: true
 tags:
   - PI
-  - Ongoing
+  - Completed
 external_link: ""
 url_slides: ""
 image:
@@ -33,7 +33,8 @@ url_code: ""
 **PI**:              {{% mention "Jinzhou-Cao" %}}                 <br>
 **Grant number**: 42001393             <br>
 **Time**:             2021.01-2023.12  <br>
-**Time**:               RMB 300,000                        
+**Funding**:               RMB 300,000  <br>
+**Status**:           结题
 
 -----
 

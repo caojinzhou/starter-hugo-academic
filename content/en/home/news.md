@@ -20,28 +20,36 @@ design:
   view: list
   columns: '2'
 ---
-- :school:**Feb. 2023:**  The course *Digital Image Processing* taught by me will be started from 23 Feb. 2023 [[course page]]({{< relref "/courses/DIP2023" >}}).
+- :page_with_curl:**Jul. 2026:**  *RAMEN: Region-Adaptive Mixture of Ego-Networks for Multimodal Geospatial Fusion in Urban Region Representation* was published in *Mathematics*.
 
-- :page_with_curl:**Jan 2023:**  New [[paper]](https://www.tandfonline.com/doi/pdf/10.1080/10095020.2022.2157761) on Urban scaling law has been accepted by *Geo-spatial Information Science(GSIS)*.
+- :page_with_curl:**Jun. 2026:**  *UrbanMMCL: Urban Region Representations via Multi-Modal and Multi-Graph Self-Supervised Contrastive Learning* was published in *ISPRS Journal of Photogrammetry and Remote Sensing*.
 
-- :mega:**Oct 2022:**  2022 Basic Research Program of Shenzhen Science and Technology Innovation（Natural Science Foundation of Shenzhen） [grant number JCYJ20220530152817039]（30万）is new granted[[List]](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10169351.html).
+- :mega:**Apr. 2026:**  Promoted to Associate Professor at the College of Artificial Intelligence, Shenzhen Technology University; appointed Executive Director of the Spatiotemporal Intelligence Research Center and Deputy Head of the Department of Data Science.
 
-- :page_with_curl:**Oct 2022:**  New [[paper]](https://www.sciencedirect.com/science/article/pii/S0264275122004759) on Transport Inequality has been accepted by *Cities* (Top journals in urban and region studies).
+- :microphone:**Apr. 2026:**  Gave an oral presentation on multimodal urban sensing data-driven region representation at SpatialDI 2026.
 
-- :mega:**Sep 2022:**  Our *HUSKY Research Group* Logo is new released {{< staticref "uploads/husky logo.png" "newtab" >}}[Download]{{< /staticref >}}.
+- :microphone:**Apr. 2026:**  Delivered an invited talk, "Human-centered Urban Spatial Intelligence: Exploration and Reflection", at the first AI and GIS Interdisciplinary Workshop.
 
-- :mega:**Sep 2022:**  Looking for self-motivated students to work with me at *HUSKY, SZTU*. Please feel free to drop me an email with your CV.  [[More]]({{< relref "/group" >}}).
+- :page_with_curl:**Feb. 2026:**  *Sat2Flow: A Structure-Aware Diffusion Framework for Human Flow Generation from Satellite Imagery* was published at AAAI 2026.
 
-- :school:**Aug 2022:**  The course *Introducation to Data Science and Big Data（数据科学与大数据导论）* taught by me will be started from new semester 2022 [[course page]]({{< relref "/courses/idsbd2022" >}}).
+- :page_with_curl:**Jan. 2026:**  *Learning Fine-Grained Urban Mobility Dynamics Through Large Model-Enhanced Multimodal Representations* was published in *IEEE Transactions on Intelligent Transportation Systems*.
 
-- :school:**June 2022:**  指导学生（童磊、罗智豪、潘奕涛）参与  [[大学生创新创业训练计划项目（校级）]](http://nbw-sztu-edu-cn.webvpn.sztu.edu.cn:8118/info/1022/41841.htm) 获得立项.
+- :mega:**Jan. 2026:**  Started a Guangdong Basic and Applied Basic Research Foundation project on multimodal deep features for urban spatial representation and intelligent decision-making.
 
-- :school:**May 2022:**  入选深圳技术大学  [[2022年青年教师教育教学能力培养提升计划]](http://nbw-sztu-edu-cn.webvpn.sztu.edu.cn:8118/info/1018/41631.htm) .
+- :microphone:**Dec. 2025:**  Delivered invited talks on urban foundation models at SIAT, Chinese Academy of Sciences, and Peking University Shenzhen Graduate School.
 
-- :school:**Apr 2022:**  The course *Digital Image Processing* taught by me will be started from 6 Apr 2022 [[course page]]({{< relref "/courses/DIP2022" >}}).
+- :page_with_curl:**Nov. 2025:**  *ST-camba* was published in *Information Fusion*; *SemiGPS* was published at ICASSP 2025.
 
-- :mega:**Apr 2022:**  I will be a tenure-track Assistant Professor at the *Shenzhen Technology University* with the *College of Big Data and Internet*.
+- :microphone:**Aug. 2025:**  Presented a GIScience 2025 poster on hourly urban dynamics and gave an invited talk at the 2nd National Conference on Information Geography.
 
-- :page_with_curl:**Mar 2022:**  New [[paper]](https://www.isprs2022-nice.com/) on GDP Prediction has been accepted by *ISPRS Congress*.
+- :school:**Jul. 2025:**  Started an industry project on street-view image collection and processing for four Greater Bay Area cities, alongside ongoing large-scale spatiotemporal trajectory flow data services.
 
-- :page_with_curl:**Feb 2022:**  New [[paper]](https://www.sciencedirect.com/science/article/pii/S0198971522000205?via%3Dihub) on Traffic Prediction has been accepted by *CEUS*.
+- :page_with_curl:**Jun. 2025:**  *Urban representation learning for fine-grained economic mapping* was published in *ISPRS Journal of Photogrammetry and Remote Sensing*.
+
+- :school:**Jan. 2025:**  Started a university-level teaching reform project on Data Science and Big Data Technology curriculum development for application-oriented universities.
+
+- :mega:**Nov. 2024:**  Awarded a Shenzhen Natural Science Foundation General Program project on multimodal representation learning for urban agglomeration monitoring and evaluation.
+
+- :page_with_curl:**Nov. 2024:**  *Disentangling the hourly dynamics of mixed urban function* was published in *Information Fusion*.
+
+- :mega:**2024:**  Received SZTU honors including Outstanding Communist Party Member, Excellent Faculty Member in Annual Assessment, and Outstanding Undergraduate Thesis Supervisor.

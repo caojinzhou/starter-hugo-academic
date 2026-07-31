@@ -32,8 +32,8 @@ url_code: ""
 **Type**:       深圳市博士后留深补助项目, 大数据驱动的城市系统研究                 <br>
 **PI**:              {{% mention "Jinzhou-Cao" %}}                 <br>
 **Grant number**: 20231063010033             <br>
-**Year**:             2021.09 -2023.09  <br>
-**Time**:               RMB 300,000                        
+**Year**:             2021.09 -2024.09  <br>
+**Funding**:               RMB 300,000  <br>
+**Status**:           在研
 
 -----
-

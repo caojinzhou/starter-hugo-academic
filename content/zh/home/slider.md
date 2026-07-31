@@ -16,8 +16,8 @@ height: 300px
 
 
 item:
-  - title: Incoming Professor
-    content: '@College of Big Data and Internet, Shenzhen Technolody University'
+  - title: 副教授
+    content: '@深圳技术大学人工智能学院'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).

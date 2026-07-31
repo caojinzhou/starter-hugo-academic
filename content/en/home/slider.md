@@ -16,8 +16,8 @@ height: 300px
 
 
 item:
-  - title: Incoming Professor
-    content: '@College of Big Data and Internet, Shenzhen Technolody University'
+  - title: Associate Professor
+    content: '@College of Artificial Intelligence, Shenzhen Technology University'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).

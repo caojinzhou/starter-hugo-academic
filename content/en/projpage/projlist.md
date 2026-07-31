@@ -33,6 +33,8 @@ content:
     tag: Particiapted
   - name: Completed
     tag: Completed
+  - name: Ongoing
+    tag: Ongoing
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

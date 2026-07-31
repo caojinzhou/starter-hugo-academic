@@ -21,19 +21,20 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:     
-  - title: Ph.D.
+experience:
+  - title: Ph.D. in Engineering, Urban Data Mining
     company: Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University
     company_url: 'http://www.lmars.whu.edu.cn/'
     company_logo: whu
     location: Wuhan, China
     date_start: '2013-09-01'
     date_end: '2019-06-30'
-    description: 
+    description: |-
+      Advisor: Academician Qingquan Li. Awarded Wuhan University's Top Ten Academic Stars for Graduate Students and the National Scholarship for Graduate Students twice.
         
-  - title: Joint Ph.D.
+  - title: Visiting Scholar, Transportation Engineering, THINK LAB
     company: THINK LAB, School of Civil and Environmental Engineering, University of Washington
-    company_url: 'https://geospatial.szu.edu.cn/'
+    company_url: 'https://www.washington.edu/'
     company_logo: uw
     location: Seattle, U.S.A
     date_start: '2017-09-01'

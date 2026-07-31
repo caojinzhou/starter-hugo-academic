@@ -1,13 +1,13 @@
 ---
 title: 曹劲舟
-role: 助理教授
+role: 副教授
 avatar_filename: avatar.jpg
-bio: 研究兴趣为城市大数据挖掘、地理人工智能和智慧城市分析应用。
+bio: 长期从事时空大数据挖掘、城市计算、Geo-AI 与城市多模态大模型研究。
 interests:
-  - 城市大数据挖掘与城市分析
-  - 地理计算与智慧城市
-  - 人群移动性与城市信息学
-  - 人群-城市-社会交互机制
+  - 城市时空数据感知与表征
+  - 城市多模态大模型及应用
+  - 地理空间智能与社会计算
+  - 人群移动出行模式分析
 
 social:
   - icon: envelope
@@ -30,29 +30,29 @@ social:
 organizations:
   - name: Shenzhen Technology University
     url: https://www.sztu.edu.cn/
-  - name: College of Big Data and Internet
-    url: https://bdi.sztu.edu.cn/
+  - name: College of Artificial Intelligence
+    url: https://ai.sztu.edu.cn/
 education:
   courses:
-    - course: 地理信息系统博士
+    - course: 工学博士（硕博连读），城市数据挖掘方向
       institution: 武汉大学测绘遥感信息工程国家重点实验室
       year: 2013-2019
-    - course: Joint Ph.D. in THINK LAB
-      institution: School of Civil and Environmental Engineering, University of Washington
+    - course: 访问学者，交通工程专业 THINK LAB
+      institution: 美国华盛顿大学土木与环境工程学院
       year: 2017-2018
-    - course: BSc in Remote Sensing Science and Technology
-      institution: School of Remote Sensing and Information Engineering, Wuhan University
+    - course: 本科，遥感科学与技术专业
+      institution: 武汉大学遥感信息工程学院
       year: 2009-2013
 email: "caojinzhou@sztu.edu.cn"
 superuser: true
 user_groups:
-  - admin	
+  - admin
 highlight_name: true
 ---
 
-曹劲舟，中共党员，武汉大学博士，深圳市后备级高层次人才，现任[深圳技术大学](https://www.sztu.edu.cn/) [大数据与互联网学院](https://bdi.sztu.edu.cn/) 助理教授，硕士生导师。曾在深圳大学[广东省城市信息重点实验室](https://geospatial.szu.edu.cn/) 从事博士后研究、副研究员。在[武汉大学](https://www.whu.edu.cn/) 先后获得遥感科学与技术专业学士（2013）和博士学位（2019），他还是美国西雅图[华盛顿大学](https://www.washington.edu/) 的访问学者。长期从事城市大数据挖掘，Geo-AI和智慧城市分析应用等方面的教学与研究工作。在《Cities》、《Journal of Geographical Information Science》、《测绘学报》等国内外期刊发表论文20余篇，其中1篇论文入选ESI高被引论文，Google Scholar被引400+次。主持国家自然科学基金青年项目1项，中国博士后科学基金1项，自然资源部重点实验室开放基金2项。曾获研究生国家奖学金，武汉大学十大学术之星，测绘科学技术奖一等奖，深圳市后备级高层次人才等奖励和荣誉。
+曹劲舟，博士，副教授，硕士生导师，深圳市高层次人才，美国华盛顿大学访问学者。现任[深圳技术大学](https://www.sztu.edu.cn/)人工智能学院副教授、时空智能研究中心执行主任、数据科学系副系主任。曾在深圳大学[广东省城市空间信息工程重点实验室](https://geospatial.szu.edu.cn/)从事博士后研究和特聘副研究员工作，在[武汉大学](https://www.whu.edu.cn/)获得遥感科学与技术学士学位和工学博士学位。
+
+长期从事时空大数据挖掘、城市计算、Geo-AI、城市多模态大模型及人群移动出行模式分析等研究。主持国家自然科学基金青年项目、中国博士后科学基金面上项目、广东省自然科学基金面上项目、深圳市基础研究项目、自然资源部重点实验室开放基金等纵向科研项目 10 余项，参与国家重点研发计划、国家自然科学基金中欧国际合作项目、深圳市基础研究重点项目等多项。已发表论文 50 余篇，包括 *Information Fusion*、*ISPRS Journal of Photogrammetry and Remote Sensing*、*Computers, Environment and Urban Systems*、*International Journal of Geographical Information Science*、*Cities* 等期刊和 AAAI、ICASSP 等会议论文；其中 ESI 高被引论文 2 篇，Google Scholar 被引 1500 余次，单篇最高被引 335 次。授权发明专利 24 项、软件著作权 3 项，获测绘科学技术奖一等奖等奖励。
 
 {{< icon name="download" pack="fas" >}} 点击下载 {{< staticref "uploads/曹劲舟简历-中文.pdf" "newtab" >}}中文简历{{< /staticref >}}.
-
-
 
