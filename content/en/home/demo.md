@@ -8,7 +8,7 @@ headless: true
 weight: 5
 title: Spatiotemporal Intelligence Research Center
 subtitle: Urban computing, Geo-AI, multimodal urban foundation models, and human mobility analytics
-active: true
+active: false
 design:
   columns: "1"
   background:

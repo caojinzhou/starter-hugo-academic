@@ -49,5 +49,7 @@ experience:
       Advisor: Academician Qingquan Li.
 
 design:
-  columns: '2'
+  columns: '1'
+advanced:
+  css_class: stic-compact-timeline
 ---

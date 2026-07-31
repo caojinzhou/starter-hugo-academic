@@ -38,5 +38,7 @@ experience:
     description:
 
 design:
-  columns: '2'
+  columns: '1'
+advanced:
+  css_class: stic-compact-timeline
 ---

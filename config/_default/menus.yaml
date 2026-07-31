@@ -7,12 +7,9 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: CV
-    url: 'me/'
-    weight: 20
   - name: Center
     url: 'center/'
-    weight: 30
+    weight: 20
   - name: Group
     url: 'group/'
     weight: 35

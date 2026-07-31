@@ -1,11 +1,80 @@
-// Make page header alignment consistent with widget page header alignment
+:root {
+  --stic-blue: #2563eb;
+  --stic-orange: #ff7a00;
+  --stic-grey: #b0b0b0;
+  --stic-charcoal: #1e293b;
+  --stic-ink: #172033;
+  --stic-muted: #5b6678;
+  --stic-surface: #f5f8fc;
+  --stic-border: rgba(30, 41, 59, 0.12);
+  --stic-shadow: 0 14px 36px rgba(30, 41, 59, 0.08);
+}
+
+body {
+  background: linear-gradient(180deg, #ffffff 0%, #f4f7fb 52%, #eef3fa 100%);
+  color: var(--stic-ink);
+  font-family: "Noto Sans CJK SC", "Noto Sans SC", "Microsoft YaHei", "PingFang SC", "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: 0;
+}
+
+.navbar {
+  background: rgba(255, 255, 255, 0.96) !important;
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--stic-border);
+  box-shadow: 0 10px 30px rgba(30, 41, 59, 0.07);
+}
+
+.navbar a,
+.navbar .navbar-nav .nav-link {
+  color: var(--stic-charcoal) !important;
+  font-weight: 650;
+  letter-spacing: 0;
+}
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link.active {
+  color: var(--stic-blue) !important;
+}
+
+a {
+  color: var(--stic-blue);
+}
+
+.universal-wrapper h1,
+.wg-blank h1,
+.section-heading h1 {
+  color: var(--stic-charcoal);
+  letter-spacing: 0;
+}
+
 .universal-wrapper h1 {
   text-align: center;
 }
 
-// Center the CTA shortcode button
+.section-heading p,
+.article-style,
+p {
+  color: var(--stic-muted);
+}
+
 .cta-group {
   justify-content: center;
+}
+
+.btn-primary,
+.btn.btn-primary {
+  background: var(--stic-blue);
+  border-color: transparent;
+  border-radius: 6px;
+  box-shadow: 0 10px 24px rgba(37, 99, 235, 0.2);
+}
+
+.btn-primary:hover,
+.btn.btn-primary:hover,
+.stic-link-button:hover {
+  background: #1d4ed8;
+  color: #fff;
+  transform: translateY(-1px);
 }
 
 .home-hero-meta {
@@ -16,77 +85,39 @@
   letter-spacing: 0;
 }
 
-.wg-blank h1 {
-  letter-spacing: 0;
-}
-
-:root {
-  --sztu-primary: #0d2b4d;
-  --sztu-accent: #1f8ed6;
-  --sztu-accent-2: #2ec5b6;
-  --sztu-surface: #f5f9ff;
-  --sztu-border: rgba(13, 43, 77, 0.12);
-}
-
-body {
-  background: linear-gradient(180deg, #f7fbff 0%, #eef5ff 100%);
-  color: #16324b;
-}
-
-.navbar {
-  background: rgba(255, 255, 255, 0.96) !important;
-  backdrop-filter: blur(10px);
-  box-shadow: 0 8px 24px rgba(13, 43, 77, 0.08);
-  border-bottom: 1px solid var(--sztu-border);
-}
-
-.navbar a,
-.navbar .navbar-nav .nav-link {
-  color: var(--sztu-primary) !important;
-}
-
-.navbar .navbar-nav .nav-link:hover,
-.navbar .navbar-nav .nav-link.active {
-  color: var(--sztu-accent) !important;
-}
-
-a {
-  color: var(--sztu-accent);
-}
-
-.btn-primary,
-.btn.btn-primary {
-  background: linear-gradient(135deg, var(--sztu-primary), var(--sztu-accent));
-  border-color: transparent;
-}
-
 .wg-experience .card,
 .home-cta-card,
-.center-subpage-item {
-  border: 1px solid var(--sztu-border);
-  border-radius: 16px;
-  box-shadow: 0 10px 28px rgba(13, 43, 77, 0.06);
+.center-subpage-item,
+.stic-join-card,
+.stic-home-center {
+  border: 1px solid var(--stic-border);
+  border-radius: 8px;
+  box-shadow: var(--stic-shadow);
   background: #ffffff;
 }
 
+.stic-compact-timeline .container {
+  max-width: 900px;
+}
+
 .wg-experience .card {
-  max-width: 920px;
+  max-width: 820px;
   margin: 0 auto 1rem;
 }
 
 .wg-experience .card-body {
-  padding: 1rem 1.15rem;
+  padding: 0.95rem 1.1rem;
 }
 
 .wg-experience .card-title {
-  color: var(--sztu-primary);
+  color: var(--stic-charcoal);
   font-weight: 700;
 }
 
 .wg-experience .card-subtitle,
 .wg-experience .card-text,
 .wg-experience .experience-date {
-  color: #4e647b;
+  color: var(--stic-muted);
 }
 
 .home-cta-card {
@@ -103,14 +134,126 @@ a {
 
 .center-subpage-item {
   padding: 1.15rem 1.2rem;
+  position: relative;
+  overflow: hidden;
+  text-decoration: none;
+  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.center-subpage-item::before {
+  content: "";
+  display: block;
+  width: 42px;
+  height: 4px;
+  margin-bottom: 0.85rem;
+  border-radius: 999px;
+  background: var(--stic-orange);
+}
+
+.center-subpage-item:hover {
+  border-color: rgba(37, 99, 235, 0.34);
+  box-shadow: 0 18px 44px rgba(37, 99, 235, 0.12);
+  transform: translateY(-2px);
+  text-decoration: none;
 }
 
 .center-subpage-item h4 {
   margin-bottom: 0.4rem;
-  color: var(--sztu-primary);
+  color: var(--stic-charcoal);
 }
 
 .center-subpage-item p {
   margin-bottom: 0;
-  color: #4e647b;
+  color: var(--stic-muted);
+}
+
+.stic-home-center {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.9fr) minmax(260px, 1.4fr);
+  align-items: center;
+  gap: 2rem;
+  margin: 0 auto 1.25rem;
+  padding: 1.35rem;
+  max-width: 980px;
+  background:
+    linear-gradient(90deg, rgba(37, 99, 235, 0.08), rgba(255, 122, 0, 0.06)),
+    #fff;
+}
+
+.stic-home-logo {
+  display: block;
+  width: 100%;
+  max-width: 430px;
+  margin: 0 auto;
+}
+
+.stic-home-copy h3,
+.stic-join-card h3 {
+  margin: 0 0 0.55rem;
+  color: var(--stic-charcoal);
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.stic-home-copy p,
+.stic-join-card p {
+  margin: 0;
+  color: var(--stic-muted);
+}
+
+.stic-join-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.35rem 1.5rem;
+  border-left: 5px solid var(--stic-orange);
+}
+
+.stic-link-button {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0.6rem 1rem;
+  border-radius: 6px;
+  background: var(--stic-blue);
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+  transition: transform 160ms ease, background 160ms ease;
+}
+
+.stic-center-brand {
+  max-width: 760px;
+  margin: 0 auto 1.5rem;
+  padding: 1rem;
+  border: 1px solid var(--stic-border);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.stic-center-brand img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .stic-home-center,
+  .stic-join-card {
+    grid-template-columns: 1fr;
+    display: grid;
+  }
+
+  .stic-home-logo {
+    max-width: 260px;
+  }
+
+  .stic-link-button {
+    width: 100%;
+  }
 }
