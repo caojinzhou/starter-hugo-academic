@@ -11,7 +11,7 @@ design:
 ---
 
 <div class="stic-center-hero">
-  <img src="/media/stic/stic-logo-full-cropped.png" alt="Spatio-Temporal Intelligence Center, Shenzhen Technology University">
+  <img src="/media/stic/stic-logo-en-6-cropped.png" alt="Spatio-Temporal Intelligence Center, Shenzhen Technology University">
   <p>Based in Shenzhen, serving the Greater Bay Area, and reaching across China, the center is a cross-disciplinary innovation platform for basic research, technology development, translational applications, and talent training.</p>
   <nav class="stic-center-subnav" aria-label="Center secondary navigation">
     <a href="#background">Background</a>
