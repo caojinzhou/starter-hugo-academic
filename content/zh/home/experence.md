@@ -1,27 +1,13 @@
 ---
 # An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-
-# This file represents a page section.
 headless: true
-active: false
-
-# Order that this section appears on the page.
+active: true
 weight: 20
-
 title: 工作经历
 subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 副教授
     company: 深圳技术大学人工智能学院
@@ -42,7 +28,7 @@ experience:
     date_end: '2026-03-31'
     description: |-
       数据科学系副系主任。
-        
+
   - title: 特聘副研究员
     company: 深圳大学建筑与城市规划学院，广东省城市空间信息工程重点实验室
     company_url: 'https://geospatial.szu.edu.cn/'
@@ -50,7 +36,7 @@ experience:
     location: 深圳，中国
     date_start: '2021-08-01'
     date_end: '2022-03-31'
-    description: 
+    description:
 
   - title: 博士后
     company: 深圳大学建筑与城市规划学院，广东省城市空间信息工程重点实验室
@@ -61,6 +47,7 @@ experience:
     date_end: '2021-07-31'
     description: |-
       合作导师：李清泉院士。
+
 design:
   columns: '2'
 ---

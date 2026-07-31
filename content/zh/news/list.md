@@ -1,25 +1,14 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
-weight: 60
-
-title: 新闻
-subtitle: 
-
+active: true
+weight: 10
+title: 全部新闻
+subtitle:
 design:
-  # Choose a view for the listings:
-  view: list
-  columns: '2'
+  columns: '1'
 ---
+
 - :page_with_curl:**Jul. 2026:**  论文 *RAMEN: Region-Adaptive Mixture of Ego-Networks for Multimodal Geospatial Fusion in Urban Region Representation* 发表在 *Mathematics*.
 - :page_with_curl:**Jun. 2026:**  论文 *UrbanMMCL: Urban Region Representations via Multi-Modal and Multi-Graph Self-Supervised Contrastive Learning* 发表在 *ISPRS Journal of Photogrammetry and Remote Sensing*.
 - :mega:**Apr. 2026:**  晋升深圳技术大学人工智能学院副教授，任时空智能研究中心执行主任、数据科学系副系主任。
@@ -40,7 +29,11 @@ design:
 - :school:**Jan. 2025:**  校级教学改革研究项目“应用型大学数据科学与大数据技术专业培养改革实践”启动。
 - :page_with_curl:**2025:**  论文 *Nighttime light imagery or mobile phone footprints* 发表在 *Computers, Environment and Urban Systems*。
 - :mega:**2025:**  获深圳技术大学润园优秀教师荣誉。
-
-{{% callout note %}}
-[查看全部新闻]({{< relref "/news" >}})
-{{% /callout %}}
+- :mega:**Nov. 2024:**  深圳市基础研究专项自然科学基金面上项目“基于多模态特征表示学习的城市群综合监测与评估”获批。
+- :page_with_curl:**Nov. 2024:**  论文 *Disentangling the hourly dynamics of mixed urban function* 发表在 *Information Fusion*。
+- :microphone:**Dec. 2024:**  在第四届全国空间信息产业与国际标准化会议作“基于图神经网络的城市区域表征学习方法及其下游任务应用”报告。
+- :microphone:**Nov. 2024:**  在第二届大湾区测绘遥感大会作“多模态数据融合的城市区域感知与表征”口头报告。
+- :mega:**2024:**  获深圳技术大学优秀共产党员、年度考核优秀教职工、校级本科优秀毕业设计（论文）指导教师等荣誉。
+- :page_with_curl:**Jan. 2023:**  关于城市出行尺度律的论文发表在 *Geo-spatial Information Science*。
+- :mega:**Oct. 2022:**  深圳市基础研究专项自然科学基金面上项目“融合深度学习和地理-流双视角的城市群功能协同优化技术研究”获批。
+- :mega:**Apr. 2022:**  入职深圳技术大学，任助理教授。

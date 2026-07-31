@@ -10,9 +10,12 @@ main:
   - name: CV
     url: 'me/'
     weight: 20
+  - name: Center
+    url: 'center/'
+    weight: 30
   - name: Group
     url: 'group/'
-    weight: 30
+    weight: 35
   # - name: Posts
     # url: 'post/'
     # weight: 35
@@ -22,6 +25,9 @@ main:
   - name: Publications
     url: 'publication/'
     weight: 50
+  - name: News
+    url: 'news/'
+    weight: 55
   - name: Partnership
     url: 'partner/'
     weight: 75

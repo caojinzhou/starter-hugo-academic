@@ -1,27 +1,13 @@
 ---
 # An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-
-# This file represents a page section.
 headless: true
-active: false
-
-# Order that this section appears on the page.
+active: true
 weight: 20
-
 title: Professional Appointment
 subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Associate Professor
     company: College of Artificial Intelligence, Shenzhen Technology University
@@ -42,7 +28,7 @@ experience:
     date_end: '2026-03-31'
     description: |-
       Deputy Head, Department of Data Science.
-        
+
   - title: Specially Appointed Associate Research Fellow
     company: School of Architecture and Urban Planning, Shenzhen University
     company_url: 'https://geospatial.szu.edu.cn/'
@@ -50,7 +36,7 @@ experience:
     location: Shenzhen, China
     date_start: '2021-08-01'
     date_end: '2022-03-31'
-    description: 
+    description:
 
   - title: Postdoctoral Fellow
     company: School of Architecture and Urban Planning, Shenzhen University
@@ -61,6 +47,7 @@ experience:
     date_end: '2021-07-31'
     description: |-
       Advisor: Academician Qingquan Li.
+
 design:
   columns: '2'
 ---
