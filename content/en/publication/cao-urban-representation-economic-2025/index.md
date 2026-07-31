@@ -17,7 +17,7 @@ tags:
 - Semi-supervised graph learning
 categories: []
 date: '2025-06-01'
-featured: true
+featured: false
 draft: false
 image:
   caption: ''
@@ -28,4 +28,5 @@ publication_types:
 - '2'
 abstract: This study develops a semi-supervised graph-based urban representation learning approach for fine-grained economic mapping.
 publication: '*ISPRS Journal of Photogrammetry and Remote Sensing*'
+doi: 10.1016/j.isprsjprs.2025.05.007
 ---

@@ -28,4 +28,5 @@ publication_types:
 - '2'
 abstract: UrbanMMCL 通过多模态、多图自监督对比学习构建城市区域表征。
 publication: '*ISPRS Journal of Photogrammetry and Remote Sensing*'
+doi: 10.1016/j.isprsjprs.2025.11.012
 ---

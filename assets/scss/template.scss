@@ -929,6 +929,227 @@ p {
   color: #c86100;
 }
 
+.ai4city-featured-papers {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.ai4city-feature-paper,
+.ai4city-pub-item {
+  border: 1px solid rgba(47, 102, 232, 0.13);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(246, 248, 252, 0.96));
+  box-shadow: var(--stic-shadow-soft);
+}
+
+.ai4city-feature-paper {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 1.1rem;
+  padding: 1rem;
+  overflow: hidden;
+}
+
+.ai4city-paper-visual {
+  position: relative;
+  min-height: 150px;
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(47, 102, 232, 0.12), rgba(255, 122, 0, 0.1)),
+    #ffffff;
+  border: 1px solid rgba(47, 102, 232, 0.12);
+}
+
+.urbanmmcl-visual .modality {
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  background: var(--stic-blue);
+  box-shadow: 0 8px 18px rgba(47, 102, 232, 0.2);
+}
+
+.urbanmmcl-visual .satellite { left: 18px; top: 22px; }
+.urbanmmcl-visual .street { right: 22px; top: 24px; background: var(--stic-orange); }
+.urbanmmcl-visual .poi { left: 24px; bottom: 22px; background: #1f9fcf; }
+.urbanmmcl-visual .text { right: 20px; bottom: 24px; background: var(--stic-grey); }
+
+.urbanmmcl-visual .fusion-line {
+  position: absolute;
+  left: 38px;
+  right: 38px;
+  top: 73px;
+  height: 3px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--stic-blue), var(--stic-orange));
+}
+
+.urbanmmcl-visual .embedding-node {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 46px;
+  height: 46px;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  background: #ffffff;
+  border: 8px solid var(--stic-charcoal);
+}
+
+.sat2flow-visual {
+  display: grid;
+  grid-template-columns: repeat(2, 36px) 1fr;
+  grid-template-rows: repeat(3, 1fr);
+  gap: 8px;
+  padding: 22px 18px;
+}
+
+.sat2flow-visual .sat-cell {
+  border-radius: 7px;
+  background: linear-gradient(135deg, #7cb7ff, #1f9fcf);
+}
+
+.sat2flow-visual .sat-cell.accent {
+  background: linear-gradient(135deg, var(--stic-orange), #ffb15a);
+}
+
+.sat2flow-visual .flow-arrow {
+  align-self: center;
+  justify-self: center;
+  width: 42px;
+  height: 3px;
+  border-radius: 999px;
+  background: var(--stic-orange);
+}
+
+.sat2flow-visual .flow-bar {
+  grid-column: 3;
+  border-radius: 999px;
+  background: var(--stic-blue);
+}
+
+.sat2flow-visual .flow-bar.one { width: 70%; }
+.sat2flow-visual .flow-bar.two { width: 92%; background: var(--stic-orange); }
+.sat2flow-visual .flow-bar.three { width: 56%; background: var(--stic-grey); }
+
+.ai4city-paper-copy h3,
+.ai4city-pub-main h3 {
+  margin: 0.18rem 0 0.35rem;
+  color: var(--stic-charcoal);
+  letter-spacing: 0;
+}
+
+.ai4city-paper-copy p,
+.ai4city-pub-main p {
+  margin-bottom: 0.72rem;
+  color: var(--stic-muted);
+}
+
+.ai4city-paper-tag {
+  display: inline-flex;
+  padding: 0.18rem 0.48rem;
+  border-radius: 999px;
+  background: var(--stic-orange-soft);
+  color: var(--stic-orange);
+  font-size: 0.78rem;
+  font-weight: 750;
+}
+
+.ai4city-paper-actions,
+.ai4city-pub-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.ai4city-paper-actions a,
+.ai4city-pub-actions a,
+.ai4city-pub-tabs button {
+  border: 1px solid rgba(47, 102, 232, 0.16);
+  border-radius: 6px;
+  background: #ffffff;
+  color: var(--stic-blue);
+  font-weight: 700;
+  padding: 0.34rem 0.62rem;
+  line-height: 1;
+  transition: all 160ms ease;
+}
+
+.ai4city-paper-actions a:hover,
+.ai4city-pub-actions a:hover,
+.ai4city-pub-tabs button:hover,
+.ai4city-pub-tabs button.active {
+  border-color: rgba(255, 122, 0, 0.45);
+  background: var(--stic-orange);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.ai4city-pub-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  margin-bottom: 1rem;
+  padding: 0.7rem;
+  border: 1px solid rgba(47, 102, 232, 0.12);
+  border-radius: 8px;
+  background: linear-gradient(90deg, rgba(234, 241, 255, 0.9), rgba(255, 241, 229, 0.65));
+}
+
+.ai4city-pub-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.ai4city-pub-toolbar input {
+  width: min(360px, 100%);
+  border: 1px solid rgba(31, 41, 59, 0.14);
+  border-radius: 6px;
+  padding: 0.48rem 0.62rem;
+  color: var(--stic-charcoal);
+  background: #ffffff;
+}
+
+.ai4city-pub-list {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.ai4city-pub-item {
+  display: grid;
+  grid-template-columns: 92px 1fr;
+  gap: 0.95rem;
+  padding: 0.82rem 0.95rem;
+}
+
+.ai4city-pub-year {
+  display: flex;
+  min-height: 72px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  background: var(--stic-charcoal);
+  color: #ffffff;
+  font-size: 1.08rem;
+  font-weight: 800;
+}
+
+.ai4city-pub-year span {
+  margin-top: 0.18rem;
+  color: var(--stic-orange);
+  font-size: 0.78rem;
+  font-weight: 750;
+}
+
+.ai4city-pub-item[hidden] {
+  display: none;
+}
+
 .stic-center-brand {
   max-width: 760px;
   margin: 0 auto 1.5rem;
@@ -1105,5 +1326,30 @@ p {
 
   .stic-news-copy {
     font-size: 0.86rem;
+  }
+
+  .ai4city-featured-papers,
+  .ai4city-feature-paper,
+  .ai4city-pub-item {
+    grid-template-columns: 1fr;
+  }
+
+  .ai4city-paper-visual {
+    min-height: 128px;
+  }
+
+  .ai4city-pub-toolbar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .ai4city-pub-toolbar input {
+    width: 100%;
+  }
+
+  .ai4city-pub-year {
+    min-height: 54px;
+    flex-direction: row;
+    gap: 0.45rem;
   }
 }

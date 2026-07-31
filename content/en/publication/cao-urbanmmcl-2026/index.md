@@ -28,4 +28,5 @@ publication_types:
 - '2'
 abstract: UrbanMMCL learns urban region representations through multi-modal and multi-graph self-supervised contrastive learning.
 publication: '*ISPRS Journal of Photogrammetry and Remote Sensing*'
+doi: 10.1016/j.isprsjprs.2025.11.012
 ---

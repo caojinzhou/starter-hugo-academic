@@ -17,7 +17,7 @@ tags:
 - Multimodal fusion
 categories: []
 date: '2024-11-01'
-featured: true
+featured: false
 draft: false
 image:
   caption: ''

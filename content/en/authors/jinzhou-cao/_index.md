@@ -26,17 +26,6 @@ organizations:
     url: https://www.sztu.edu.cn/
   - name: College of Artificial Intelligence
     url: https://ai.sztu.edu.cn/
-education:
-  courses:
-    - course: PhD in Geographic Information Science
-      institution: LIESMARS, Wuhan University
-      year: 2013-2019
-    - course: Joint Ph.D. in THINK LAB
-      institution: School of Civil and Environmental Engineering, University of Washington
-      year: 2017-2018
-    - course: BSc in Remote Sensing Science and Technology
-      institution: School of Remote Sensing and Information Engineering, Wuhan University
-      year: 2009-2013
 email: "caojinzhou@sztu.edu.cn"
 superuser: true
 user_groups:

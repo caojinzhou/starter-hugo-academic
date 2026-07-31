@@ -16,7 +16,7 @@ tags:
 - Large models
 categories: []
 date: '2026-01-01'
-featured: true
+featured: false
 draft: false
 image:
   caption: ''

@@ -15,7 +15,7 @@ tags:
 - Ego-networks
 categories: []
 date: '2026-07-01'
-featured: true
+featured: false
 draft: false
 image:
   caption: ''
@@ -26,4 +26,5 @@ publication_types:
 - '2'
 abstract: RAMEN proposes a region-adaptive mixture of ego-networks for multimodal geospatial fusion in urban region representation.
 publication: '*Mathematics*'
+doi: 10.3390/math14152682
 ---

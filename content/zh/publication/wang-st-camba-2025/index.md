@@ -18,7 +18,7 @@ tags:
 - Spatiotemporal graph learning
 categories: []
 date: '2025-11-01'
-featured: true
+featured: false
 draft: false
 image:
   caption: ''
@@ -29,4 +29,6 @@ publication_types:
 - '2'
 abstract: ST-camba 是一种线性复杂度的时空图融合状态空间模型，用于高效交通预测。
 publication: '*Information Fusion*'
+doi: 10.1016/j.inffus.2025.103495
+url_code: https://github.com/ai4city-sztu/ST-Camba
 ---

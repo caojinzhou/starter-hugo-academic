@@ -15,7 +15,7 @@ tags:
 - Ego-networks
 categories: []
 date: '2026-07-01'
-featured: true
+featured: false
 draft: false
 image:
   caption: ''
@@ -26,4 +26,5 @@ publication_types:
 - '2'
 abstract: RAMEN 提出区域自适应 ego-network 混合模型，用于城市区域表征中的多模态地理空间融合。
 publication: '*Mathematics*'
+doi: 10.3390/math14152682
 ---

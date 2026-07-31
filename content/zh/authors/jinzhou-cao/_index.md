@@ -26,17 +26,6 @@ organizations:
     url: https://www.sztu.edu.cn/
   - name: College of Artificial Intelligence
     url: https://ai.sztu.edu.cn/
-education:
-  courses:
-    - course: 工学博士（硕博连读），城市数据挖掘方向
-      institution: 武汉大学测绘遥感信息工程国家重点实验室
-      year: 2013-2019
-    - course: 访问学者，交通工程专业 THINK LAB
-      institution: 美国华盛顿大学土木与环境工程学院
-      year: 2017-2018
-    - course: 本科，遥感科学与技术专业
-      institution: 武汉大学遥感信息工程学院
-      year: 2009-2013
 email: "caojinzhou@sztu.edu.cn"
 superuser: true
 user_groups:

@@ -17,7 +17,7 @@ tags:
 - Semi-supervised graph learning
 categories: []
 date: '2025-06-01'
-featured: true
+featured: false
 draft: false
 image:
   caption: ''
@@ -28,4 +28,5 @@ publication_types:
 - '2'
 abstract: 本文提出基于半监督图学习的城市表征方法，用于精细尺度经济制图。
 publication: '*ISPRS Journal of Photogrammetry and Remote Sensing*'
+doi: 10.1016/j.isprsjprs.2025.05.007
 ---

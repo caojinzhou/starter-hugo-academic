@@ -26,4 +26,6 @@ publication_types:
 - '1'
 abstract: Sat2Flow 提出结构感知扩散框架，用于从卫星影像生成人群流动。
 publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
+doi: 10.1609/aaai.v40i19.38621
+url_code: https://github.com/ai4city-sztu/Sat2Flow
 ---
