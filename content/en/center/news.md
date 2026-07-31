@@ -2,9 +2,10 @@
 widget: blank
 headless: true
 active: true
-weight: 30
+weight: 60
 title: Related News
 subtitle:
+widget_id: center-news
 design:
   columns: '1'
 ---

@@ -2,26 +2,23 @@
 widget: featurette
 headless: true
 active: true
-weight: 20
-title: Research Directions
+weight: 40
+title: Three Research Directions
 subtitle:
+widget_id: directions
 feature:
-  - name: Urban Spatiotemporal Data Sensing and Representation
+  - name: Autonomous Sensing, Navigation, and Positioning
+    icon: location-arrow
+    icon_pack: fas
+    description: Developing precise positioning, autonomous navigation, and autonomous surveying methods for low-altitude economy, inspection, emergency mapping, and intelligent equipment.
+  - name: Urban Spatial Intelligence and Foundation Models
     icon: city
     icon_pack: fas
-    description: Fusing remote sensing, street-view, trajectory, POI, nighttime light, and other urban data for region profiling and spatial representation.
-  - name: Multimodal Urban Foundation Models and Applications
-    icon: brain
+    description: Integrating urban spatio-temporal big data, AI, and multimodal foundation models to improve urban cognition, prediction, optimization, and decision support.
+  - name: Embodied Spatial Intelligence and Autonomous Operation
+    icon: robot
     icon_pack: fas
-    description: Building multimodal foundation models for urban region understanding, function recognition, flow generation, and intelligent decision-making.
-  - name: Geospatial Intelligence and Social Computing
-    icon: globe-asia
-    icon_pack: fas
-    description: Developing Geo-AI methods for urban agglomeration monitoring, economic mapping, spatial structure evolution, and socioeconomic sensing.
-  - name: Human Mobility and Travel Behavior Analytics
-    icon: route
-    icon_pack: fas
-    description: Modeling individual and collective mobility patterns and interactions among urban functions, built environments, and transportation systems.
+    description: Studying environment understanding, task decision-making, and safe autonomous operations for rail transit, underground space, enclosed space, and complex facility inspection.
 design:
-  columns: '2'
+  columns: '3'
 ---

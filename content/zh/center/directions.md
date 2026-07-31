@@ -2,26 +2,23 @@
 widget: featurette
 headless: true
 active: true
-weight: 20
-title: 研究方向
+weight: 40
+title: 三大研究方向
 subtitle:
+widget_id: directions
 feature:
-  - name: 城市时空数据感知与表征
+  - name: 无人自主感知与导航定位
+    icon: location-arrow
+    icon_pack: fas
+    description: 面向低空经济、智能巡检、应急测绘和智能装备，突破复杂环境下精准定位、自主导航与自主测绘关键技术。
+  - name: 城市空间智能与大模型
     icon: city
     icon_pack: fas
-    description: 融合遥感、街景、轨迹、POI、夜光等多源城市数据，构建区域画像与空间表征。
-  - name: 城市多模态大模型及应用
-    icon: brain
+    description: 融合城市时空大数据、人工智能与多模态大模型，提升城市认知、预测、优化与智能决策能力。
+  - name: 具身空间智能与自主作业
+    icon: robot
     icon_pack: fas
-    description: 探索面向城市区域理解、功能识别、流量生成与智能决策的多模态基础模型。
-  - name: 地理空间智能与社会计算
-    icon: globe-asia
-    icon_pack: fas
-    description: 面向城市群监测评估、经济制图、空间结构演化和社会经济感知发展 Geo-AI 方法。
-  - name: 人群移动出行模式分析
-    icon: route
-    icon_pack: fas
-    description: 建模个体与群体移动规律，研究城市功能、建成环境和交通系统之间的互动机制。
+    description: 面向轨道交通、地下空间、密闭空间与复杂设施巡检，研究环境理解、任务决策和安全自主作业技术。
 design:
-  columns: '2'
+  columns: '3'
 ---

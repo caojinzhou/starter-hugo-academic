@@ -7,9 +7,6 @@ main:
   - name: 主页
     url: '#about'
     weight: 10
-  - name: 研究中心
-    url: 'center/'
-    weight: 20
   #- name: 团队
   #  url: 'group/'
   #  weight: 30
@@ -34,6 +31,9 @@ main:
   - name: 招募
     url: 'opening/'
     weight: 80
+  - name: 研究中心
+    url: 'center/'
+    weight: 90
   
 
   #- name: 资源

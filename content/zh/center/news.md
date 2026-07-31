@@ -2,9 +2,10 @@
 widget: blank
 headless: true
 active: true
-weight: 30
+weight: 60
 title: 相关新闻
 subtitle:
+widget_id: center-news
 design:
   columns: '1'
 ---

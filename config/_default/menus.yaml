@@ -7,9 +7,6 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Center
-    url: 'center/'
-    weight: 20
   - name: Group
     url: 'group/'
     weight: 35
@@ -34,6 +31,9 @@ main:
   - name: Openings
     url: 'opening/'
     weight: 80
+  - name: Center
+    url: 'center/'
+    weight: 90
 
   # - name: Resources
     # url: 'resource/'
