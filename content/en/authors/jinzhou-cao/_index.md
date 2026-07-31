@@ -3,12 +3,6 @@ title: Jinzhou Cao(曹劲舟)
 role: Associate Professor
 avatar_filename: avatar.jpg
 bio: My research focuses on spatiotemporal big data mining, urban computing, Geo-AI, and multimodal urban foundation models.
-interests:
-  - Urban spatiotemporal data sensing and representation
-  - Multimodal urban foundation models and applications
-  - Geospatial intelligence and social computing
-  - Human mobility and travel behavior analytics
-
 social:
   - icon: envelope
     icon_pack: fas
@@ -55,24 +49,24 @@ His research focuses on spatiotemporal big data mining, urban computing, Geo-AI,
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/曹劲舟CV-ENG.pdf" "newtab" >}}resumé(En){{< /staticref >}} or {{< staticref "uploads/曹劲舟简历-中文.pdf" "newtab" >}}resumé(Ch){{< /staticref >}}.
 
-<div class="ai4city-about-career-grid">
-  <section>
-    <h3>Professional Appointments</h3>
-    <div class="ai4city-about-edu-list">
-      <div><p><strong>Associate Professor; Executive Director of STIC; Deputy Head of Data Science</strong>, 2026.04-present</p><span>College of Artificial Intelligence, Shenzhen Technology University</span></div>
-      <div><p><strong>Assistant Professor; Deputy Head of Data Science</strong>, 2022.04-2026.03</p><span>College of Artificial Intelligence, Shenzhen Technology University</span></div>
-      <div><p><strong>Specially Appointed Associate Research Fellow</strong>, 2021.08-2022.03</p><span>Guangdong Key Laboratory of Urban Informatics, Shenzhen University</span></div>
-      <div><p><strong>Postdoctoral Fellow</strong>, 2019.07-2021.07</p><span>Shenzhen University; advisor: Academician Qingquan Li</span></div>
-    </div>
-  </section>
-  <section>
-    <h3>Education</h3>
-    <div class="ai4city-about-edu-list">
-      <div><p><strong>Ph.D. in Engineering, urban data mining</strong>, 2013-2019</p><span>LIESMARS, Wuhan University</span></div>
-      <div><p><strong>Visiting Scholar, THINK LAB</strong>, 2017-2018</p><span>School of Civil and Environmental Engineering, University of Washington</span></div>
-      <div><p><strong>B.S. in Remote Sensing Science and Technology</strong>, 2009-2013</p><span>School of Remote Sensing and Information Engineering, Wuhan University</span></div>
-    </div>
-  </section>
+<div class="row ai4city-about-career-grid">
+  <div class="col-md-6">
+    <div class="section-subheading">Professional Appointments</div>
+    <ul class="ul-edu fa-ul">
+      <li><i class="fa-li fas fa-briefcase"></i><div class="description"><p class="course">Associate Professor; Executive Director of STIC; Deputy Head of Data Science, 2026.04-present</p><p class="institution">College of Artificial Intelligence, Shenzhen Technology University</p></div></li>
+      <li><i class="fa-li fas fa-briefcase"></i><div class="description"><p class="course">Assistant Professor; Deputy Head of Data Science, 2022.04-2026.03</p><p class="institution">College of Artificial Intelligence, Shenzhen Technology University</p></div></li>
+      <li><i class="fa-li fas fa-briefcase"></i><div class="description"><p class="course">Specially Appointed Associate Research Fellow, 2021.08-2022.03</p><p class="institution">Guangdong Key Laboratory of Urban Informatics, Shenzhen University</p></div></li>
+      <li><i class="fa-li fas fa-briefcase"></i><div class="description"><p class="course">Postdoctoral Fellow, 2019.07-2021.07</p><p class="institution">Shenzhen University; advisor: Academician Qingquan Li</p></div></li>
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <div class="section-subheading">Education</div>
+    <ul class="ul-edu fa-ul">
+      <li><i class="fa-li fas fa-graduation-cap"></i><div class="description"><p class="course">Ph.D. in Engineering, urban data mining, 2013-2019</p><p class="institution">LIESMARS, Wuhan University</p></div></li>
+      <li><i class="fa-li fas fa-graduation-cap"></i><div class="description"><p class="course">Visiting Scholar, THINK LAB, 2017-2018</p><p class="institution">School of Civil and Environmental Engineering, University of Washington</p></div></li>
+      <li><i class="fa-li fas fa-graduation-cap"></i><div class="description"><p class="course">B.S. in Remote Sensing Science and Technology, 2009-2013</p><p class="institution">School of Remote Sensing and Information Engineering, Wuhan University</p></div></li>
+    </ul>
+  </div>
 </div>
 
 Feel free to *[contact](contact/)* me directly or to *[schedule an appointment](https://calendly.com/caojz/30min)*.

@@ -3,12 +3,6 @@ title: 曹劲舟
 role: 副教授
 avatar_filename: avatar.jpg
 bio: 长期从事时空大数据挖掘、城市计算、Geo-AI 与城市多模态大模型研究。
-interests:
-  - 城市时空数据感知与表征
-  - 城市多模态大模型及应用
-  - 地理空间智能与社会计算
-  - 人群移动出行模式分析
-
 social:
   - icon: envelope
     icon_pack: fas
@@ -56,22 +50,22 @@ highlight_name: true
 
 {{< icon name="download" pack="fas" >}} 点击下载 {{< staticref "uploads/曹劲舟简历-中文.pdf" "newtab" >}}中文简历{{< /staticref >}}.
 
-<div class="ai4city-about-career-grid">
-  <section>
-    <h3>工作经历</h3>
-    <div class="ai4city-about-edu-list">
-      <div><p><strong>副教授；时空智能研究中心执行主任；数据科学系副系主任</strong>, 2026.04-至今</p><span>深圳技术大学人工智能学院</span></div>
-      <div><p><strong>助理教授；数据科学系副系主任</strong>, 2022.04-2026.03</p><span>深圳技术大学人工智能学院</span></div>
-      <div><p><strong>特聘副研究员</strong>, 2021.08-2022.03</p><span>深圳大学建筑与城市规划学院，广东省城市空间信息工程重点实验室</span></div>
-      <div><p><strong>博士后</strong>, 2019.07-2021.07</p><span>深圳大学建筑与城市规划学院，合作导师：李清泉院士</span></div>
-    </div>
-  </section>
-  <section>
-    <h3>教育经历</h3>
-    <div class="ai4city-about-edu-list">
-      <div><p><strong>工学博士（硕博连读），城市数据挖掘方向</strong>, 2013-2019</p><span>武汉大学测绘遥感信息工程国家重点实验室</span></div>
-      <div><p><strong>访问学者，交通工程专业 THINK LAB</strong>, 2017-2018</p><span>美国华盛顿大学土木与环境工程学院</span></div>
-      <div><p><strong>本科，遥感科学与技术专业</strong>, 2009-2013</p><span>武汉大学遥感信息工程学院</span></div>
-    </div>
-  </section>
+<div class="row ai4city-about-career-grid">
+  <div class="col-md-6">
+    <div class="section-subheading">工作经历</div>
+    <ul class="ul-edu fa-ul">
+      <li><i class="fa-li fas fa-briefcase"></i><div class="description"><p class="course">副教授；时空智能研究中心执行主任；数据科学系副系主任, 2026.04-至今</p><p class="institution">深圳技术大学人工智能学院</p></div></li>
+      <li><i class="fa-li fas fa-briefcase"></i><div class="description"><p class="course">助理教授；数据科学系副系主任, 2022.04-2026.03</p><p class="institution">深圳技术大学人工智能学院</p></div></li>
+      <li><i class="fa-li fas fa-briefcase"></i><div class="description"><p class="course">特聘副研究员, 2021.08-2022.03</p><p class="institution">深圳大学建筑与城市规划学院，广东省城市空间信息工程重点实验室</p></div></li>
+      <li><i class="fa-li fas fa-briefcase"></i><div class="description"><p class="course">博士后, 2019.07-2021.07</p><p class="institution">深圳大学建筑与城市规划学院，合作导师：李清泉院士</p></div></li>
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <div class="section-subheading">教育经历</div>
+    <ul class="ul-edu fa-ul">
+      <li><i class="fa-li fas fa-graduation-cap"></i><div class="description"><p class="course">工学博士（硕博连读），城市数据挖掘方向, 2013-2019</p><p class="institution">武汉大学测绘遥感信息工程国家重点实验室</p></div></li>
+      <li><i class="fa-li fas fa-graduation-cap"></i><div class="description"><p class="course">访问学者，交通工程专业 THINK LAB, 2017-2018</p><p class="institution">美国华盛顿大学土木与环境工程学院</p></div></li>
+      <li><i class="fa-li fas fa-graduation-cap"></i><div class="description"><p class="course">本科，遥感科学与技术专业, 2009-2013</p><p class="institution">武汉大学遥感信息工程学院</p></div></li>
+    </ul>
+  </div>
 </div>

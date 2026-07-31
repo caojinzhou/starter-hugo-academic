@@ -61,11 +61,10 @@ body {
   display: inline-flex;
   align-items: center;
   gap: 0.42rem;
-  min-height: 34px;
-  padding: 0.36rem 0.52rem !important;
   border-radius: 7px;
   background: transparent;
   color: var(--stic-blue-deep) !important;
+  line-height: inherit;
   transition: background 160ms ease, color 160ms ease;
 }
 
@@ -81,8 +80,8 @@ body {
 .navbar .navbar-nav .nav-link[href="center/"]::before {
   content: "";
   flex: 0 0 auto;
-  width: 20px;
-  height: 20px;
+  width: 18px;
+  height: 18px;
   border-radius: 5px;
   background: url("/media/stic/stic-menu-logo.svg") center / contain no-repeat;
 }
@@ -337,52 +336,11 @@ p {
 }
 
 .ai4city-about-career-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.4rem;
-  margin: 1rem 0 0.3rem;
+  margin-top: 1rem;
 }
 
-.ai4city-about-career-grid section {
-  padding: 0;
-  border: 0;
-  background: transparent;
-  box-shadow: none;
-}
-
-.ai4city-about-career-grid h3 {
-  margin: 0 0 0.68rem;
-  color: var(--stic-charcoal);
-  font-size: 1rem;
-  font-weight: 800;
-}
-
-.ai4city-about-edu-list {
-  display: grid;
-  gap: 0.78rem;
-}
-
-.ai4city-about-edu-list div {
-  padding-left: 1.05rem;
-  border-left: 3px solid rgba(47, 102, 232, 0.18);
-}
-
-.ai4city-about-edu-list p {
-  margin: 0 0 0.14rem;
-  color: var(--stic-charcoal);
-  font-size: 0.88rem;
-  line-height: 1.36;
-}
-
-.ai4city-about-edu-list strong {
-  font-weight: 720;
-}
-
-.ai4city-about-edu-list span {
-  display: block;
-  color: var(--stic-muted);
-  font-size: 0.82rem;
-  line-height: 1.38;
+.ai4city-about-career-grid .ul-edu {
+  margin-bottom: 0;
 }
 
 .ai4city-about-directions {
@@ -1121,14 +1079,12 @@ p {
   }
 
   .ai4city-profile-grid,
-  .ai4city-about-career-grid,
   .ai4city-about-directions,
   .ai4city-recruit-strip {
     grid-template-columns: 1fr;
   }
 
-  .ai4city-brief-list li,
-  .ai4city-about-career-grid li {
+  .ai4city-brief-list li {
     grid-template-columns: 1fr;
     gap: 0.18rem;
   }
