@@ -8,6 +8,8 @@ subtitle:
 design:
   columns: '2'
   view: 3
+advanced:
+  css_class: ai4city-opening-gallery-section
 ---
 
 {{< gallery album="themes" >}}

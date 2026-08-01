@@ -7,32 +7,43 @@ title: 招募优秀研究生和高年级本科生
 subtitle:
 design:
   columns: '1'
+advanced:
+  css_class: ai4city-opening-section
 ---
 
-## 优越的科研环境
+<div class="ai4city-opening-hero">
+  <div>
+    <span>AI4City Lab Openings</span>
+    <h2>加入城市空间智能实验室</h2>
+    <p>我们欢迎对城市计算、Geo-AI、时空大数据、多模态城市感知、城市大模型和人群移动分析感兴趣的研究生与高年级本科生加入。</p>
+  </div>
+  <div class="ai4city-opening-map" aria-hidden="true">
+    <i></i><i></i><i></i><i></i>
+  </div>
+</div>
 
-- 实验室拥有充足科研经费，配备多台深度学习服务器、城市大数据实训平台、城市智能开发套件、深度学习工作站等硬件条件。
-- 实验室积累了海量城市建成环境和交通出行数据，包括 POI、建筑、智能卡、网约车 GPS、共享单车、手机定位、腾讯定位、微博位置、夜光遥感、街景影像等多源数据。
-- 支持学生参与海内外学术会议，鼓励在真实研究问题中训练论文写作、系统开发和团队协作能力。
-- 与武汉大学、香港理工大学、香港科技大学、华盛顿大学、UCL、深圳大学等高校和团队保持合作，支持有科研潜力的学生进一步深造。
+<div class="ai4city-opening-grid">
+  <article>
+    <b>科研环境</b>
+    <h3>面向真实城市问题的研究平台</h3>
+    <p>实验室配备深度学习服务器、城市大数据实训平台、城市智能开发套件和高性能工作站，积累 POI、建筑、交通出行、手机定位、夜光遥感和街景影像等多源数据。</p>
+  </article>
+  <article>
+    <b>硕士研究生</b>
+    <h3>欢迎跨学科背景的同学</h3>
+    <p>希望你具有计算机、数据科学、地理信息系统、遥感、城市科学等相关背景，具备编程、数据分析、机器学习或深度学习基础，愿意长期投入科研问题。</p>
+  </article>
+  <article>
+    <b>高年级本科生</b>
+    <h3>从真实项目进入科研训练</h3>
+    <p>欢迎具有 Python、R、JavaScript、C/C++ 基础，或对算法、Geo-AI、城市计算、WebGIS、可视化和系统开发感兴趣的同学加入。</p>
+  </article>
+</div>
 
-## 欢迎优秀硕士研究生
-
-- 具有计算机、数据科学、地理信息系统、遥感、城市科学或相关学科背景。
-- 专业基础扎实，具备较好的编程、数据分析、机器学习或深度学习能力。
-- 能够独立分析和解决科研问题，具备创新意识、快速学习能力和团队合作精神。
-
-## 招募高年级优秀本科生
-
-- 有 Python、R、JavaScript、C/C++ 等语言基础；或学习能力强，愿意快速补齐。
-- 对算法、数据结构、机器学习、深度学习、Geo-AI、城市计算等方向有兴趣。
-- 愿意阅读英文文献，做事踏实认真，能够自我驱动。
-- 有前后端开发、可视化、Deck.gl、WebGIS 或系统开发经验者优先。
-
-{{% callout note %}}
-更多介绍，请查看 [{{% staticref "uploads/实验室简介2024.pdf" "newtab" %}}实验室简介 PPT{{% /staticref %}}]。
-{{% /callout %}}
-
-{{% callout note %}}
-请有意向的同学将简历 CV 和项目经历发送至 caojinzhou@sztu.edu.cn；若合适，会在一周内回复。
-{{% /callout %}}
+<div class="ai4city-opening-footer">
+  <div>
+    <strong>申请方式</strong>
+    <p>请将简历 CV 和项目经历发送至 caojinzhou@sztu.edu.cn；若研究方向匹配，会在一周内回复。</p>
+  </div>
+  <a href="/uploads/实验室简介2024.pdf" target="_blank" rel="noopener">查看实验室简介</a>
+</div>
