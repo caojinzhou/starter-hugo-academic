@@ -28,13 +28,6 @@ design:
     </div>
   </article>
   <article class="stic-news-item">
-    <span class="stic-news-icon is-announce"></span>
-    <time class="stic-news-date">Apr. 2026</time>
-    <div class="stic-news-copy">Promoted to Associate Professor at SZTU; appointed Executive Director of STIC and Deputy Head of the Department of Data Science.
-      <span class="stic-news-actions"><a href="/en/center/">Center</a></span>
-    </div>
-  </article>
-  <article class="stic-news-item">
     <span class="stic-news-icon is-talk"></span>
     <time class="stic-news-date">Apr. 2026</time>
     <div class="stic-news-copy">Gave an oral presentation on multimodal urban sensing data-driven region representation at SpatialDI 2026.
@@ -81,6 +74,13 @@ design:
     <time class="stic-news-date">Nov. 2025</time>
     <div class="stic-news-copy">Presented work on multimodal urban foundation models at the 20th Annual Conference on GIS Theory and Methods.
       <span class="stic-news-actions"><a href="/en/news/">News</a></span>
+    </div>
+  </article>
+  <article class="stic-news-item">
+    <span class="stic-news-icon is-paper"></span>
+    <time class="stic-news-date">Nov. 2025</time>
+    <div class="stic-news-copy"><em>ST-camba</em> was published in <em>Information Fusion</em>.
+      <span class="stic-news-actions"><a href="/en/publication/wang-st-camba-2025/">Paper</a></span>
     </div>
   </article>
 </div>

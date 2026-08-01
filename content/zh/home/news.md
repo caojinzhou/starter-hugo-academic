@@ -28,13 +28,6 @@ design:
     </div>
   </article>
   <article class="stic-news-item">
-    <span class="stic-news-icon is-announce"></span>
-    <time class="stic-news-date">Apr. 2026</time>
-    <div class="stic-news-copy">晋升深圳技术大学人工智能学院副教授，任时空智能研究中心执行主任、数据科学系副系主任。
-      <span class="stic-news-actions"><a href="/center/">研究中心</a></span>
-    </div>
-  </article>
-  <article class="stic-news-item">
     <span class="stic-news-icon is-talk"></span>
     <time class="stic-news-date">Apr. 2026</time>
     <div class="stic-news-copy">在第七届空间数据智能学术会议（SpatialDI 2026）作“多模态城市感知数据驱动的区域通用表征学习方法研究”口头报告。
@@ -81,6 +74,13 @@ design:
     <time class="stic-news-date">Nov. 2025</time>
     <div class="stic-news-copy">在第二十届地理信息科学理论与方法学术年会作“多模态数据融合的城市基础模型研究”等报告。
       <span class="stic-news-actions"><a href="/news/">新闻详情</a></span>
+    </div>
+  </article>
+  <article class="stic-news-item">
+    <span class="stic-news-icon is-paper"></span>
+    <time class="stic-news-date">Nov. 2025</time>
+    <div class="stic-news-copy">论文 <em>ST-camba</em> 发表在 <em>Information Fusion</em>。
+      <span class="stic-news-actions"><a href="/publication/wang-st-camba-2025/">论文详情</a></span>
     </div>
   </article>
 </div>

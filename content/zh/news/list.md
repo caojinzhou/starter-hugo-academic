@@ -15,13 +15,13 @@ advanced:
 <div class="stic-news-archive">
   <section class="stic-news-hero-panel">
     <div>
-      <span class="stic-news-kicker">AI4City Lab / STIC Updates</span>
-      <h3>记录城市空间智能实验室与时空智能研究中心的近期进展</h3>
-      <p>围绕论文发表、科研项目、学术报告、课程教学与团队荣誉，持续沉淀城市时空数据感知、多模态智能、地理空间智能与城市治理应用的研究动态。</p>
+      <span class="stic-news-kicker">AI4City Lab Updates</span>
+      <h3>记录城市空间智能实验室的近期进展</h3>
+      <p>围绕论文发表、科研项目、学术报告、课程教学与团队荣誉，持续沉淀城市时空数据感知、多模态智能、地理空间智能与城市治理应用的实验室动态。</p>
     </div>
     <div class="stic-news-stats" aria-label="新闻概览">
       <span><strong>2022-2026</strong><em>时间范围</em></span>
-      <span><strong>28</strong><em>动态记录</em></span>
+      <span><strong>27</strong><em>动态记录</em></span>
       <span><strong>5</strong><em>内容类别</em></span>
     </div>
   </section>
@@ -47,23 +47,13 @@ advanced:
       </div>
     </article>
 
-    <article class="stic-news-archive-item is-role">
-      <div class="stic-news-archive-mark"><span>任职</span></div>
-      <time>2026.04</time>
-      <div class="stic-news-archive-body">
-        <h3>晋升深圳技术大学人工智能学院副教授</h3>
-        <p>任时空智能研究中心执行主任、数据科学系副系主任，继续推动城市空间智能与时空智能方向的科研组织建设。</p>
-        <a href="/center/">研究中心</a>
-      </div>
-    </article>
-
     <article class="stic-news-archive-item is-talk">
       <div class="stic-news-archive-mark"><span>报告</span></div>
       <time>2026.04</time>
       <div class="stic-news-archive-body">
         <h3>在 SpatialDI 2026 作城市区域通用表征学习报告</h3>
         <p>在第七届空间数据智能学术会议作“多模态城市感知数据驱动的区域通用表征学习方法研究”口头报告。</p>
-        <a href="/center/#center-news">中心新闻</a>
+        <a href="/news/">新闻详情</a>
       </div>
     </article>
 
@@ -73,7 +63,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>受邀参加人工智能与地理信息科学交叉研讨会</h3>
         <p>作“以人为中心的城市空间智能：探索与思考”报告，分享面向城市治理和公共服务的空间智能研究思路。</p>
-        <a href="/center/#center-news">中心新闻</a>
+        <a href="/news/">新闻详情</a>
       </div>
     </article>
 
@@ -113,7 +103,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>受邀在深圳先进技术研究院、北京大学深圳研究生院作报告</h3>
         <p>围绕“迈向城市基础模型：多模态融合与时空表征的技术实践”分享最新研究进展。</p>
-        <a href="/center/#center-news">中心新闻</a>
+        <a href="/news/">新闻详情</a>
       </div>
     </article>
 
@@ -123,7 +113,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>参加第二十届地理信息科学理论与方法学术年会</h3>
         <p>作“多模态数据融合的城市基础模型研究”等报告，交流城市多模态表征与基础模型方向进展。</p>
-        <a href="/center/#center-news">中心新闻</a>
+        <a href="/news/">新闻详情</a>
       </div>
     </article>
 
@@ -153,7 +143,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>参加 GIScience 2025 与第二届全国信息地理学大会</h3>
         <p>展示小时级城市动态多模态融合研究海报，并受邀围绕信息地理学与城市智能作学术交流。</p>
-        <a href="/center/#center-news">中心新闻</a>
+        <a href="/news/">新闻详情</a>
       </div>
     </article>
 
@@ -183,7 +173,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>在全国虚拟地理环境学术会议作口头报告</h3>
         <p>报告主题为“多模态数据融合的城市区域感知与表征”，展示城市空间智能研究阶段性成果。</p>
-        <a href="/center/#center-news">中心新闻</a>
+        <a href="/news/">新闻详情</a>
       </div>
     </article>
 
@@ -193,7 +183,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>在中国地理学会专委会年会作报告</h3>
         <p>围绕多模态城市区域表征，交流城市感知数据融合、空间表征学习与下游任务应用。</p>
-        <a href="/center/#center-news">中心新闻</a>
+        <a href="/news/">新闻详情</a>
       </div>
     </article>
 
@@ -253,7 +243,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>在空间信息产业与国际标准化会议作报告</h3>
         <p>报告围绕基于图神经网络的城市区域表征学习方法及下游任务应用展开。</p>
-        <a href="/center/#center-news">中心新闻</a>
+        <a href="/news/">新闻详情</a>
       </div>
     </article>
 
@@ -263,7 +253,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>在第二届大湾区测绘遥感大会作口头报告</h3>
         <p>报告主题为“多模态数据融合的城市区域感知与表征”，面向大湾区城市智能应用开展交流。</p>
-        <a href="/center/#center-news">中心新闻</a>
+        <a href="/news/">新闻详情</a>
       </div>
     </article>
 

@@ -18,7 +18,6 @@ design:
     <a href="#goals">定位目标</a>
     <a href="#organization">组织团队</a>
     <a href="#directions">研究方向</a>
-    <a href="#plan-2026">重点工作</a>
     <a href="#center-news">相关新闻</a>
   </nav>
 </div>

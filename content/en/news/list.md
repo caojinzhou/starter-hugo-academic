@@ -15,13 +15,13 @@ advanced:
 <div class="stic-news-archive">
   <section class="stic-news-hero-panel">
     <div>
-      <span class="stic-news-kicker">AI4City Lab / STIC Updates</span>
-      <h3>Recent progress from AI4City Lab and the Spatio-temporal Intelligence Center</h3>
-      <p>This archive tracks publications, funded projects, invited talks, teaching activities, and awards related to urban spatio-temporal data sensing, multimodal intelligence, geospatial AI, and intelligent urban governance.</p>
+      <span class="stic-news-kicker">AI4City Lab Updates</span>
+      <h3>Recent progress from AI4City Lab</h3>
+      <p>This archive tracks lab publications, funded projects, invited talks, teaching activities, and awards related to urban spatio-temporal sensing, multimodal intelligence, geospatial AI, and intelligent urban governance.</p>
     </div>
     <div class="stic-news-stats" aria-label="News overview">
       <span><strong>2022-2026</strong><em>Period</em></span>
-      <span><strong>28</strong><em>Updates</em></span>
+      <span><strong>27</strong><em>Updates</em></span>
       <span><strong>5</strong><em>Categories</em></span>
     </div>
   </section>
@@ -47,23 +47,13 @@ advanced:
       </div>
     </article>
 
-    <article class="stic-news-archive-item is-role">
-      <div class="stic-news-archive-mark"><span>Role</span></div>
-      <time>2026.04</time>
-      <div class="stic-news-archive-body">
-        <h3>Promoted to Associate Professor at SZTU</h3>
-        <p>Appointed Executive Director of the Spatio-temporal Intelligence Center and Deputy Head of the Department of Data Science.</p>
-        <a href="/en/center/">Center</a>
-      </div>
-    </article>
-
     <article class="stic-news-archive-item is-talk">
       <div class="stic-news-archive-mark"><span>Talk</span></div>
       <time>2026.04</time>
       <div class="stic-news-archive-body">
         <h3>Oral presentation at SpatialDI 2026</h3>
         <p>Presented work on general-purpose region representation learning driven by multimodal urban sensing data at the 7th Conference on Spatial Data Intelligence.</p>
-        <a href="/en/center/#center-news">Center News</a>
+        <a href="/en/news/">News</a>
       </div>
     </article>
 
@@ -73,7 +63,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>Invited talk at the AI and GIS Interdisciplinary Workshop</h3>
         <p>Delivered "Human-centered Urban Spatial Intelligence: Exploration and Reflection," discussing spatial intelligence for urban governance and public services.</p>
-        <a href="/en/center/#center-news">Center News</a>
+        <a href="/en/news/">News</a>
       </div>
     </article>
 
@@ -113,7 +103,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>Invited talks at SIAT and Peking University Shenzhen Graduate School</h3>
         <p>Shared recent work on urban foundation models, multimodal fusion, and spatio-temporal representation learning.</p>
-        <a href="/en/center/#center-news">Center News</a>
+        <a href="/en/news/">News</a>
       </div>
     </article>
 
@@ -123,7 +113,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>Presented at the 20th Annual Conference on GIS Theory and Methods</h3>
         <p>Presented studies on multimodal urban foundation models and exchanged ideas on urban representation learning.</p>
-        <a href="/en/center/#center-news">Center News</a>
+        <a href="/en/news/">News</a>
       </div>
     </article>
 
@@ -153,7 +143,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>Presented at GIScience 2025 and the National Conference on Information Geography</h3>
         <p>Presented a poster on hourly urban dynamics and joined invited academic exchanges on information geography and urban intelligence.</p>
-        <a href="/en/center/#center-news">Center News</a>
+        <a href="/en/news/">News</a>
       </div>
     </article>
 
@@ -183,7 +173,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>Oral presentation at the National Virtual Geographic Environments Conference</h3>
         <p>Presented work on multimodal urban region sensing and representation.</p>
-        <a href="/en/center/#center-news">Center News</a>
+        <a href="/en/news/">News</a>
       </div>
     </article>
 
@@ -193,7 +183,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>Talk at the 2025 Annual Meeting of the Geographical Modeling and Geographic Information Analysis Committee</h3>
         <p>Shared research on multimodal urban region representation, sensing data fusion, and downstream applications.</p>
-        <a href="/en/center/#center-news">Center News</a>
+        <a href="/en/news/">News</a>
       </div>
     </article>
 
@@ -253,7 +243,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>Talk at the National Spatial Information Industry and International Standardization Conference</h3>
         <p>The talk discussed graph neural network-based urban region representation and downstream applications.</p>
-        <a href="/en/center/#center-news">Center News</a>
+        <a href="/en/news/">News</a>
       </div>
     </article>
 
@@ -263,7 +253,7 @@ advanced:
       <div class="stic-news-archive-body">
         <h3>Oral presentation at the Greater Bay Area Surveying, Mapping and Remote Sensing Conference</h3>
         <p>Presented work on multimodal urban region sensing and representation for Greater Bay Area applications.</p>
-        <a href="/en/center/#center-news">Center News</a>
+        <a href="/en/news/">News</a>
       </div>
     </article>
 

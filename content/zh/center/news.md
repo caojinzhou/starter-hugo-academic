@@ -10,14 +10,45 @@ design:
   columns: '1'
 ---
 
-- **2026.04:** 曹劲舟副教授任时空智能研究中心执行主任。
-- **2026.06:** 中心相关论文 *UrbanMMCL* 发表在 *ISPRS Journal of Photogrammetry and Remote Sensing*。
-- **2026.02:** 中心相关论文 *Sat2Flow* 发表在 AAAI 2026。
-- **2026.01:** 广东省面上项目“基于多模态深度特征的城市空间表征与智能决策应用”启动。
-- **2025.12:** 受邀在中国科学院深圳先进技术研究院、北京大学深圳研究生院作城市基础模型相关报告。
-- **2025.11:** 中心相关论文 *ST-camba* 发表在 *Information Fusion*。
-- **2024.11:** 深圳市面上项目“基于多模态特征表示学习的城市群综合监测与评估”获批。
-
-{{% callout note %}}
-[查看更多新闻]({{< relref "/news" >}})
-{{% /callout %}}
+<div class="stic-center-news-list">
+  <article>
+    <time>2026.04</time>
+    <div>
+      <span>平台建设</span>
+      <h3>曹劲舟副教授任时空智能研究中心执行主任</h3>
+      <p>中心进入筹建与组织运行阶段，围绕时空智能科研平台、交叉团队与应用场景开展系统建设。</p>
+    </div>
+  </article>
+  <article>
+    <time>2026.06</time>
+    <div>
+      <span>代表成果</span>
+      <h3>UrbanMMCL 论文发表于 ISPRS Journal</h3>
+      <p>研究提出多模态、多图自监督对比学习框架，支撑中心在城市空间表征与多模态智能方向的成果沉淀。</p>
+    </div>
+  </article>
+  <article>
+    <time>2026.02</time>
+    <div>
+      <span>代表成果</span>
+      <h3>Sat2Flow 论文发表于 AAAI 2026</h3>
+      <p>工作探索从卫星影像生成人群流动的结构感知扩散模型，面向遥感影像与城市流动建模交叉问题。</p>
+    </div>
+  </article>
+  <article>
+    <time>2026.01</time>
+    <div>
+      <span>科研项目</span>
+      <h3>广东省自然科学基金面上项目启动</h3>
+      <p>项目聚焦基于多模态深度特征的城市空间表征与智能决策应用，支撑中心方向建设。</p>
+    </div>
+  </article>
+  <article>
+    <time>2025.11</time>
+    <div>
+      <span>代表成果</span>
+      <h3>ST-camba 论文发表于 Information Fusion</h3>
+      <p>研究面向时空多模态融合与地理空间智能，进一步拓展中心在城市动态理解方向的技术积累。</p>
+    </div>
+  </article>
+</div>

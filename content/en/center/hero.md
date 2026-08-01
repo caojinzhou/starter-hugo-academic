@@ -18,7 +18,6 @@ design:
     <a href="#goals">Goals</a>
     <a href="#organization">Team</a>
     <a href="#directions">Directions</a>
-    <a href="#plan-2026">2026 Plan</a>
     <a href="#center-news">News</a>
   </nav>
 </div>

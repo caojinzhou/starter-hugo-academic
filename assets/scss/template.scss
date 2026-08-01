@@ -359,6 +359,8 @@ p {
 }
 
 .ai4city-about-directions article {
+  display: flex;
+  flex-direction: column;
   overflow: hidden;
   border: 1px solid rgba(47, 102, 232, 0.14);
   border-radius: 8px;
@@ -375,7 +377,7 @@ p {
 }
 
 .ai4city-about-directions h3 {
-  margin: 0.58rem 0.64rem 0.28rem;
+  margin: 0;
   color: var(--stic-charcoal);
   font-size: 0.86rem;
   font-weight: 850;
@@ -383,10 +385,39 @@ p {
 }
 
 .ai4city-about-directions p {
-  margin: 0 0.64rem 0.72rem;
+  margin: 0;
   color: var(--stic-muted);
   font-size: 0.74rem;
   line-height: 1.42;
+}
+
+.ai4city-direction-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 0.42rem;
+  padding: 0.72rem 0.72rem 0.78rem;
+}
+
+.ai4city-direction-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.28rem;
+  margin-top: auto;
+}
+
+.ai4city-direction-tags span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 22px;
+  padding: 0.18rem 0.42rem;
+  border: 1px solid rgba(255, 122, 0, 0.22);
+  border-radius: 999px;
+  background: rgba(255, 122, 0, 0.08);
+  color: #b45309;
+  font-size: 0.64rem;
+  font-weight: 760;
+  line-height: 1.05;
 }
 
 .ai4city-project-directions {
@@ -1258,6 +1289,11 @@ p {
   --news-soft: rgba(255, 190, 48, 0.16);
 }
 
+.stic-news-archive-item.is-lab {
+  --news-accent: #2f66e8;
+  --news-soft: rgba(47, 102, 232, 0.1);
+}
+
 .stic-news-archive-mark {
   display: inline-flex;
   align-items: center;
@@ -1829,6 +1865,109 @@ p {
   color: var(--stic-muted);
 }
 
+.stic-position-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin-top: 1.2rem;
+}
+
+.stic-position-grid article {
+  position: relative;
+  overflow: hidden;
+  min-height: 150px;
+  padding: 1.05rem 1.08rem 1.08rem;
+  border: 1px solid rgba(47, 102, 232, 0.13);
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(255, 122, 0, 0.1), rgba(47, 102, 232, 0.06) 46%, #fff 100%),
+    #fff;
+  box-shadow: var(--stic-shadow-soft);
+}
+
+.stic-position-grid article::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 5px;
+  background: linear-gradient(180deg, var(--stic-orange), var(--stic-blue));
+}
+
+.stic-position-grid h3 {
+  margin: 0 0 0.45rem;
+  color: var(--stic-charcoal);
+  font-size: 1.02rem;
+  font-weight: 860;
+  line-height: 1.32;
+}
+
+.stic-position-grid p {
+  margin: 0;
+  color: rgba(31, 41, 59, 0.76);
+  font-size: 0.9rem;
+  line-height: 1.66;
+}
+
+.stic-center-news-list {
+  display: grid;
+  gap: 0.78rem;
+  max-width: 980px;
+  margin: 1rem auto 0;
+}
+
+.stic-center-news-list article {
+  display: grid;
+  grid-template-columns: 96px minmax(0, 1fr);
+  gap: 0.9rem;
+  align-items: start;
+  padding: 0.9rem 1rem;
+  border: 1px solid rgba(31, 41, 59, 0.1);
+  border-radius: 8px;
+  background:
+    linear-gradient(90deg, rgba(255, 122, 0, 0.1), rgba(255, 255, 255, 0.98) 30%),
+    #fff;
+  box-shadow: var(--stic-shadow-soft);
+}
+
+.stic-center-news-list time {
+  display: inline-flex;
+  min-height: 32px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 7px;
+  background: var(--stic-charcoal);
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 850;
+  line-height: 1.1;
+}
+
+.stic-center-news-list span {
+  display: inline-flex;
+  margin-bottom: 0.28rem;
+  padding: 0.16rem 0.48rem;
+  border-radius: 999px;
+  background: rgba(255, 122, 0, 0.1);
+  color: #c86100;
+  font-size: 0.72rem;
+  font-weight: 820;
+}
+
+.stic-center-news-list h3 {
+  margin: 0 0 0.28rem;
+  color: var(--stic-charcoal);
+  font-size: 1rem;
+  font-weight: 840;
+  line-height: 1.34;
+}
+
+.stic-center-news-list p {
+  margin: 0;
+  color: rgba(31, 41, 59, 0.74);
+  font-size: 0.88rem;
+  line-height: 1.62;
+}
+
 .stic-structure,
 .stic-plan-grid {
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -1872,6 +2011,7 @@ p {
   .ai4city-profile-grid,
   .ai4city-about-directions,
   .ai4city-project-directions,
+  .stic-position-grid,
   .ai4city-recruit-strip {
     grid-template-columns: 1fr;
   }
@@ -1946,6 +2086,17 @@ p {
 
   .stic-news-archive-body h3 {
     font-size: 0.95rem;
+  }
+
+  .stic-center-news-list article {
+    grid-template-columns: 1fr;
+    gap: 0.55rem;
+  }
+
+  .stic-center-news-list time {
+    justify-content: flex-start;
+    width: fit-content;
+    padding: 0 0.58rem;
   }
 
   .ai4city-featured-papers,
