@@ -377,7 +377,7 @@ p {
 }
 
 .ai4city-about-directions h3 {
-  margin: 0;
+  margin: 0.58rem 0.64rem 0.28rem;
   color: var(--stic-charcoal);
   font-size: 0.86rem;
   font-weight: 850;
@@ -385,39 +385,10 @@ p {
 }
 
 .ai4city-about-directions p {
-  margin: 0;
+  margin: 0 0.64rem 0.72rem;
   color: var(--stic-muted);
   font-size: 0.74rem;
   line-height: 1.42;
-}
-
-.ai4city-direction-body {
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  gap: 0.42rem;
-  padding: 0.72rem 0.72rem 0.78rem;
-}
-
-.ai4city-direction-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.28rem;
-  margin-top: auto;
-}
-
-.ai4city-direction-tags span {
-  display: inline-flex;
-  align-items: center;
-  min-height: 22px;
-  padding: 0.18rem 0.42rem;
-  border: 1px solid rgba(255, 122, 0, 0.22);
-  border-radius: 999px;
-  background: rgba(255, 122, 0, 0.08);
-  color: #b45309;
-  font-size: 0.64rem;
-  font-weight: 760;
-  line-height: 1.05;
 }
 
 .ai4city-project-directions {
@@ -439,12 +410,10 @@ p {
 }
 
 .ai4city-project-directions article {
-  display: grid;
-  grid-template-columns: 180px minmax(0, 1fr);
-  gap: 1rem;
-  align-items: stretch;
+  display: flex;
+  flex-direction: column;
   overflow: hidden;
-  min-height: 220px;
+  min-height: 0;
   border: 1px solid rgba(47, 102, 232, 0.14);
   border-radius: 8px;
   background:
@@ -454,9 +423,10 @@ p {
 }
 
 .ai4city-project-directions img {
+  display: block;
   width: 100%;
-  height: 100%;
-  min-height: 220px;
+  aspect-ratio: 1.95;
+  min-height: 190px;
   object-fit: cover;
   background:
     radial-gradient(circle at 28% 22%, rgba(255, 122, 0, 0.16), transparent 34%),
@@ -464,27 +434,10 @@ p {
 }
 
 .ai4city-project-directions article > div {
-  position: relative;
-  padding: 1.05rem 1.05rem 0.95rem 0;
-}
-
-.ai4city-project-directions article > div > span {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 38px;
-  height: 28px;
-  margin-bottom: 0.55rem;
-  border-radius: 7px;
-  background: var(--stic-charcoal);
-  color: #fff;
-  font-size: 0.78rem;
-  font-weight: 850;
-}
-
-.ai4city-project-directions .is-model > div > span,
-.ai4city-project-directions .is-mobility > div > span {
-  background: var(--stic-orange);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 1rem 1.05rem 1.05rem;
 }
 
 .ai4city-project-directions h3 {
@@ -506,7 +459,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   gap: 0.42rem;
-  margin: 0;
+  margin: auto 0 0;
   padding: 0;
   list-style: none;
 }

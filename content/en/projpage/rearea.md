@@ -21,7 +21,6 @@ design:
   <article class="is-sensing">
     <img src="/media/research/urban-sensing.svg" alt="Urban spatiotemporal data sensing and representation">
     <div>
-      <span>01</span>
       <h3>Urban Spatiotemporal Sensing</h3>
       <p>Integrating streetscape, remote sensing, trajectory, POI, and statistical data to represent urban structure, functional semantics, and dynamic change.</p>
       <ul>
@@ -34,7 +33,6 @@ design:
   <article class="is-model">
     <img src="/media/research/urban-foundation-model.svg" alt="Multimodal urban foundation models and applications">
     <div>
-      <span>02</span>
       <h3>Multimodal Urban Foundation Models</h3>
       <p>Developing multimodal alignment, contrastive learning, generative models, and urban foundation models for understanding, prediction, simulation, and decision support.</p>
       <ul>
@@ -47,7 +45,6 @@ design:
   <article class="is-geoai">
     <img src="/media/research/geoai-social-computing.svg" alt="Geospatial intelligence and social computing">
     <div>
-      <span>03</span>
       <h3>Geo-AI And Social Computing</h3>
       <p>Combining Geo-AI, social sensing, spatial statistics, and knowledge reasoning to analyze human-place interactions, spatial equity, and governance decisions.</p>
       <ul>
@@ -60,7 +57,6 @@ design:
   <article class="is-mobility">
     <img src="/media/research/human-mobility.svg" alt="Human mobility and travel behavior analytics">
     <div>
-      <span>04</span>
       <h3>Human Mobility Analytics</h3>
       <p>Analyzing mobility patterns, activity networks, and urban flows from mobile phone, transport, location-based service, and urban activity data.</p>
       <ul>
