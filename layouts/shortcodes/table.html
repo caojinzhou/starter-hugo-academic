@@ -1,0 +1,45 @@
+{{/* Compatibility override for Wowchemy v5 on modern Hugo.
+     Hugo removed getCSV, but the old theme still parses this shortcode. */}}
+{{ $src := .Get "path" }}
+{{ $delimiter := .Get "delimiter" | default "," }}
+{{ $useHeaderRow := .Get "header" | default true }}
+{{ $caption := .Get "caption" }}
+{{ $raw := "" }}
+
+{{ if strings.HasPrefix $src "http" }}
+  {{ with resources.GetRemote $src }}
+    {{ $raw = .Content }}
+  {{ end }}
+{{ else }}
+  {{ $raw = readFile (path.Join "content" $.Page.File.Dir $src) }}
+{{ end }}
+
+{{ $rows := slice }}
+{{ range split $raw "\n" }}
+  {{ $line := strings.TrimSpace . }}
+  {{ if $line }}
+    {{ $rows = $rows | append (split $line $delimiter) }}
+  {{ end }}
+{{ end }}
+
+<table>
+  {{ if and $useHeaderRow (gt (len $rows) 0) }}
+    {{ $headerRow := index $rows 0 }}
+    {{ $rows = after 1 $rows }}
+    <tr>{{ range $headerRow }}<th>{{ . | markdownify | emojify }}</th>{{ end }}</tr>
+  {{ end }}
+  {{ range $rows }}
+    <tr>
+      {{ range . }}
+        {{ if (findRE "^\\d+$" .) }}
+          <td data-table-dtype="number">{{ . }}</td>
+        {{ else }}
+          <td data-table-dtype="text">{{ . | markdownify | emojify }}</td>
+        {{ end }}
+      {{ end }}
+    </tr>
+  {{ end }}
+  {{ with $caption }}
+    <caption>{{ . | markdownify | emojify }}</caption>
+  {{ end }}
+</table>
