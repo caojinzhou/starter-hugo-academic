@@ -2737,3 +2737,473 @@ button:focus-visible {
     gap: 0.45rem;
   }
 }
+
+/* Data Science Fundamentals course page */
+.stic-course-hero {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  margin: 0.5rem 0 1rem;
+  padding: 2rem 2.15rem;
+  border: 1px solid rgba(47, 102, 232, 0.18);
+  border-radius: 12px;
+  background:
+    radial-gradient(circle at 92% 18%, rgba(255, 122, 0, 0.14), transparent 24%),
+    linear-gradient(135deg, #f6f9ff 0%, #eef4ff 62%, #fff8f1 100%);
+  box-shadow: var(--stic-shadow-soft);
+}
+
+.stic-course-hero::after {
+  position: absolute;
+  z-index: -1;
+  top: -38px;
+  right: -34px;
+  width: 190px;
+  height: 190px;
+  border-radius: 50%;
+  background-image: radial-gradient(rgba(47, 102, 232, 0.2) 1.5px, transparent 1.5px);
+  background-size: 13px 13px;
+  content: "";
+  opacity: 0.65;
+}
+
+.stic-course-kicker {
+  display: inline-flex;
+  margin-bottom: 0.8rem;
+  padding: 0.3rem 0.62rem;
+  border-radius: 999px;
+  background: var(--stic-orange-soft);
+  color: var(--stic-orange-deep);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+}
+
+.stic-course-hero h2 {
+  max-width: 720px;
+  margin: 0 0 0.7rem;
+  color: var(--stic-charcoal);
+  font-size: clamp(1.55rem, 3vw, 2.15rem);
+  font-weight: 850;
+  letter-spacing: -0.02em;
+}
+
+.stic-course-hero > p {
+  max-width: 720px;
+  margin: 0;
+  color: var(--stic-muted);
+  font-size: 1rem;
+}
+
+.stic-course-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1.3rem;
+}
+
+.stic-course-meta span {
+  display: grid;
+  min-width: 180px;
+  padding: 0.58rem 0.72rem;
+  border: 1px solid rgba(31, 41, 59, 0.09);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.84);
+  color: var(--stic-charcoal);
+  font-size: 0.88rem;
+}
+
+.stic-course-meta strong {
+  margin-bottom: 0.12rem;
+  color: var(--stic-blue);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+}
+
+.stic-course-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0 0 1rem;
+}
+
+.stic-course-nav a {
+  padding: 0.4rem 0.7rem;
+  border: 1px solid var(--stic-border);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--stic-charcoal);
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: border-color 160ms ease, color 160ms ease, transform 160ms ease;
+}
+
+.stic-course-nav a:hover {
+  border-color: rgba(47, 102, 232, 0.35);
+  color: var(--stic-blue);
+  transform: translateY(-1px);
+}
+
+.stic-course-hero ~ blockquote {
+  margin: 1rem 0 1.7rem;
+  padding: 0.7rem 0.9rem;
+  border-left: 4px solid var(--stic-orange);
+  border-radius: 0 7px 7px 0;
+  background: var(--stic-orange-soft);
+  color: var(--stic-orange-deep);
+  font-size: 0.88rem;
+}
+
+.stic-course-hero ~ h2 {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  margin-top: 2.35rem;
+  color: var(--stic-charcoal);
+  font-size: 1.38rem;
+  font-weight: 850;
+}
+
+.stic-course-hero ~ h2::before {
+  width: 5px;
+  height: 1.2em;
+  flex: 0 0 auto;
+  border-radius: 999px;
+  background: linear-gradient(180deg, var(--stic-blue), var(--stic-orange));
+  content: "";
+}
+
+.stic-course-goals {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0.65rem;
+  margin-top: 1rem;
+}
+
+.stic-course-goals article,
+.stic-course-modules article,
+.stic-course-ai-rules article {
+  border: 1px solid var(--stic-border);
+  border-radius: 9px;
+  background: #fff;
+  box-shadow: 0 5px 16px rgba(31, 41, 59, 0.045);
+}
+
+.stic-course-goals article {
+  padding: 0.82rem;
+}
+
+.stic-course-goals b {
+  color: var(--stic-orange);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+}
+
+.stic-course-goals h3,
+.stic-course-modules h3 {
+  margin: 0.22rem 0 0.32rem;
+  color: var(--stic-charcoal);
+  font-size: 0.94rem;
+  font-weight: 800;
+}
+
+.stic-course-goals p,
+.stic-course-modules p,
+.stic-course-ai-rules p {
+  margin: 0;
+  color: var(--stic-muted);
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+
+.stic-course-modules {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.stic-course-modules article {
+  padding: 0.9rem 1rem;
+  border-top: 4px solid var(--stic-blue);
+}
+
+.stic-course-modules article.is-orange {
+  border-top-color: var(--stic-orange);
+}
+
+.stic-course-modules article.is-green {
+  border-top-color: var(--stic-green);
+}
+
+.stic-course-modules article.is-purple {
+  border-top-color: var(--stic-purple);
+}
+
+.stic-course-modules span {
+  color: var(--stic-blue);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+}
+
+.stic-course-modules .is-orange span { color: var(--stic-orange-deep); }
+.stic-course-modules .is-green span { color: var(--stic-green); }
+.stic-course-modules .is-purple span { color: var(--stic-purple); }
+
+.stic-course-hero ~ table {
+  width: 100%;
+  margin: 1rem 0 1.35rem;
+  overflow: hidden;
+  border: 1px solid var(--stic-border);
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 9px;
+  background: #fff;
+  box-shadow: 0 5px 16px rgba(31, 41, 59, 0.04);
+  font-size: 0.88rem;
+}
+
+.stic-course-hero ~ table th {
+  padding: 0.68rem 0.78rem;
+  border-bottom: 1px solid rgba(47, 102, 232, 0.14);
+  background: var(--stic-blue-soft);
+  color: var(--stic-blue-deep);
+  font-weight: 800;
+}
+
+.stic-course-hero ~ table td {
+  padding: 0.62rem 0.78rem;
+  border-top: 1px solid rgba(31, 41, 59, 0.07);
+  color: var(--stic-muted);
+}
+
+.stic-course-hero ~ table tbody tr:first-child td {
+  border-top: 0;
+}
+
+.stic-course-hero ~ table tbody tr:hover {
+  background: rgba(234, 241, 255, 0.46);
+}
+
+.stic-course-actions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.stic-course-action {
+  display: grid;
+  grid-template-columns: 42px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid rgba(47, 102, 232, 0.2);
+  border-radius: 9px;
+  background: linear-gradient(135deg, #fff, var(--stic-blue-soft));
+  color: var(--stic-charcoal);
+  text-decoration: none;
+  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.stic-course-action.is-upload {
+  border-color: rgba(255, 122, 0, 0.22);
+  background: linear-gradient(135deg, #fff, var(--stic-orange-soft));
+}
+
+.stic-course-action:not([href=""]):hover {
+  border-color: rgba(47, 102, 232, 0.42);
+  box-shadow: var(--stic-shadow-soft);
+  transform: translateY(-2px);
+}
+
+.stic-course-action[href=""] {
+  cursor: default;
+  pointer-events: none;
+}
+
+.stic-course-action-icon {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--stic-blue);
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 800;
+}
+
+.stic-course-action.is-upload .stic-course-action-icon {
+  background: var(--stic-orange);
+}
+
+.stic-course-action strong,
+.stic-course-action small {
+  display: block;
+}
+
+.stic-course-action strong {
+  color: var(--stic-charcoal);
+  font-size: 0.92rem;
+}
+
+.stic-course-action small {
+  margin-top: 0.12rem;
+  color: var(--stic-muted);
+  font-size: 0.76rem;
+}
+
+.stic-course-action em {
+  color: var(--stic-blue);
+  font-size: 0.72rem;
+  font-style: normal;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.stic-course-action em::before {
+  content: "打开云盘 →";
+}
+
+.stic-course-action[href=""] em::before {
+  color: var(--stic-muted);
+  content: "链接待开放";
+}
+
+.stic-course-assessment {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.65rem;
+  margin: 1rem 0 1.15rem;
+}
+
+.stic-course-assessment span {
+  display: grid;
+  min-height: 92px;
+  place-content: center;
+  border: 1px solid rgba(47, 102, 232, 0.16);
+  border-radius: 9px;
+  background: var(--stic-blue-soft);
+  text-align: center;
+}
+
+.stic-course-assessment span:nth-child(2) {
+  border-color: rgba(22, 132, 91, 0.18);
+  background: var(--stic-green-soft);
+}
+
+.stic-course-assessment span:nth-child(3) {
+  border-color: rgba(91, 69, 201, 0.18);
+  background: var(--stic-purple-soft);
+}
+
+.stic-course-assessment span:nth-child(4) {
+  border-color: rgba(255, 122, 0, 0.2);
+  background: var(--stic-orange-soft);
+}
+
+.stic-course-assessment strong {
+  color: var(--stic-blue);
+  font-size: 1.65rem;
+  line-height: 1;
+}
+
+.stic-course-assessment span:nth-child(2) strong { color: var(--stic-green); }
+.stic-course-assessment span:nth-child(3) strong { color: var(--stic-purple); }
+.stic-course-assessment span:nth-child(4) strong { color: var(--stic-orange-deep); }
+
+.stic-course-assessment em {
+  margin-top: 0.35rem;
+  color: var(--stic-charcoal);
+  font-size: 0.78rem;
+  font-style: normal;
+  font-weight: 750;
+}
+
+.stic-course-rubric {
+  padding: 0.72rem 0.88rem;
+  border-left: 4px solid var(--stic-purple);
+  border-radius: 0 7px 7px 0;
+  background: var(--stic-purple-soft);
+  color: var(--stic-muted);
+  font-size: 0.84rem;
+}
+
+.stic-course-ai-rules {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.7rem;
+  margin: 1rem 0;
+}
+
+.stic-course-ai-rules article {
+  padding: 0.85rem 0.9rem;
+  border-left: 4px solid var(--stic-green);
+  background: var(--stic-green-soft);
+}
+
+.stic-course-ai-rules article.is-yellow {
+  border-left-color: var(--stic-yellow);
+  background: var(--stic-yellow-soft);
+}
+
+.stic-course-ai-rules article.is-red {
+  border-left-color: #c64242;
+  background: #fff0f0;
+}
+
+.stic-course-ai-rules strong {
+  display: block;
+  margin-bottom: 0.3rem;
+  color: var(--stic-charcoal);
+  font-size: 0.88rem;
+}
+
+@media (max-width: 900px) {
+  .stic-course-goals {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .stic-course-hero {
+    padding: 1.3rem 1.1rem;
+  }
+
+  .stic-course-meta,
+  .stic-course-nav {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: thin;
+  }
+
+  .stic-course-meta span {
+    min-width: 210px;
+  }
+
+  .stic-course-nav a {
+    flex: 0 0 auto;
+  }
+
+  .stic-course-goals,
+  .stic-course-modules,
+  .stic-course-actions,
+  .stic-course-ai-rules {
+    grid-template-columns: 1fr;
+  }
+
+  .stic-course-assessment {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .stic-course-hero ~ table {
+    display: block;
+    overflow-x: auto;
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+}
