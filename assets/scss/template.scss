@@ -2796,15 +2796,14 @@ button:focus-visible {
 }
 
 .stic-course-meta {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.55rem;
   margin-top: 1.3rem;
 }
 
 .stic-course-meta span {
   display: grid;
-  min-width: 180px;
   padding: 0.58rem 0.72rem;
   border: 1px solid rgba(31, 41, 59, 0.09);
   border-radius: 8px;
@@ -2821,32 +2820,12 @@ button:focus-visible {
   letter-spacing: 0.06em;
 }
 
-.stic-course-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45rem;
-  margin: 0 0 1rem;
+.stic-course-meta a {
+  color: inherit;
+  overflow-wrap: anywhere;
 }
 
-.stic-course-nav a {
-  padding: 0.4rem 0.7rem;
-  border: 1px solid var(--stic-border);
-  border-radius: 6px;
-  background: #fff;
-  color: var(--stic-charcoal);
-  font-size: 0.82rem;
-  font-weight: 700;
-  text-decoration: none;
-  transition: border-color 160ms ease, color 160ms ease, transform 160ms ease;
-}
-
-.stic-course-nav a:hover {
-  border-color: rgba(47, 102, 232, 0.35);
-  color: var(--stic-blue);
-  transform: translateY(-1px);
-}
-
-.stic-course-hero ~ blockquote {
+.stic-course-notice {
   margin: 1rem 0 1.7rem;
   padding: 0.7rem 0.9rem;
   border-left: 4px solid var(--stic-orange);
@@ -2854,6 +2833,10 @@ button:focus-visible {
   background: var(--stic-orange-soft);
   color: var(--stic-orange-deep);
   font-size: 0.88rem;
+}
+
+.stic-course-notice strong {
+  color: var(--stic-orange-deep);
 }
 
 .stic-course-hero ~ h2 {
@@ -2877,7 +2860,7 @@ button:focus-visible {
 
 .stic-course-goals {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(155px, 1fr));
   gap: 0.65rem;
   margin-top: 1rem;
 }
@@ -2953,20 +2936,29 @@ button:focus-visible {
 .stic-course-modules .is-green span { color: var(--stic-green); }
 .stic-course-modules .is-purple span { color: var(--stic-purple); }
 
-.stic-course-hero ~ table {
+.stic-course-table-wrap {
   width: 100%;
   margin: 1rem 0 1.35rem;
-  overflow: hidden;
+  overflow-x: auto;
   border: 1px solid var(--stic-border);
-  border-collapse: separate;
-  border-spacing: 0;
   border-radius: 9px;
   background: #fff;
   box-shadow: 0 5px 16px rgba(31, 41, 59, 0.04);
+  -webkit-overflow-scrolling: touch;
+}
+
+.stic-course-table-wrap table {
+  width: 100%;
+  min-width: 580px;
+  margin: 0;
+  border: 0;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: #fff;
   font-size: 0.88rem;
 }
 
-.stic-course-hero ~ table th {
+.stic-course-table-wrap th {
   padding: 0.68rem 0.78rem;
   border-bottom: 1px solid rgba(47, 102, 232, 0.14);
   background: var(--stic-blue-soft);
@@ -2974,17 +2966,17 @@ button:focus-visible {
   font-weight: 800;
 }
 
-.stic-course-hero ~ table td {
+.stic-course-table-wrap td {
   padding: 0.62rem 0.78rem;
   border-top: 1px solid rgba(31, 41, 59, 0.07);
   color: var(--stic-muted);
 }
 
-.stic-course-hero ~ table tbody tr:first-child td {
+.stic-course-table-wrap tbody tr:first-child td {
   border-top: 0;
 }
 
-.stic-course-hero ~ table tbody tr:hover {
+.stic-course-table-wrap tbody tr:hover {
   background: rgba(234, 241, 255, 0.46);
 }
 
@@ -3014,13 +3006,13 @@ button:focus-visible {
   background: linear-gradient(135deg, #fff, var(--stic-orange-soft));
 }
 
-.stic-course-action:not([href=""]):hover {
+.stic-course-action[href]:hover {
   border-color: rgba(47, 102, 232, 0.42);
   box-shadow: var(--stic-shadow-soft);
   transform: translateY(-2px);
 }
 
-.stic-course-action[href=""] {
+.stic-course-action:not([href]) {
   cursor: default;
   pointer-events: none;
 }
@@ -3069,7 +3061,7 @@ button:focus-visible {
   content: "打开云盘 →";
 }
 
-.stic-course-action[href=""] em::before {
+.stic-course-action:not([href]) em::before {
   color: var(--stic-muted);
   content: "链接待开放";
 }
@@ -3124,15 +3116,6 @@ button:focus-visible {
   font-weight: 750;
 }
 
-.stic-course-rubric {
-  padding: 0.72rem 0.88rem;
-  border-left: 4px solid var(--stic-purple);
-  border-radius: 0 7px 7px 0;
-  background: var(--stic-purple-soft);
-  color: var(--stic-muted);
-  font-size: 0.84rem;
-}
-
 .stic-course-ai-rules {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -3174,19 +3157,12 @@ button:focus-visible {
     padding: 1.3rem 1.1rem;
   }
 
-  .stic-course-meta,
-  .stic-course-nav {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    scrollbar-width: thin;
+  .stic-course-meta {
+    grid-template-columns: 1fr;
   }
 
   .stic-course-meta span {
-    min-width: 210px;
-  }
-
-  .stic-course-nav a {
-    flex: 0 0 auto;
+    min-width: 0;
   }
 
   .stic-course-goals,
@@ -3200,10 +3176,7 @@ button:focus-visible {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .stic-course-hero ~ table {
-    display: block;
-    overflow-x: auto;
+  .stic-course-table-wrap table {
     font-size: 0.8rem;
-    white-space: nowrap;
   }
 }
