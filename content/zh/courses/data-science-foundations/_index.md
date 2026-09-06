@@ -68,8 +68,7 @@ active: true
 课程网页统一发布课件、代码、数据集、阅读材料、实验说明和提交入口；课程群用于教学通知、答疑与课堂互动。相关资料将在相应教学内容完成后更新。
 
 <div class="stic-course-actions">
-  <!-- TODO: 添加课件云盘链接，例如 href="https://..."。 -->
-  <a class="stic-course-action is-download" target="_blank" rel="noopener">
+  <a class="stic-course-action is-download" href="https://www.jianguoyun.com/p/DdKbeqMQ9qv3BRi9w7AGIAA" target="_blank" rel="noopener">
     <span class="stic-course-action-icon" aria-hidden="true">↓</span>
     <span><strong>课件与学习资料</strong><small>PPT、代码、数据集与阅读材料</small></span>
     <em></em>
