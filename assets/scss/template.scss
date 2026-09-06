@@ -2937,47 +2937,131 @@ button:focus-visible {
 .stic-course-modules .is-purple span { color: var(--stic-purple); }
 
 .stic-course-table-wrap {
+  --course-table-accent: var(--stic-blue);
+  --course-table-soft: var(--stic-blue-soft);
   width: 100%;
   margin: 1rem 0 1.35rem;
   overflow-x: auto;
-  border: 1px solid var(--stic-border);
-  border-radius: 9px;
+  border: 1px solid rgba(47, 102, 232, 0.14);
+  border-top: 4px solid var(--course-table-accent);
+  border-radius: 10px;
   background: #fff;
-  box-shadow: 0 5px 16px rgba(31, 41, 59, 0.04);
+  box-shadow: 0 10px 26px rgba(31, 41, 59, 0.06);
+  scrollbar-color: var(--course-table-accent) rgba(31, 41, 59, 0.06);
+  scrollbar-width: thin;
   -webkit-overflow-scrolling: touch;
+}
+
+.stic-course-table-wrap.is-labs {
+  --course-table-accent: var(--stic-green);
+  --course-table-soft: var(--stic-green-soft);
+  border-color: rgba(22, 132, 91, 0.16);
+  border-top-color: var(--course-table-accent);
+}
+
+.stic-course-table-wrap.is-project {
+  --course-table-accent: var(--stic-orange);
+  --course-table-soft: var(--stic-orange-soft);
+  border-color: rgba(255, 122, 0, 0.18);
+  border-top-color: var(--course-table-accent);
+}
+
+.stic-course-table-wrap::-webkit-scrollbar {
+  height: 7px;
+}
+
+.stic-course-table-wrap::-webkit-scrollbar-track {
+  background: rgba(31, 41, 59, 0.05);
+}
+
+.stic-course-table-wrap::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: var(--course-table-accent);
 }
 
 .stic-course-table-wrap table {
   width: 100%;
-  min-width: 580px;
+  min-width: 620px;
   margin: 0;
   border: 0;
   border-collapse: separate;
   border-spacing: 0;
   background: #fff;
-  font-size: 0.88rem;
+  font-size: 0.87rem;
+  line-height: 1.55;
+}
+
+.stic-course-table-wrap.is-labs table {
+  min-width: 760px;
 }
 
 .stic-course-table-wrap th {
-  padding: 0.68rem 0.78rem;
-  border-bottom: 1px solid rgba(47, 102, 232, 0.14);
-  background: var(--stic-blue-soft);
+  padding: 0.78rem 0.9rem;
+  border-bottom: 1px solid var(--stic-border);
+  background: linear-gradient(180deg, #fff, var(--course-table-soft));
   color: var(--stic-blue-deep);
   font-weight: 800;
+  letter-spacing: 0.015em;
+  vertical-align: middle;
 }
 
 .stic-course-table-wrap td {
-  padding: 0.62rem 0.78rem;
+  padding: 0.72rem 0.9rem;
   border-top: 1px solid rgba(31, 41, 59, 0.07);
   color: var(--stic-muted);
+  vertical-align: middle;
+  transition: background-color 140ms ease, color 140ms ease;
+}
+
+.stic-course-table-wrap th + th,
+.stic-course-table-wrap td + td {
+  border-left: 1px solid rgba(31, 41, 59, 0.055);
+}
+
+.stic-course-table-wrap th:first-child,
+.stic-course-table-wrap td:first-child {
+  width: 112px;
+  color: var(--course-table-accent);
+  font-weight: 850;
+  text-align: center !important;
+  white-space: nowrap;
+}
+
+.stic-course-table-wrap td:first-child {
+  background: var(--course-table-soft);
+}
+
+.stic-course-table-wrap th:nth-child(2),
+.stic-course-table-wrap td:nth-child(2) {
+  width: 165px;
+}
+
+.stic-course-table-wrap td:nth-child(2) {
+  color: var(--stic-charcoal);
+  font-weight: 700;
+}
+
+.stic-course-table-wrap.is-labs th:first-child,
+.stic-course-table-wrap.is-labs td:first-child {
+  width: 66px;
+}
+
+.stic-course-table-wrap.is-labs th:nth-child(2),
+.stic-course-table-wrap.is-labs td:nth-child(2) {
+  width: 230px;
+}
+
+.stic-course-table-wrap tbody tr:nth-child(even) td:not(:first-child) {
+  background: rgba(246, 248, 252, 0.64);
 }
 
 .stic-course-table-wrap tbody tr:first-child td {
   border-top: 0;
 }
 
-.stic-course-table-wrap tbody tr:hover {
-  background: rgba(234, 241, 255, 0.46);
+.stic-course-table-wrap tbody tr:hover td {
+  background: var(--course-table-soft);
+  color: var(--stic-charcoal);
 }
 
 .stic-course-actions {
@@ -3178,5 +3262,23 @@ button:focus-visible {
 
   .stic-course-table-wrap table {
     font-size: 0.8rem;
+  }
+
+  .stic-course-table-wrap th,
+  .stic-course-table-wrap td {
+    padding: 0.62rem 0.7rem;
+  }
+}
+
+@media print {
+  .stic-course-table-wrap {
+    overflow: visible;
+    border-color: var(--stic-border);
+    box-shadow: none;
+  }
+
+  .stic-course-table-wrap table,
+  .stic-course-table-wrap.is-labs table {
+    min-width: 0;
   }
 }

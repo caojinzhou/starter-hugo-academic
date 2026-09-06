@@ -50,7 +50,7 @@ active: true
 
 ### 教学节奏
 
-{{< rawhtml >}}<div class="stic-course-table-wrap">{{< /rawhtml >}}
+{{< rawhtml >}}<div class="stic-course-table-wrap is-schedule">{{< /rawhtml >}}
 
 | 周次 | 阶段 | 学习重点 |
 |:---:|:---|:---|
@@ -83,7 +83,7 @@ active: true
 
 课程设置 9 项实验，内容由基础操作逐步过渡至综合应用。实验成果应包含必要的代码、数据说明、运行环境和关键参数，以保证分析过程可复查、可复现。
 
-{{< rawhtml >}}<div class="stic-course-table-wrap">{{< /rawhtml >}}
+{{< rawhtml >}}<div class="stic-course-table-wrap is-labs">{{< /rawhtml >}}
 
 | 编号 | 实验主题 | 训练重点 |
 |:---:|:---|:---|
@@ -110,7 +110,7 @@ active: true
 
 期末项目采用不超过 3 人的小组协作方式。各组须围绕边界明确的实际问题，完成数据获取、质量分析、方法设计、结果验证和成果表达。结课时提交海报、实践报告与代码，并参加展示答辩。每位成员须明确个人贡献并能够解释所负责的工作。
 
-{{< rawhtml >}}<div class="stic-course-table-wrap">{{< /rawhtml >}}
+{{< rawhtml >}}<div class="stic-course-table-wrap is-project">{{< /rawhtml >}}
 
 | 时间 | 项目节点 | 本阶段要完成什么 |
 |:---:|:---|:---|
