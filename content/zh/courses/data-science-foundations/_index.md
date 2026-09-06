@@ -74,8 +74,7 @@ active: true
     <span><strong>课件与学习资料</strong><small>PPT、代码、数据集与阅读材料</small></span>
     <em></em>
   </a>
-  <!-- TODO: 添加实验提交云盘链接，例如 href="https://..."。 -->
-  <a class="stic-course-action is-upload" target="_blank" rel="noopener">
+  <a class="stic-course-action is-upload" href="https://send2me.cn/hFLNp5st/QCSc-n1YCmTV_Q" target="_blank" rel="noopener">
     <span class="stic-course-action-icon" aria-hidden="true">↑</span>
     <span><strong>实验提交入口</strong><small>实验报告、代码与相关附件</small></span>
     <em></em>
